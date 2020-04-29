@@ -16768,4 +16768,29 @@ public class PlayerInstance extends Playable
 	{
 		return true;
 	}
+	
+	/**
+	 * @return
+	 * @author Hl4p3x: <br>
+	 *         Get HWID method from player. You will need to implement here when you have GUARD.
+	 */
+	public String getHWID()
+	{
+		return null;
+	}
+	
+	/**
+	 * @return
+	 * @author Hl4p3x: <br>
+	 *         Return IP address in a String Format.
+	 */
+	public String getIP()
+	{
+		if (getClient().getConnection() == null)
+		{
+			return "N/A IP";
+		}
+		
+		return getClient().getConnection().getInetAddress().getHostAddress();
+	}
 }

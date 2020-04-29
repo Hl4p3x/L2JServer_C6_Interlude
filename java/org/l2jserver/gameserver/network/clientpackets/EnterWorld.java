@@ -93,6 +93,8 @@ import org.l2jserver.gameserver.network.serverpackets.UserInfo;
 import org.l2jserver.gameserver.util.BuilderUtil;
 import org.l2jserver.gameserver.util.Util;
 
+import engine.dailyreward.DailyRewardManager;
+
 /**
  * Enter World Packet Handler
  */
@@ -293,6 +295,12 @@ public class EnterWorld extends GameClientPacket
 		Announcements.getInstance().showAnnouncements(player);
 		
 		loadTutorial(player);
+		
+		// Daily Reward System
+		if (Config.ENABLE_DAILY)
+		{
+			DailyRewardManager.initialAllEngines(player);
+		}
 		
 		// Check for crowns
 		CrownManager.getInstance().checkCrowns(player);

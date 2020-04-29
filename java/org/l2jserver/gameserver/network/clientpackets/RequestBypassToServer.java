@@ -41,6 +41,8 @@ import org.l2jserver.gameserver.network.serverpackets.ActionFailed;
 import org.l2jserver.gameserver.network.serverpackets.NpcHtmlMessage;
 import org.l2jserver.gameserver.util.GMAudit;
 
+import engine.dailyreward.DailyRewardManager;
+
 public class RequestBypassToServer extends GameClientPacket
 {
 	private static final Logger LOGGER = Logger.getLogger(RequestBypassToServer.class.getName());
@@ -298,7 +300,10 @@ public class RequestBypassToServer extends GameClientPacket
 					player.processQuestEvent(p.substring(0, idx), p.substring(idx).trim());
 				}
 			}
-			
+			if (_command.startsWith("claimDailyReward"))
+			{
+				DailyRewardManager.getInstance().claimDailyReward(player);
+			}
 			if (_command.startsWith("OlympiadArenaChange"))
 			{
 				Olympiad.bypassChangeArena(_command, player);

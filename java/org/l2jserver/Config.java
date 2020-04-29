@@ -94,6 +94,7 @@ public class Config
 	private static final String SCHEME_BUFFER_CONFIG_FILE = "./config/custom/SchemeBuffer.ini";
 	private static final String EVENT_REBIRTH_CONFIG_FILE = "./config/custom/Rebirth.ini";
 	private static final String EVENT_WEDDING_CONFIG_FILE = "./config/custom/Wedding.ini";
+	private static final String L2JSERVER_CUSTOM = "./config/custom/L2JServer.ini";
 	// login
 	private static final String LOGIN_CONFIG_FILE = "./config/main/LoginServer.ini";
 	// others
@@ -483,6 +484,12 @@ public class Config
 	public static int WEDDING_DIVORCE_COSTS;
 	public static boolean GIVE_CUPID_BOW;
 	public static boolean ANNOUNCE_WEDDING;
+	
+	public static final int REWARD_PER_TIME_MODE_RESTRICTION = 2;
+	public static int DAILY_REWARD_ITEM_ID;
+	public static boolean ENABLE_DAILY;
+	public static int MIN_LEVEL_TO_DAILYREWARD;
+	public static int DAILY_REWARD_AMOUNT;
 	
 	public static String TVT_EVEN_TEAMS;
 	public static boolean TVT_ALLOW_INTERFERENCE;
@@ -1676,6 +1683,15 @@ public class Config
 		WEDDING_DIVORCE_COSTS = weddingConfig.getInt("WeddingDivorceCosts", 20);
 		GIVE_CUPID_BOW = weddingConfig.getBoolean("WeddingGiveBow", false);
 		ANNOUNCE_WEDDING = weddingConfig.getBoolean("AnnounceWedding", true);
+	}
+	
+	public static void loadL2jServerConfig()
+	{
+		final PropertiesParser L2jServer = new PropertiesParser(L2JSERVER_CUSTOM);
+		ENABLE_DAILY = L2jServer.getBoolean("EnableDailySystem", false);
+		DAILY_REWARD_ITEM_ID = L2jServer.getInt("DailySystemItemId", 57);
+		DAILY_REWARD_AMOUNT = L2jServer.getInt("DailyRewardAmount", 1500);
+		MIN_LEVEL_TO_DAILYREWARD = L2jServer.getInt("DailyMinLevelRequired", 20);
 	}
 	
 	public static void loadTVTConfig()
@@ -3099,6 +3115,7 @@ public class Config
 			loadChampionConfig();
 			loadMerchantZeroPriceConfig();
 			loadWeddingConfig();
+			loadL2jServerConfig();
 			loadRebirthConfig();
 			loadBankingConfig();
 			loadBufferConfig();

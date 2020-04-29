@@ -1,0 +1,10 @@
+-- ----------------------------
+-- Table structure for fortsiege_clans
+-- ----------------------------
+CREATE TABLE `fortsiege_clans` (
+`fort_id` int(1) NOT NULL default '0',
+`clan_id` int(11) NOT NULL default '0',
+`type` int(1) default NULL,
+`fort_owner` int(1) default NULL,
+PRIMARY KEY  (`clan_id`,`fort_id`)
+) ENGINE=MyISAM DEFAULT CHARSET=latin1 COLLATE=latin1_general_ci;

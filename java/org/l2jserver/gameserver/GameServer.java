@@ -129,6 +129,8 @@ import org.l2jserver.gameserver.scripting.ScriptEngineManager;
 import org.l2jserver.gameserver.taskmanager.TaskManager;
 import org.l2jserver.telnet.TelnetStatusThread;
 
+import engine.dailyreward.DailyRewardManager;
+
 public class GameServer
 {
 	private static final Logger LOGGER = Logger.getLogger(GameServer.class.getName());
@@ -434,6 +436,11 @@ public class GameServer
 		if ((Config.OFFLINE_TRADE_ENABLE || Config.OFFLINE_CRAFT_ENABLE) && Config.RESTORE_OFFLINERS)
 		{
 			OfflineTradeTable.restoreOfflineTraders();
+		}
+		
+		if (Config.ENABLE_DAILY)
+		{
+			DailyRewardManager.getInstance();
 		}
 		
 		Util.printSection("Protection");

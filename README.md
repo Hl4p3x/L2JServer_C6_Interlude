@@ -27,6 +27,7 @@
 
 # Custom Features
 
+>- Daily Reward Manager
 >- Keep Subclass Skills
 >- Char Title for new players
 >- Custom Starting Level
