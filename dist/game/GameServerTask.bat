@@ -2,7 +2,7 @@
 COLOR 0b
 title L2Server Console
 :start
-java -Dfile.encoding=UTF-8 -Djava.util.logging.manager=org.l2jserver.log.ServerLogManager -Dorg.slf4j.simpleLogger.log.com.zaxxer.hikari=error -Xmx2g -Xms512m -cp ../libs/GameServer.jar org.l2jserver.gameserver.GameServer
+java -Dfile.encoding=UTF-8 -Djava.util.logging.manager=org.l2jserver.log.ServerLogManager -Dorg.slf4j.simpleLogger.log.com.zaxxer.hikari=error -Xmx1g -Xms512m -cp ../libs/GameServer.jar org.l2jserver.gameserver.GameServer
 
 REM NOTE: If you have a powerful machine, you could modify/add some extra parameters for performance, like:
 REM -Xms1536m

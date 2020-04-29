@@ -1,13 +1,46 @@
 # SERVER INFO
 
 > L2jServer Interlude supports all Lineage 2 Interlude official features and has many own additional unique features. Just a few mentioned below for now and i will update it later. Also, any feature can be turned off inside pack config. All quests fully working and updated by Lineage 2 Interlude official information. Everything can be checked in test server with full npcs and special commands for testers.
-> ###### It's based on L2jServer Files.
+> ###### It's based on L2jMobius Files.
 
 # Events
 
 >- Team vs Team (Possible add more than 2 teams)
 >- Deathmatch
 >- Capture the Flag
+>- Town War
+>- PC Bang Points
+
+# Custom Mods
+
+>- Champion Mods
+>- Offline Shop/Craft
+>- Rebirth System
+>- Brank
+>- Scheme Buffer & Wedding.
+
+# Custom Items
+
+>- Hero Custom Item
+>- Hero Skills
+>- Noble Custom Item
+
+# Custom Features
+
+>- Keep Subclass Skills
+>- Char Title for new players
+>- Custom Starting Level
+>- Custom Spawn
+>- Player Protection
+>- Stackable Scrolls
+>- Clan Leader Color
+>- Donator Color Name/Title
+>- PMWelcome Msg.
+>- Protector PK
+>- New Player effect
+>- Physics to improve balance ingame
+>- Disable bow for classes
+>- and much more...
 
 # Geo-Engine
 
