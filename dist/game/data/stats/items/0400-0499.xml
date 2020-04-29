@@ -1,0 +1,1511 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="400" type="Armor" name="Theca Leather Armor">
+		<set name="bodypart" val="chest"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="light"/>
+		<set name="weight" val="4370"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_def" val="106"/>
+		<set name="price" val="825000"/>
+		<set name="crystal_count" val="330"/>
+		<for>
+			<add stat="pDef" order="0x10" val="106"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="401" type="Armor" name="Drake Leather Armor">
+		<!-- Full body armor. -->
+		<set name="bodypart" val="fullarmor"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="light"/>
+		<set name="weight" val="5800"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_def" val="179"/>
+		<set name="price" val="1570000"/>
+		<set name="crystal_count" val="628"/>
+		<for>
+			<add stat="pDef" order="0x10" val="179"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="402" type="Armor" name="Chain Mail of Silence">
+		<set name="bodypart" val="fullarmor"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="light"/>
+		<set name="weight" val="3200"/>
+		<set name="crystal_type" val="b"/>
+		<set name="p_def" val="213"/>
+		<set name="price" val="3530000"/>
+		<set name="crystal_count" val="470"/>
+		<for>
+			<add val="213" order="0x10" stat="pDef"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="403" type="Armor" name="Gust Chain Mail">
+		<set name="bodypart" val="fullarmor"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="light"/>
+		<set name="weight" val="2720"/>
+		<set name="crystal_type" val="b"/>
+		<set name="p_def" val="225"/>
+		<set name="price" val="5080000"/>
+		<set name="crystal_count" val="677"/>
+		<for>
+			<add val="225" order="0x10" stat="pDef"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="404" type="Armor" name="Prairie Leather Armor">
+		<set name="bodypart" val="chest"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="light"/>
+		<set name="weight" val="8000"/>
+		<set name="crystal_type" val="b"/>
+		<set name="p_def" val="131"/>
+		<set name="price" val="2410000"/>
+		<set name="crystal_count" val="321"/>
+		<for>
+			<add val="131" order="0x10" stat="pDef"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="405" type="Armor" name="Leather Armor of The Underworld">
+		<set name="bodypart" val="chest"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="light"/>
+		<set name="weight" val="8000"/>
+		<set name="crystal_type" val="b"/>
+		<set name="p_def" val="139"/>
+		<set name="price" val="3470000"/>
+		<set name="crystal_count" val="462"/>
+		<for>
+			<add val="139" order="0x10" stat="pDef"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="406" type="Armor" name="Leather Suit of Concentration">
+		<set name="bodypart" val="fullarmor"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="light"/>
+		<set name="weight" val="2400"/>
+		<set name="crystal_type" val="b"/>
+		<set name="p_def" val="213"/>
+		<set name="price" val="3530000"/>
+		<set name="crystal_count" val="470"/>
+		<for>
+			<add val="213" order="0x10" stat="pDef"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="407" type="Armor" name="Ace's Leather Armor">
+		<set name="bodypart" val="fullarmor"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="light"/>
+		<set name="weight" val="2400"/>
+		<set name="crystal_type" val="b"/>
+		<set name="p_def" val="225"/>
+		<set name="price" val="5080000"/>
+		<set name="crystal_count" val="677"/>
+		<for>
+			<add val="225" order="0x10" stat="pDef"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="408" type="Armor" name="Guardian's Leather Armor">
+		<set name="bodypart" val="chest"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="light"/>
+		<set name="weight" val="8000"/>
+		<set name="crystal_type" val="b"/>
+		<set name="p_def" val="131"/>
+		<set name="price" val="2410000"/>
+		<set name="crystal_count" val="321"/>
+		<for>
+			<add val="131" order="0x10" stat="pDef"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="409" type="Armor" name="Marksman's Leather Armor">
+		<set name="bodypart" val="chest"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="light"/>
+		<set name="weight" val="4300"/>
+		<set name="crystal_type" val="b"/>
+		<set name="p_def" val="139"/>
+		<set name="price" val="3470000"/>
+		<set name="crystal_count" val="462"/>
+		<for>
+			<add val="139" order="0x10" stat="pDef"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="410" type="Armor" name="Unicorn Leather Armor">
+		<set name="bodypart" val="fullarmor"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="light"/>
+		<set name="weight" val="1280"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_def" val="238"/>
+		<set name="price" val="7730000"/>
+		<set name="crystal_count" val="618"/>
+		<for>
+			<add val="238" order="0x10" stat="pDef"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="411" type="Armor" name="Dragon Leather Armor">
+		<!-- One-piece upper and lower body armor. Additional lower body armor cannot be worn while wearing this. -->
+		<set name="bodypart" val="fullarmor"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="light"/>
+		<set name="weight" val="4950"/>
+		<set name="crystal_type" val="s"/>
+		<set name="p_def" val="237"/>
+		<set name="price" val="10500000"/>
+		<set name="crystal_count" val="525"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<add val="237" order="0x10" stat="pDef"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="412" type="Armor" name="Cotton Pants">
+		<set name="bodypart" val="legs"/>
+		<set name="armor_type" val="light"/>
+		<set name="weight" val="1630"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_def" val="32"/>
+		<set name="price" val="12700"/>
+		<for>
+			<add val="32" order="0x10" stat="pDef"/>
+		</for>
+	</item>
+	<item id="413" type="Armor" name="Puma Skin Gaiters">
+		<set name="bodypart" val="legs"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="light"/>
+		<set name="weight" val="1600"/>
+		<set name="crystal_type" val="d"/>
+		<set name="p_def" val="36"/>
+		<set name="price" val="39100"/>
+		<set name="crystal_count" val="71"/>
+		<for>
+			<add val="36" order="0x10" stat="pDef"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="414" type="Armor" name="Lion Skin Gaiters">
+		<set name="bodypart" val="legs"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="light"/>
+		<set name="weight" val="1570"/>
+		<set name="crystal_type" val="d"/>
+		<set name="p_def" val="41"/>
+		<set name="price" val="62500"/>
+		<set name="crystal_count" val="113"/>
+		<for>
+			<add val="41" order="0x10" stat="pDef"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="415" type="Armor" name="Mithril Banded Gaiters">
+		<set name="bodypart" val="legs"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="light"/>
+		<set name="weight" val="1580"/>
+		<set name="crystal_type" val="d"/>
+		<set name="p_def" val="46"/>
+		<set name="price" val="95200"/>
+		<set name="crystal_count" val="173"/>
+		<for>
+			<add val="46" order="0x10" stat="pDef"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="416" type="Armor" name="Reinforced Leather Gaiters">
+		<set name="bodypart" val="legs"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="light"/>
+		<set name="weight" val="1570"/>
+		<set name="crystal_type" val="d"/>
+		<set name="p_def" val="46"/>
+		<set name="price" val="95200"/>
+		<set name="crystal_count" val="173"/>
+		<for>
+			<add val="46" order="0x10" stat="pDef"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="417" type="Armor" name="Manticore Skin Gaiters">
+		<set name="bodypart" val="legs"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="light"/>
+		<set name="weight" val="1550"/>
+		<set name="crystal_type" val="d"/>
+		<set name="p_def" val="48"/>
+		<set name="price" val="140000"/>
+		<set name="crystal_count" val="254"/>
+		<for>
+			<add val="51" order="0x10" stat="pDef"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="418" type="Armor" name="Plated Leather Gaiters">
+		<set name="bodypart" val="legs"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="light"/>
+		<set name="weight" val="1560"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_def" val="59"/>
+		<set name="price" val="279000"/>
+		<set name="crystal_count" val="111"/>
+		<for>
+			<add val="59" order="0x10" stat="pDef"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="419" type="Armor" name="Rind Leather Gaiters">
+		<set name="bodypart" val="legs"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="light"/>
+		<set name="weight" val="1550"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_def" val="60"/>
+		<set name="price" val="302000"/>
+		<set name="crystal_count" val="120"/>
+		<for>
+			<add val="60" order="0x10" stat="pDef"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="420" type="Armor" name="Theca Leather Gaiters">
+		<set name="bodypart" val="legs"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="light"/>
+		<set name="weight" val="1530"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_def" val="66"/>
+		<set name="price" val="516000"/>
+		<set name="crystal_count" val="206"/>
+		<for>
+			<add val="66" order="0x10" stat="pDef"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="421" type="Armor" name="Prairie Leather Gaiters">
+		<set name="bodypart" val="legs"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="light"/>
+		<set name="weight" val="4800"/>
+		<set name="crystal_type" val="b"/>
+		<set name="p_def" val="82"/>
+		<set name="price" val="1510000"/>
+		<set name="crystal_count" val="201"/>
+		<for>
+			<add val="82" order="0x10" stat="pDef"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="422" type="Armor" name="Gaiters of The Underworld">
+		<set name="bodypart" val="legs"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="light"/>
+		<set name="weight" val="4800"/>
+		<set name="crystal_type" val="b"/>
+		<set name="p_def" val="87"/>
+		<set name="price" val="2170000"/>
+		<set name="crystal_count" val="289"/>
+		<for>
+			<add val="87" order="0x10" stat="pDef"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="423" type="Armor" name="Guardian's Leather Gaiters">
+		<set name="bodypart" val="legs"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="light"/>
+		<set name="weight" val="4800"/>
+		<set name="crystal_type" val="b"/>
+		<set name="p_def" val="82"/>
+		<set name="price" val="1510000"/>
+		<set name="crystal_count" val="201"/>
+		<for>
+			<add val="82" order="0x10" stat="pDef"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="424" type="Armor" name="Marksman's Leather Gaiters">
+		<set name="bodypart" val="legs"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="light"/>
+		<set name="weight" val="1490"/>
+		<set name="crystal_type" val="b"/>
+		<set name="p_def" val="87"/>
+		<set name="price" val="2170000"/>
+		<set name="crystal_count" val="289"/>
+		<for>
+			<add val="87" order="0x10" stat="pDef"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="425" type="Armor" name="Apprentice's Tunic">
+		<set name="bodypart" val="chest"/>
+		<set name="armor_type" val="magic"/>
+		<set name="weight" val="2150"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_def" val="17"/>
+		<set name="mp_bonus" val="19"/>
+		<set name="price" val="26"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<add val="17" order="0x10" stat="pDef"/>
+			<add val="19" order="0x60" stat="maxMp"/>
+		</for>
+	</item>
+	<item id="426" type="Armor" name="Tunic">
+		<set name="bodypart" val="chest"/>
+		<set name="armor_type" val="magic"/>
+		<set name="weight" val="2150"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_def" val="18"/>
+		<set name="mp_bonus" val="24"/>
+		<set name="price" val="147"/>
+		<for>
+			<add val="18" order="0x10" stat="pDef"/>
+			<add val="24" order="0x60" stat="maxMp"/>
+		</for>
+	</item>
+	<item id="427" type="Armor" name="Cotton Robe">
+		<!-- One-piece upper and lower body armor. Additional lower body armor cannot be worn while wearing this. -->
+		<set name="bodypart" val="fullarmor"/>
+		<set name="armor_type" val="magic"/>
+		<set name="weight" val="2750"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_def" val="35"/>
+		<set name="mp_bonus" val="61"/>
+		<set name="price" val="3550"/>
+		<for>
+			<add val="35" order="0x10" stat="pDef"/>
+			<add val="61" order="0x60" stat="maxMp"/>
+		</for>
+	</item>
+	<item id="428" type="Armor" name="Feriotic Tunic">
+		<set name="bodypart" val="chest"/>
+		<set name="armor_type" val="magic"/>
+		<set name="weight" val="2140"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_def" val="21"/>
+		<set name="mp_bonus" val="38"/>
+		<set name="price" val="2430"/>
+		<for>
+			<add val="21" order="0x10" stat="pDef"/>
+			<add val="38" order="0x60" stat="maxMp"/>
+		</for>
+	</item>
+	<item id="429" type="Armor" name="Leather Tunic">
+		<set name="bodypart" val="chest"/>
+		<set name="armor_type" val="magic"/>
+		<set name="weight" val="2110"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_def" val="25"/>
+		<set name="mp_bonus" val="52"/>
+		<set name="price" val="7960"/>
+		<for>
+			<add val="25" order="0x10" stat="pDef"/>
+			<add val="52" order="0x60" stat="maxMp"/>
+		</for>
+	</item>
+	<item id="430" type="Armor" name="Robe of Devotion">
+		<!-- One-piece upper and lower body armor. Additional lower body armor cannot be worn while wearing this. -->
+		<set name="bodypart" val="fullarmor"/>
+		<set name="armor_type" val="magic"/>
+		<set name="weight" val="2650"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_def" val="49"/>
+		<set name="mp_bonus" val="109"/>
+		<set name="price" val="29700"/>
+		<for>
+			<add val="49" order="0x10" stat="pDef"/>
+			<add val="109" order="0x60" stat="maxMp"/>
+		</for>
+	</item>
+	<item id="431" type="Armor" name="Robe of Magic">
+		<!-- One-piece upper and lower body armor. Additional lower body armor cannot be worn while wearing this. -->
+		<set name="bodypart" val="fullarmor"/>
+		<set name="armor_type" val="magic"/>
+		<set name="weight" val="2600"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_def" val="56"/>
+		<set name="mp_bonus" val="140"/>
+		<set name="price" val="53900"/>
+		<for>
+			<add val="56" order="0x10" stat="pDef"/>
+			<add val="140" order="0x60" stat="maxMp"/>
+		</for>
+	</item>
+	<item id="432" type="Armor" name="Cursed Tunic">
+		<set name="bodypart" val="chest"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="magic"/>
+		<set name="weight" val="2090"/>
+		<set name="crystal_type" val="d"/>
+		<set name="p_def" val="39"/>
+		<set name="mp_bonus" val="106"/>
+		<set name="price" val="62600"/>
+		<set name="crystal_count" val="113"/>
+		<for>
+			<add val="39" order="0x10" stat="pDef"/>
+			<add val="106" order="0x60" stat="maxMp"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="433" type="Armor" name="Elven Tunic">
+		<set name="bodypart" val="chest"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="magic"/>
+		<set name="weight" val="2080"/>
+		<set name="crystal_type" val="d"/>
+		<set name="p_def" val="43"/>
+		<set name="mp_bonus" val="126"/>
+		<set name="price" val="99900"/>
+		<set name="crystal_count" val="181"/>
+		<for>
+			<add val="43" order="0x10" stat="pDef"/>
+			<add val="126" order="0x60" stat="maxMp"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="434" type="Armor" name="White Tunic">
+		<set name="bodypart" val="chest"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="magic"/>
+		<set name="weight" val="2040"/>
+		<set name="crystal_type" val="d"/>
+		<set name="p_def" val="43"/>
+		<set name="mp_bonus" val="126"/>
+		<set name="price" val="99900"/>
+		<set name="crystal_count" val="181"/>
+		<for>
+			<add val="43" order="0x10" stat="pDef"/>
+			<add val="126" order="0x60" stat="maxMp"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="435" type="Armor" name="Mystic's Tunic">
+		<set name="bodypart" val="chest"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="magic"/>
+		<set name="weight" val="2030"/>
+		<set name="crystal_type" val="d"/>
+		<set name="p_def" val="43"/>
+		<set name="mp_bonus" val="126"/>
+		<set name="price" val="99900"/>
+		<set name="crystal_count" val="181"/>
+		<for>
+			<add val="43" order="0x10" stat="pDef"/>
+			<add val="126" order="0x60" stat="maxMp"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="436" type="Armor" name="Tunic of Knowledge">
+		<set name="bodypart" val="chest"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="magic"/>
+		<set name="weight" val="2020"/>
+		<set name="crystal_type" val="d"/>
+		<set name="p_def" val="49"/>
+		<set name="mp_bonus" val="147"/>
+		<set name="price" val="152000"/>
+		<set name="crystal_count" val="276"/>
+		<for>
+			<add val="49" order="0x10" stat="pDef"/>
+			<add val="147" order="0x60" stat="maxMp"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="437" type="Armor" name="Mithril Tunic">
+		<set name="bodypart" val="chest"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="magic"/>
+		<set name="weight" val="2010"/>
+		<set name="crystal_type" val="d"/>
+		<set name="p_def" val="52"/>
+		<set name="mp_bonus" val="169"/>
+		<set name="price" val="224000"/>
+		<set name="crystal_count" val="407"/>
+		<for>
+			<add val="52" order="0x10" stat="pDef"/>
+			<add val="169" order="0x60" stat="maxMp"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="438" type="Armor" name="Sage's Rag">
+		<!-- One-piece upper and lower body armor. Additional lower body armor cannot be worn while wearing this. -->
+		<set name="bodypart" val="fullarmor"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="magic"/>
+		<set name="weight" val="2580"/>
+		<set name="crystal_type" val="d"/>
+		<set name="p_def" val="90"/>
+		<set name="mp_bonus" val="320"/>
+		<set name="price" val="429000"/>
+		<set name="crystal_count" val="780"/>
+		<for>
+			<add val="90" order="0x10" stat="pDef"/>
+			<add val="320" order="0x60" stat="maxMp"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="439" type="Armor" name="Karmian Tunic">
+		<set name="bodypart" val="chest"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="magic"/>
+		<set name="weight" val="1980"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_def" val="60"/>
+		<set name="mp_bonus" val="225"/>
+		<set name="price" val="379000"/>
+		<set name="crystal_count" val="151"/>
+		<for>
+			<add val="60" order="0x10" stat="pDef"/>
+			<add val="225" order="0x60" stat="maxMp"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="440" type="Armor" name="Robe of Seal">
+		<!-- One-piece upper and lower body armor. Additional lower body armor cannot be worn while wearing this. -->
+		<set name="bodypart" val="fullarmor"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="magic"/>
+		<set name="weight" val="2500"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_def" val="105"/>
+		<set name="mp_bonus" val="413"/>
+		<set name="price" val="707000"/>
+		<set name="crystal_count" val="282"/>
+		<for>
+			<add val="105" order="0x10" stat="pDef"/>
+			<add val="413" order="0x60" stat="maxMp"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="441" type="Armor" name="Demon's Tunic">
+		<set name="bodypart" val="chest"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="magic"/>
+		<set name="weight" val="1990"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_def" val="69"/>
+		<set name="mp_bonus" val="284"/>
+		<set name="price" val="736000"/>
+		<set name="crystal_count" val="294"/>
+		<for>
+			<add val="69" order="0x10" stat="pDef"/>
+			<add val="284" order="0x60" stat="maxMp"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="442" type="Armor" name="Divine Tunic">
+		<set name="bodypart" val="chest"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="magic"/>
+		<set name="weight" val="1980"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_def" val="74"/>
+		<set name="mp_bonus" val="314"/>
+		<set name="price" val="1070000"/>
+		<set name="crystal_count" val="428"/>
+		<for>
+			<add val="74" order="0x10" stat="pDef"/>
+			<add val="314" order="0x60" stat="maxMp"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="443" type="Armor" name="Tunic of Mana">
+		<set name="bodypart" val="chest"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="magic"/>
+		<set name="weight" val="2000"/>
+		<set name="crystal_type" val="b"/>
+		<set name="p_def" val="87"/>
+		<set name="mp_bonus" val="377"/>
+		<set name="price" val="2410000"/>
+		<set name="crystal_count" val="321"/>
+		<for>
+			<add val="87" order="0x10" stat="pDef"/>
+			<add val="377" order="0x60" stat="maxMp"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="444" type="Armor" name="Sage's Robe">
+		<!-- One-piece upper and lower body armor. Additional lower body armor cannot be worn while wearing this. -->
+		<set name="bodypart" val="fullarmor"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="magic"/>
+		<set name="weight" val="1600"/>
+		<set name="crystal_type" val="b"/>
+		<set name="p_def" val="150"/>
+		<set name="mp_bonus" val="665"/>
+		<set name="price" val="5080000"/>
+		<set name="crystal_count" val="677"/>
+		<for>
+			<add val="150" order="0x10" stat="pDef"/>
+			<add val="665" order="0x60" stat="maxMp"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="445" type="Armor" name="Paradia Tunic">
+		<set name="bodypart" val="chest"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="magic"/>
+		<set name="weight" val="1990"/>
+		<set name="crystal_type" val="b"/>
+		<set name="p_def" val="87"/>
+		<set name="mp_bonus" val="377"/>
+		<set name="price" val="2410000"/>
+		<set name="crystal_count" val="321"/>
+		<for>
+			<add val="87" order="0x10" stat="pDef"/>
+			<add val="377" order="0x60" stat="maxMp"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="446" type="Armor" name="Inferno Tunic">
+		<set name="bodypart" val="chest"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="magic"/>
+		<set name="weight" val="1880"/>
+		<set name="crystal_type" val="b"/>
+		<set name="p_def" val="92"/>
+		<set name="mp_bonus" val="409"/>
+		<set name="price" val="3470000"/>
+		<set name="crystal_count" val="462"/>
+		<for>
+			<add val="92" order="0x10" stat="pDef"/>
+			<add val="409" order="0x60" stat="maxMp"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="447" type="Armor" name="Tunic of Solar Eclipse">
+		<set name="bodypart" val="chest"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="magic"/>
+		<set name="weight" val="1960"/>
+		<set name="crystal_type" val="b"/>
+		<set name="p_def" val="87"/>
+		<set name="mp_bonus" val="377"/>
+		<set name="price" val="2410000"/>
+		<set name="crystal_count" val="321"/>
+		<for>
+			<add val="87" order="0x10" stat="pDef"/>
+			<add val="377" order="0x60" stat="maxMp"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="448" type="Armor" name="Robe of Black Ore">
+		<!-- One-piece upper and lower body armor. Additional lower body armor cannot be worn while wearing this. -->
+		<set name="bodypart" val="fullarmor"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="magic"/>
+		<set name="weight" val="1600"/>
+		<set name="crystal_type" val="b"/>
+		<set name="p_def" val="150"/>
+		<set name="mp_bonus" val="665"/>
+		<set name="price" val="5080000"/>
+		<set name="crystal_count" val="677"/>
+		<for>
+			<add val="150" order="0x10" stat="pDef"/>
+			<add val="665" order="0x60" stat="maxMp"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="449" type="Armor" name="Tunic of Summoning">
+		<set name="bodypart" val="chest"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="magic"/>
+		<set name="weight" val="1950"/>
+		<set name="crystal_type" val="b"/>
+		<set name="p_def" val="87"/>
+		<set name="mp_bonus" val="377"/>
+		<set name="price" val="2410000"/>
+		<set name="crystal_count" val="321"/>
+		<for>
+			<add val="87" order="0x10" stat="pDef"/>
+			<add val="377" order="0x60" stat="maxMp"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="450" type="Armor" name="Otherworldly Robe">
+		<!-- One-piece upper and lower body armor. Additional lower body armor cannot be worn while wearing this. -->
+		<set name="bodypart" val="fullarmor"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="magic"/>
+		<set name="weight" val="1600"/>
+		<set name="crystal_type" val="b"/>
+		<set name="p_def" val="150"/>
+		<set name="mp_bonus" val="665"/>
+		<set name="price" val="5080000"/>
+		<set name="crystal_count" val="677"/>
+		<for>
+			<add val="150" order="0x10" stat="pDef"/>
+			<add val="665" order="0x60" stat="maxMp"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="451" type="Armor" name="Elemental Tunic">
+		<set name="bodypart" val="chest"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="magic"/>
+		<set name="weight" val="1970"/>
+		<set name="crystal_type" val="b"/>
+		<set name="p_def" val="87"/>
+		<set name="mp_bonus" val="377"/>
+		<set name="price" val="2410000"/>
+		<set name="crystal_count" val="321"/>
+		<for>
+			<add val="87" order="0x10" stat="pDef"/>
+			<add val="377" order="0x60" stat="maxMp"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="452" type="Armor" name="Tunic of Phantom">
+		<set name="bodypart" val="chest"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="magic"/>
+		<set name="weight" val="1890"/>
+		<set name="crystal_type" val="b"/>
+		<set name="p_def" val="92"/>
+		<set name="mp_bonus" val="409"/>
+		<set name="price" val="3470000"/>
+		<set name="crystal_count" val="462"/>
+		<for>
+			<add val="92" order="0x10" stat="pDef"/>
+			<add val="409" order="0x60" stat="maxMp"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="453" type="Armor" name="Tunic of Grace">
+		<set name="bodypart" val="chest"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="magic"/>
+		<set name="weight" val="1930"/>
+		<set name="crystal_type" val="b"/>
+		<set name="p_def" val="87"/>
+		<set name="mp_bonus" val="377"/>
+		<set name="price" val="2410000"/>
+		<set name="crystal_count" val="321"/>
+		<for>
+			<add val="87" order="0x10" stat="pDef"/>
+			<add val="377" order="0x60" stat="maxMp"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="454" type="Armor" name="Robe of Holy Spirit">
+		<!-- One-piece upper and lower body armor. Additional lower body armor cannot be worn while wearing this. -->
+		<set name="bodypart" val="fullarmor"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="magic"/>
+		<set name="weight" val="1600"/>
+		<set name="crystal_type" val="b"/>
+		<set name="p_def" val="150"/>
+		<set name="mp_bonus" val="665"/>
+		<set name="price" val="5080000"/>
+		<set name="crystal_count" val="677"/>
+		<for>
+			<add val="150" order="0x10" stat="pDef"/>
+			<add val="665" order="0x60" stat="maxMp"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="455" type="Armor" name="Phoenix Tunic">
+		<set name="bodypart" val="chest"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="magic"/>
+		<set name="weight" val="1950"/>
+		<set name="crystal_type" val="b"/>
+		<set name="p_def" val="87"/>
+		<set name="mp_bonus" val="377"/>
+		<set name="price" val="2410000"/>
+		<set name="crystal_count" val="321"/>
+		<for>
+			<add val="87" order="0x10" stat="pDef"/>
+			<add val="377" order="0x60" stat="maxMp"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="456" type="Armor" name="Cerberus Tunic">
+		<set name="bodypart" val="chest"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="magic"/>
+		<set name="weight" val="1870"/>
+		<set name="crystal_type" val="b"/>
+		<set name="p_def" val="92"/>
+		<set name="mp_bonus" val="409"/>
+		<set name="price" val="3470000"/>
+		<set name="crystal_count" val="462"/>
+		<for>
+			<add val="92" order="0x10" stat="pDef"/>
+			<add val="409" order="0x60" stat="maxMp"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="457" type="Armor" name="Tunic of Aid">
+		<set name="bodypart" val="chest"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="magic"/>
+		<set name="weight" val="1910"/>
+		<set name="crystal_type" val="b"/>
+		<set name="p_def" val="87"/>
+		<set name="mp_bonus" val="377"/>
+		<set name="price" val="2410000"/>
+		<set name="crystal_count" val="321"/>
+		<for>
+			<add val="87" order="0x10" stat="pDef"/>
+			<add val="377" order="0x60" stat="maxMp"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="458" type="Armor" name="Robe of Blessing">
+		<!-- One-piece upper and lower body armor. Additional lower body armor cannot be worn while wearing this. -->
+		<set name="bodypart" val="fullarmor"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="magic"/>
+		<set name="weight" val="1600"/>
+		<set name="crystal_type" val="b"/>
+		<set name="p_def" val="150"/>
+		<set name="mp_bonus" val="665"/>
+		<set name="price" val="5080000"/>
+		<set name="crystal_count" val="677"/>
+		<for>
+			<add val="150" order="0x10" stat="pDef"/>
+			<add val="665" order="0x60" stat="maxMp"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="459" type="Armor" name="Dasparion's Robe">
+		<!-- One-piece upper and lower body armor. Additional lower body armor cannot be worn while wearing this. -->
+		<set name="bodypart" val="fullarmor"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="magic"/>
+		<set name="weight" val="1200"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_def" val="158"/>
+		<set name="mp_bonus" val="718"/>
+		<set name="price" val="7730000"/>
+		<set name="crystal_count" val="618"/>
+		<for>
+			<add val="158" order="0x10" stat="pDef"/>
+			<add val="718" order="0x60" stat="maxMp"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="460" type="Armor" name="The Robe">
+		<!-- One-piece upper and lower body armor. Additional lower body armor cannot be worn while wearing this. -->
+		<set name="bodypart" val="fullarmor"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="magic"/>
+		<set name="weight" val="2300"/>
+		<set name="crystal_type" val="s"/>
+		<set name="p_def" val="158"/>
+		<set name="mp_bonus" val="773"/>
+		<set name="price" val="10500000"/>
+		<set name="crystal_count" val="525"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<add val="158" order="0x10" stat="pDef"/>
+			<add val="773" order="0x60" stat="maxMp"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="461" type="Armor" name="Apprentice's Stockings">
+		<set name="bodypart" val="legs"/>
+		<set name="armor_type" val="magic"/>
+		<set name="weight" val="1100"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_def" val="10"/>
+		<set name="mp_bonus" val="10"/>
+		<set name="price" val="6"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<add val="10" order="0x10" stat="pDef"/>
+			<add val="10" order="0x60" stat="maxMp"/>
+		</for>
+	</item>
+	<item id="462" type="Armor" name="Stockings">
+		<set name="bodypart" val="legs"/>
+		<set name="armor_type" val="magic"/>
+		<set name="weight" val="1080"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_def" val="11"/>
+		<set name="mp_bonus" val="15"/>
+		<set name="price" val="92"/>
+		<for>
+			<add val="11" order="0x10" stat="pDef"/>
+			<add val="15" order="0x60" stat="maxMp"/>
+		</for>
+	</item>
+	<item id="463" type="Armor" name="Feriotic Stockings">
+		<set name="bodypart" val="legs"/>
+		<set name="armor_type" val="magic"/>
+		<set name="weight" val="1070"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_def" val="13"/>
+		<set name="mp_bonus" val="23"/>
+		<set name="price" val="1520"/>
+		<for>
+			<add val="13" order="0x10" stat="pDef"/>
+			<add val="23" order="0x60" stat="maxMp"/>
+		</for>
+	</item>
+	<item id="464" type="Armor" name="Leather Stockings">
+		<set name="bodypart" val="legs"/>
+		<set name="armor_type" val="magic"/>
+		<set name="weight" val="1020"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_def" val="16"/>
+		<set name="mp_bonus" val="33"/>
+		<set name="price" val="4970"/>
+		<for>
+			<add val="16" order="0x10" stat="pDef"/>
+			<add val="33" order="0x60" stat="maxMp"/>
+		</for>
+	</item>
+	<item id="465" type="Armor" name="Cursed Stockings">
+		<set name="bodypart" val="legs"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="magic"/>
+		<set name="weight" val="1020"/>
+		<set name="crystal_type" val="d"/>
+		<set name="p_def" val="24"/>
+		<set name="mp_bonus" val="66"/>
+		<set name="price" val="39100"/>
+		<set name="crystal_count" val="71"/>
+		<for>
+			<add val="24" order="0x10" stat="pDef"/>
+			<add val="66" order="0x60" stat="maxMp"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="466" type="Armor" name="Elven Stockings">
+		<set name="bodypart" val="legs"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="magic"/>
+		<set name="weight" val="1010"/>
+		<set name="crystal_type" val="d"/>
+		<set name="p_def" val="27"/>
+		<set name="mp_bonus" val="79"/>
+		<set name="price" val="62500"/>
+		<set name="crystal_count" val="113"/>
+		<for>
+			<add val="27" order="0x10" stat="pDef"/>
+			<add val="79" order="0x60" stat="maxMp"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="467" type="Armor" name="Dark Stockings">
+		<set name="bodypart" val="legs"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="magic"/>
+		<set name="weight" val="1000"/>
+		<set name="crystal_type" val="d"/>
+		<set name="p_def" val="27"/>
+		<set name="mp_bonus" val="79"/>
+		<set name="price" val="62500"/>
+		<set name="crystal_count" val="113"/>
+		<for>
+			<add val="27" order="0x10" stat="pDef"/>
+			<add val="79" order="0x60" stat="maxMp"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="468" type="Armor" name="Mystic's Stockings">
+		<set name="bodypart" val="legs"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="magic"/>
+		<set name="weight" val="990"/>
+		<set name="crystal_type" val="d"/>
+		<set name="p_def" val="27"/>
+		<set name="mp_bonus" val="79"/>
+		<set name="price" val="62500"/>
+		<set name="crystal_count" val="113"/>
+		<for>
+			<add val="27" order="0x10" stat="pDef"/>
+			<add val="79" order="0x60" stat="maxMp"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="469" type="Armor" name="Stockings of Knowledge">
+		<set name="bodypart" val="legs"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="magic"/>
+		<set name="weight" val="1000"/>
+		<set name="crystal_type" val="d"/>
+		<set name="p_def" val="30"/>
+		<set name="mp_bonus" val="92"/>
+		<set name="price" val="95200"/>
+		<set name="crystal_count" val="173"/>
+		<for>
+			<add val="30" order="0x10" stat="pDef"/>
+			<add val="92" order="0x60" stat="maxMp"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="470" type="Armor" name="Mithril Stockings">
+		<set name="bodypart" val="legs"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="magic"/>
+		<set name="weight" val="980"/>
+		<set name="crystal_type" val="d"/>
+		<set name="p_def" val="32"/>
+		<set name="mp_bonus" val="105"/>
+		<set name="price" val="140000"/>
+		<set name="crystal_count" val="254"/>
+		<for>
+			<add val="32" order="0x10" stat="pDef"/>
+			<add val="105" order="0x60" stat="maxMp"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="471" type="Armor" name="Karmian Stockings">
+		<set name="bodypart" val="legs"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="magic"/>
+		<set name="weight" val="970"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_def" val="37"/>
+		<set name="mp_bonus" val="141"/>
+		<set name="price" val="237000"/>
+		<set name="crystal_count" val="94"/>
+		<for>
+			<add val="37" order="0x10" stat="pDef"/>
+			<add val="141" order="0x60" stat="maxMp"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="472" type="Armor" name="Demon's Stockings">
+		<set name="bodypart" val="legs"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="magic"/>
+		<set name="weight" val="980"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_def" val="43"/>
+		<set name="mp_bonus" val="177"/>
+		<set name="price" val="460000"/>
+		<set name="crystal_count" val="184"/>
+		<for>
+			<add val="43" order="0x10" stat="pDef"/>
+			<add val="177" order="0x60" stat="maxMp"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="473" type="Armor" name="Divine Stockings">
+		<set name="bodypart" val="legs"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="magic"/>
+		<set name="weight" val="960"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_def" val="46"/>
+		<set name="mp_bonus" val="196"/>
+		<set name="price" val="671000"/>
+		<set name="crystal_count" val="268"/>
+		<for>
+			<add val="46" order="0x10" stat="pDef"/>
+			<add val="196" order="0x60" stat="maxMp"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="474" type="Armor" name="Stockings of Mana">
+		<set name="bodypart" val="legs"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="magic"/>
+		<set name="weight" val="2400"/>
+		<set name="crystal_type" val="b"/>
+		<set name="p_def" val="55"/>
+		<set name="mp_bonus" val="236"/>
+		<set name="price" val="1510000"/>
+		<set name="crystal_count" val="201"/>
+		<for>
+			<add val="55" order="0x10" stat="pDef"/>
+			<add val="236" order="0x60" stat="maxMp"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="475" type="Armor" name="Paradia Stockings">
+		<set name="bodypart" val="legs"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="magic"/>
+		<set name="weight" val="1600"/>
+		<set name="crystal_type" val="b"/>
+		<set name="p_def" val="55"/>
+		<set name="mp_bonus" val="236"/>
+		<set name="price" val="1510000"/>
+		<set name="crystal_count" val="201"/>
+		<for>
+			<add val="55" order="0x10" stat="pDef"/>
+			<add val="236" order="0x60" stat="maxMp"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="476" type="Armor" name="Inferno Stockings">
+		<set name="bodypart" val="legs"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="magic"/>
+		<set name="weight" val="1600"/>
+		<set name="crystal_type" val="b"/>
+		<set name="p_def" val="58"/>
+		<set name="mp_bonus" val="256"/>
+		<set name="price" val="2170000"/>
+		<set name="crystal_count" val="289"/>
+		<for>
+			<add val="58" order="0x10" stat="pDef"/>
+			<add val="256" order="0x60" stat="maxMp"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="477" type="Armor" name="Stockings of Solar Eclipse">
+		<set name="bodypart" val="legs"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="magic"/>
+		<set name="weight" val="2400"/>
+		<set name="crystal_type" val="b"/>
+		<set name="p_def" val="55"/>
+		<set name="mp_bonus" val="236"/>
+		<set name="price" val="1510000"/>
+		<set name="crystal_count" val="201"/>
+		<for>
+			<add val="55" order="0x10" stat="pDef"/>
+			<add val="236" order="0x60" stat="maxMp"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="478" type="Armor" name="Stockings of Summoning">
+		<set name="bodypart" val="legs"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="magic"/>
+		<set name="weight" val="2400"/>
+		<set name="crystal_type" val="b"/>
+		<set name="p_def" val="55"/>
+		<set name="mp_bonus" val="236"/>
+		<set name="price" val="1510000"/>
+		<set name="crystal_count" val="201"/>
+		<for>
+			<add val="55" order="0x10" stat="pDef"/>
+			<add val="236" order="0x60" stat="maxMp"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="479" type="Armor" name="Elemental Stockings">
+		<set name="bodypart" val="legs"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="magic"/>
+		<set name="weight" val="1600"/>
+		<set name="crystal_type" val="b"/>
+		<set name="p_def" val="55"/>
+		<set name="mp_bonus" val="236"/>
+		<set name="price" val="1510000"/>
+		<set name="crystal_count" val="201"/>
+		<for>
+			<add val="55" order="0x10" stat="pDef"/>
+			<add val="236" order="0x60" stat="maxMp"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="480" type="Armor" name="Stockings of Phantom">
+		<set name="bodypart" val="legs"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="magic"/>
+		<set name="weight" val="1600"/>
+		<set name="crystal_type" val="b"/>
+		<set name="p_def" val="58"/>
+		<set name="mp_bonus" val="256"/>
+		<set name="price" val="2170000"/>
+		<set name="crystal_count" val="289"/>
+		<for>
+			<add val="58" order="0x10" stat="pDef"/>
+			<add val="256" order="0x60" stat="maxMp"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="481" type="Armor" name="Stockings of Grace">
+		<set name="bodypart" val="legs"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="magic"/>
+		<set name="weight" val="2400"/>
+		<set name="crystal_type" val="b"/>
+		<set name="p_def" val="55"/>
+		<set name="mp_bonus" val="236"/>
+		<set name="price" val="1510000"/>
+		<set name="crystal_count" val="201"/>
+		<for>
+			<add val="55" order="0x10" stat="pDef"/>
+			<add val="236" order="0x60" stat="maxMp"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="482" type="Armor" name="Phoenix Stockings">
+		<set name="bodypart" val="legs"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="magic"/>
+		<set name="weight" val="2400"/>
+		<set name="crystal_type" val="b"/>
+		<set name="p_def" val="55"/>
+		<set name="mp_bonus" val="236"/>
+		<set name="price" val="1510000"/>
+		<set name="crystal_count" val="201"/>
+		<for>
+			<add val="55" order="0x10" stat="pDef"/>
+			<add val="236" order="0x60" stat="maxMp"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="483" type="Armor" name="Cerberus Stockings">
+		<set name="bodypart" val="legs"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="magic"/>
+		<set name="weight" val="6400"/>
+		<set name="crystal_type" val="b"/>
+		<set name="p_def" val="58"/>
+		<set name="mp_bonus" val="256"/>
+		<set name="price" val="2170000"/>
+		<set name="crystal_count" val="289"/>
+		<for>
+			<add val="58" order="0x10" stat="pDef"/>
+			<add val="256" order="0x60" stat="maxMp"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="484" type="Armor" name="Stockings of Aid">
+		<set name="bodypart" val="legs"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="magic"/>
+		<set name="weight" val="2400"/>
+		<set name="crystal_type" val="b"/>
+		<set name="p_def" val="55"/>
+		<set name="mp_bonus" val="236"/>
+		<set name="price" val="1510000"/>
+		<set name="crystal_count" val="201"/>
+		<for>
+			<add val="55" order="0x10" stat="pDef"/>
+			<add val="236" order="0x60" stat="maxMp"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="485" type="Armor" name="Tattoo of Power">
+		<set name="bodypart" val="underwear"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="4200"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_def" val="53"/>
+		<set name="price" val="36900"/>
+		<for>
+			<add val="53" order="0x10" stat="pDef"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="486" type="Armor" name="Tattoo of Fire">
+		<set name="bodypart" val="underwear"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="4050"/>
+		<set name="crystal_type" val="d"/>
+		<set name="p_def" val="73"/>
+		<set name="price" val="152000"/>
+		<set name="crystal_count" val="276"/>
+		<for>
+			<add val="73" order="0x10" stat="pDef"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="487" type="Armor" name="Tattoo of Resolve">
+		<set name="bodypart" val="underwear"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="4000"/>
+		<set name="crystal_type" val="d"/>
+		<set name="p_def" val="73"/>
+		<set name="price" val="152000"/>
+		<set name="crystal_count" val="276"/>
+		<for>
+			<add val="73" order="0x10" stat="pDef"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="488" type="Armor" name="Tattoo of Flame">
+		<set name="bodypart" val="underwear"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="800"/>
+		<set name="crystal_type" val="b"/>
+		<set name="p_def" val="139"/>
+		<set name="price" val="3470000"/>
+		<set name="crystal_count" val="462"/>
+		<for>
+			<add val="139" order="0x10" stat="pDef"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="489" type="Armor" name="Tattoo of Bravery">
+		<set name="bodypart" val="underwear"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="4100"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_def" val="110"/>
+		<set name="price" val="1070000"/>
+		<set name="crystal_count" val="428"/>
+		<for>
+			<add val="110" order="0x10" stat="pDef"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="490" type="Armor" name="Tattoo of Blood">
+		<set name="bodypart" val="underwear"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="3800"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_def" val="132"/>
+		<set name="price" val="3470000"/>
+		<set name="crystal_count" val="277"/>
+		<for>
+			<add val="132" order="0x10" stat="pDef"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="491" type="Armor" name="Tattoo of Absolute">
+		<set name="bodypart" val="underwear"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="800"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_def" val="146"/>
+		<set name="price" val="5280000"/>
+		<set name="crystal_count" val="422"/>
+		<for>
+			<add val="146" order="0x10" stat="pDef"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="492" type="Armor" name="Tattoo of Soul">
+		<set name="bodypart" val="underwear"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="4150"/>
+		<set name="crystal_type" val="d"/>
+		<set name="p_def" val="65"/>
+		<set name="price" val="99900"/>
+		<set name="crystal_count" val="181"/>
+		<for>
+			<add val="65" order="0x10" stat="pDef"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="493" type="Armor" name="Tattoo of Avadon">
+		<set name="bodypart" val="underwear"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="4000"/>
+		<set name="crystal_type" val="b"/>
+		<set name="p_def" val="117"/>
+		<set name="price" val="1560000"/>
+		<set name="crystal_count" val="208"/>
+		<for>
+			<add val="117" order="0x10" stat="pDef"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="494" type="Armor" name="Tattoo of Doom">
+		<set name="bodypart" val="underwear"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="4100"/>
+		<set name="crystal_type" val="b"/>
+		<set name="p_def" val="125"/>
+		<set name="price" val="2410000"/>
+		<set name="crystal_count" val="321"/>
+		<for>
+			<add val="125" order="0x10" stat="pDef"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="495" type="Armor" name="Tattoo of Pledge">
+		<set name="bodypart" val="underwear"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="4000"/>
+		<set name="crystal_type" val="b"/>
+		<set name="p_def" val="124"/>
+		<set name="price" val="1560000"/>
+		<set name="crystal_count" val="208"/>
+		<for>
+			<add val="124" order="0x10" stat="pDef"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="496" type="Armor" name="Tattoo of Divine">
+		<set name="bodypart" val="underwear"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="4100"/>
+		<set name="crystal_type" val="b"/>
+		<set name="p_def" val="131"/>
+		<set name="price" val="2410000"/>
+		<set name="crystal_count" val="321"/>
+		<for>
+			<add val="131" order="0x10" stat="pDef"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="497" type="Armor" name="Chain Helmet">
+		<set name="bodypart" val="head"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="620"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_def" val="45"/>
+		<set name="price" val="147000"/>
+		<set name="crystal_count" val="59"/>
+		<for>
+			<add val="45" order="0x10" stat="pDef"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="498" type="Armor" name="Steel Plate Helmet">
+		<set name="bodypart" val="head"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="610"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_def" val="49"/>
+		<set name="price" val="206000"/>
+		<set name="crystal_count" val="82"/>
+		<for>
+			<add val="49" order="0x10" stat="pDef"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="499" type="Armor" name="Mithril Helmet">
+		<set name="bodypart" val="head"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="240"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_def" val="58"/>
+		<set name="price" val="536000"/>
+		<set name="crystal_count" val="214"/>
+		<for>
+			<add val="58" order="0x10" stat="pDef"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+</list>

@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- S-Grade Jewels -->
+
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/multisell.xsd">
+
+	<!-- Recipe: Blacksmith's Frame -->
+	<item id="1">
+		<ingredient id="3470" count="5"/>
+		<production id="2147" count="1"/>
+	</item>
+
+	<!-- Recipe: Maestro Mold -->
+	<item id="2">
+		<ingredient id="3470" count="5"/>
+		<production id="4125" count="1"/>
+	</item>
+
+	<!-- Recipe: Maestro Anvil Lock -->
+	<item id="3">
+		<ingredient id="3470" count="5"/>
+		<production id="4123" count="1"/>
+	</item>
+
+	<!-- Recipe: Maestro Holder -->
+	<item id="4">
+		<ingredient id="3470" count="5"/>
+		<production id="4122" count="1"/>
+	</item>
+
+	<!-- Recipe: Silver Mold -->
+	<item id="5">
+		<ingredient id="3470" count="5"/>
+		<production id="2141" count="1"/>
+	</item>
+
+	<!-- Recipe: Braided Hemp -->
+	<item id="6">
+		<ingredient id="3470" count="2"/>
+		<production id="2135" count="1"/>
+	</item>
+
+	<!-- Recipe: Cokes -->
+	<item id="7">
+		<ingredient id="3470" count="2"/>
+		<production id="2136" count="1"/>
+	</item>
+
+	<!-- Recipe: Steel -->
+	<item id="8">
+		<ingredient id="3470" count="2"/>
+		<production id="2137" count="1"/>
+	</item>
+
+	<!-- Recipe Croase Bone Powder (100%) -->
+	<item id="9">
+		<ingredient id="3470" count="2"/>
+		<production id="2138" count="1"/>
+	</item>
+
+	<!-- Recipe: Steel Mold -->
+	<item id="10">
+		<ingredient id="3470" count="5"/>
+		<production id="2139" count="1"/>
+	</item>
+
+	<!-- Recipe: High Grade Suede -->
+	<item id="11">
+		<ingredient id="3470" count="2"/>
+		<production id="2140" count="1"/>
+	</item>
+
+	<!-- Recipe: Synthetic Cokes -->
+	<item id="12">
+		<ingredient id="3470" count="5"/>
+		<production id="2143" count="1"/>
+	</item>
+
+	<!-- Recipe: Compund Braid -->
+	<item id="13">
+		<ingredient id="3470" count="2"/>
+		<production id="2144" count="1"/>
+	</item>
+
+	<!-- Recipe: Mithril Alloy -->
+	<item id="14">
+		<ingredient id="3470" count="5"/>
+		<production id="2145" count="1"/>
+	</item>
+
+	<!-- Recipe: Artisan's Frame -->
+	<item id="15">
+		<ingredient id="3470" count="5"/>
+		<production id="2145" count="1"/>
+	</item>
+
+	<!-- Recipe: Crafted Leather -->
+	<item id="14">
+		<ingredient id="3470" count="2"/>
+		<production id="2148" count="1"/>
+	</item>
+
+	<!-- Recipe: Silver Mold -->
+	<item id="14">
+		<ingredient id="3470" count="5"/>
+		<production id="2141" count="1"/>
+	</item>
+
+	<!-- Recipe: Cord -->
+	<item id="14">
+		<ingredient id="3470" count="2"/>
+		<production id="1817" count="1"/>
+	</item>
+
+	<!-- Recipe: Warsmith's Holder -->
+	<item id="14">
+		<ingredient id="3470" count="5"/>
+		<production id="5477" count="1"/>
+	</item>
+
+	<!-- Recipe: Varnish of Purity -->
+	<item id="14">
+		<ingredient id="3470" count="5"/>
+		<production id="2142" count="1"/>
+	</item>
+
+</list>

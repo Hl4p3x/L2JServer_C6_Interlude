@@ -1,0 +1,1083 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="3900" type="Armor" name="Wolf's Luxury Plate">
+		<!-- Double-click to wear. Only for wolves. -->
+		<set name="bodypart" val="wolf"/>
+		<set name="armor_type" val="pet"/>
+		<set name="weight" val="160"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_def" val="43"/>
+		<set name="m_def" val="38"/>
+		<set name="price" val="640000"/>
+		<for>
+			<add val="43" order="0x10" stat="pDef"/>
+			<add val="38" order="0x10" stat="mDef"/>
+		</for>
+	</item>
+	<item id="3901" type="Armor" name="Wolf's Mithril Armor">
+		<!-- Double-click to wear. Only for wolves. -->
+		<set name="bodypart" val="wolf"/>
+		<set name="armor_type" val="pet"/>
+		<set name="weight" val="160"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_def" val="47"/>
+		<set name="m_def" val="41"/>
+		<set name="price" val="940000"/>
+		<for>
+			<add val="47" order="0x10" stat="pDef"/>
+			<add val="41" order="0x10" stat="mDef"/>
+		</for>
+	</item>
+	<item id="3902" type="Weapon" name="Ghost Canine">
+		<!-- Double-click to wear. Only for wolves. -->
+		<set name="bodypart" val="wolf"/>
+		<set name="weight" val="100"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_dam" val="11"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="pet"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="277"/>
+		<set name="m_dam" val="10"/>
+		<set name="price" val="61000"/>
+		<for>
+			<add val="11" order="0x10" stat="pAtk"/>
+			<add val="10" order="0x10" stat="mAtk"/>
+			<set val="80" order="0x08" stat="rCrit"/>
+			<set val="304" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="3903" type="Weapon" name="Mithril Canine">
+		<!-- Double-click to wear. Only for wolves. -->
+		<set name="bodypart" val="wolf"/>
+		<set name="weight" val="100"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_dam" val="16"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="pet"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="277"/>
+		<set name="m_dam" val="14"/>
+		<set name="price" val="100000"/>
+		<for>
+			<add val="16" order="0x10" stat="pAtk"/>
+			<add val="14" order="0x10" stat="mAtk"/>
+			<set val="80" order="0x08" stat="rCrit"/>
+			<set val="304" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="3904" type="Weapon" name="Sylvan Canine">
+		<!-- Double-click to wear. Only for wolves. -->
+		<set name="bodypart" val="wolf"/>
+		<set name="weight" val="100"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_dam" val="23"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="pet"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="277"/>
+		<set name="m_dam" val="18"/>
+		<set name="price" val="160000"/>
+		<for>
+			<add val="23" order="0x10" stat="pAtk"/>
+			<add val="18" order="0x10" stat="mAtk"/>
+			<set val="80" order="0x08" stat="rCrit"/>
+			<set val="304" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="3905" type="Weapon" name="Orikarukon Canine">
+		<!-- Double-click to wear. Only for wolves. -->
+		<set name="bodypart" val="wolf"/>
+		<set name="weight" val="100"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_dam" val="31"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="pet"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="277"/>
+		<set name="m_dam" val="24"/>
+		<set name="price" val="240000"/>
+		<for>
+			<add val="31" order="0x10" stat="pAtk"/>
+			<add val="24" order="0x10" stat="mAtk"/>
+			<set val="80" order="0x08" stat="rCrit"/>
+			<set val="304" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="3906" type="Weapon" name="Fang of Saltydog">
+		<!-- Double-click to wear. Only for wolves. -->
+		<set name="bodypart" val="wolf"/>
+		<set name="weight" val="100"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_dam" val="40"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="pet"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="277"/>
+		<set name="m_dam" val="30"/>
+		<set name="price" val="350000"/>
+		<for>
+			<add val="40" order="0x10" stat="pAtk"/>
+			<add val="30" order="0x10" stat="mAtk"/>
+			<set val="80" order="0x08" stat="rCrit"/>
+			<set val="304" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="3907" type="Weapon" name="Fang of Cerberus">
+		<!-- Double-click to wear. Only for wolves. -->
+		<set name="bodypart" val="wolf"/>
+		<set name="weight" val="100"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_dam" val="49"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="pet"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="277"/>
+		<set name="m_dam" val="36"/>
+		<set name="price" val="450000"/>
+		<for>
+			<add val="49" order="0x10" stat="pAtk"/>
+			<add val="36" order="0x10" stat="mAtk"/>
+			<set val="80" order="0x08" stat="rCrit"/>
+			<set val="304" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="3908" type="Weapon" name="Fang of Coyote">
+		<!-- Double-click to wear. Only for wolves. -->
+		<set name="bodypart" val="wolf"/>
+		<set name="weight" val="100"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_dam" val="58"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="pet"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="277"/>
+		<set name="m_dam" val="42"/>
+		<set name="price" val="570000"/>
+		<for>
+			<add val="58" order="0x10" stat="pAtk"/>
+			<add val="42" order="0x10" stat="mAtk"/>
+			<set val="80" order="0x08" stat="rCrit"/>
+			<set val="304" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="3909" type="Weapon" name="Crystalized Ice Canine">
+		<!-- Double-click to wear. Only for wolves. -->
+		<set name="bodypart" val="wolf"/>
+		<set name="weight" val="100"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_dam" val="69"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="pet"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="277"/>
+		<set name="m_dam" val="50"/>
+		<set name="price" val="720000"/>
+		<for>
+			<add val="69" order="0x10" stat="pAtk"/>
+			<add val="50" order="0x10" stat="mAtk"/>
+			<set val="80" order="0x08" stat="rCrit"/>
+			<set val="304" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="3910" type="Weapon" name="Fang of The Blue Wolf">
+		<!-- Double-click to wear. Only for wolves. -->
+		<set name="bodypart" val="wolf"/>
+		<set name="weight" val="100"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_dam" val="80"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="pet"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="277"/>
+		<set name="m_dam" val="58"/>
+		<set name="price" val="1100000"/>
+		<for>
+			<add val="80" order="0x10" stat="pAtk"/>
+			<add val="58" order="0x10" stat="mAtk"/>
+			<set val="80" order="0x08" stat="rCrit"/>
+			<set val="304" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="3911" type="Weapon" name="Fang of Fenril">
+		<!-- Double-click to wear. Only for wolves. -->
+		<set name="bodypart" val="wolf"/>
+		<set name="weight" val="100"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_dam" val="93"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="pet"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="277"/>
+		<set name="m_dam" val="66"/>
+		<set name="price" val="1500000"/>
+		<for>
+			<add val="93" order="0x10" stat="pAtk"/>
+			<add val="66" order="0x10" stat="mAtk"/>
+			<set val="80" order="0x08" stat="rCrit"/>
+			<set val="304" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="3912" type="Armor" name="Hatchling's Soft Leather">
+		<!-- Double-click to wear. Only for hatchlings. -->
+		<set name="bodypart" val="hatchling"/>
+		<set name="armor_type" val="pet"/>
+		<set name="weight" val="160"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_def" val="26"/>
+		<set name="m_def" val="26"/>
+		<set name="price" val="200000"/>
+		<for>
+			<add val="26" order="0x10" stat="pDef"/>
+			<add val="26" order="0x10" stat="mDef"/>
+		</for>
+	</item>
+	<item id="3913" type="Armor" name="Hatchling's Scale Mail">
+		<!-- Double-click to wear. Only for hatchlings. -->
+		<set name="bodypart" val="hatchling"/>
+		<set name="armor_type" val="pet"/>
+		<set name="weight" val="160"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_def" val="29"/>
+		<set name="m_def" val="29"/>
+		<set name="price" val="310000"/>
+		<for>
+			<add val="29" order="0x10" stat="pDef"/>
+			<add val="29" order="0x10" stat="mDef"/>
+		</for>
+	</item>
+	<item id="3914" type="Armor" name="Hatchling's Brigandine">
+		<!-- Double-click to wear. Only for hatchlings. -->
+		<set name="bodypart" val="hatchling"/>
+		<set name="armor_type" val="pet"/>
+		<set name="weight" val="160"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_def" val="31"/>
+		<set name="m_def" val="31"/>
+		<set name="price" val="420000"/>
+		<for>
+			<add val="31" order="0x10" stat="pDef"/>
+			<add val="31" order="0x10" stat="mDef"/>
+		</for>
+	</item>
+	<item id="3915" type="Armor" name="Hatchling's Bronze Coat">
+		<!-- Double-click to wear. Only for hatchlings. -->
+		<set name="bodypart" val="hatchling"/>
+		<set name="armor_type" val="pet"/>
+		<set name="weight" val="160"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_def" val="33"/>
+		<set name="m_def" val="33"/>
+		<set name="price" val="570000"/>
+		<for>
+			<add val="33" order="0x10" stat="pDef"/>
+			<add val="33" order="0x10" stat="mDef"/>
+		</for>
+	</item>
+	<item id="3916" type="Armor" name="Hatchling's Steel Coat">
+		<!-- Double-click to wear. Only for hatchlings. -->
+		<set name="bodypart" val="hatchling"/>
+		<set name="armor_type" val="pet"/>
+		<set name="weight" val="160"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_def" val="36"/>
+		<set name="m_def" val="36"/>
+		<set name="price" val="760000"/>
+		<for>
+			<add val="36" order="0x10" stat="pDef"/>
+			<add val="36" order="0x10" stat="mDef"/>
+		</for>
+	</item>
+	<item id="3917" type="Armor" name="Hatchling's Shadowplate">
+		<!-- Double-click to wear. Only for hatchlings. -->
+		<set name="bodypart" val="hatchling"/>
+		<set name="armor_type" val="pet"/>
+		<set name="weight" val="160"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_def" val="38"/>
+		<set name="m_def" val="38"/>
+		<set name="price" val="1100000"/>
+		<for>
+			<add val="38" order="0x10" stat="pDef"/>
+			<add val="38" order="0x10" stat="mDef"/>
+		</for>
+	</item>
+	<item id="3918" type="Armor" name="Hatchling's Mithril Coat">
+		<!-- Double-click to wear. Only for hatchlings. -->
+		<set name="bodypart" val="hatchling"/>
+		<set name="armor_type" val="pet"/>
+		<set name="weight" val="160"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_def" val="41"/>
+		<set name="m_def" val="41"/>
+		<set name="price" val="1600000"/>
+		<for>
+			<add val="41" order="0x10" stat="pDef"/>
+			<add val="41" order="0x10" stat="mDef"/>
+		</for>
+	</item>
+	<item id="3919" type="Weapon" name="Serpent Fang">
+		<!-- Double-click to wear. Only for hatchlings. -->
+		<set name="bodypart" val="hatchling"/>
+		<set name="weight" val="100"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_dam" val="8"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="pet"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="277"/>
+		<set name="m_dam" val="7"/>
+		<set name="price" val="200000"/>
+		<for>
+			<add val="8" order="0x10" stat="pAtk"/>
+			<add val="7" order="0x10" stat="mAtk"/>
+			<set val="80" order="0x08" stat="rCrit"/>
+			<set val="304" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="3920" type="Weapon" name="Viperbite">
+		<!-- Double-click to wear. Only for hatchlings. -->
+		<set name="bodypart" val="hatchling"/>
+		<set name="weight" val="100"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_dam" val="9"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="pet"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="277"/>
+		<set name="m_dam" val="10"/>
+		<set name="price" val="310000"/>
+		<for>
+			<add val="9" order="0x10" stat="pAtk"/>
+			<add val="10" order="0x10" stat="mAtk"/>
+			<set val="80" order="0x08" stat="rCrit"/>
+			<set val="304" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="3921" type="Weapon" name="Shadow Fang">
+		<!-- Double-click to wear. Only for hatchlings. -->
+		<set name="bodypart" val="hatchling"/>
+		<set name="weight" val="100"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_dam" val="10"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="pet"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="277"/>
+		<set name="m_dam" val="11"/>
+		<set name="price" val="420000"/>
+		<for>
+			<add val="10" order="0x10" stat="pAtk"/>
+			<add val="11" order="0x10" stat="mAtk"/>
+			<set val="80" order="0x08" stat="rCrit"/>
+			<set val="304" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="3922" type="Weapon" name="Alya Fang">
+		<!-- Double-click to wear. Only for hatchlings. -->
+		<set name="bodypart" val="hatchling"/>
+		<set name="weight" val="100"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_dam" val="12"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="pet"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="277"/>
+		<set name="m_dam" val="13"/>
+		<set name="price" val="570000"/>
+		<for>
+			<add val="12" order="0x10" stat="pAtk"/>
+			<add val="13" order="0x10" stat="mAtk"/>
+			<set val="80" order="0x08" stat="rCrit"/>
+			<set val="304" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="3923" type="Weapon" name="Torturer">
+		<!-- Double-click to wear. Only for hatchlings. -->
+		<set name="bodypart" val="hatchling"/>
+		<set name="weight" val="100"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_dam" val="13"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="pet"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="277"/>
+		<set name="m_dam" val="16"/>
+		<set name="price" val="760000"/>
+		<for>
+			<add val="13" order="0x10" stat="pAtk"/>
+			<add val="16" order="0x10" stat="mAtk"/>
+			<set val="80" order="0x08" stat="rCrit"/>
+			<set val="304" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="3924" type="Weapon" name="Unuk Alhay Fang">
+		<!-- Double-click to wear. Only for hatchlings. -->
+		<set name="bodypart" val="hatchling"/>
+		<set name="weight" val="100"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_dam" val="15"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="pet"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="277"/>
+		<set name="m_dam" val="18"/>
+		<set name="price" val="1100000"/>
+		<for>
+			<add val="15" order="0x10" stat="pAtk"/>
+			<add val="18" order="0x10" stat="mAtk"/>
+			<set val="80" order="0x08" stat="rCrit"/>
+			<set val="304" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="3925" type="Weapon" name="Antiplague">
+		<!-- Double-click to wear. Only for hatchlings. -->
+		<set name="bodypart" val="hatchling"/>
+		<set name="weight" val="100"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_dam" val="17"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="pet"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="277"/>
+		<set name="m_dam" val="21"/>
+		<set name="price" val="1600000"/>
+		<for>
+			<add val="17" order="0x10" stat="pAtk"/>
+			<add val="21" order="0x10" stat="mAtk"/>
+			<set val="80" order="0x08" stat="rCrit"/>
+			<set val="304" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="3926" type="EtcItem" name="L2Day - Scroll of Guidance">
+		<!-- Increases accuracy. Intensity 3. -->
+		<set name="item_type" val="scroll"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="3927" type="EtcItem" name="L2Day - Scroll of Death Whisper">
+		<!-- Increases critical attack power. Intensity 3. -->
+		<set name="item_type" val="scroll"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="3928" type="EtcItem" name="L2Day - Scroll of Focus">
+		<!-- Increases critical rate. Intensity 3. -->
+		<set name="item_type" val="scroll"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="3929" type="EtcItem" name="L2Day - Scroll of Greater Acumen">
+		<!-- Increases spell casting speed. Intensity 3. -->
+		<set name="item_type" val="scroll"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="3930" type="EtcItem" name="L2Day - Scroll of Haste">
+		<!-- Increases attack speed. Intensity 2. -->
+		<set name="item_type" val="scroll"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="3931" type="EtcItem" name="L2Day - Scroll of Agility">
+		<!-- Increases evasion. Intensity 3. -->
+		<set name="item_type" val="scroll"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="3932" type="EtcItem" name="L2Day - Scroll of Mystic Empower">
+		<!-- Increases magic power. Intensity 3. -->
+		<set name="item_type" val="scroll"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="3933" type="EtcItem" name="L2Day - Scroll of Might">
+		<!-- Increases attack power. Intensity 3. -->
+		<set name="item_type" val="scroll"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="3934" type="EtcItem" name="L2Day - Scroll of Windwalk">
+		<!-- Increases movement speed. Intensity 2. -->
+		<set name="item_type" val="scroll"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="3935" type="EtcItem" name="L2Day - Scroll of Shield">
+		<!-- Increases defense. Intensity 3. -->
+		<set name="item_type" val="scroll"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="3936" type="EtcItem" name="Blessed Scroll of Resurrection">
+		<!-- A magic scroll that resurrects a dead character and restores his or her Exp. completely. -->
+		<set name="item_type" val="scroll"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="400000"/>
+	</item>
+	<item id="3937" type="Weapon" name="Giant Bar">
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="300"/>
+		<set name="soulshots" val="2"/>
+		<set name="spiritshots" val="2"/>
+		<set name="crystal_type" val="d"/>
+		<set name="p_dam" val="50"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="pole"/>
+		<set name="critical" val="8"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="26"/>
+		<set name="price" val="409000"/>
+		<set name="crystal_count" val="743"/>
+		<for>
+			<set val="50" order="0x08" stat="pAtk"/>
+			<set val="26" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<set val="66" order="0x08" stat="pAtkRange"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="3938" type="Weapon" name="Giant Rod">
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="300"/>
+		<set name="soulshots" val="2"/>
+		<set name="spiritshots" val="2"/>
+		<set name="crystal_type" val="d"/>
+		<set name="p_dam" val="50"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="pole"/>
+		<set name="critical" val="8"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="26"/>
+		<set name="price" val="409000"/>
+		<set name="crystal_count" val="743"/>
+		<for>
+			<set val="50" order="0x08" stat="pAtk"/>
+			<set val="26" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<set val="66" order="0x08" stat="pAtkRange"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="3939" type="Weapon" name="Lady's Fan">
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="300"/>
+		<set name="soulshots" val="2"/>
+		<set name="spiritshots" val="2"/>
+		<set name="crystal_type" val="d"/>
+		<set name="p_dam" val="50"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="pole"/>
+		<set name="critical" val="8"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="26"/>
+		<set name="price" val="409000"/>
+		<set name="crystal_count" val="743"/>
+		<for>
+			<set val="50" order="0x08" stat="pAtk"/>
+			<set val="26" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<set val="66" order="0x08" stat="pAtkRange"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="3940" type="EtcItem" name="Blueprint: Summon Siege Golem">
+		<!-- Blueprint needed to learn the Summon Siege Golem technique. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="4800"/>
+	</item>
+	<item id="3941" type="EtcItem" name="Spellbook: Mass Resurrection">
+		<!-- Spellbook needed to learn Mass Resurrection. Used by Bishops. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="4600"/>
+	</item>
+	<item id="3942" type="EtcItem" name="Spellbook: Party Return">
+		<!-- Spellbook needed to learn Party Return. Used by Elven Elders. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="4600"/>
+	</item>
+	<item id="3943" type="EtcItem" name="Amulet: Pa'agrio's Heart">
+		<!-- Amulet required for the Pa'agrio's Heart spell. Used by Overlords. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3850"/>
+	</item>
+	<item id="3944" type="EtcItem" name="Spellbook: Decrease Weight">
+		<!-- Spellbook needed to learn Decrease Weight. Used by Elven Oracles. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="2450"/>
+	</item>
+	<item id="3945" type="EtcItem" name="Boat Ticket: Talking Island to Giran">
+		<!-- Ship ticket: From Talking Island - To Giran -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="20"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="8000"/>
+	</item>
+	<item id="3946" type="EtcItem" name="Boat Ticket: Giran to Talking Island">
+		<!-- Ship ticket: From Giran - To Talking Island -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="20"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="8000"/>
+	</item>
+	<item id="3947" type="EtcItem" name="Blessed Spiritshot: No Grade">
+		<!-- The power of a higher-level spirit is bestowed upon a weapon, temporarily increasing its magic significantly. Used with No Grade weapons. -->
+		<set name="item_type" val="shot"/>
+		<set name="weight" val="5"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="35"/>
+	</item>
+	<item id="3948" type="EtcItem" name="Blessed Spiritshot: D-Grade">
+		<!-- The power of a higher-level spirit is bestowed upon a weapon, temporarily increasing its magic significantly. Used with D-grade weapons. -->
+		<set name="item_type" val="shot"/>
+		<set name="weight" val="5"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="d"/>
+		<set name="price" val="45"/>
+	</item>
+	<item id="3949" type="EtcItem" name="Blessed Spiritshot: C-Grade">
+		<!-- The power of a higher-level spirit is bestowed upon a weapon, temporarily increasing its magic significantly. Used with C-grade weapons. -->
+		<set name="item_type" val="shot"/>
+		<set name="weight" val="3"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="c"/>
+		<set name="price" val="90"/>
+	</item>
+	<item id="3950" type="EtcItem" name="Blessed Spiritshot: B-Grade">
+		<!-- The power of a higher-level spirit is bestowed upon a weapon, temporarily increasing its magic significantly. Used with B-grade weapons. -->
+		<set name="item_type" val="shot"/>
+		<set name="weight" val="3"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="b"/>
+		<set name="price" val="245"/>
+	</item>
+	<item id="3951" type="EtcItem" name="Blessed Spiritshot: A-Grade">
+		<!-- The power of a higher-level spirit is bestowed upon a weapon, temporarily increasing its magic significantly. Used with a-grade weapons. -->
+		<set name="item_type" val="shot"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="a"/>
+		<set name="price" val="290"/>
+	</item>
+	<item id="3952" type="EtcItem" name="Blessed Spiritshot: S Grade">
+		<!-- The power of a higher-level spirit is bestowed upon a weapon, temporarily increasing its magic significantly. Used with S-grade weapons. -->
+		<set name="item_type" val="shot"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="s"/>
+		<set name="price" val="350"/>
+	</item>
+	<item id="3953" type="EtcItem" name="Recipe: Blessed Spiritshot D">
+		<!-- For Dwarves only. The recipe for the Blessed Spiritshot: Grade D. Requires Create Item - Skill Level 2. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="5000"/>
+	</item>
+	<item id="3954" type="EtcItem" name="Recipe: Blessed Spiritshot C">
+		<!-- For Dwarves only. The recipe for the Blessed Spiritshot: Grade C. Requires Create Item - Skill Level 4. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="60000"/>
+	</item>
+	<item id="3955" type="EtcItem" name="Recipe: Blessed Spiritshot B">
+		<!-- For Dwarves only. The recipe for the Blessed Spiritshot: Grade B. Requires Create Item - Skill Level 6. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="100000"/>
+	</item>
+	<item id="3956" type="EtcItem" name="Recipe: Blessed Spiritshot A">
+		<!-- For Dwarves only. The recipe for the Blessed Spiritshot: Grade A. Requires Create Item - Skill Level 7. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="150000"/>
+	</item>
+	<item id="3957" type="EtcItem" name="Recipe: Blessed Spiritshot S">
+		<!-- For Dwarves only. The recipe for the Blessed Spiritshot: Grade S. Requires Create Item - Skill Level 8. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="450000"/>
+	</item>
+	<item id="3958" type="EtcItem" name="L2Day - Blessed Escape Effect">
+		<!-- A magical scroll that relocates user to the nearest village -->
+		<set name="item_type" val="scroll"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="3959" type="EtcItem" name="L2Day - Blessed Resurrection Efffect">
+		<!-- A magic scroll that resurrects a dead character and restores his or her Exp. completely. -->
+		<set name="item_type" val="scroll"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="3960" type="EtcItem" name="Mercenary Posting Ticket (Sword/Stationary)">
+		<!-- Gludio/Sword/Stationary. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="30000"/>
+	</item>
+	<item id="3961" type="EtcItem" name="Mercenary Posting Ticket (Spear/Stationary)">
+		<!-- Gludio/Spear/Stationary. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="40000"/>
+	</item>
+	<item id="3962" type="EtcItem" name="Mercenary Posting Ticket (Bow/Stationary)">
+		<!-- Gludio/Bow/Stationary. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="50000"/>
+	</item>
+	<item id="3963" type="EtcItem" name="Mercenary Posting Ticket (Cleric/Stationary)">
+		<!-- Gludio/Cleric/Stationary. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="150000"/>
+	</item>
+	<item id="3964" type="EtcItem" name="Mercenary Posting Ticket (Wizard/Stationary)">
+		<!-- Gludio/Wizard/Stationary. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="150000"/>
+	</item>
+	<item id="3965" type="EtcItem" name="Mercenary Posting Ticket (Sword/Mobile)">
+		<!-- Gludio/Sword/Mobile. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="30000"/>
+	</item>
+	<item id="3966" type="EtcItem" name="Mercenary Posting Ticket (Spear/Mobile)">
+		<!-- Gludio/Spear/Mobile. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="40000"/>
+	</item>
+	<item id="3967" type="EtcItem" name="Mercenary Posting Ticket (Bow/Mobile)">
+		<!-- Gludio/Bow/Mobile. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="50000"/>
+	</item>
+	<item id="3968" type="EtcItem" name="Mercenary Posting Ticket (Cleric/Mobile)">
+		<!-- Gludio/Cleric/Mobile. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="150000"/>
+	</item>
+	<item id="3969" type="EtcItem" name="Mercenary Posting Ticket (Wizard/Mobile)">
+		<!-- Gludio/Wizard/Mobile. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="150000"/>
+	</item>
+	<item id="3970" type="EtcItem" name="Mercenary Posting Ticket (Teleporter1)">
+		<!-- Placed in Gludio, at the Teleporter or inside the castle, this ticket allows teleportation to the inner castle or the guardian's location. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="100000"/>
+	</item>
+	<item id="3971" type="EtcItem" name="Mercenary Posting Ticket (Teleporter2)">
+		<!-- Placed in Gludio, at the Teleporter or inside the castle, this ticket allows teleportation to the outer castle or the guardian's location. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="100000"/>
+	</item>
+	<item id="3972" type="EtcItem" name="Mercenary Posting Ticket (Teleporter3)">
+		<!-- Placed in Gludio, at the Teleporter or inside the castle, this ticket allows teleportation to the inner or outer castle. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="100000"/>
+	</item>
+	<item id="3973" type="EtcItem" name="Mercenary Posting Ticket (Sword/Stationary)">
+		<!-- Dion/Sword/Stationary. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="30000"/>
+	</item>
+	<item id="3974" type="EtcItem" name="Mercenary Posting Ticket (Spear/Stationary)">
+		<!-- Dion/Spear/Stationary. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="40000"/>
+	</item>
+	<item id="3975" type="EtcItem" name="Mercenary Posting Ticket (Bow/Stationary)">
+		<!-- Dion/Bow/Stationary. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="50000"/>
+	</item>
+	<item id="3976" type="EtcItem" name="Mercenary Posting Ticket (Cleric/Stationary)">
+		<!-- Dion/Cleric/Stationary. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="150000"/>
+	</item>
+	<item id="3977" type="EtcItem" name="Mercenary Posting Ticket (Wizard/Stationary)">
+		<!-- Dion/Wizard/Stationary. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="150000"/>
+	</item>
+	<item id="3978" type="EtcItem" name="Mercenary Posting Ticket (Sword/Mobile)">
+		<!-- Dion/Sword/Mobile. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="30000"/>
+	</item>
+	<item id="3979" type="EtcItem" name="Mercenary Posting Ticket (Spear/Mobile)">
+		<!-- Dion/Spear/Mobile. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="40000"/>
+	</item>
+	<item id="3980" type="EtcItem" name="Mercenary Posting Ticket (Bow/Mobile)">
+		<!-- Dion/Bow/Mobile. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="50000"/>
+	</item>
+	<item id="3981" type="EtcItem" name="Mercenary Posting Ticket (Cleric/Mobile)">
+		<!-- Dion/Cleric/Mobile. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="150000"/>
+	</item>
+	<item id="3982" type="EtcItem" name="Mercenary Posting Ticket (Wizard/Mobile)">
+		<!-- Dion/Wizard/Mobile. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="150000"/>
+	</item>
+	<item id="3983" type="EtcItem" name="Mercenary Posting Ticket (Teleporter1)">
+		<!-- Placed in Dion, at the Teleporter or inside the castle, this ticket allows teleportation to the inner castle or the guardian's location. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="100000"/>
+	</item>
+	<item id="3984" type="EtcItem" name="Mercenary Posting Ticket (Teleporter2)">
+		<!-- Placed in Dion, at the Teleporter or inside the castle, this ticket allows teleportation to the outer castle or the guardian's location. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="100000"/>
+	</item>
+	<item id="3985" type="EtcItem" name="Mercenary Posting Ticket (Teleporter3)">
+		<!-- Placed in Dion, at the Teleporter or inside the castle, this ticket allows teleportation to the inner or outer castle. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="100000"/>
+	</item>
+	<item id="3986" type="EtcItem" name="Mercenary Posting Ticket (Sword/Stationary)">
+		<!-- Giran/Sword/Stationary. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="30000"/>
+	</item>
+	<item id="3987" type="EtcItem" name="Mercenary Posting Ticket (Spear/Stationary)">
+		<!-- Giran/Spear/Stationary. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="40000"/>
+	</item>
+	<item id="3988" type="EtcItem" name="Mercenary Posting Ticket (Bow/Stationary)">
+		<!-- Giran/Bow/Stationary. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="50000"/>
+	</item>
+	<item id="3989" type="EtcItem" name="Mercenary Posting Ticket (Cleric/Stationary)">
+		<!-- Giran/Cleric/Stationary. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="150000"/>
+	</item>
+	<item id="3990" type="EtcItem" name="Mercenary Posting Ticket (Wizard/Stationary)">
+		<!-- Giran/Wizard/Stationary. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="150000"/>
+	</item>
+	<item id="3991" type="EtcItem" name="Mercenary Posting Ticket (Sword/Mobile)">
+		<!-- Giran/Sword/Mobile. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="30000"/>
+	</item>
+	<item id="3992" type="EtcItem" name="Mercenary Posting Ticket (Spear/Mobile)">
+		<!-- Giran/Spear/Mobile. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="40000"/>
+	</item>
+	<item id="3993" type="EtcItem" name="Mercenary Posting Ticket (Bow/Mobile)">
+		<!-- Giran/Bow/Mobile. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="50000"/>
+	</item>
+	<item id="3994" type="EtcItem" name="Mercenary Posting Ticket (Cleric/Mobile)">
+		<!-- Giran/Cleric/Mobile. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="150000"/>
+	</item>
+	<item id="3995" type="EtcItem" name="Mercenary Posting Ticket (Wizard/Mobile)">
+		<!-- Giran/Wizard/Mobile. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="150000"/>
+	</item>
+	<item id="3996" type="EtcItem" name="Mercenary Posting Ticket (Teleporter1)">
+		<!-- Placed in Giran, at the Teleporter or inside the castle, this ticket allows teleportation to the inner castle or the guardian's location. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="100000"/>
+	</item>
+	<item id="3997" type="EtcItem" name="Mercenary Posting Ticket (Teleporter2)">
+		<!-- Placed in Giran, at the Teleporter or inside the castle, this ticket allows teleportation to the outer castle or the guardian's location. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="100000"/>
+	</item>
+	<item id="3998" type="EtcItem" name="Mercenary Posting Ticket (Teleporter3)">
+		<!-- Placed in Giran, at the Teleporter or inside the castle, this ticket allows teleportation to the inner or outer castle. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="100000"/>
+	</item>
+	<item id="3999" type="EtcItem" name="Mercenary Posting Ticket (Sword/Stationary)">
+		<!-- Oren/Sword/Stationary. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="30000"/>
+	</item>
+</list>

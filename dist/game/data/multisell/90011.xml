@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Custom GM-Shop -->
+<list maintainEnchantment="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/multisell.xsd">
+	<!-- Tateossian Necklace -->
+	<item id="1">
+		<ingredient id="57" count="3000000"/>
+		<production id="920" count="1"/>
+	</item>
+	<!-- Tateossian Necklace -->
+	<item id="2">
+		<ingredient id="57" count="3000000"/>
+		<production id="858" count="1"/>
+	</item>
+	<!-- Tateossian Necklace -->
+	<item id="3">
+		<ingredient id="57" count="3000000"/>
+		<production id="889" count="1"/>
+	</item>
+</list>

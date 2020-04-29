@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Raid Boss Jewels -->
+
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/multisell.xsd">
+
+	<!-- Necklace of Valakas -->
+	<item id="1">
+		<ingredient id="4048" count="4"/>
+		<ingredient id="2134" count="40"/>
+		<ingredient id="4044" count="100"/>
+		<ingredient id="5554" count="4"/>
+		<ingredient id="1890" count="100"/>
+		<ingredient id="1887" count="60"/>
+		<ingredient id="1895" count="300"/>
+		<ingredient id="4037" count="50000"/>
+		<production id="6657" count="1"/>
+	</item>
+
+	<!-- Frintezza's Necklace -->
+	<item id="2">
+		<ingredient id="4048" count="2"/>
+		<ingredient id="2134" count="30"/>
+		<ingredient id="4044" count="80"/>
+		<ingredient id="5554" count="3"/>
+		<ingredient id="1890" count="80"/>
+		<ingredient id="4037" count="30000"/>
+		<ingredient id="1887" count="50"/>
+		<ingredient id="1895" count="267"/>
+		<production id="8191" count="1"/>
+	</item>
+
+	<!-- Ring of Queen Ant -->
+	<item id="3">
+		<ingredient id="4048" count="4"/>
+		<ingredient id="2134" count="40"/>
+		<ingredient id="5554" count="4"/>
+		<ingredient id="1890" count="100"/>
+		<ingredient id="4037" count="50000"/>
+		<ingredient id="4044" count="100"/>
+		<ingredient id="1887" count="60"/>
+		<ingredient id="1895" count="300"/>
+		<production id="6660" count="1"/>
+	</item>
+
+	<!-- Ring of Baium -->
+	<item id="4">
+		<ingredient id="4048" count="4"/>
+		<ingredient id="2134" count="40"/>
+		<ingredient id="5554" count="4"/>
+		<ingredient id="4037" count="50000"/>
+		<ingredient id="1890" count="100"/>
+		<ingredient id="4044" count="100"/>
+		<ingredient id="1887" count="60"/>
+		<ingredient id="1895" count="300"/>
+		<production id="6658" count="1"/>
+	</item>
+
+	<!-- Ring of Core -->
+	<item id="5">
+		<ingredient id="4048" count="2"/>
+		<ingredient id="2134" count="30"/>
+		<ingredient id="1890" count="80"/>
+		<ingredient id="5554" count="3"/>
+		<ingredient id="4044" count="80"/>
+		<ingredient id="4037" count="30000"/>
+		<ingredient id="1887" count="50"/>
+		<ingredient id="1895" count="267"/>
+		<production id="6662" count="1"/>
+	</item>
+
+	<!-- Earring of Antharas -->
+	<item id="6">
+		<ingredient id="4048" count="4"/>
+		<ingredient id="2134" count="40"/>
+		<ingredient id="4044" count="100"/>
+		<ingredient id="1890" count="100"/>
+		<ingredient id="1887" count="60"/>
+		<ingredient id="5554" count="4"/>
+		<ingredient id="4037" count="50000"/>
+		<ingredient id="1895" count="300"/>
+		<production id="6656" count="1"/>
+	</item>
+
+	<!-- Zaken's Earring -->
+	<item id="7">
+		<ingredient id="4048" count="4"/>
+		<ingredient id="2134" count="40"/>
+		<ingredient id="5554" count="4"/>
+		<ingredient id="4044" count="100"/>
+		<ingredient id="1890" count="100"/>
+		<ingredient id="4037" count="50000"/>
+		<ingredient id="1887" count="60"/>
+		<ingredient id="1895" count="300"/>
+		<production id="6659" count="1"/>
+	</item>
+
+	<!-- Earring of Orfen -->
+	<item id="8">
+		<ingredient id="4048" count="2"/>
+		<ingredient id="2134" count="30"/>
+		<ingredient id="4044" count="80"/>
+		<ingredient id="5554" count="3"/>
+		<ingredient id="1890" count="80"/>
+		<ingredient id="4037" count="30000"/>
+		<ingredient id="1887" count="50"/>
+		<ingredient id="1895" count="267"/>
+		<production id="6661" count="1"/>
+	</item>
+
+</list>

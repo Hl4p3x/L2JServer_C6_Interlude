@@ -1,0 +1,31 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="list">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="access" maxOccurs="unbounded" minOccurs="0">
+					<xs:complexType>
+						<xs:simpleContent>
+							<xs:extension base="xs:string">
+								<xs:attribute type="xs:byte" name="level" use="required"/>
+								<xs:attribute type="xs:string" name="name" use="required"/>
+								<xs:attribute type="xs:string" name="nameColor" use="required"/>
+								<xs:attribute type="xs:string" name="useNameColor" use="required"/>
+								<xs:attribute type="xs:string" name="titleColor" use="required"/>
+								<xs:attribute type="xs:string" name="useTitleColor" use="required"/>
+								<xs:attribute type="xs:string" name="isGm" use="required"/>
+								<xs:attribute type="xs:string" name="allowPeaceAttack" use="required"/>
+								<xs:attribute type="xs:string" name="allowFixedRes" use="required"/>
+								<xs:attribute type="xs:string" name="allowTransaction" use="required"/>
+								<xs:attribute type="xs:string" name="allowAltg" use="required"/>
+								<xs:attribute type="xs:string" name="giveDamage" use="required"/>
+								<xs:attribute type="xs:string" name="takeAggro" use="required"/>
+								<xs:attribute type="xs:string" name="gainExp" use="required"/>
+								<xs:attribute type="xs:string" name="canDisableGmStatus" use="required"/>
+							</xs:extension>
+						</xs:simpleContent>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

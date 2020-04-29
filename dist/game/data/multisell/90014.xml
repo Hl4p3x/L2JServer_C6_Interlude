@@ -1,0 +1,239 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Custom GM-Shop -->
+<list maintainEnchantment="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/multisell.xsd">
+	<!-- Sword of Damascus - Haste -->
+	<item id="1">
+		<ingredient id="57" count="10000000"/>
+		<production id="4719" count="1"/>
+	</item>
+	<!-- Sword of Damascus - Focus -->
+	<item id="2">
+		<ingredient id="57" count="10000000"/>
+		<production id="4717" count="1"/>
+	</item>
+	<!-- Sword of Damascus - Critical Damage -->
+	<item id="3">
+		<ingredient id="57" count="10000000"/>
+		<production id="4718" count="1"/>
+	</item>
+	<!-- Keshanberk - Back Blow -->
+	<item id="4">
+		<ingredient id="57" count="10000000"/>
+		<production id="4716" count="1"/>
+	</item>
+	<!-- Keshanberk - Focus -->
+	<item id="5">
+		<ingredient id="57" count="10000000"/>
+		<production id="4715" count="1"/>
+	</item>
+	<!-- Sword of Valhalla - Acumen -->
+	<item id="6">
+		<ingredient id="57" count="10000000"/>
+		<production id="7722" count="1"/>
+	</item>
+	<!-- Sword of Valhalla - Magic Regeneration -->
+	<item id="7">
+		<ingredient id="57" count="10000000"/>
+		<production id="7724" count="1"/>
+	</item>
+	<!-- Sword of Valhalla - Magic Weakness -->
+	<item id="8">
+		<ingredient id="57" count="10000000"/>
+		<production id="7723" count="1"/>
+	</item>
+	<!-- Lance - Towering Blow -->
+	<item id="9">
+		<ingredient id="57" count="10000000"/>
+		<production id="4860" count="1"/>
+	</item>
+	<!-- Lance - Critical Stun -->
+	<item id="10">
+		<ingredient id="57" count="10000000"/>
+		<production id="4859" count="1"/>
+	</item>
+	<!-- Lance - Anger -->
+	<item id="11">
+		<ingredient id="57" count="10000000"/>
+		<production id="4858" count="1"/>
+	</item>
+	<!-- Great Axe - Anger -->
+	<item id="12">
+		<ingredient id="57" count="10000000"/>
+		<production id="4855" count="1"/>
+	</item>
+	<!-- Great Axe - Critical Stun -->
+	<item id="13">
+		<ingredient id="57" count="10000000"/>
+		<production id="4856" count="1"/>
+	</item>
+	<!-- Great Axe - Light -->
+	<item id="14">
+		<ingredient id="57" count="10000000"/>
+		<production id="4857" count="1"/>
+	</item>
+	<!-- Bellion Cestus - Critical Drain -->
+	<item id="15">
+		<ingredient id="57" count="10000000"/>
+		<production id="4804" count="1"/>
+	</item>
+	<!-- Bellion Cestus - Critical Poison -->
+	<item id="16">
+		<ingredient id="57" count="10000000"/>
+		<production id="4805" count="1"/>
+	</item>
+	<!-- Bellion Cestus - Rsk. Haste -->
+	<item id="17">
+		<ingredient id="57" count="10000000"/>
+		<production id="4806" count="1"/>
+	</item>
+	<!-- Arthro Nail - Critical Poison -->
+	<item id="18">
+		<ingredient id="57" count="10000000"/>
+		<production id="4801" count="1"/>
+	</item>
+	<!-- Arthro Nail - Rsk. Evasion -->
+	<item id="19">
+		<ingredient id="57" count="10000000"/>
+		<production id="4802" count="1"/>
+	</item>
+	<!-- Arthro Nail - Rsk. Haste -->
+	<item id="20">
+		<ingredient id="57" count="10000000"/>
+		<production id="4803" count="1"/>
+	</item>
+	<!-- Samurai Long Sword*Samurai Long Sword -->
+	<item id="21">
+		<ingredient id="57" count="10000000"/>
+		<production id="2626" count="1"/>
+	</item>
+	<!-- Sword of Delusion*Samurai Long Sword -->
+	<item id="22">
+		<ingredient id="57" count="10000000"/>
+		<production id="2620" count="1"/>
+	</item>
+	<!-- Tsurugi*Tsurugi -->
+	<item id="23">
+		<ingredient id="57" count="10000000"/>
+		<production id="2624" count="1"/>
+	</item>
+	<!-- Demon Dagger - Mortal Strike -->
+	<item id="24">
+		<ingredient id="57" count="10000000"/>
+		<production id="4782" count="1"/>
+	</item>
+	<!-- Demon Dagger - Critical Poison -->
+	<item id="25">
+		<ingredient id="57" count="10000000"/>
+		<production id="4781" count="1"/>
+	</item>
+	<!-- Demon Dagger - Critical Damage -->
+	<item id="26">
+		<ingredient id="57" count="10000000"/>
+		<production id="6359" count="1"/>
+	</item>
+	<!-- Kris - Back Blow -->
+	<item id="27">
+		<ingredient id="57" count="10000000"/>
+		<production id="4779" count="1"/>
+	</item>
+	<!-- Kris - Evasion -->
+	<item id="28">
+		<ingredient id="57" count="10000000"/>
+		<production id="4777" count="1"/>
+	</item>
+	<!-- Kris - Focus -->
+	<item id="29">
+		<ingredient id="57" count="10000000"/>
+		<production id="4778" count="1"/>
+	</item>
+	<!-- Bow of Peril - Cheap Shot -->
+	<item id="30">
+		<ingredient id="57" count="10000000"/>
+		<production id="4830" count="1"/>
+	</item>
+	<!-- Bow of Peril - Guidance -->
+	<item id="31">
+		<ingredient id="57" count="10000000"/>
+		<production id="4828" count="1"/>
+	</item>
+	<!-- Bow of Peril - Quick Recovery -->
+	<item id="32">
+		<ingredient id="57" count="10000000"/>
+		<production id="4829" count="1"/>
+	</item>
+	<!-- Dark Elven Long Bow - Critical Bleed -->
+	<item id="33">
+		<ingredient id="57" count="10000000"/>
+		<production id="4826" count="1"/>
+	</item>
+	<!-- Dark Elven Long Bow - Evasion -->
+	<item id="34">
+		<ingredient id="57" count="10000000"/>
+		<production id="4825" count="1"/>
+	</item>
+	<!-- Dark Elven Long Bow - Miser -->
+	<item id="35">
+		<ingredient id="57" count="10000000"/>
+		<production id="4827" count="1"/>
+	</item>
+	<!-- Art of Battle Axe - Haste -->
+	<item id="36">
+		<ingredient id="57" count="10000000"/>
+		<production id="4755" count="1"/>
+	</item>
+	<!-- Art of Battle Axe - Health -->
+	<item id="37">
+		<ingredient id="57" count="10000000"/>
+		<production id="4753" count="1"/>
+	</item>
+	<!-- Art of Battle Axe - Rsk. Focus -->
+	<item id="38">
+		<ingredient id="57" count="10000000"/>
+		<production id="4754" count="1"/>
+	</item>
+	<!-- Spell Breaker - Acumen -->
+	<item id="39">
+		<ingredient id="57" count="10000000"/>
+		<production id="8141" count="1"/>
+	</item>
+	<!-- Spell Breaker - Magic Hold -->
+	<item id="40">
+		<ingredient id="57" count="10000000"/>
+		<production id="8143" count="1"/>
+	</item>
+	<!-- Spell Breaker - Magic Mental Shield -->
+	<item id="41">
+		<ingredient id="57" count="10000000"/>
+		<production id="8142" count="1"/>
+	</item>
+	<!-- Guardian Sword - Health -->
+	<item id="42">
+		<ingredient id="57" count="10000000"/>
+		<production id="8106" count="1"/>
+	</item>
+	<!-- Guardian Sword - Critical Drain -->
+	<item id="43">
+		<ingredient id="57" count="10000000"/>
+		<production id="8105" count="1"/>
+	</item>
+	<!-- Guardian Sword - Critical Bleed -->
+	<item id="44">
+		<ingredient id="57" count="10000000"/>
+		<production id="8107" count="1"/>
+	</item>
+	<!-- Ice Storm Hammer - Anger -->
+	<item id="45">
+		<ingredient id="57" count="10000000"/>
+		<production id="8130" count="1"/>
+	</item>
+	<!-- Ice Storm Hammer - Critical Bleed -->
+	<item id="46">
+		<ingredient id="57" count="10000000"/>
+		<production id="8131" count="1"/>
+	</item>
+	<!-- Ice Storm Hammer - Focus -->
+	<item id="47">
+		<ingredient id="57" count="10000000"/>
+		<production id="8129" count="1"/>
+	</item>
+</list>

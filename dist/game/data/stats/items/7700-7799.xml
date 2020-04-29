@@ -1,0 +1,1270 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="7700" type="EtcItem" name="Recipe: Daisy Hairpin (100%)">
+		<!-- This technique for creating a Daisy Hairpin can be used by all races. Requires Create Common Item Skill Level 4. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="100000"/>
+	</item>
+	<item id="7701" type="Weapon" name="Stick of Faith - Mana Up">
+		<!-- <Soul Crystal Enhancement>. Increases maximum MP by 30%. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1160"/>
+		<set name="soulshots" val="2"/>
+		<set name="spiritshots" val="2"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="85"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="blunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="379"/>
+		<set name="m_dam" val="81"/>
+		<set name="price" val="2290000"/>
+		<set name="crystal_count" val="916"/>
+		<set name="item_skill_id" val="3014"/> <!-- Special Ability: Mana Up -->
+		<set name="item_skill_lvl" val="1"/>
+		<for>
+			<set val="85" order="0x08" stat="pAtk"/>
+			<set val="81" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="379" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="7702" type="Weapon" name="Stick of Faith - Magic Hold">
+		<!-- <Soul Crystal Enhancement>. Casts Dryad Root magic against the target with a 10% chance of success when using bad magic. Effect 1. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1160"/>
+		<set name="soulshots" val="2"/>
+		<set name="spiritshots" val="2"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="85"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="blunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="379"/>
+		<set name="m_dam" val="81"/>
+		<set name="price" val="2290000"/>
+		<set name="crystal_count" val="916"/>
+		<set name="onCast_skill_id" val="1201"/> <!-- Dryad Root -->
+		<set name="onCast_skill_lvl" val="23"/>
+		<set name="onCast_skill_chance" val="10"/>
+		<for>
+			<set val="85" order="0x08" stat="pAtk"/>
+			<set val="81" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="379" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="7703" type="Weapon" name="Stick of Faith - Magic Shield">
+		<!-- <Soul Crystal Enhancement>. Casts Mental Shield magic upon the target with a 50% chance of success when using good magic. Effect 2. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1160"/>
+		<set name="soulshots" val="2"/>
+		<set name="spiritshots" val="2"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="85"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="blunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="379"/>
+		<set name="m_dam" val="81"/>
+		<set name="price" val="2290000"/>
+		<set name="crystal_count" val="916"/>
+		<set name="onCast_skill_id" val="1035"/> <!-- Mental Shield -->
+		<set name="onCast_skill_lvl" val="2"/>
+		<set name="onCast_skill_chance" val="50"/>
+		<for>
+			<set val="85" order="0x08" stat="pAtk"/>
+			<set val="81" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="379" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="7704" type="Weapon" name="Stick of Eternity - Empower">
+		<!-- <Soul Crystal Enhancement>. Increases M. Atk. by 24. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1130"/>
+		<set name="soulshots" val="3"/>
+		<set name="spiritshots" val="3"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="111"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="blunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="379"/>
+		<set name="m_dam" val="101"/>
+		<set name="price" val="4300000"/>
+		<set name="crystal_count" val="1720"/>
+		<for>
+			<set val="111" order="0x08" stat="pAtk"/>
+			<set val="101" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="379" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- SA: Empower -->
+			<add val="24" order="0x40" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="7705" type="Weapon" name="Stick of Eternity - Rsk., Evasion">
+		<!-- <Soul Crystal Enhancement>. Increases Evasion by 7 when HP becomes 60% or lower. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1130"/>
+		<set name="soulshots" val="3"/>
+		<set name="spiritshots" val="3"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="111"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="blunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="379"/>
+		<set name="m_dam" val="101"/>
+		<set name="price" val="4300000"/>
+		<set name="crystal_count" val="1720"/>
+		<for>
+			<set val="111" order="0x08" stat="pAtk"/>
+			<set val="101" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="379" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- SA: Rsk. Evasion -->
+			<add order="0x40" stat="rEvas" val="7">
+				<and>
+					<player hp="60"/>
+				</and>
+			</add>
+		</for>
+	</item>
+	<item id="7706" type="Weapon" name="Stick of Eternity - Blessed Body">
+		<!-- <Soul Crystal Enhancement>. Casts Blessed Body upon the target with a 20% chance of success when using good magic. Effect 3. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1130"/>
+		<set name="soulshots" val="3"/>
+		<set name="spiritshots" val="3"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="111"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="blunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="379"/>
+		<set name="m_dam" val="101"/>
+		<set name="price" val="4300000"/>
+		<set name="crystal_count" val="1720"/>
+		<for>
+			<set val="111" order="0x08" stat="pAtk"/>
+			<set val="101" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="379" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- SA: Bodily Blessing -->
+			<skill onCast="1" id="1045" lvl="3" chance="20"/>
+		</for>
+	</item>
+	<item id="7707" type="Weapon" name="Nirvana Axe - Magic Power">
+		<!-- <Soul Crystal Enhancement>. When using magic, the amount of MP consumption increases by 15% and M. Atk. also increases by 99. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1150"/>
+		<set name="soulshots" val="3"/>
+		<set name="spiritshots" val="3"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="111"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="blunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="379"/>
+		<set name="m_dam" val="101"/>
+		<set name="price" val="4300000"/>
+		<set name="crystal_count" val="1720"/>
+		<for>
+			<set val="111" order="0x08" stat="pAtk"/>
+			<set val="101" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="379" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- SA: Magic Power -->
+			<add val="99" order="0x40" stat="mAtk"/>
+			<mul val="1.15" order="0x30" stat="MpConsume"/>
+		</for>
+	</item>
+	<item id="7708" type="Weapon" name="Nirvana Axe - Magic Poison">
+		<!-- <Soul Crystal Enhancement>. Casts Curse Poison against the target with a 7% chance of success when using bad magic. Effect 7. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1150"/>
+		<set name="soulshots" val="3"/>
+		<set name="spiritshots" val="3"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="111"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="blunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="379"/>
+		<set name="m_dam" val="101"/>
+		<set name="price" val="4300000"/>
+		<set name="crystal_count" val="1720"/>
+		<set name="onCast_skill_id" val="1168"/> <!-- Curse: Poison -->
+		<set name="onCast_skill_lvl" val="6"/>
+		<set name="onCast_skill_chance" val="7"/>
+		<for>
+			<set val="111" order="0x08" stat="pAtk"/>
+			<set val="101" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="379" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="7709" type="Weapon" name="Nirvana Axe - Magic Weakness">
+		<!-- <Soul Crystal Enhancement>. Casts Curse Weakness against the target with a 7% chance of success when using bad magic. Effect 3. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1150"/>
+		<set name="soulshots" val="3"/>
+		<set name="spiritshots" val="3"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="111"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="blunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="379"/>
+		<set name="m_dam" val="101"/>
+		<set name="price" val="4300000"/>
+		<set name="crystal_count" val="1720"/>
+		<set name="onCast_skill_id" val="1164"/> <!-- Curse: Weakness -->
+		<set name="onCast_skill_lvl" val="6"/>
+		<set name="onCast_skill_chance" val="7"/>
+		<for>
+			<set val="111" order="0x08" stat="pAtk"/>
+			<set val="101" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="379" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="7710" type="Weapon" name="Club of Nature - Acumen">
+		<!-- <Soul Crystal Enhancement>. Increases Casting Spd. by 15%. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1100"/>
+		<set name="soulshots" val="3"/>
+		<set name="spiritshots" val="3"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="111"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="blunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="379"/>
+		<set name="m_dam" val="101"/>
+		<set name="price" val="4300000"/>
+		<set name="crystal_count" val="1720"/>
+		<set name="item_skill_id" val="3047"/> <!-- Special Ability: Acumen -->
+		<set name="item_skill_lvl" val="1"/>
+		<for>
+			<set val="111" order="0x08" stat="pAtk"/>
+			<set val="101" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="379" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- SA always used in skill add -->
+		</for>
+	</item>
+	<item id="7711" type="Weapon" name="Club of Nature - Magic Mental Shield">
+		<!-- <Soul Crystal Enhancement>. Casts Mental Shield magic upon the target with a 50% chance of success when using good magic. Effect 3. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1100"/>
+		<set name="soulshots" val="3"/>
+		<set name="spiritshots" val="3"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="111"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="blunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="379"/>
+		<set name="m_dam" val="101"/>
+		<set name="price" val="4300000"/>
+		<set name="crystal_count" val="1720"/>
+		<set name="onCast_skill_id" val="1035"/> <!-- Mental Shield -->
+		<set name="onCast_skill_lvl" val="3"/>
+		<set name="onCast_skill_chance" val="50"/>
+		<for>
+			<set val="111" order="0x08" stat="pAtk"/>
+			<set val="101" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="379" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="7712" type="Weapon" name="Club of Nature - Magic Hold">
+		<!-- <Soul Crystal Enhancement>. Casts Dryad Root magic against the target with a 10% chance of success when using bad magic. Effect 1. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1100"/>
+		<set name="soulshots" val="3"/>
+		<set name="spiritshots" val="3"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="111"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="blunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="379"/>
+		<set name="m_dam" val="101"/>
+		<set name="price" val="4300000"/>
+		<set name="crystal_count" val="1720"/>
+		<set name="onCast_skill_id" val="1201"/> <!-- Dryad Root -->
+		<set name="onCast_skill_lvl" val="23"/>
+		<set name="onCast_skill_chance" val="10"/>
+		<for>
+			<set val="111" order="0x08" stat="pAtk"/>
+			<set val="101" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="379" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="7713" type="Weapon" name="Mace of The Underworld - Mana Up">
+		<!-- <Soul Crystal Enhancement>. Increases maximum MP by 30% -->
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1090"/>
+		<set name="soulshots" val="3"/>
+		<set name="spiritshots" val="3"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="111"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="blunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="379"/>
+		<set name="m_dam" val="101"/>
+		<set name="price" val="4300000"/>
+		<set name="crystal_count" val="1720"/>
+		<set name="item_skill_id" val="3014"/> <!-- Special Ability: Mana Up -->
+		<set name="item_skill_lvl" val="1"/>
+		<for>
+			<set val="111" order="0x08" stat="pAtk"/>
+			<set val="101" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="379" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="7714" type="Weapon" name="Mace of The Underworld - Magic Silence">
+		<!-- <Soul Crystal Enhancement>. When using bad magic against a target, casts Silence upon target with a 10% chance of success. Effect 1. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1090"/>
+		<set name="soulshots" val="3"/>
+		<set name="spiritshots" val="3"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="111"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="blunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="379"/>
+		<set name="m_dam" val="101"/>
+		<set name="price" val="4300000"/>
+		<set name="crystal_count" val="1720"/>
+		<for>
+			<set val="111" order="0x08" stat="pAtk"/>
+			<set val="101" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="379" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- SA: Silence -->
+			<skill onCast="1" id="1064" lvl="1" chance="10"/>
+		</for>
+	</item>
+	<item id="7715" type="Weapon" name="Mace of The Underworld - Conversion">
+		<!-- <Soul Crystal Enhancement>. Increases maximum MP by 60% and decreases maximum HP by 40%. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1090"/>
+		<set name="soulshots" val="3"/>
+		<set name="spiritshots" val="3"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="111"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="blunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="379"/>
+		<set name="m_dam" val="101"/>
+		<set name="price" val="4300000"/>
+		<set name="crystal_count" val="1720"/>
+		<set name="item_skill_id" val="3048"/> <!-- Special Ability: Conversion -->
+		<set name="item_skill_lvl" val="2"/>
+		<for>
+			<set val="111" order="0x08" stat="pAtk"/>
+			<set val="101" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="379" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- SA: Conversion -->
+			<!-- We have SA on XML -->
+			<!-- <mul val="0.6" order="0x30" stat="maxHp"/> -->
+			<!-- <mul val="1.6" order="0x30" stat="maxMp"/> -->
+		</for>
+	</item>
+	<item id="7716" type="Weapon" name="Inferno Staff - Acumen">
+		<!-- <Soul Crystal Enhancement>. Increases Casting Spd. by 15%. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1000"/>
+		<set name="soulshots" val="3"/>
+		<set name="spiritshots" val="3"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="135"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="bigblunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="101"/>
+		<set name="price" val="4300000"/>
+		<set name="crystal_count" val="1720"/>
+		<set name="item_skill_id" val="3047"/> <!-- Special Ability: Acumen -->
+		<set name="item_skill_lvl" val="1"/>
+		<for>
+			<set val="135" order="0x08" stat="pAtk"/>
+			<set val="101" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- SA always used in skill add -->
+		</for>
+	</item>
+	<item id="7717" type="Weapon" name="Inferno Staff - Magic Silence">
+		<!-- <Soul Crystal Enhancement>. When using bad magic against a target, casts Silence upon target with a 10% chance of success. Effect 1. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1000"/>
+		<set name="soulshots" val="3"/>
+		<set name="spiritshots" val="3"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="135"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="bigblunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="101"/>
+		<set name="price" val="4300000"/>
+		<set name="crystal_count" val="1720"/>
+		<for>
+			<set val="135" order="0x08" stat="pAtk"/>
+			<set val="101" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- SA: Silence -->
+			<skill onCast="1" id="1064" lvl="1" chance="10"/>
+		</for>
+	</item>
+	<item id="7718" type="Weapon" name="Inferno Staff - Magic Paralyze">
+		<!-- <Soul Crystal Enhancement>. When using bad magic, paralyzes target with a 5% chance of success. Effect 1. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1000"/>
+		<set name="soulshots" val="3"/>
+		<set name="spiritshots" val="3"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="135"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="bigblunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="101"/>
+		<set name="price" val="4300000"/>
+		<set name="crystal_count" val="1720"/>
+		<for>
+			<set val="135" order="0x08" stat="pAtk"/>
+			<set val="101" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- SA: Magic Paralyze -->
+			<skill onCast="1" id="1170" lvl="1" chance="5"/>
+		</for>
+	</item>
+	<item id="7719" type="Weapon" name="Poleaxe - Critical Stun">
+		<!-- <Soul Crystal Enhancement>. During a critical attack, produces a stun effect at the rate of about 25%. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="2010"/>
+		<set name="soulshots" val="3"/>
+		<set name="spiritshots" val="3"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="139"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="pole"/>
+		<set name="critical" val="8"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="76"/>
+		<set name="price" val="4300000"/>
+		<set name="crystal_count" val="1720"/>
+		<for>
+			<set val="139" order="0x08" stat="pAtk"/>
+			<set val="76" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="66" order="0x08" stat="pAtkRange"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- SA: Critical Stun -->
+			<skill onCrit="1" id="3070" lvl="1" chance="25"/>
+		</for>
+	</item>
+	<item id="7720" type="Weapon" name="Poleaxe - Towering Blow">
+		<!-- <Soul Crystal Enhancement>. Increases attack range. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="2010"/>
+		<set name="soulshots" val="3"/>
+		<set name="spiritshots" val="3"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="139"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="pole"/>
+		<set name="critical" val="8"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="76"/>
+		<set name="price" val="4300000"/>
+		<set name="crystal_count" val="1720"/>
+		<for>
+			<set val="139" order="0x08" stat="pAtk"/>
+			<set val="76" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<!-- SA: Long Blow -->
+			<set val="80" order="0x08" stat="pAtkRange"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="7721" type="Weapon" name="Poleaxe - Wide Blow">
+		<!-- <Soul Crystal Enhancement>. Broadens angle of attack. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="2010"/>
+		<set name="soulshots" val="3"/>
+		<set name="spiritshots" val="3"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="139"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="pole"/>
+		<set name="critical" val="8"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="76"/>
+		<set name="price" val="4300000"/>
+		<set name="crystal_count" val="1720"/>
+		<for>
+			<set val="139" order="0x08" stat="pAtk"/>
+			<set val="76" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="66" order="0x08" stat="pAtkRange"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<!-- SA: Wide Blow -->
+			<set val="180" order="0x08" stat="pAtkAngle"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="7722" type="Weapon" name="Sword of Valhalla - Acumen">
+		<!-- <Soul Crystal Enhancement>. Increases Casting Spd. by 15%. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="900"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="b"/>
+		<set name="p_dam" val="140"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="sword"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="379"/>
+		<set name="m_dam" val="122"/>
+		<set name="price" val="8680000"/>
+		<set name="crystal_count" val="1157"/>
+		<set name="item_skill_id" val="3047"/> <!-- Special Ability: Acumen -->
+		<set name="item_skill_lvl" val="1"/>
+		<for>
+			<set val="140" order="0x08" stat="pAtk"/>
+			<set val="122" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<add val="0" order="0x10" stat="accCombat"/>
+			<set val="379" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- SA always used in skill add -->
+		</for>
+	</item>
+	<item id="7723" type="Weapon" name="Sword of Valhalla - Magic Weakness">
+		<!-- <Soul Crystal Enhancement>. Casts Curse Weakness against the target with a 7% chance of success when using bad magic. Effect 3. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="900"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="b"/>
+		<set name="p_dam" val="140"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="sword"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="379"/>
+		<set name="m_dam" val="122"/>
+		<set name="price" val="8680000"/>
+		<set name="crystal_count" val="1157"/>
+		<set name="onCast_skill_id" val="1164"/> <!-- Curse: Weakness -->
+		<set name="onCast_skill_lvl" val="6"/>
+		<set name="onCast_skill_chance" val="7"/>
+		<for>
+			<set val="140" order="0x08" stat="pAtk"/>
+			<set val="122" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<add val="0" order="0x10" stat="accCombat"/>
+			<set val="379" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="7724" type="Weapon" name="Sword of Valhalla - Magic Regeneration">
+		<!-- <Soul Crystal Enhancement>. Casts Regeneration upon the target with a 30% chance of success when using good magic. Effect 3. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="900"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="b"/>
+		<set name="p_dam" val="140"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="sword"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="379"/>
+		<set name="m_dam" val="122"/>
+		<set name="price" val="8680000"/>
+		<set name="crystal_count" val="1157"/>
+		<set name="onCast_skill_id" val="1044"/> <!-- Regeneration -->
+		<set name="onCast_skill_lvl" val="3"/>
+		<set name="onCast_skill_chance" val="30"/>
+		<for>
+			<set val="140" order="0x08" stat="pAtk"/>
+			<set val="122" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<add val="0" order="0x10" stat="accCombat"/>
+			<set val="379" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="7725" type="EtcItem" name="Loot - Gray Pouch">
+		<!-- An item recovered from the swampland. It is a dirty and worn out gray pouch that is ripped here and there. It seems to contain an object that looks like a water bottle. If you double-click it, you can view what it contains. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="7726" type="EtcItem" name="Small Nimble Green Fish - For Beginners">
+		<!-- Double-click to randomly change into another item. The changed item can be used as a regular ingredient to make other items. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="69"/>
+	</item>
+	<item id="7727" type="EtcItem" name="Small Ugly Green Fish - For Beginners">
+		<!-- Double-click to randomly change into another item. The changed item can be used as a regular ingredient to make other items. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="71"/>
+	</item>
+	<item id="7728" type="EtcItem" name="Small Pudgy Green Fish - For Beginners">
+		<!-- Double-click to randomly change into another item. The changed item can be used as a regular ingredient to make other items. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="77"/>
+	</item>
+	<item id="7729" type="EtcItem" name="Nimble Green Fish - For Beginners">
+		<!-- Double-click to randomly change into another item. The changed item can be used as a regular ingredient to make other items. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="84"/>
+	</item>
+	<item id="7730" type="EtcItem" name="Ugly Green Fish - For Beginners">
+		<!-- Double-click to randomly change into another item. The changed item can be used as a regular ingredient to make other items. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="94"/>
+	</item>
+	<item id="7731" type="EtcItem" name="Pudgy Green Fish - For Beginners">
+		<!-- Double-click to randomly change into another item. The changed item can be used as a regular ingredient to make other items. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="104"/>
+	</item>
+	<item id="7732" type="EtcItem" name="Large Nimble Green Fish - For Beginners">
+		<!-- Double-click to randomly change into another item. The changed item can be used as a regular ingredient to make other items. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="113"/>
+	</item>
+	<item id="7733" type="EtcItem" name="Large Ugly Green Fish - For Beginners">
+		<!-- Double-click to randomly change into another item. The changed item can be used as a regular ingredient to make other items. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="124"/>
+	</item>
+	<item id="7734" type="EtcItem" name="Large Pudgy Green Fish - For Beginners">
+		<!-- Double-click to randomly change into another item. The changed item can be used as a regular ingredient to make other items. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="133"/>
+	</item>
+	<item id="7735" type="EtcItem" name="Small Jade Nimble Fish - For Beginners">
+		<!-- Double-click to randomly change into another item. The changed item can be used as a regular ingredient to make other items. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="143"/>
+	</item>
+	<item id="7736" type="EtcItem" name="Small Jade Ugly Fish - For Beginners">
+		<!-- Double-click to randomly change into another item. The changed item can be used as a regular ingredient to make other items. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="7737" type="EtcItem" name="Small Jade Fat Fish - For Beginners">
+		<!-- Double-click to randomly change into another item. The changed item can be used as a regular ingredient to make other items. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="167"/>
+	</item>
+	<item id="7738" type="EtcItem" name="Jade Nimble Fish - For Beginners">
+		<!-- Double-click to randomly change into another item. The changed item can be used as a regular ingredient to make other items. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="166"/>
+	</item>
+	<item id="7739" type="EtcItem" name="Jade Ugly Fish - For Beginners">
+		<!-- Double-click to randomly change into another item. The changed item can be used as a regular ingredient to make other items. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="165"/>
+	</item>
+	<item id="7740" type="EtcItem" name="Jade Fat Fish - For Beginners">
+		<!-- Double-click to randomly change into another item. The changed item can be used as a regular ingredient to make other items. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="165"/>
+	</item>
+	<item id="7741" type="EtcItem" name="Large Jade Nimble Fish - For Beginners">
+		<!-- Double-click to randomly change into another item. The changed item can be used as a regular ingredient to make other items. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="164"/>
+	</item>
+	<item id="7742" type="EtcItem" name="Large Jade Ugly Fish - For Beginners">
+		<!-- Double-click to randomly change into another item. The changed item can be used as a regular ingredient to make other items. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="164"/>
+	</item>
+	<item id="7743" type="EtcItem" name="Large Jade Fat Fish - For Beginners">
+		<!-- Double-click to randomly change into another item. The changed item can be used as a regular ingredient to make other items. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="7744" type="EtcItem" name="Small Blue Nimble Fish - For Beginners">
+		<!-- Double-click to randomly change into another item. The changed item can be used as a regular ingredient to make other items. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="163"/>
+	</item>
+	<item id="7745" type="EtcItem" name="Small Blue Ugly Fish - For Beginners">
+		<!-- Double-click to randomly change into another item. The changed item can be used as a regular ingredient to make other items. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="7746" type="EtcItem" name="Small Blue Fat Fish - For Beginners">
+		<!-- Double-click to randomly change into another item. The changed item can be used as a regular ingredient to make other items. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="7747" type="EtcItem" name="Blue Nimble Fish - For Beginners">
+		<!-- Double-click to randomly change into another item. The changed item can be used as a regular ingredient to make other items. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="7748" type="EtcItem" name="Blue Ugly Fish - For Beginners">
+		<!-- Double-click to randomly change into another item. The changed item can be used as a regular ingredient to make other items. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="7749" type="EtcItem" name="Blue Fat Fish - For Beginners">
+		<!-- Double-click to randomly change into another item. The changed item can be used as a regular ingredient to make other items. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="7750" type="EtcItem" name="Large Blue Nimble Fish - For Beginners">
+		<!-- Double-click to randomly change into another item. The changed item can be used as a regular ingredient to make other items. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="7751" type="EtcItem" name="Large Blue Ugly Fish - For Beginners">
+		<!-- Double-click to randomly change into another item. The changed item can be used as a regular ingredient to make other items. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="7752" type="EtcItem" name="Large Blue Fat Fish - For Beginners">
+		<!-- Double-click to randomly change into another item. The changed item can be used as a regular ingredient to make other items. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="7753" type="EtcItem" name="Small Yellow Nimble Fish - For Beginners">
+		<!-- Double-click to randomly change into another item. The changed item can be used as a regular ingredient to make other items. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="7754" type="EtcItem" name="Small Yellow Ugly Fish - For Beginners">
+		<!-- Double-click to randomly change into another item. The changed item can be used as a regular ingredient to make other items. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="7755" type="EtcItem" name="Small Yellow Fat Fish - For Beginners">
+		<!-- Double-click to randomly change into another item. The changed item can be used as a regular ingredient to make other items. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="7756" type="EtcItem" name="Yellow Nimble Fish - For Beginners">
+		<!-- Double-click to randomly change into another item. The changed item can be used as a regular ingredient to make other items. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="7757" type="EtcItem" name="Yellow Ugly Fish - For Beginners">
+		<!-- Double-click to randomly change into another item. The changed item can be used as a regular ingredient to make other items. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="277"/>
+	</item>
+	<item id="7758" type="EtcItem" name="Yellow Fat Fish - For Beginners">
+		<!-- Double-click to randomly change into another item. The changed item can be used as a regular ingredient to make other items. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="7759" type="EtcItem" name="Large Yellow Nimble Fish - For Beginners">
+		<!-- Double-click to randomly change into another item. The changed item can be used as a regular ingredient to make other items. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="7760" type="EtcItem" name="Large Yellow Ugly Fish - For Beginners">
+		<!-- Double-click to randomly change into another item. The changed item can be used as a regular ingredient to make other items. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="7761" type="EtcItem" name="Large Yellow Fat Fish - For Beginners">
+		<!-- Double-click to randomly change into another item. The changed item can be used as a regular ingredient to make other items. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="7762" type="EtcItem" name="Small Orange Nimble Fish - For Beginners">
+		<!-- Double-click to randomly change into another item. The changed item can be used as a regular ingredient to make other items. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="7763" type="EtcItem" name="Small Orange Ugly Fish - For Beginners">
+		<!-- Double-click to randomly change into another item. The changed item can be used as a regular ingredient to make other items. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="7764" type="EtcItem" name="Small Orange Fat Fish - For Beginners">
+		<!-- Double-click to randomly change into another item. The changed item can be used as a regular ingredient to make other items. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="7765" type="EtcItem" name="Orange Nimble Fish - For Beginners">
+		<!-- Double-click to randomly change into another item. The changed item can be used as a regular ingredient to make other items. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="7766" type="EtcItem" name="Orange Ugly Fish - For Beginners">
+		<!-- Double-click to randomly change into another item. The changed item can be used as a regular ingredient to make other items. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="7767" type="EtcItem" name="Orange Fat Fish - For Beginners">
+		<!-- Double-click to randomly change into another item. The changed item can be used as a regular ingredient to make other items. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="7768" type="EtcItem" name="Large Orange Nimble Fish - For Beginners">
+		<!-- Double-click to randomly change into another item. The changed item can be used as a regular ingredient to make other items. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="7769" type="EtcItem" name="Large Orange Ugly Fish - For Beginners">
+		<!-- Double-click to randomly change into another item. The changed item can be used as a regular ingredient to make other items. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="7770" type="EtcItem" name="Large Orange Fat Fish - For Beginners">
+		<!-- Double-click to randomly change into another item. The changed item can be used as a regular ingredient to make other items. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="7771" type="EtcItem" name="Small Purple Nimble Fish - For Beginners">
+		<!-- Double-click to randomly change into another item. The changed item can be used as a regular ingredient to make other items. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="7772" type="EtcItem" name="Small Purple Ugly Fish - For Beginners">
+		<!-- Double-click to randomly change into another item. The changed item can be used as a regular ingredient to make other items. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="7773" type="EtcItem" name="Small Purple Fat Fish - For Beginners">
+		<!-- Double-click to randomly change into another item. The changed item can be used as a regular ingredient to make other items. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="455"/>
+	</item>
+	<item id="7774" type="EtcItem" name="Purple Nimble Fish - For Beginners">
+		<!-- Double-click to randomly change into another item. The changed item can be used as a regular ingredient to make other items. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="7775" type="EtcItem" name="Purple Ugly Fish - For Beginners">
+		<!-- Double-click to randomly change into another item. The changed item can be used as a regular ingredient to make other items. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="7776" type="EtcItem" name="Purple Fat Fish - For Beginners">
+		<!-- Double-click to randomly change into another item. The changed item can be used as a regular ingredient to make other items. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="7777" type="EtcItem" name="Large Purple Nimble Fish - For Beginners">
+		<!-- Double-click to randomly change into another item. The changed item can be used as a regular ingredient to make other items. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="7778" type="EtcItem" name="Large Purple Ugly Fish - For Beginners">
+		<!-- Double-click to randomly change into another item. The changed item can be used as a regular ingredient to make other items. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="7779" type="EtcItem" name="Large Purple Fat Fish - For Beginners">
+		<!-- Double-click to randomly change into another item. The changed item can be used as a regular ingredient to make other items. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="7780" type="EtcItem" name="Small Red Nimble Fish - For Beginners">
+		<!-- Double-click to randomly change into another item. The changed item can be used as a regular ingredient to make other items. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="7781" type="EtcItem" name="Small Red Ugly Fish - For Beginners">
+		<!-- Double-click to randomly change into another item. The changed item can be used as a regular ingredient to make other items. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="7782" type="EtcItem" name="Small Red Fat Fish - For Beginners">
+		<!-- Double-click to randomly change into another item. The changed item can be used as a regular ingredient to make other items. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="7783" type="EtcItem" name="Red Nimble Fish - For Beginners">
+		<!-- Double-click to randomly change into another item. The changed item can be used as a regular ingredient to make other items. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="7784" type="EtcItem" name="Red Ugly Fish - For Beginners">
+		<!-- Double-click to randomly change into another item. The changed item can be used as a regular ingredient to make other items. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="7785" type="EtcItem" name="Red Fat Fish - For Beginners">
+		<!-- Double-click to randomly change into another item. The changed item can be used as a regular ingredient to make other items. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="7786" type="EtcItem" name="Large Red Nimble Fish - For Beginners">
+		<!-- Double-click to randomly change into another item. The changed item can be used as a regular ingredient to make other items. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="7787" type="EtcItem" name="Large Red Ugly Fish - For Beginners">
+		<!-- Double-click to randomly change into another item. The changed item can be used as a regular ingredient to make other items. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="7788" type="EtcItem" name="Large Red Fat Fish - For Beginners">
+		<!-- Double-click to randomly change into another item. The changed item can be used as a regular ingredient to make other items. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="7789" type="EtcItem" name="Small White Nimble Fish - For Beginners">
+		<!-- Double-click to randomly change into another item. The changed item can be used as a regular ingredient to make other items. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="7790" type="EtcItem" name="Small White Ugly Fish - For Beginners">
+		<!-- Double-click to randomly change into another item. The changed item can be used as a regular ingredient to make other items. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="7791" type="EtcItem" name="Small White Fat Fish - For Beginners">
+		<!-- Double-click to randomly change into another item. The changed item can be used as a regular ingredient to make other items. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="7792" type="EtcItem" name="White Nimble Fish - For Beginners">
+		<!-- Double-click to randomly change into another item. The changed item can be used as a regular ingredient to make other items. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="7793" type="EtcItem" name="White Ugly Fish - For Beginners">
+		<!-- Double-click to randomly change into another item. The changed item can be used as a regular ingredient to make other items. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="7794" type="EtcItem" name="White Fat Fish - For Beginners">
+		<!-- Double-click to randomly change into another item. The changed item can be used as a regular ingredient to make other items. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="7795" type="EtcItem" name="Large White Nimble Fish - For Beginners">
+		<!-- Double-click to randomly change into another item. The changed item can be used as a regular ingredient to make other items. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="7796" type="EtcItem" name="Large White Ugly Fish - For Beginners">
+		<!-- Double-click to randomly change into another item. The changed item can be used as a regular ingredient to make other items. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="7797" type="EtcItem" name="Large White Fat Fish - For Beginners">
+		<!-- Double-click to randomly change into another item. The changed item can be used as a regular ingredient to make other items. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="7798" type="EtcItem" name="Small Black Nimble Fish: For Beginners">
+		<!-- Double-click to randomly change into another item. The changed item can be used as a regular ingredient to make other items. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="7799" type="EtcItem" name="Small Black Ugly Fish - For Beginners">
+		<!-- Double-click to randomly change into another item. The changed item can be used as a regular ingredient to make other items. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+</list>

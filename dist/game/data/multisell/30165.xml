@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?> 
+<!-- Exchange of Ralford (level 2) -->
+<list maintainEnchantment="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/multisell.xsd">
+	<!-- 5 G Drake + 5 G Knight -> 1 G Wyrm -->
+	<item id="1">
+		<ingredient id="3485" count="5"/>
+		<ingredient id="3483" count="5"/>
+		<production id="3486" count="1"/>
+	</item>
+	<!-- 5 S Fairy + 5 S Golem -> 1 S Dryad -->
+	<item id="2">
+		<ingredient id="3491" count="5"/>
+		<ingredient id="3494" count="5"/>
+		<production id="3492" count="1"/>
+	</item>
+	<!-- 5 S Fairy + 5 S Golem -> 1 S Undine -->
+	<item id="3">
+		<ingredient id="3491" count="5"/>
+		<ingredient id="3494" count="5"/>
+		<production id="3495" count="1"/>
+	</item>
+	<!-- 10 B Werewolf + 10 B Drevanul -> 1 Manak B Werewolf -->
+	<item id="4">
+		<ingredient id="3473" count="10"/>
+		<ingredient id="3475" count="10"/>
+		<production id="3479" count="1"/>
+	</item>
+	<!-- 1 Manak G Giant -> Demon Boots -->
+	<item id="5">
+		<ingredient id="3488" count="1"/>
+		<production id="2435" count="1"/>
+	</item>
+	<!-- 1 Manak S Dryad + 1 S Dryad  -> Demon Stockings -->
+	<item id="6">
+		<ingredient id="3497" count="1"/>
+		<ingredient id="3492" count="1"/>
+		<production id="472" count="1"/>
+	</item>
+	<!-- 1 Manak G Giant -> Demon Gloves -->
+	<item id="7">
+		<ingredient id="3488" count="1"/>
+		<production id="2459" count="1"/>
+	</item>
+	<!-- 1 Manak B Werewolf + 1 G Wyrm + 1 G Giant -> Full Plate Helmet -->
+	<item id="8">
+		<ingredient id="3479" count="1"/>
+		<ingredient id="3486" count="1"/>
+		<ingredient id="3484" count="1"/>
+		<production id="2414" count="1"/>
+	</item>
+</list>

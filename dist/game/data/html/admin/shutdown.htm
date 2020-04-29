@@ -1,0 +1,23 @@
+<html><title>Shutdown Server</title><body>
+<table width=270><tr>
+<td width=40><button value="Main" action="bypass -h admin_admin" width=40 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+<td width=190><center>Server Management Menu</center></td>
+<td width=40><button value="Back" action="bypass -h admin_admin4" width=40 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+</tr></table>
+<br><br>
+<table width=240><tr>
+<td width=100>Shutdown time:</td>
+<td><edit var="menu_command" width=120 height=15></td>
+</tr></table><br><br>
+<table width=260>	
+<tr><td>Players Online:</td><td>%count%</td></tr>
+<tr><td>Used Memory:</td><td>%used% bytes</td></tr>
+<tr><td>Server Rates:</td><td>%xp%x, %sp%x, %adena%x, %drop%x</td></tr>
+<tr><td>Game Time:</td><td>%time%</td></tr>
+</table><br><br>
+<center><table><tr><td>
+<button value="Shutdown" action="bypass -h admin_server_shutdown $menu_command" width=75 height=21 back="L2UI_ch3.Btn1_normalOn" fore="L2UI_ch3.Btn1_normal"></td><td>			
+<button value="Restart" action="bypass -h admin_server_restart $menu_command" width=75 height=21 back="L2UI_ch3.Btn1_normalOn" fore="L2UI_ch3.Btn1_normal"></td><td>			
+<button value="Abort" action="bypass -h admin_server_abort" width=75 height=21 back="L2UI_ch3.Btn1_normalOn" fore="L2UI_ch3.Btn1_normal"></td></tr>
+</table></center>
+</body></html>

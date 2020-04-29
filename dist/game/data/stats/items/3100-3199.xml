@@ -1,0 +1,884 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="3100" type="EtcItem" name="Spellbook: Guidance">
+		<!-- Spellbook needed to learn Guidance. Used by Prophets and Shillien Elders. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3200"/>
+	</item>
+	<item id="3101" type="EtcItem" name="Spellbook: Death Whisper">
+		<!-- Spellbook needed to learn Death Whisper. Used by Prophets and Shillien Elders. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3200"/>
+	</item>
+	<item id="3102" type="EtcItem" name="Spellbook: Bless Shield">
+		<!-- Spellbook needed to learn Bless Shield. Used by Prophets and Elven Elders. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3200"/>
+	</item>
+	<item id="3103" type="EtcItem" name="Amulet: Pa'agrio's Wisdom">
+		<!-- Amulet required for the Pa'agrio's Wisdom spell. Used by Overlords. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3200"/>
+	</item>
+	<item id="3104" type="EtcItem" name="Amulet: Pa'agrio's Glory">
+		<!-- Amulet required for the Pa'agrio's Glory spell. Used by Overlords. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3200"/>
+	</item>
+	<item id="3105" type="EtcItem" name="Amulet: Seal of Winter">
+		<!-- Amulet required for the Seal of Winter spell. Used by Overlords. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3200"/>
+	</item>
+	<item id="3106" type="EtcItem" name="Amulet: Seal of Flame">
+		<!-- Amulet required for the Seal of Flame spell. Used by Overlords. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="4600"/>
+	</item>
+	<item id="3107" type="EtcItem" name="Amulet: Seal of Gloom">
+		<!-- Amulet required for the Seal of Gloom spell. Used by Overlords. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3850"/>
+	</item>
+	<item id="3108" type="EtcItem" name="Amulet: Seal of Mirage">
+		<!-- Amulet required for the Seal of Mirage spell. Used by Overlords. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3850"/>
+	</item>
+	<item id="3109" type="EtcItem" name="Amulet: Seal of Silence">
+		<!-- Amulet required for the Seal of Silence spell. Used by Overlords. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="4600"/>
+	</item>
+	<item id="3110" type="EtcItem" name="Amulet: Seal of Scourge">
+		<!-- Amulet required for the Seal of Scourge spell. Used by Overlords. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3200"/>
+	</item>
+	<item id="3111" type="EtcItem" name="Amulet: Seal of Suspension">
+		<!-- Amulet required for the Seal of Suspension spell. Used by Overlords. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="4600"/>
+	</item>
+	<item id="3112" type="EtcItem" name="Amulet: Pa'agrio's Vision">
+		<!-- Amulet required for the Pa'agrio's Vision spell. Used by Overlords. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3850"/>
+	</item>
+	<item id="3113" type="EtcItem" name="Amulet: Pa'agrio's Protection">
+		<!-- Amulet required for the Pa'agrio's Protection spell. Used by Overlords. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3200"/>
+	</item>
+	<item id="3114" type="EtcItem" name="Amulet: Steal Essence">
+		<!-- Amulet required for the Steal Essence spell. Used by Warcryers and Overlords. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3200"/>
+	</item>
+	<item id="3115" type="EtcItem" name="Amulet: Freezing Flame">
+		<!-- Amulet required for the Freezing Flame spell. Used by Warcryers. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3200"/>
+	</item>
+	<item id="3116" type="EtcItem" name="Amulet: Chant of Fury">
+		<!-- Amulet required for the Chant of Fury spell. Used by Warcryers. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="4600"/>
+	</item>
+	<item id="3117" type="EtcItem" name="Amulet: Chant of Evasion">
+		<!-- Amulet required for the Chant of Evasion spell. Used by Warcryers. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3200"/>
+	</item>
+	<item id="3118" type="EtcItem" name="Amulet: Chant of Rage">
+		<!-- Amulet required for the Chant of Rage spell. Used by Warcryers. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3850"/>
+	</item>
+	<item id="3119" type="EtcItem" name="Mark of Guildsman">
+		<!-- A mark given to those who have passed the Trial of the Guildsman. An occupation change related item. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3120" type="EtcItem" name="Valkon's Recommendation">
+		<!-- A recommendation letter written by Warehouse Keeper Valkon. Take this and go to Blacksmith Altran of Talking Island. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3121" type="EtcItem" name="Mandragora Berry">
+		<!-- The fruit of mandragoras, known for their uses in treating ailments. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3122" type="EtcItem" name="Altran's Instructions">
+		<!-- Blacksmith Altran's instructions. The instructions are to gather materials and create 7 journeyman's rings. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3123" type="EtcItem" name="Altran's 1st Recommendation">
+		<!-- A recommendation letter written by Blacksmith Altran. Take this and go to Warehouse Keeper Norman of the Village of Gludin. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3124" type="EtcItem" name="Altran's 2nd Recommendation">
+		<!-- A recommendation letter written by Blacksmith Altran. Take this and go to Blacksmith Pinter of the Town of Gludio. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3125" type="EtcItem" name="Norman's Instructions">
+		<!-- Warehouse Keeper Norman's instructions. The instructions are to go to Blacksmith Duning of Hunters Village and bring back the key. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3126" type="EtcItem" name="Norman's Receipt">
+		<!-- Warehouse Keeper Norman's receipt. Take this and go to Blacksmith Duning of the Hunters Village. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3127" type="EtcItem" name="Duning's Instructions">
+		<!-- Blacksmith Duning's instructions. It gives an order to recover 30 keys from Breka orcs. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3128" type="EtcItem" name="Duning's Key">
+		<!-- Mithril key recovered from Breka orcs. Collect 30 and take them to Blacksmith Duning. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3129" type="EtcItem" name="Norman's List">
+		<!-- Ingredient list of Warehouse Keeper Norman: 70 units of gray bone powder, 70 granite whetstones, 70 units of red pigment, and 70 units of braided yarn. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3130" type="EtcItem" name="Gray Bone Powder">
+		<!-- The powder collected from the bones of ghouls and strains. Gather 70 of these and take them to Warehouse Keeper Norman. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3131" type="EtcItem" name="Granite Whetstone">
+		<!-- A whetstone made from the fragments of the granite golem. Gather 70 of these and take them to Warehouse Keeper Norman. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3132" type="EtcItem" name="Red Pigment">
+		<!-- Red pigment obtained by slaying the dead seeker bat. Gather 70 of these and take them to Warehouse Keeper Norman. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3133" type="EtcItem" name="Braided Yarn">
+		<!-- Braided yarn obtained by slaying the silenos. Gather 70 of these and take them to Warehouse Keeper Norman. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3134" type="EtcItem" name="Journeyman Gem">
+		<!-- A material used to make the journeyman's ring. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3135" type="EtcItem" name="Pinter's Instructions">
+		<!-- Instructions of Blacksmith Pinter: Find and bring back 70 amber beads. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3136" type="EtcItem" name="Amber Bead">
+		<!-- A bead-shaped piece of amber. Collect 70 of these and take them to Blacksmith Pinter. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3137" type="EtcItem" name="Amber Lump">
+		<!-- An unrefined lump of amber. The material used in creating the Amber Bead. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3138" type="EtcItem" name="Journeyman Deco Beads">
+		<!-- Ingredient item used to make a journeyman's ring. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3139" type="EtcItem" name="Journeyman Ring">
+		<!-- To pass the Trial of the Guildsman, you must create 7 of these rings. Take the completed rings to Warehouse Keeper Valkon. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3140" type="EtcItem" name="Mark of Life">
+		<!-- A mark given to those who have passed the Testimony of Life. An occupation change related item. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3141" type="EtcItem" name="Cardien's Letter">
+		<!-- Letter by Master Cardien. Take this and go to Hierarch Asterios of the Elven Village. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3142" type="EtcItem" name="Camomile Charm">
+		<!-- A talisman given by Hierarch Asterios. Take this and return to Master Cardien in the Town of Dion. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3143" type="EtcItem" name="Hierarch's Letter">
+		<!-- A letter given by Hierarch Asterios. Take this and go to Thalia, who lives on the eastern shores of Iris Lake. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3144" type="EtcItem" name="Moonflower Charm">
+		<!-- The charm given by Hierarch Asterios to keep in possession while searching for the water of life. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3145" type="EtcItem" name="Grail Diagram">
+		<!-- A diagram of the grail, given by Thalia. Take this and go to Blacksmith Pushkin of Giran Castle Town. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3146" type="EtcItem" name="Thalia's 1st Letter">
+		<!-- Thalia's letter. Take this and go to Arkenia, who is at the Altar of Rites. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3147" type="EtcItem" name="Thalia's 2nd Letter">
+		<!-- Thalia's letter. Take this and go to Isael Silvershadow of the Hunters Village. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3148" type="EtcItem" name="Thalia's Instructions">
+		<!-- A letter containing Thalia's instructions. The instructions are to come back after reaching level 38. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3149" type="EtcItem" name="Pushkin's List">
+		<!-- A list given by Blacksmith Pushkin. "10 pure Mithril Ore, 20 ant soldier acid, 20 Wyrm talons" -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3150" type="EtcItem" name="Pure Mithril Cup">
+		<!-- A cup crafted by Blacksmith Pushkin that is made of pure mithril. Take this back to Thalia. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3151" type="EtcItem" name="Arkenia's Contract">
+		<!-- A contract written by Arkenia. The contract states that she will give stardust in return for Andariel's book from the Village of Gludin. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3152" type="EtcItem" name="Arkenia's Instructions">
+		<!-- Arkenia's instructions. The instructions are to bring back Andariel's book from the Temple of Einhasad in the Village of Gludin. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3153" type="EtcItem" name="Adonius's list">
+		<!-- A list given by Priest Adonius: 20 spider ichor and 20 harpy's down. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3154" type="EtcItem" name="Andariel Scripture Copy">
+		<!-- A copy of Andariel's book given by Priest Adonius. Take this back to Arkenia. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3155" type="EtcItem" name="Stardust">
+		<!-- The silver dust received from Arkenia of the Dark Elves. Take this back to Thalia. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3156" type="EtcItem" name="Isael's Instructions">
+		<!-- A document containing Isael Silvershadow's instructions. It asks you to recover 6 pieces of talins spear from Leto lizardman shamans. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3157" type="EtcItem" name="Isael's Letter">
+		<!-- A letter given by Isael Silvershadow. Take this back to Thalia along with Talin's spear. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3158" type="EtcItem" name="Grail of Purity">
+		<!-- A grail crafted of pure mithril. Catch the tears of the unicorn with the grail and take it back to Thalia. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3159" type="EtcItem" name="Tears of Unicorn">
+		<!-- The tears shed by Eva's unicorn when it is killed with Talin's spear. Take this back to Thalia. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3160" type="EtcItem" name="Water of Life">
+		<!-- The holy water that contains the powers of life to rejuvenate the Mother Tree. Take this and go to Hierarch Asterios. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3161" type="EtcItem" name="Pure Mithril Ore">
+		<!-- The ore of pure mithril. Gather 10 of these, along with the rest of the ingredients, and take them back to Blacksmith Pushkin. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3162" type="EtcItem" name="Ant Soldier Acid">
+		<!-- The acid collected from ant soldiers after slaying them. Gather 20 bottles of this, along with the rest of the ingredients, and take them back to Blacksmith Pushkin. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3163" type="EtcItem" name="Wyrm's Talon">
+		<!-- The talon of a wyrm obtained after slaying it. Gather 20 of these, along with the rest of the ingredients, and take them back to Blacksmith Pushkin. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3164" type="EtcItem" name="Spider Ichor">
+		<!-- The ichor of a marsh spider. Gather 20 units of this and take them back to Priest Adonius. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3165" type="EtcItem" name="Harpy's Down">
+		<!-- The down feathers obtained after slaying a harpy. Gather 20 of these and take them back to Priest Adonius. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3166" type="EtcItem" name="Talin's Spear Blade">
+		<!-- The blade portion of Talin's spear. Take this, along with the remaining portions of the spear, back to Isael Silvershadow. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3167" type="EtcItem" name="Talin's Spear Shaft">
+		<!-- The shaft portion of Talin's spear. Take this, along with the remaining portions of the spear, back to Isael Silvershadow. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3168" type="EtcItem" name="Talin's Ruby">
+		<!-- A decorative jewel that adorned Talin's spear. Take this, along with the remaining portions of the spear, back to Isael Silvershadow. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3169" type="EtcItem" name="Talin's Aquamarine">
+		<!-- A decorative jewel that adorned Talin's spear. Take this, along with the remaining portions of the spear, back to Isael Silvershadow. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3170" type="EtcItem" name="Talin's Amethyst">
+		<!-- A decorative jewel that adorned Talin's spear. Take this, along with the remaining portions of the spear, back to Isael Silvershadow. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3171" type="EtcItem" name="Talin's Peridot">
+		<!-- A decorative jewel that adorned Talin's spear. Take this, along with the remaining portions of the spear, back to Isael Silvershadow. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3172" type="EtcItem" name="Mark of Fate">
+		<!-- A mark given to those who have passed the Testimony of Fate. An item for occupational change. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3173" type="EtcItem" name="Kaira's Letter">
+		<!-- A letter sent by Magister Kaira to Brother Metheus of the Temple of Einhasad. This must be delivered secretly. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3174" type="EtcItem" name="Metheus's Funeral Jar">
+		<!-- A jar for storing the remains of the dead. Take this to the Execution Grounds and search for the remains of Metheus's sister. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3175" type="EtcItem" name="Kasandra's Remains">
+		<!-- The remains of Kasandra, Metheus's sister. Take this back to Brother Metheus. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3176" type="EtcItem" name="Herbalism Textbook">
+		<!-- A textbook of various herbs and their usages. It also contains information about the deadly poison belladonna. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3177" type="EtcItem" name="Ixia's List">
+		<!-- 10 units each of medusa's blood, marsh spider fluids, dead seeker's dung, tyrant's blood and nightshade root. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3178" type="EtcItem" name="Medusa's Ichor">
+		<!-- The bottled blood of a medusa. Collect 10 of these and take them back to Master Ixia -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3179" type="EtcItem" name="Marsh Spider Fluids">
+		<!-- The bottled fluids of a marsh spider. Collect 10 of these and take them back to Master Ixia. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3180" type="EtcItem" name="Dead Seeker Dung">
+		<!-- The dung of dead seeker bats. Collect 10 of these and take them back to Master Ixia. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3181" type="EtcItem" name="Tyrant's Blood">
+		<!-- The bottled blood of tyrant. Collect 10 of these and take them back to Master Ixia. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3182" type="EtcItem" name="Nightshade Root">
+		<!-- The roots of the rare nightshade herb. Collect 10 of these and take them back to Master Ixia. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3183" type="EtcItem" name="Belladonna">
+		<!-- A legendary poison that can kill a bull with a single drop. Take this to Brother Metheus. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3184" type="EtcItem" name="Alder's Skull">
+		<!-- The skull of Alders, who drafted the copy of Kaysha's Revelations. Take this to Magister Kaira. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3185" type="EtcItem" name="Alders Skull">
+		<!-- Skull of Priest Alders. Take it to Magister Roa, a distant descendant of the priest. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3186" type="EtcItem" name="Alder's Receipt">
+		<!-- The receipt for the item that Alder entrusted to the warehouse. Take this and go to the warehouse in the Village of Gludin. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3187" type="EtcItem" name="Revelations Manuscript">
+		<!-- A copy of Kaysha's Revelations. Take this to Magister Kaira. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3188" type="EtcItem" name="Kaira's Instructions">
+		<!-- A note where Magister Kaira's instructions are written. The instructions are to come back after reaching level 38. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3189" type="EtcItem" name="Kaira's Recommendation">
+		<!-- A recommendation letter written by Magister Kaira. Take this and go to Tetrarch Thifiell of the Dark Elf Village. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3190" type="EtcItem" name="Palus Charm">
+		<!-- A charm given by Tetrarch Thifiell to keep in possession until the Initiation Ceremony of the Shilien Circle is complete. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3191" type="EtcItem" name="Thifiell's Letter">
+		<!-- A letter from Tetrarch Thifiell to Arkenia. Arkenia is at the Dark Elven Initiation Altar. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3192" type="EtcItem" name="Arkenia's Note">
+		<!-- A note written by Arkenia. It contains instructions to bring back red fairy dust and blight treant sap. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3193" type="EtcItem" name="Pixy Garnet">
+		<!-- A garnet given by the bloody pixy as a mark of promise. Bring back 10 skulls each from four different races. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3194" type="EtcItem" name="Grandis's Skull">
+		<!-- The skull of a Grandis. Collect ten of these and take them back to the bloody pixy. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3195" type="EtcItem" name="Karul Bugbear Skull">
+		<!-- The skull of a Karul Bugbear. Collect 10 of these and take them back to the bloody pixy. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3196" type="EtcItem" name="Breka Overlord Skull">
+		<!-- Skull of a Breka orc overlord. Collect 10 of them and take them to Bloody Pixy. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3197" type="EtcItem" name="Leto Overlord Skull">
+		<!-- The skull of a Leto lizardman chief. Collect 10 of these and take them back to the bloody pixy. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3198" type="EtcItem" name="Red Fairy Dust">
+		<!-- Red fairy dust given by the bloody pixy. Take this to Arkenia. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3199" type="EtcItem" name="Blight Treant Seed">
+		<!-- A seed given by a blight treant as a mark of promise. Slay the black willow lurker and bring back its leaf. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+</list>

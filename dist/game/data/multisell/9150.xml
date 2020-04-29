@@ -1,0 +1,151 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- B-Grade Jewels -->
+
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/multisell.xsd">
+
+	<!-- Red Soul Crystal - Stage 1 -->
+	<item id="1">
+		<ingredient id="4037" count="10000"/>
+		<production id="4630" count="1"/>
+	</item>
+
+	<!-- Red Soul Crystal - Stage 2 -->
+	<item id="2">
+		<ingredient id="4037" count="10000"/>
+		<production id="4631" count="1"/>
+	</item>
+
+	<!-- Red Soul Crystal - Stage 3 -->
+	<item id="3">
+		<ingredient id="4037" count="10000"/>
+		<production id="4632" count="1"/>
+	</item>
+
+	<!-- Red Soul Crystal - Stage 4 -->
+	<item id="3">
+		<ingredient id="4037" count="10000"/>
+		<production id="4633" count="1"/>
+	</item>
+
+	<!-- Red Soul Crystal - Stage 5 -->
+	<item id="4">
+		<ingredient id="4037" count="10000"/>
+		<production id="4634" count="1"/>
+	</item>
+
+	<!-- Red Soul Crystal - Stage 6 -->
+	<item id="5">
+		<ingredient id="4037" count="10000"/>
+		<production id="4635" count="1"/>
+	</item>
+
+	<!-- Red Soul Crystal - Stage 11 -->
+	<item id="6">
+		<ingredient id="4037" count="10000"/>
+		<production id="5577" count="1"/>
+	</item>
+
+	<!-- Red Soul Crystal - Stage 12 -->
+	<item id="7">
+		<ingredient id="4037" count="10000"/>
+		<production id="5580" count="1"/>
+	</item>
+
+	<!-- Green Soul Crystal - Stage 1 -->
+	<item id="8">
+		<ingredient id="4037" count="10000"/>
+		<production id="4641" count="1"/>
+	</item>
+
+	<!-- Green Soul Crystal - Stage 2 -->
+	<item id="9">
+		<ingredient id="4037" count="10000"/>
+		<production id="4642" count="1"/>
+	</item>
+
+	<!-- Green Soul Crystal - Stage 3 -->
+	<item id="10">
+		<ingredient id="4037" count="10000"/>
+		<production id="4643" count="1"/>
+	</item>
+
+	<!-- Green Soul Crystal - Stage 4 -->
+	<item id="11">
+		<ingredient id="4037" count="10000"/>
+		<production id="4644" count="1"/>
+	</item>
+
+	<!-- Green Soul Crystal - Stage 5 -->
+	<item id="12">
+		<ingredient id="4037" count="10000"/>
+		<production id="4645" count="1"/>
+	</item>
+
+	<!-- Green Soul Crystal - Stage 6 -->
+	<item id="13">
+		<ingredient id="4037" count="10000"/>
+		<production id="4646" count="1"/>
+	</item>
+
+	<!-- Green Soul Crystal - Stage 11 -->
+	<item id="14">
+		<ingredient id="4037" count="10000"/>
+		<production id="5578" count="1"/>
+	</item>
+
+	<!-- Green Soul Crystal - Stage 12 -->
+	<item id="15">
+		<ingredient id="4037" count="10000"/>
+		<production id="5581" count="1"/>
+	</item>
+
+	<!-- Blue Soul Crystal - Stage 1 -->
+	<item id="16">
+		<ingredient id="4037" count="10000"/>
+		<production id="4652" count="1"/>
+	</item>
+
+	<!-- Blue Soul Crystal - Stage 2 -->
+	<item id="17">
+		<ingredient id="4037" count="10000"/>
+		<production id="4653" count="1"/>
+	</item>
+
+	<!-- Blue Soul Crystal - Stage 3 -->
+	<item id="18">
+		<ingredient id="4037" count="10000"/>
+		<production id="4654" count="1"/>
+	</item>
+
+	<!-- Blue Soul Crystal - Stage 4 -->
+	<item id="19">
+		<ingredient id="4037" count="10000"/>
+		<production id="4655" count="1"/>
+	</item>
+
+	<!-- Blue Soul Crystal - Stage 5 -->
+	<item id="20">
+		<ingredient id="4037" count="10000"/>
+		<production id="4656" count="1"/>
+	</item>
+
+	<!-- Blue Soul Crystal - Stage 6 -->
+	<item id="21">
+		<ingredient id="4037" count="10000"/>
+		<production id="4657" count="1"/>
+	</item>
+
+	<!-- Blue Soul Crystal - Stage 11 -->
+	<item id="22">
+		<ingredient id="4037" count="10000"/>
+		<production id="5579" count="1"/>
+	</item>
+
+	<!-- Blue Soul Crystal - Stage 12 -->
+	<item id="23">
+		<ingredient id="4037" count="10000"/>
+		<production id="5582" count="1"/>
+	</item>
+
+</list>

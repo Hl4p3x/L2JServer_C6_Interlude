@@ -1,0 +1,832 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="7600" type="EtcItem" name="Worn Tarot Card - Wealth">
+		<!-- An old and worn out tarot card given by the Lady of the Lake. This card symbolizes wealth. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7601" type="EtcItem" name="Worn Tarot Card - Power">
+		<!-- An old and worn out tarot card given by the Lady of the Lake. This card symbolizes power. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7602" type="EtcItem" name="Worn Tarot Card - Love">
+		<!-- An old and worn out tarot card given by the Lady of the Lake. This card symbolizes love. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7603" type="EtcItem" name="Worn Tarot Card - Knowledge">
+		<!-- An old and worn out tarot card given by the Lady of the Lake. This card symbolizes knowledge. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7604" type="EtcItem" name="Summoner Keats' Letter">
+		<!-- A clumsily written letter written by Summoner Keats who was turned into a frog. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7605" type="EtcItem" name="Miracle Potion of Transferred Life">
+		<!-- An Elven miracle cure mixed by Priest Cerenas. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7606" type="EtcItem" name="Kamilen's Antidote">
+		<!-- A medicine made by Magister Kamilen to cure Summoner Noctisse. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7607" type="EtcItem" name="Coolant of the Repaired Wilma #3">
+		<!-- The cooling system refrigerant of repaired time machine "Wilma 3". -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7608" type="EtcItem" name="Sealed Envelope">
+		<!-- A sealed envelope given by Information Broker Bavarin. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7609" type="EtcItem" name="Proof of Catching a Fish">
+		<!-- A fishing certificate. If you collect it and take it to a member of the Fishermen's Guild, you can learn a skill that is related to expanding a slot. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="500"/>
+	</item>
+	<item id="7610" type="EtcItem" name="Wind Fishing Lure">
+		<!-- A lure that was given out by Lanosco. It contains the hidden power of wind. It is not easy to use this lure. Only those who are highly skilled in fishing should use it. -->
+		<set name="item_type" val="lure"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="7611" type="EtcItem" name="Icy Air Fishing Lure">
+		<!-- A lure that was given out by O'Fulle. It contains the hidden power of icy air. It is not easy to use this lure. Only those who are highly skilled in fishing should use it. -->
+		<set name="item_type" val="lure"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="7612" type="EtcItem" name="Earth Fishing Lure">
+		<!-- A lure that was given out by Willie. It contains the hidden power of earth. It is not easy to use this lure. Only those who are highly skilled in fishing should use it. -->
+		<set name="item_type" val="lure"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="7613" type="EtcItem" name="Flaming Fishing Lure">
+		<!-- A lure that was given out by Linnaeus. It contains the hidden power of flames. It is not easy to use this lure. Only those who are highly skilled in fishing should use it. -->
+		<set name="item_type" val="lure"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="7614" type="EtcItem" name="Chest Caught by Wind Fishing Lure">
+		<!-- A chest that was brought up out of the bait of wind by using the wind fishing lure. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="7615" type="EtcItem" name="Chest Caught by Icy Air Fishing Lure">
+		<!-- A chest that was brought up out of the bait of icy air by using the wind fishing lure. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="7616" type="EtcItem" name="Chest Caught by Earth Fishing Lure">
+		<!-- A chest that was brought up out of the bait of earth by using the wind fishing lure. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="7617" type="EtcItem" name="Chest Caught by using a Flaming Fishing Lure">
+		<!-- A chest that was brought up out of the bait of fire water by using the wind fishing lure. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="7618" type="EtcItem" name="Scroll of Escape - Ketra Orc Village">
+		<!-- A magic scroll that transports its bearer to Ketra Orc Village. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="400"/>
+	</item>
+	<item id="7619" type="EtcItem" name="Scroll of Escape - Varka Silenos Village">
+		<!-- A magic scroll that transports its bearer to Varka Silenos Village. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="400"/>
+	</item>
+	<item id="7620" type="EtcItem" name="Trash">
+		<!-- Saint's blood that has power of holiness. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7621" type="EtcItem" name="Essence of Wind">
+		<!-- Essence of wind extracted from Singing Wind. It is an item requested by Lanosco. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7622" type="EtcItem" name="Lost Bait Ingredient">
+		<!-- The lost bait that was recovered from a Fettered Soul. O'Fulle asked you to bring it back to him. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7623" type="EtcItem" name="Eye of Tarlk Basilisk">
+		<!-- An eye harvested from a Tarlk Basilisk. Willie asked you to bring it back to him. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7624" type="EtcItem" name="Crimson Drake Heart">
+		<!-- Heart of a Crimson Drake surrounded by flames. Linnaeus asked you to bring it back to him. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7625" type="EtcItem" name="Strange Golem Blueprint">
+		<!-- A golem blueprint with an unusual design that is different from any other golem blueprint. It seems to be designed by Shaling. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7626" type="EtcItem" name="Kiki's Letter">
+		<!-- A completely sealed letter. On the envelope, Kiki's name is written as its recipient. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7627" type="EtcItem" name="Small Glass Box">
+		<!-- A beautiful box made of glass. It is engraved with the names of Anabel and Liesel. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7628" type="EtcItem" name="Rukal's Musical Score">
+		<!-- A musical score of beautiful music. Its author is written down as Composer Rukal. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7629" type="EtcItem" name="Looted Goods - White Cargo box">
+		<!-- White Cargo Box looted from a trader's wagon. Seems to have valuable goods. Double-click to see the contents. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="7630" type="EtcItem" name="Looted Goods - Blue Cargo box">
+		<!-- Blue Cargo Box looted from a trader's wagon. Seems to have valuable goods. Double-click to see the contents. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="7631" type="EtcItem" name="Looted Goods - Yellow Cargo box">
+		<!-- Yellow Cargo Box looted from a trader's wagon. Seems to have valuable goods. Double-click to see the contents. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="7632" type="EtcItem" name="Looted Goods - Red Filing Cabinet">
+		<!-- Red Document Box looted from a trader's wagon. Seems to have valuable goods. Double-click to see the contents. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="7633" type="EtcItem" name="Looted Goods - Purple Filing Cabinet">
+		<!-- Violet Document Box looted from a trader's wagon. Seems to have valuable goods. Double-click to see the contents. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="7634" type="EtcItem" name="Looted Goods - Brown Pouch">
+		<!-- Pouch looted from a trader's wagon. Seems to have valuable goods. Double-click to see the contents. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="7635" type="EtcItem" name="Looted Goods - Gray Pouch">
+		<!-- Pouch looted from a trader's wagon. Seems to have valuable goods. Double-click to see the contents. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="7636" type="EtcItem" name="Booty - Yellow Pouch">
+		<!-- Item discovered in the marsh. Dirty yellow pouch ripped here and there. Double-click to see the contents. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="7637" type="EtcItem" name="Booty - Brown Pouch">
+		<!-- Item discovered in the marsh. Dirty brown pouch ripped here and there. Double-click to see the contents. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="7638" type="EtcItem" name="Spellbook - Mass Summon Storm Cubic">
+		<!-- Spellbook needed to learn Mass Summon Storm Cubic. Used by Warlocks. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3200"/>
+	</item>
+	<item id="7639" type="EtcItem" name="Spellbook - Mass Summon Aqua Cubic">
+		<!-- Spellbook needed to learn Mass Summon Storm Cubic. Used Elemental Summoners. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3200"/>
+	</item>
+	<item id="7640" type="EtcItem" name="Spellbook - Mass Summon Phantom Cubic">
+		<!-- Spellbook needed to learn Mass Summon Phantom Cubic. Used by Phantom Summoners. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3200"/>
+	</item>
+	<item id="7641" type="EtcItem" name="Spellbook - Summon Feline Queen">
+		<!-- Spellbook needed to learn Summon Feline Queen. Used by Warlocks. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3200"/>
+	</item>
+	<item id="7642" type="EtcItem" name="Spellbook - Summon Unicorn Seraphim">
+		<!-- Spellbook needed to learn Summon Unicorn Seraphim. Used by Elemental Summoners. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3200"/>
+	</item>
+	<item id="7643" type="EtcItem" name="Spellbook - Summon Nightshade">
+		<!-- Spellbook needed to learn Summon Night Shade. Used by Phantom Summoners. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3200"/>
+	</item>
+	<item id="7644" type="EtcItem" name="Spellbook - Summon Cursed Man">
+		<!-- Spellbook needed to learn Summon Cursed Man. Used by Necromancers. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3200"/>
+	</item>
+	<item id="7645" type="EtcItem" name="Spellbook - Balance Life">
+		<!-- Spellbook needed to learn Balance Life. Used by Cardinals. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="11600"/>
+	</item>
+	<item id="7646" type="EtcItem" name="Spellbook - Curse of Doom">
+		<!-- Spellbook needed to learn Curse of Doom. Used by Soultakers. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="11600"/>
+	</item>
+	<item id="7647" type="EtcItem" name="Spellbook - Curse of Abyss">
+		<!-- Spellbook needed to learn Curse of Abyss. Used by Soultakers. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="11600"/>
+	</item>
+	<item id="7648" type="EtcItem" name="Spellbook - Arcane Chaos">
+		<!-- Spellbook needed to learn Arcane Chaos. Used by Archmages/Mystic Muses/Storm Screamers. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="11600"/>
+	</item>
+	<item id="7649" type="EtcItem" name="Spellbook - Fire Vortex">
+		<!-- Spellbook needed to learn Fire Vortex. Used by Archmages. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="11600"/>
+	</item>
+	<item id="7650" type="EtcItem" name="Spellbook - Ice Vortex">
+		<!-- Spellbook needed to learn Ice Vortex. Used by Mystic Muses. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="11600"/>
+	</item>
+	<item id="7651" type="EtcItem" name="Spellbook - Wind Vortex">
+		<!-- Spellbook needed to learn Wind Vortex. Used by Storm Screamers. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="11600"/>
+	</item>
+	<item id="7652" type="EtcItem" name="Spellbook - Light Vortex">
+		<!-- Spellbook needed to learn Light Vortex. Used by Mystic Muses. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="11600"/>
+	</item>
+	<item id="7653" type="EtcItem" name="Spellbook - Dark Vortex">
+		<!-- Spellbook needed to learn Dark Vortex. Used by Soultakers and Storm Screamers. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="11600"/>
+	</item>
+	<item id="7654" type="EtcItem" name="Spellbook - Mass Warrior Bane">
+		<!-- Spellbook needed to learn Mass Warrior Bane. Used by Soultakers. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="11600"/>
+	</item>
+	<item id="7655" type="EtcItem" name="Spellbook - Mass Mage Bane">
+		<!-- Spellbook needed to learn Mass Mage Bane. Used by Soultakers. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="11600"/>
+	</item>
+	<item id="7656" type="EtcItem" name="Spellbook - Warrior Servitor">
+		<!-- Spellbook needed to learn Warrior Servitor. Used by Arcana Lords. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="11600"/>
+	</item>
+	<item id="7657" type="EtcItem" name="Spellbook - Wizard Servitor">
+		<!-- Spellbook needed to learn Wizard Servitor. Used by Elemental Masters. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="11600"/>
+	</item>
+	<item id="7658" type="EtcItem" name="Spellbook - Assassin Servitor">
+		<!-- Spellbook needed to learn Assassin Servitor. Used by Spectral Masters. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="11600"/>
+	</item>
+	<item id="7659" type="EtcItem" name="Spellbook - Final Servitor">
+		<!-- Spellbook needed to learn Final Servitor. Used by Arcana Lords/Elemental Masters/Spectral Masters. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="11600"/>
+	</item>
+	<item id="7660" type="EtcItem" name="Spellbook - Warrior Bane">
+		<!-- Spellbook needed to learn Warrior Bane. Used by Arcana Lords/Elemental Masters. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="11600"/>
+	</item>
+	<item id="7661" type="EtcItem" name="Spellbook - Mage Bane">
+		<!-- Spellbook needed to learn Mage Bane. Used by Arcana Lords/Spectral Masters. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="11600"/>
+	</item>
+	<item id="7662" type="EtcItem" name="Spellbook - Elemental Protection">
+		<!-- Spellbook needed to learn Elemental Protection. Used by Hierophants. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="11600"/>
+	</item>
+	<item id="7663" type="EtcItem" name="Spellbook - Divine Protection">
+		<!-- Spellbook needed to learn Divine Protection. Used by Cardinals/Eva's Saints. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="11600"/>
+	</item>
+	<item id="7664" type="EtcItem" name="Spellbook - Arcane Protection">
+		<!-- Spellbook needed to learn Arcane Protection. Used by Eva's Saints or Shillien Saints. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="11600"/>
+	</item>
+	<item id="7665" type="EtcItem" name="Spellbook - Prophecy of Water">
+		<!-- Spellbook needed to learn Prophecy of Water. Used by Eva's Saints. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="11600"/>
+	</item>
+	<item id="7666" type="EtcItem" name="Spellbook - Prophecy of Fire">
+		<!-- Spellbook needed to learn Prophecy of Fire. Used by Hierophants. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="11600"/>
+	</item>
+	<item id="7667" type="EtcItem" name="Spellbook - Prophecy of Wind">
+		<!-- Spellbook needed to learn Prophecy of Wind. Used by Shillien Saints. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="11600"/>
+	</item>
+	<item id="7668" type="EtcItem" name="Spellbook - Block Shield">
+		<!-- Spellbook needed to learn Block Shield. Used by Hierophants/Shillien Saints. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="11600"/>
+	</item>
+	<item id="7669" type="EtcItem" name="Spellbook - Block Wind Walk">
+		<!-- Spellbook needed to learn Block Wind Walk. Used by Hierophants/Eva's Saints. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="11600"/>
+	</item>
+	<item id="7670" type="EtcItem" name="Spellbook - Mass Block Shield">
+		<!-- Spellbook needed to learn Mass Block Shield. Used by Cardinals. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="11600"/>
+	</item>
+	<item id="7671" type="EtcItem" name="Spellbook - Mass Block Wind Walk">
+		<!-- Spellbook needed to learn Mass Block Wind Walk. Used by Cardinals. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="11600"/>
+	</item>
+	<item id="7672" type="EtcItem" name="Amulet - Chant of Spirit">
+		<!-- Amulet required to memorize the Chant of Spirit spell. Used by Doomcryers. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="11600"/>
+	</item>
+	<item id="7673" type="EtcItem" name="Amulet - Chant of Victory">
+		<!-- Amulet required to memorize the Chant of Victory spell. Used by Doomcryers. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="11600"/>
+	</item>
+	<item id="7674" type="EtcItem" name="Amulet - Pa'agrio's Eye">
+		<!-- Amulet required to memorize the Pa'agrio's Eye spell. Used by Dominators. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="11600"/>
+	</item>
+	<item id="7675" type="EtcItem" name="Amulet - Pa'agrio's Soul">
+		<!-- Amulet required to memorize the Pa'agrio's Soul spell. Used by Dominators. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="11600"/>
+	</item>
+	<item id="7676" type="EtcItem" name="Amulet - Seal of Despair">
+		<!-- Amulet required to memorize the Seal of Despair spell. Used by Dominators. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="11600"/>
+	</item>
+	<item id="7677" type="EtcItem" name="Virgil's Letter">
+		<!-- Letter sent by Virgil, a rich Dwarf in the Rune Township. It asks for help. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="destroyable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7678" type="EtcItem" name="Caradine's Letter">
+		<!-- Letter sent by Messenger of the Lake, Caradine. Says to go to the Town of Goddard when you reach Sub Class Level 65. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="destroyable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7679" type="EtcItem" name="Caradine's Letter">
+		<!-- Letter sent by Messenger of the Lake, Caradine. Says to go to the Town of Goddard when you reach Sub Class Level 75. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="destroyable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7680" type="Armor" name="Raccoon Ears">
+		<!-- Hair accessory in the shape of raccoon ears -->
+		<set name="bodypart" val="hair"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="10"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="500000"/>
+		<for>
+			<add val="0" order="0x10" stat="pDef"/>
+		</for>
+	</item>
+	<item id="7681" type="Armor" name="Outlaw's Eyepatch">
+		<!-- Purple eyepatch accessory -->
+		<set name="bodypart" val="face"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="10"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="500000"/>
+		<for>
+			<add val="0" order="0x10" stat="pDef"/>
+		</for>
+	</item>
+	<item id="7682" type="Armor" name="Maiden's Hairpin">
+		<!-- Pink hairpin. Hair accessory for women only -->
+		<set name="bodypart" val="hair"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="10"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="500000"/>
+		<for>
+			<add val="0" order="0x10" stat="pDef"/>
+		</for>
+	</item>
+	<item id="7683" type="Armor" name="Rabbit Ears">
+		<!-- Hair accessory in the shape of Rabbit Ears. -->
+		<set name="bodypart" val="hair"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="10"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="500000"/>
+		<for>
+			<add val="0" order="0x10" stat="pDef"/>
+		</for>
+	</item>
+	<item id="7684" type="EtcItem" name="Raccoon Ears Fabric">
+		<!-- Main ingredient essentially required to make Raccoon Ears. Can also be sold at ordinary shops. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="5000"/>
+	</item>
+	<item id="7685" type="EtcItem" name="Outlaw's Eyepatch Strap">
+		<!-- Main ingredient essentially required to make an Outlaw's Eyepatch. Can also be sold at ordinary shops. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="5000"/>
+	</item>
+	<item id="7686" type="EtcItem" name="Maiden's Hairpin Piece">
+		<!-- Main ingredient essentially required to make a Maiden's Hairpin. Can also be sold at ordinary shops. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="5000"/>
+	</item>
+	<item id="7687" type="EtcItem" name="Rabbit Ears Fabric">
+		<!-- Main ingredient essentially required to make Rabbit Ears. Can also be sold at ordinary shops. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="5000"/>
+	</item>
+	<item id="7688" type="EtcItem" name="Cat Ears Fabric">
+		<!-- Main ingredient essentially required to make Cat Ears. Can also be sold at ordinary shops. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="5000"/>
+	</item>
+	<item id="7689" type="EtcItem" name="Recipe - Raccoon Ears (100%)">
+		<!-- This recipe for Raccoon Ears can be used by all races. Requires Create Common Item Skill Level 4. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="50000"/>
+	</item>
+	<item id="7690" type="EtcItem" name="Recipe - Outlaw's Eyepatch (100%)">
+		<!-- This technique for creating an Outlaw's Eyepatch can be used by all races. Requires Create Common Item Skill Level 4. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="100000"/>
+	</item>
+	<item id="7691" type="EtcItem" name="Recipe - Maiden's Hairpin (100%)">
+		<!-- This technique to create a Maiden's Hairpin can be used by all races. Requires Create Common Item Skill Level 4. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="100000"/>
+	</item>
+	<item id="7692" type="EtcItem" name="Recipe - Rabbit Ears (100%)">
+		<!-- This recipe for Rabbit Ears can be used by all races. Requires Create Common Item Skill Level 4. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="50000"/>
+	</item>
+	<item id="7693" type="EtcItem" name="Recipe - Cat Ears (100%)">
+		<!-- This recipe for Cat Ears can be used by all races. Requires Create Common Item Skill Level 4. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="50000"/>
+	</item>
+	<item id="7694" type="Armor" name="Noblesse Tiara">
+		<!-- Hair accessory exclusively used by the Noblesse. -->
+		<set name="bodypart" val="face"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="10"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<add val="0" order="0x10" stat="pDef"/>
+		</for>
+	</item>
+	<item id="7695" type="Armor" name="Forget-me-not Hairpin">
+		<!-- A hairpin with a forget-me-not flower pattern. Hair accessory exclusively for women. -->
+		<set name="bodypart" val="hair"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="10"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="500000"/>
+		<for>
+			<add val="0" order="0x10" stat="pDef"/>
+		</for>
+	</item>
+	<item id="7696" type="Armor" name="Daisy Hairpin">
+		<!-- A hairpin with a daisy pattern. Hair accessory exclusively for women. -->
+		<set name="bodypart" val="hair"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="10"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="500000"/>
+		<for>
+			<add val="0" order="0x10" stat="pDef"/>
+		</for>
+	</item>
+	<item id="7697" type="EtcItem" name="Piece of Forget-me-not Hairpin">
+		<!-- An indispensable raw material that is needed to make a Forget-me-not Hairpin. It can be sold at a general store. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="5000"/>
+	</item>
+	<item id="7698" type="EtcItem" name="Piece of Daisy Hairpin">
+		<!-- An indispensable material that is needed to make a Daisy Hairpin. It can be sold at a general store. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="5000"/>
+	</item>
+	<item id="7699" type="EtcItem" name="Recipe: Forget-me-not Hairpin (100%)">
+		<!-- This technique for creating a Forget-me-not Hairpin can be used by all races. Requires Create Common Item Skill Level 4. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="100000"/>
+	</item>
+</list>

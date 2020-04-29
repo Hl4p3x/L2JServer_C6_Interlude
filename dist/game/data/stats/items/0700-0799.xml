@@ -1,0 +1,954 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="700" type="EtcItem" name="Hobgoblin Amulet">
+		<!-- The amulet of a hobgoblin. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="701" type="EtcItem" name="Fungus Juice">
+		<!-- The juice of a fungus. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="702" type="EtcItem" name="Wolf Pelt">
+		<!-- Gather forty wolf pelts and take them to Trader Lector of the weapons and armor shop. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="703" type="EtcItem" name="Poison Sac">
+		<!-- Poison sacs obtained from the dead giant spider. Take this to Priest Yohanes. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="704" type="EtcItem" name="Fever Medicine">
+		<!-- A medicine concocted by Priest Yohanes for the students who are ill with fever. Take this to Elias. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="705" type="EtcItem" name="Orc's Amulet">
+		<!-- An Orc feather amulet. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="706" type="EtcItem" name="Basilisk's Claw">
+		<!-- A basilisk's claw. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="707" type="EtcItem" name="Spore Sac">
+		<!-- A sac obtained from the spore fungus. Gather 10 of these and take them to Trader Vollodos. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="708" type="EtcItem" name="Sylph Headband">
+		<!-- A Sylph Headband -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="709" type="EtcItem" name="Leather Shirt">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="400"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="710" type="EtcItem" name="Hard Leather Shirt">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="400"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="711" type="EtcItem" name="Piece Bone Breastplate">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="800"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="712" type="EtcItem" name="Half Plate Armor">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="1200"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="713" type="EtcItem" name="Leather Pants">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="250"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="714" type="EtcItem" name="Hard Leather Pants">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="300"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="715" type="EtcItem" name="Piece Bone Gaiters">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="500"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="716" type="EtcItem" name="Plate Gaiters">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="800"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="717" type="EtcItem" name="Leather Gloves">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="718" type="EtcItem" name="Hard Leather Gloves">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="150"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="719" type="EtcItem" name="Crafted Leather Gloves">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="150"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="720" type="EtcItem" name="Reinforced Gloves">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="200"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="721" type="EtcItem" name="Leather Boots">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="150"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="722" type="EtcItem" name="Hard Leather Boots">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="150"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="723" type="EtcItem" name="Crafted Leather Boots">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="200"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="724" type="EtcItem" name="Reinforced Boots">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="250"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="725" type="EtcItem" name="Healing Drug">
+		<!-- A magical, liquid medicine that restores HP for a certain amount of time. -->
+		<set name="item_type" val="potion"/>
+		<set name="weight" val="180"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="50"/>
+	</item>
+	<item id="726" type="EtcItem" name="Mana Drug">
+		<!-- A magical, liquid medicine that restores MP for a certain amount of time. -->
+		<set name="item_type" val="potion"/>
+		<set name="weight" val="180"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="80"/>
+	</item>
+	<item id="727" type="EtcItem" name="Healing Potion">
+		<!-- A magical, liquid medicine that restores HP for a certain amount of time. -->
+		<set name="item_type" val="potion"/>
+		<set name="weight" val="180"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="80"/>
+	</item>
+	<item id="728" type="EtcItem" name="Mana Potion">
+		<!-- A magical, liquid medicine that restores MP for a certain amount of time. -->
+		<set name="item_type" val="potion"/>
+		<set name="weight" val="180"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="2000"/>
+	</item>
+	<item id="729" type="EtcItem" name="Scroll: Enchant Weapon (Grade A)">
+		<!-- When enchanted, the P. Atk. of A-Grade weapons such as sword/one-handed, blunt weapon/one-handed, dagger and spear etc. will increase by 4. The P. Atk of sword/two-handed, blunt weapon/two-handed, dualsword, and fist-fighting weapon/two-handed will increase by 5. The P. Atk. of bow weapons will increase by 8. The M. Atk. of all weapons will increase by 3. From +4, P. Atk. and M. Atk. bonus will double for all weapon types. It can be safely enchanted up to +3. -->
+		<set name="item_type" val="scroll"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1800000"/>
+	</item>
+	<item id="730" type="EtcItem" name="Scroll: Enchant Armor (Grade A)">
+		<!-- Increases the P. Def. of an A-Grade armor or accessory by 1, and from +4, the P. Def will increase by 3. It can be safely enchanted up to +3. One-piece type armor can be safely enchanted up to +4. -->
+		<set name="item_type" val="scroll"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="240000"/>
+	</item>
+	<item id="731" type="EtcItem" name="Crystal Scroll: Enchant Weapon (Grade A)">
+		<!-- A scroll of enchantment that empowers an A-Grade weapon. -->
+		<set name="item_type" val="scroll"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="240000"/>
+	</item>
+	<item id="732" type="EtcItem" name="Crystal Scroll: Enchant Armor (Grade A)">
+		<!-- A scroll of enchantment that empowers an A-Grade armor. -->
+		<set name="item_type" val="scroll"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="240000"/>
+	</item>
+	<item id="733" type="EtcItem" name="Endeavor Potion">
+		<!-- A magical, liquid medicine that increases willpower. -->
+		<set name="item_type" val="potion"/>
+		<set name="weight" val="180"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="500"/>
+	</item>
+	<item id="734" type="EtcItem" name="Haste Potion">
+		<!-- A magical potion that increases movement speed -->
+		<set name="item_type" val="potion"/>
+		<set name="weight" val="20"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1200"/>
+	</item>
+	<item id="735" type="EtcItem" name="Potion of Alacrity">
+		<!-- A magical potion that increases attack speed -->
+		<set name="item_type" val="potion"/>
+		<set name="weight" val="20"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="2400"/>
+	</item>
+	<item id="736" type="EtcItem" name="Scroll of Escape">
+		<!-- A scroll of enchantment that relocates you to the nearest village. -->
+		<set name="item_type" val="scroll"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="400"/>
+	</item>
+	<item id="737" type="EtcItem" name="Scroll of Resurrection">
+		<!-- A scroll of enchantment that resuscitates a dead person. -->
+		<set name="item_type" val="scroll"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="2000"/>
+	</item>
+	<item id="738" type="Weapon" name="Sword of Solidarity">
+		<!-- A bronze sword crafted long ago in memory of the union between the Humans and the Elves. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="weight" val="1300"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_dam" val="12"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="sword"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="379"/>
+		<set name="m_dam" val="9"/>
+		<set name="price" val="18500"/>
+		<for>
+			<set val="12" order="0x08" stat="pAtk"/>
+			<set val="9" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<add val="0" order="0x10" stat="accCombat"/>
+			<set val="379" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="739" type="EtcItem" name="Broken Sword Handle">
+		<!-- The handle portion of the sword of solidarity. Take this to Blacksmith Alltran. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="740" type="EtcItem" name="Broken Blade Bottom">
+		<!-- Take this, and the upper portion of the blade to Blacksmith Alltran. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="741" type="EtcItem" name="Broken Blade Top">
+		<!-- Take this, and the lower portion of the blade to Blacksmith Alltran. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="742" type="EtcItem" name="Altran's Note">
+		<!-- A letter requesting the handle of the sword from Roien. Take this to Grand Master Roien of Cedric's Training Hall. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="743" type="Weapon" name="Sword of Sentinel">
+		<!-- A steel blade issued to those fighters that have been acknowledged as protectors of the woods. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="weight" val="1300"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_dam" val="14"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="sword"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="379"/>
+		<set name="m_dam" val="11"/>
+		<set name="price" val="33600"/>
+		<for>
+			<set val="14" order="0x08" stat="pAtk"/>
+			<set val="11" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<add val="0" order="0x10" stat="accCombat"/>
+			<set val="379" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="744" type="Weapon" name="Staff of Sentinel">
+		<!-- A staff issued to those magicians that have been acknowledged as protectors of the woods. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="weight" val="1800"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_dam" val="13"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="bigblunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="14"/>
+		<set name="price" val="33600"/>
+		<for>
+			<set val="13" order="0x08" stat="pAtk"/>
+			<set val="14" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="745" type="EtcItem" name="Cobendell Medicine">
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="746" type="EtcItem" name="Alberius's List">
+		<!-- Deliver the medicine to Sentinel Berros, Sentinel Veltress, Sentinel Rayen, and Sentinel Gartrandell. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="747" type="Weapon" name="Wand of Adept">
+		<!-- The wand presented to those who have finished their studies at the school of magic. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="weight" val="1300"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_dam" val="11"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="blunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="379"/>
+		<set name="m_dam" val="13"/>
+		<set name="price" val="25500"/>
+		<for>
+			<set val="11" order="0x08" stat="pAtk"/>
+			<set val="13" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="379" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="748" type="Weapon" name="Gallint's Oak Wand">
+		<!-- An oak wand enchanted by Gallint's spell. This will capture and seal the spirit of mirrors. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="weight" val="1350"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_dam" val="10"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="blunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="10"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<set val="10" order="0x08" stat="pAtk"/>
+			<set val="10" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="749" type="Weapon" name="0">
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="100"/>
+		<set name="crystal_type" val="d"/>
+		<set name="p_dam" val="21"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="bigblunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="32"/>
+		<set name="price" val="35800"/>
+		<set name="crystal_count" val="5"/>
+		<set name="dropable" val="false"/>
+		<for>
+			<set val="21" order="0x08" stat="pAtk"/>
+			<set val="32" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="750" type="EtcItem" name="Kinship Crystal">
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="751" type="EtcItem" name="Cracked Kinship Crystal">
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="752" type="EtcItem" name="Orc Amulet">
+		<!-- An amulet that the Orcs carry for magical purposes. Take this to Captain Gilbert. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="753" type="EtcItem" name="Silverleaf Brooch">
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="754" type="Weapon" name="Red Sunset Staff">
+		<!-- A staff used by warriors belonging to the Red Sunset clan. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="weight" val="1700"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_dam" val="13"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="bigblunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="13"/>
+		<set name="price" val="25500"/>
+		<for>
+			<set val="13" order="0x08" stat="pAtk"/>
+			<set val="13" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="755" type="EtcItem" name="Colleen's Letter">
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="756" type="EtcItem" name="Mandragora Root">
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="757" type="EtcItem" name="Mandragora Essence">
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="758" type="EtcItem" name="Colleen's Receipt">
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="759" type="EtcItem" name="Etched Rune Sword">
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="760" type="EtcItem" name="Macabre Sword">
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="761" type="EtcItem" name="Thanatos Sword">
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="762" type="EtcItem" name="Gray Bone Chip">
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="763" type="EtcItem" name="Esther's Letter">
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="764" type="EtcItem" name="Arbon's Letter">
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="765" type="EtcItem" name="Conspirator List">
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="766" type="EtcItem" name="Sabrin's Signet">
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="767" type="EtcItem" name="Sealed Scroll">
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="768" type="EtcItem" name="Oyen's Key">
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="769" type="EtcItem" name="Ricardo's Skull">
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="770" type="EtcItem" name="Shield of Honor">
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="771" type="EtcItem" name="Saythus's Skull">
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="772" type="EtcItem" name="Trayer's Skull">
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="773" type="EtcItem" name="Falimar's Skull">
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="774" type="EtcItem" name="Fallen Sword of Honor">
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="775" type="EtcItem" name="Sword of Honor">
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="776" type="EtcItem" name="Nameless Sword">
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="777" type="EtcItem" name="Sword of Black Ice">
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="778" type="EtcItem" name="Arodin's Letter">
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="779" type="EtcItem" name="Sabrin's Ring">
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="780" type="EtcItem" name="Arbon's Letter">
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="781" type="EtcItem" name="Madclaw's Necklace">
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="782" type="EtcItem" name="Alex's Letter">
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="783" type="EtcItem" name="Alex's Receipt">
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="784" type="EtcItem" name="Glass Dagger">
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="785" type="EtcItem" name="Broken Glass Dagger">
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="786" type="EtcItem" name="Shadowguard Dagger">
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="787" type="EtcItem" name="Coroli's Key">
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="788" type="EtcItem" name="Midnight Onyx Necklace">
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="789" type="EtcItem" name="Song: Moonlight Whisper">
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="790" type="EtcItem" name="Bloodsteel Kris">
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="791" type="EtcItem" name="Karlun's Skull">
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="792" type="EtcItem" name="Karlun's Rib Bone">
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="793" type="EtcItem" name="Karlun's Thigh Bone">
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="794" type="EtcItem" name="Saint's Ash Urn">
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="795" type="EtcItem" name="Mace of Athebaldt">
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="796" type="EtcItem" name="Roien's Letter">
+		<!-- A letter on which Roien summarized the historical information related to the sword of solidarity. Take this to Blacksmith Alltran. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="797" type="EtcItem" name="Manuel's Letter">
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="798" type="EtcItem" name="Varan's Letter">
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="799" type="EtcItem" name="Groot's Letter">
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+</list>

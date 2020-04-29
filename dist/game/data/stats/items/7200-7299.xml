@@ -1,0 +1,903 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="7200" type="EtcItem" name="Buffalo Meat">
+		<!-- Rare ingredient for food. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7201" type="EtcItem" name="Antelope Horn">
+		<!-- Rare ingredient for food. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7202" type="EtcItem" name="Trunk of Nepenthes">
+		<!-- Rare ingredient for food. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7203" type="EtcItem" name="Foot of Bandersnatchling">
+		<!-- Rare ingredient for food. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7204" type="EtcItem" name="Secret Spice">
+		<!-- Piquant smelling spice. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7205" type="EtcItem" name="Soy Sauce Jar">
+		<!-- Sauce imported across the sea from the Gracia Empire. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7206" type="EtcItem" name="Boiled Eggs for Delivery">
+		<!-- Delicious egg boiled in spring water. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7207" type="EtcItem" name="Special Drink for Delivery">
+		<!-- Special drink at hot springs. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7208" type="EtcItem" name="Hot Food Box">
+		<!-- Box of delicious food. Very hot. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7209" type="EtcItem" name="Food for Bumbalump">
+		<!-- Favorite food of Icicle Prince Bumbalump. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7210" type="EtcItem" name="Special Yeti Meat">
+		<!-- Legendary ingredient that can only be attained from the strongest Yeti. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7211" type="EtcItem" name="Mark of Ketra's Alliance - Level 1">
+		<!-- A necklace given to those who build an alliance with the Ketra Orc Tribe. Stage 1 - Prudent alliance relations. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7212" type="EtcItem" name="Mark of Ketra's Alliance - Level 2">
+		<!-- A necklace given to those who build an alliance with the Ketra Orc Tribe. Stage 2 - Dependent alliance relations. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7213" type="EtcItem" name="Mark of Ketra's Alliance - Level 3">
+		<!-- A necklace given to those who build an alliance with the Ketra Orc Tribe. Stage 3 - Friendly alliance relations. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7214" type="EtcItem" name="Mark of Ketra's Alliance - Level 4">
+		<!-- A necklace given to those who build an alliance with the Ketra Orc Tribe. Stage 4 - Firm alliance relations. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7215" type="EtcItem" name="Mark of Ketra's Alliance - Level 5">
+		<!-- A necklace given to those who build an alliance with the Ketra Orc Tribe. Stage 5 - Steadfast firm alliance relations. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7216" type="EtcItem" name="Varka's Badge - Soldier">
+		<!-- A badge attained by slaying Varka Silenos Soldiers. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7217" type="EtcItem" name="Varka's Badge - Captain">
+		<!-- A badge attained by slaying Varka Silenos Captains. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7218" type="EtcItem" name="Varka's Badge - General">
+		<!-- A badge attained by slaying Varka Silenos Generals. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7219" type="EtcItem" name="Totem of Valor">
+		<!-- A totem presented to the warriors of the Ketra Orc tribe to attest their valor. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7220" type="EtcItem" name="Totem of Wisdom">
+		<!-- A totem presented to the warriors of the Ketra Orc tribe to attest their wisdom. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7221" type="EtcItem" name="Mark of Varka's Alliance - Level 1">
+		<!-- A charm given to those who build an alliance with the Varka tribe. Stage 1 - Prudent alliance relations. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7222" type="EtcItem" name="Mark of Varka's Alliance - Level 2">
+		<!-- A charm given to those who build an alliance with the Varka tribe. Stage 2 - Dependent alliance relations. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7223" type="EtcItem" name="Mark of Varka's Alliance - Level 3">
+		<!-- A charm given to those who build an alliance with the Varka tribe. Stage 3 - Friendly alliance relations. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7224" type="EtcItem" name="Mark of Varka's Alliance - Level 4">
+		<!-- A charm given to those who build an alliance with the Varka tribe. Stage 4 - Firm alliance relations. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7225" type="EtcItem" name="Mark of Varka's Alliance - Level 5">
+		<!-- A charm given to those who build an alliance with the Varka tribe. Stage 5 - Steadfast firm alliance relations. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7226" type="EtcItem" name="Ketra's Badge - Soldier">
+		<!-- A badge attained by slaying Ketra Orc Soldiers. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7227" type="EtcItem" name="Ketra's Badge - Captain">
+		<!-- A badge attained by slaying Ketra Orc Captains. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7228" type="EtcItem" name="Ketra's Badge - General">
+		<!-- A badge attained by slaying Ketra Orc Generals. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7229" type="EtcItem" name="Feather of Valor">
+		<!-- A feather presented to the warriors of Varka Silenos tribe to attest their valor. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7230" type="EtcItem" name="Feather of Wisdom">
+		<!-- A feather presented to the warriors of Varka Silenos tribe to attest their wisdom. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7231" type="EtcItem" name="Munitions Box">
+		<!-- A munitions box that is on delivery to Ketra Orc tribe. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7232" type="EtcItem" name="Munitions Box">
+		<!-- A munitions box that is on delivery to Varka Silenos tribe. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7233" type="EtcItem" name="Varka's Mane">
+		<!-- A mane attained from slaying Varka Silenos. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7234" type="EtcItem" name="Molar of Ketra Orc">
+		<!-- A molar attained from slaying Ketra Orcs. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7235" type="EtcItem" name="Head of Shadith">
+		<!-- A proof of slaying Shadith. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7236" type="EtcItem" name="Head of Mos">
+		<!-- A proof of slaying Mos. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7237" type="EtcItem" name="Stolen Green Totem">
+		<!-- A stolen green totem from the post of Varka Silenos. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7238" type="EtcItem" name="Green Totem">
+		<!-- A totem used to summon Water Spirit Ashutar. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7239" type="EtcItem" name="Ice Heart of Ashutar">
+		<!-- A crystalline shard of ice attained from slaying Water Spirit Ashutar. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7240" type="EtcItem" name="Head of Hekaton">
+		<!-- A proof of slaying the Hero of Ketra, Hekaton. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7241" type="EtcItem" name="Head of Tayr">
+		<!-- A proof of slaying the Commander of Ketra, Tayr. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7242" type="EtcItem" name="Stolen Red Totem">
+		<!-- A stolen red totem from the base of Ketra Orcs. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7243" type="EtcItem" name="Red Totem">
+		<!-- A totem used to summon Fire Spirit Nastron. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7244" type="EtcItem" name="Fire Heart of Nastron">
+		<!-- A Spirit, ore of fire attained from slaying Fire Spirit Nastron. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7245" type="EtcItem" name="Supply Box">
+		<!-- A supply box that is on delivery to Golden Ram Army. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7246" type="EtcItem" name="Golden Ram Badge - Recruit">
+		<!-- A badge that is given to recruits of Golden Ram Army. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7247" type="EtcItem" name="Golden Ram Badge - Soldier">
+		<!-- A badge that is given to soldiers of Golden Ram Army. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7248" type="EtcItem" name="Splinter Stakato Chitin">
+		<!-- A striped chitin from Splinter Stakatos. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7249" type="EtcItem" name="Needle Stakato Chitin">
+		<!-- A striped chitin from Needle Stakatos. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7250" type="EtcItem" name="Talon of Stakato">
+		<!-- A talon from Stakatos in Swamp of Scream. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7251" type="EtcItem" name="Golden Ram Coin">
+		<!-- A coin used by Golden Ram Army as currency. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7252" type="EtcItem" name="Krorin's Journal">
+		<!-- A journal found in body of Krorin. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7253" type="EtcItem" name="Letter to Archaeologist">
+		<!-- A letter to an archaeologist who left to Imperial Tomb to explore. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7254" type="EtcItem" name="Broken Relic Part">
+		<!-- A fragment of relic found in Imperial Tomb. Looks like it has no value because it is broken. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7255" type="EtcItem" name="Sealed Box">
+		<!-- A sealed box found in the 4th sepulcher. This box is sealed with a mysterious power. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7256" type="EtcItem" name="Goblet of Alectia">
+		<!-- A goblet attained by slaying Shadow of Halisha in the 4th sepulcher. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7257" type="EtcItem" name="Goblet of Tishas">
+		<!-- A goblet attained by slaying Shadow of Halisha in the 4th sepulcher. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7258" type="EtcItem" name="Goblet of Mekara">
+		<!-- A goblet attained by slaying Shadow of Halisha in the 4th sepulcher. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7259" type="EtcItem" name="Goblet of Morigul">
+		<!-- A goblet attained by slaying Shadow of Halisha in the 4th sepulcher. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7260" type="EtcItem" name="Chapel Key">
+		<!-- A key used to open the chapel door. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7261" type="EtcItem" name="Used Grave Pass">
+		<!-- A used pass necessary for entry into the 4th sepulcher at the Imperial Tomb. Cannot be used again. It may be useful when meeting the ghost of Elmoreden Chamberlain. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7262" type="EtcItem" name="Antique Brooch">
+		<!-- A luxurious looking old brooch that displays a magnificent symbol. It may be useful when meeting the Nameless Spirit. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7263" type="EtcItem" name="Package to Vulcan">
+		<!-- A package that needs to be delivered to Vulcan who's in Valakas' Cave. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7264" type="EtcItem" name="Torch">
+		<!-- A torch that Vulcan requested to collect. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7265" type="EtcItem" name="Vacualite Ore">
+		<!-- A ore required to make Vacualite. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7266" type="EtcItem" name="Vacualite">
+		<!-- Complete Vacualite. Take it to Klein. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7267" type="EtcItem" name="Floating Stone">
+		<!-- A stone required to go to entrance of the Flame Path. It will break after use. Talk to Klein for instruction. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7268" type="EtcItem" name="Resonance Amulet - 1">
+		<!-- Item needed to communicate with the first mystery slate. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7269" type="EtcItem" name="Resonance Amulet - 1">
+		<!-- Item needed to communicate with the first mystery slate. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7270" type="EtcItem" name="Resonance Amulet - 1">
+		<!-- Item needed to communicate with the first mystery slate. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7271" type="EtcItem" name="Resonance Amulet - 1">
+		<!-- Item needed to communicate with the first mystery slate. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7272" type="EtcItem" name="Resonance Amulet - 1">
+		<!-- Item needed to communicate with the first mystery slate. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7273" type="EtcItem" name="Resonance Amulet - 1">
+		<!-- Item needed to communicate with the first mystery slate. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7274" type="EtcItem" name="Resonance Amulet - 1">
+		<!-- Item needed to communicate with the first mystery slate. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7275" type="EtcItem" name="Resonance Amulet - 1">
+		<!-- Item needed to communicate with the first mystery slate. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7276" type="EtcItem" name="Resonance Amulet - 1">
+		<!-- Item needed to communicate with the first mystery slate. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7277" type="EtcItem" name="Resonance Amulet - 1">
+		<!-- Item needed to communicate with the first mystery slate. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7278" type="EtcItem" name="Resonance Amulet - 1">
+		<!-- Item needed to communicate with the first mystery slate. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7279" type="EtcItem" name="Resonance Amulet - 1">
+		<!-- Item needed to communicate with the first mystery slate. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7280" type="EtcItem" name="Resonance Amulet - 1">
+		<!-- Item needed to communicate with the first mystery slate. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7281" type="EtcItem" name="Resonance Amulet - 1">
+		<!-- Item needed to communicate with the first mystery slate. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7282" type="EtcItem" name="Resonance Amulet - 1">
+		<!-- Item needed to communicate with the first mystery slate. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7283" type="EtcItem" name="Resonance Amulet - 1">
+		<!-- Item needed to communicate with the first mystery slate. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7284" type="EtcItem" name="Resonance Amulet - 1">
+		<!-- Item needed to communicate with the first mystery slate. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7285" type="EtcItem" name="Resonance Amulet - 1">
+		<!-- Item needed to communicate with the first mystery slate. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7286" type="EtcItem" name="Resonance Amulet - 1">
+		<!-- Item needed to communicate with the first mystery slate. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7287" type="EtcItem" name="Resonance Amulet - 1">
+		<!-- Item needed to communicate with the first mystery slate. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7288" type="EtcItem" name="Resonance Amulet - 1">
+		<!-- Item needed to communicate with the first mystery slate. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7289" type="EtcItem" name="Resonance Amulet - 1">
+		<!-- Item needed to communicate with the first mystery slate. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7290" type="EtcItem" name="Resonance Amulet - 1">
+		<!-- Item needed to communicate with the first mystery slate. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7291" type="EtcItem" name="Resonance Amulet - 1">
+		<!-- Item needed to communicate with the first mystery slate. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7292" type="EtcItem" name="Resonance Amulet - 1">
+		<!-- Item needed to communicate with the first mystery slate. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7293" type="EtcItem" name="Resonance Amulet - 1">
+		<!-- Item needed to communicate with the first mystery slate. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7294" type="EtcItem" name="Resonance Amulet - 1">
+		<!-- Item needed to communicate with the first mystery slate. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7295" type="EtcItem" name="Resonance Amulet - 1">
+		<!-- Item needed to communicate with the first mystery slate. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7296" type="EtcItem" name="Resonance Amulet - 1">
+		<!-- Item needed to communicate with the first mystery slate. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7297" type="EtcItem" name="Resonance Amulet - 1">
+		<!-- Item needed to communicate with the first mystery slate. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7298" type="EtcItem" name="Resonance Amulet - 1">
+		<!-- Item needed to communicate with the first mystery slate. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7299" type="EtcItem" name="Resonance Amulet - 2">
+		<!-- Item needed to communicate with the second mystery slate. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+</list>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml>
+<project name="L2Server_C6_Interlude" default="dist-local" basedir=".">
+	<property name="build" location="../build" />
+	<property name="build.bin" location="${build}/bin" />
+	<property name="build.dist" location="${build}/dist" />
+	<property name="build.dist.libs" location="${build.dist}/libs" />
+	<property name="build.dist.dbinstaller" location="${build.dist}/db_installer" />
+	<property name="datapack" location="dist" />
+	<property name="libs" location="${datapack}/libs" />
+	<property name="src" location="java" />
+
+	<path id="classpath">
+		<fileset dir="${libs}">
+			<include name="*.jar" />
+		</fileset>
+	</path>
+
+	<pathconvert property="manifest.libs" pathsep=" ">
+		<path refid="classpath" />
+		<mapper>
+			<chainedmapper>
+				<flattenmapper />
+				<globmapper from="*.jar" to="../libs/*.jar" />
+			</chainedmapper>
+		</mapper>
+	</pathconvert>
+
+	<target name="checkRequirements" description="Check Requirements.">
+		<fail message="Ant 1.8.2 is required. But your version is ${ant.version} and if you are using Eclipse probably is outdated.">
+			<condition>
+				<not>
+					<antversion atleast="1.8.2" />
+				</not>
+			</condition>
+		</fail>
+		<available classname="java.util.stream.Stream" property="JDK14.present" />
+		<fail unless="JDK14.present" message="Java 14 is required. But your version is Java ${ant.java.version} and probably JDK is not installed." />
+	</target>
+
+	<target name="init" depends="checkRequirements" description="Create the output directories.">
+		<delete dir="${build.bin}" quiet="true" />
+		<mkdir dir="${build.bin}" />
+	</target>
+
+	<target name="compile" depends="init" description="Compile the source.">
+		<javac srcdir="${src}" classpathref="classpath" destdir="${build.bin}" compiler="modern" debug="true" debuglevel="lines,vars,source" includeantruntime="false" source="14" target="14" encoding="UTF-8" />
+	</target>
+
+	<target name="dist-local" depends="compile" description="Create the jar files.">
+		<tstamp>
+			<format property="time.stamp" pattern="yyyy-MM-dd HH:mm:ss" />
+		</tstamp>
+
+		<jar destfile="${build.dist.libs}/LoginServer.jar" level="9">
+			<fileset dir="${build.bin}">
+				<exclude name="**/dbinstaller/**" />
+				<exclude name="**/gameserver/**" />
+				<exclude name="**/geodataconverter/**" />
+			</fileset>
+			<manifest>
+				<attribute name="Build-By" value="${user.name}" />
+				<attribute name="Build-Date" value="${time.stamp}" />
+				<attribute name="Implementation-URL" value="http://www.l2jserver.com/" />
+				<attribute name="Class-Path" value="${manifest.libs}" />
+				<attribute name="Main-Class" value="org.l2jserver.loginserver.LoginServer" />
+			</manifest>
+		</jar>
+		<jar destfile="${build.dist.libs}/GameServer.jar" level="9">
+			<fileset dir="${build.bin}">
+				<exclude name="**/dbinstaller/**" />
+				<exclude name="**/loginserver/**" />
+				<exclude name="**/accountmanager/**" />
+				<exclude name="**/gsregistering/**" />
+			</fileset>
+			<manifest>
+				<attribute name="Build-By" value="${user.name}" />
+				<attribute name="Build-Date" value="${time.stamp}" />
+				<attribute name="Implementation-URL" value="http://www.l2jserver.com/" />
+				<attribute name="Class-Path" value="${manifest.libs}" />
+				<attribute name="Main-Class" value="org.l2jserver.gameserver.GameServer" />
+			</manifest>
+		</jar>
+	</target>
+</project>

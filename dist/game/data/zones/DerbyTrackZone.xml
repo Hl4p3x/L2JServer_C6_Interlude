@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/zones.xsd">
+	<!-- Monster Race Track -->
+	<zone type="DerbyTrackZone" shape="NPoly" minZ="-3652" maxZ="-3452"> <!-- dion_monster_race1 -->
+		<node X="11714" Y="181568" />
+		<node X="14406" Y="181571" />
+		<node X="14405" Y="182673" />
+		<node X="11714" Y="182673" />
+	</zone>
+	<zone type="DerbyTrackZone" shape="NPoly" minZ="-3610" maxZ="-3410"> <!-- dion_monster_race2 -->
+		<node X="13309" Y="181324" />
+		<node X="14061" Y="181324" />
+		<node X="14061" Y="181610" />
+		<node X="13309" Y="181610" />
+	</zone>
+	<zone type="DerbyTrackZone" shape="NPoly" minZ="-3608" maxZ="-3408"> <!-- dion_monster_race3 -->
+		<node X="13559" Y="182641" />
+		<node X="14073" Y="182640" />
+		<node X="14073" Y="182919" />
+		<node X="13560" Y="182918" />
+	</zone>
+	<zone type="DerbyTrackZone" shape="NPoly" minZ="-3612" maxZ="-3412"> <!-- dion_monster_race4 -->
+		<node X="12196" Y="182662" />
+		<node X="12447" Y="182663" />
+		<node X="12447" Y="182766" />
+		<node X="12197" Y="182766" />
+	</zone>
+	<zone type="DerbyTrackZone" shape="NPoly" minZ="-3624" maxZ="-3424"> <!-- dion_monster_race5 -->
+		<node X="11706" Y="182774" />
+		<node X="13194" Y="182769" />
+		<node X="13194" Y="183006" />
+		<node X="11701" Y="183017" />
+	</zone>
+	<zone type="DerbyTrackZone" shape="NPoly" minZ="-3616" maxZ="-3416"> <!-- dion_monster_race6 -->
+		<node X="11701" Y="184017" />
+		<node X="13188" Y="184011" />
+		<node X="13194" Y="184265" />
+		<node X="11701" Y="184260" />
+	</zone>
+	<zone type="DerbyTrackZone" shape="NPoly" minZ="-3620" maxZ="-3420"> <!-- dion_monster_race7 -->
+		<node X="11697" Y="183013" />
+		<node X="11945" Y="183019" />
+		<node X="11940" Y="184015" />
+		<node X="11697" Y="184015" />
+	</zone>
+	<zone type="DerbyTrackZone" shape="NPoly" minZ="-3624" maxZ="-3424"> <!-- dion_monster_race8 -->
+		<node X="12945" Y="183013" />
+		<node X="13193" Y="183008" />
+		<node X="13193" Y="184009" />
+		<node X="12945" Y="184009" />
+	</zone>
+</list>

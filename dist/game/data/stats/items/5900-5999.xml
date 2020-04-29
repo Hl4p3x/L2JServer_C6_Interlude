@@ -1,0 +1,718 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="5900" type="EtcItem" name="Coin Collecting Album">
+		<!-- A high quality coin collecting album made of leather. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="5901" type="EtcItem" name="Blood Offering">
+		<!-- Blood that can be obtained by killing a Monster of Offering. The number of this item will determine your score. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="5902" type="EtcItem" name="Scroll of Ancient Magic">
+		<!-- A scroll that contains ancient magic. Take it to Gatekeeper Ziggurat. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="5903" type="EtcItem" name="Ancient Ash Urn">
+		<!-- An ancient urn that was found in the Tower of Insolence. Take it to Seer Reva of Aden Castle Town. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="5904" type="EtcItem" name="Wesley's Mixing Stone">
+		<!-- A small gemstone that is given by Wesley. This item is required to use a mixing urn. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="5905" type="EtcItem" name="Magister's Mixing Stone">
+		<!-- A gemstone that activates the mixing urn in the basement of the Ivory Tower. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="5906" type="EtcItem" name="(Not used) Red Soul Crystal: Grade 11">
+		<!-- A red crystal that absorbs souls. Grade 11. Once saturated, it bestows special abilities to a weapon. 26 MP is consumed each time it is used. -->
+		<set name="item_type" val="scroll"/>
+		<set name="weight" val="20"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5907" type="EtcItem" name="(Not used) Red Soul Crystal: Grade 12">
+		<!-- A red crystal that absorbs souls. Grade 12. Once saturated, it bestows special abilities to a weapon. 26 MP is consumed each time it is used. -->
+		<set name="item_type" val="scroll"/>
+		<set name="weight" val="20"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5908" type="EtcItem" name="Red Soul Crystal: Grade 13">
+		<!-- A red crystal that absorbs souls. Grade 13. Once saturated, it bestows special abilities to a weapon. 26 MP is consumed each time it is used. -->
+		<set name="item_type" val="scroll"/>
+		<set name="weight" val="20"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5909" type="EtcItem" name="(Not used) Green Soul Crystal: Grade 11">
+		<!-- A green crystal that absorbs souls. Grade 11. Once saturated, it bestows special abilities to a weapon. 26 MP is consumed each time it is used. -->
+		<set name="item_type" val="scroll"/>
+		<set name="weight" val="20"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5910" type="EtcItem" name="(Not used) Green Soul Crystal: Grade 12">
+		<!-- A green crystal that absorbs souls. Grade 12. Once saturated, it bestows special abilities to a weapon. 26 MP is consumed each time it is used. -->
+		<set name="item_type" val="scroll"/>
+		<set name="weight" val="20"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5911" type="EtcItem" name="Green Soul Crystal: Grade 13">
+		<!-- A green crystal that absorbs souls. Grade 13. Once saturated, it bestows special abilities to a weapon. 26 MP is consumed each time it is used. -->
+		<set name="item_type" val="scroll"/>
+		<set name="weight" val="20"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5912" type="EtcItem" name="(Not used) Blue Soul Crystal: Grade 11">
+		<!-- A blue crystal that absorbs souls. Grade 11. Once saturated, it bestows special abilities to a weapon. 26 MP is consumed each time it is used. -->
+		<set name="item_type" val="scroll"/>
+		<set name="weight" val="20"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5913" type="EtcItem" name="(Not used) Blue Soul Crystal: Grade 12">
+		<!-- A blue crystal that absorbs souls. Grade 12. Once saturated, it bestows special abilities to a weapon. 26 MP is consumed each time it is used. -->
+		<set name="item_type" val="scroll"/>
+		<set name="weight" val="20"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5914" type="EtcItem" name="Blue Soul Crystal: Grade 13">
+		<!-- A blue crystal that absorbs souls. Grade 13. Once saturated, it bestows special abilities to a weapon. 26 MP is consumed each time it is used. -->
+		<set name="item_type" val="scroll"/>
+		<set name="weight" val="20"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5915" type="EtcItem" name="Pirate's Treasure Map">
+		<!-- A map that was created after putting together the map pieces found on Alligator Island. It appears to have a mark showing the location of treasure! -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="200"/>
+	</item>
+	<item id="5916" type="EtcItem" name="Spellbook Page">
+		<!-- A torn piece of paper that seems to have been ripped out of a spellbook. If you double-click it, you can examine it closely. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5917" type="EtcItem" name="Kranvel's Spellbook: Chapter of Fire">
+		<!-- Great Magus Kranvel's Spellbook: Chapter of Fire. Collect the Chapters on Fire, Water, Wind and Earth and take all of them to Elder Casian. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="100"/>
+	</item>
+	<item id="5918" type="EtcItem" name="Kranvel's Spellbook: Chapter of Water">
+		<!-- Great Magus Kranvel's Spellbook: Chapter of Water. Collect the Chapters on Fire, Water, Wind and Earth and take all of them to Elder Casian. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="100"/>
+	</item>
+	<item id="5919" type="EtcItem" name="Kranvel's Spellbook: Chapter of Wind">
+		<!-- Great Magus Kranvel's Spellbook: Chapter of Wind. Collect the Chapters on Fire, Water, Wind and Earth and take all of them to Elder Casian. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="100"/>
+	</item>
+	<item id="5920" type="EtcItem" name="Kranvel's Spellbook: Chapter of Earth">
+		<!-- Great Magus Kranvel's Spellbook: Chapter of Earth. Collect the Chapters on Fire, Water, Wind and Earth and take all of them to Elder Casian. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="100"/>
+	</item>
+	<item id="5921" type="EtcItem" name="Worthless Piece of Paper">
+		<!-- A paper piece that has useless scribbles written on it. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5922" type="EtcItem" name="Blueprint: Giants Golem 1">
+		<!-- Part of the golem blueprints from the Titan era. The first page out of five pages. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="100"/>
+	</item>
+	<item id="5923" type="EtcItem" name="Blueprint: Giants Golem 2">
+		<!-- Part of the golem blueprints from the Titan era. The second page out of five pages. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="100"/>
+	</item>
+	<item id="5924" type="EtcItem" name="Blueprint: Giants Golem 3">
+		<!-- Part of the golem blueprints from the Titan era. The third page out of five pages. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="100"/>
+	</item>
+	<item id="5925" type="EtcItem" name="Blueprint: Giants Golem 4">
+		<!-- Part of the golem blueprints from the Titan era. The fourth page out of five pages. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="100"/>
+	</item>
+	<item id="5926" type="EtcItem" name="Blueprint: Giants Golem 5">
+		<!-- Part of the golem blueprints from the Titan era. The fifth page out of five pages. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="100"/>
+	</item>
+	<item id="5927" type="EtcItem" name="Book: Basics of Giants Magic, Chapter 1">
+		<!-- A book on the magic of the giants from the era of Titans, 1st chapter. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="100"/>
+	</item>
+	<item id="5928" type="EtcItem" name="Book: Basics of Giants Magic, Chapter 2">
+		<!-- A book on the magic of the giants from the era of Titans, 2nd chapter. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="100"/>
+	</item>
+	<item id="5929" type="EtcItem" name="Book: Basics of Giants Magic, Chapter 3">
+		<!-- A book on the magic of the giants from the era of Titans, 3rd chapter. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="100"/>
+	</item>
+	<item id="5930" type="EtcItem" name="Book: Basics of Giants Magic, Chapter 4">
+		<!-- A book on the magic of the giants from the era of Titans, 4th chapter. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="100"/>
+	</item>
+	<item id="5931" type="EtcItem" name="Book: Basics of Giants Magic, Chapter 5">
+		<!-- A book on the magic of the giants from the era of Titans, 5th chapter. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="100"/>
+	</item>
+	<item id="5932" type="EtcItem" name="Handbook: Giants Architecture, Chapter 1">
+		<!-- An architectural handbook of the giants from the era of Titans, 1st chapter. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="100"/>
+	</item>
+	<item id="5933" type="EtcItem" name="Handbook: Giants Architecture, Chapter 2">
+		<!-- An architectural handbook of the giants from the era of Titans, 2nd chapter. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="100"/>
+	</item>
+	<item id="5934" type="EtcItem" name="Handbook: Giants Architecture, Chapter 3">
+		<!-- An architectural handbook of the giants from the era of Titans, 3rd chapter. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="100"/>
+	</item>
+	<item id="5935" type="EtcItem" name="Handbook: Giants Architecture, Chapter 4">
+		<!-- An architectural handbook of the giants from the era of Titans, 4th chapter. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="100"/>
+	</item>
+	<item id="5936" type="EtcItem" name="Handbook: Giants Architecture, Chapter 5">
+		<!-- An architectural handbook of the giants from the era of Titans, 5th chapter. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="100"/>
+	</item>
+	<item id="5937" type="EtcItem" name="Book: Giants Medical Science, Chapter 1">
+		<!-- A medical book of the giants from the era of Titans, 1st chapter. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="100"/>
+	</item>
+	<item id="5938" type="EtcItem" name="Book: Giants Medical Science, Chapter 2">
+		<!-- A medical book of the giants from the era of Titans, 2nd chapter. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="100"/>
+	</item>
+	<item id="5939" type="EtcItem" name="Book: Giants Medical Science, Chapter 3">
+		<!-- A medical book of the giants from the era of Titans, 3rd chapter. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="100"/>
+	</item>
+	<item id="5940" type="EtcItem" name="Book: Giants Medical Science, Chapter 4">
+		<!-- A medical book of the giants from the era of Titans, 4th chapter. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="100"/>
+	</item>
+	<item id="5941" type="EtcItem" name="Book: Giants Medical Science, Chapter 5">
+		<!-- A medical book of the giants from the era of Titans, 5th chapter. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="100"/>
+	</item>
+	<item id="5942" type="EtcItem" name="Giant's Love Letter">
+		<!-- It seems like even the giants used to have a love life. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="100"/>
+	</item>
+	<item id="5943" type="EtcItem" name="Giants' Doodle">
+		<!-- A crude picture drawn by a would-be painter giant. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="100"/>
+	</item>
+	<item id="5944" type="EtcItem" name="Ancient Parchment">
+		<!-- A piece of parchment from the Titan era. If you double-click it, you can read the contents. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="100"/>
+	</item>
+	<item id="5945" type="EtcItem" name="Book: Giants Science and Technology, Chapter 1">
+		<!-- A part of the theory book that describes the science and technology of the Titan era. The 1st of five chapters. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="100"/>
+	</item>
+	<item id="5946" type="EtcItem" name="Book: Giants Science and Technology, Chapter 2">
+		<!-- A part of the theory book that describes the science and technology of the Titan era. The 2nd of five chapters. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="100"/>
+	</item>
+	<item id="5947" type="EtcItem" name="Book: Giants Science and Technology, Chapter 3">
+		<!-- A part of the theory book that describes the science and technology of the Titan era. The 3rd of five chapters. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="100"/>
+	</item>
+	<item id="5948" type="EtcItem" name="Book: Giants Science and Technology, Chapter 4">
+		<!-- A part of the theory book that describes the science and technology of the Titan era. The 4th of five chapters. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="100"/>
+	</item>
+	<item id="5949" type="EtcItem" name="Book: Giants Science and Technology, Chapter 5">
+		<!-- A part of the theory book that describes the science and technology of the Titan era. The 5th of five chapters. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="100"/>
+	</item>
+	<item id="5950" type="EtcItem" name="Almanac: Titan Culture, Chapter 1">
+		<!-- Part of the almanac that contains information about the culture of the Titan era. The 1st of five chapters. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="100"/>
+	</item>
+	<item id="5951" type="EtcItem" name="Almanac: Titan Culture, Chapter 2">
+		<!-- Part of the almanac that contains information about the culture of the Titan era. The 2nd of five chapters. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="100"/>
+	</item>
+	<item id="5952" type="EtcItem" name="Almanac: Titan Culture, Chapter 3">
+		<!-- Part of the almanac that contains information about the culture of the Titan era. The 3rd of five chapters. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="100"/>
+	</item>
+	<item id="5953" type="EtcItem" name="Almanac: Titan Culture, Chapter 4">
+		<!-- Part of the almanac that contains information about the culture of the Titan era. The 4th of five chapters. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="100"/>
+	</item>
+	<item id="5954" type="EtcItem" name="Almanac: Titan Culture, Chapter 5">
+		<!-- Part of the almanac that contains information about the culture of the Titan era. The 5th of five chapters. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="100"/>
+	</item>
+	<item id="5955" type="EtcItem" name="Ancient Titan Book">
+		<!-- A book from the Titan era. If you double-click it, you can examine its contents. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="100"/>
+	</item>
+	<item id="5956" type="EtcItem" name="15 Year Old Wine">
+		<!-- A gift from Harlan as a token of gratitude. It is aged 15 years. Average quality wine. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="20"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="5000"/>
+	</item>
+	<item id="5957" type="EtcItem" name="30 Year Old Wine">
+		<!-- A gift from Harlan as a token of gratitude. It is aged 30 years. High quality wine. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="20"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="5000"/>
+	</item>
+	<item id="5958" type="EtcItem" name="60 Year Old Wine">
+		<!-- A gift from Harlan as a token of gratitude. It is aged 60 years. Excellent quality wine. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="20"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="5000"/>
+	</item>
+	<item id="5959" type="EtcItem" name="Ritron's Dessert Recipe">
+		<!-- A secret recipe for making dessert by using ritron fruit as its ingredient. It can to sold at a store. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="10"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="40000"/>
+	</item>
+	<item id="5960" type="EtcItem" name="Ritron Jelly">
+		<!-- Delicious jelly made from ritron fruit. It can be sold at a store. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="10"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1920"/>
+	</item>
+	<item id="5961" type="EtcItem" name="Kail's Silver Basilisk">
+		<!-- Royal-grade coin -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1000"/>
+	</item>
+	<item id="5962" type="EtcItem" name="Kail's Gold Golem">
+		<!-- Royal-grade coin -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1000"/>
+	</item>
+	<item id="5963" type="EtcItem" name="Kail's Blood Dragon">
+		<!-- Royal-grade coin -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1000"/>
+	</item>
+	<item id="5964" type="EtcItem" name="Warehouse Keeper's Medal">
+		<!-- A medal that is issued by the Iron Gate Guild to Warehouse Keepers according to their productivity. If you collect them, you can use them to play bingo. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="100"/>
+	</item>
+	<item id="5965" type="EtcItem" name="Blank Scroll">
+		<!-- A spellbook that does not contain any magical power. Perhaps it can be helpful if you deal with Mammon's Trader? -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="500"/>
+	</item>
+	<item id="5966" type="EtcItem" name="Ancient Red Papyrus">
+		<!-- A papyrus scroll found in the Tower of Insolence. If you double-click it, you can read its contents. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="400"/>
+	</item>
+	<item id="5967" type="EtcItem" name="Ancient Blue Papyrus">
+		<!-- A papyrus scroll found in the Tower of Insolence. If you double-click it, you can read its contents. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="400"/>
+	</item>
+	<item id="5968" type="EtcItem" name="Ancient Black Papyrus">
+		<!-- A papyrus scroll found in the Tower of Insolence. If you double-click it, you can read its contents. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="400"/>
+	</item>
+	<item id="5969" type="EtcItem" name="Ancient White Papyrus">
+		<!-- A papyrus scroll found in the Tower of Insolence. If you double-click it, you can read its contents. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="400"/>
+	</item>
+	<item id="5970" type="EtcItem" name="Ancient Chain Letter">
+		<!-- A mysterious letter found in the Tower of Insolence. Its text reads "if you send this letter to 10 other people, you will have good luck!" -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="400"/>
+	</item>
+	<item id="5971" type="EtcItem" name="Ancient Joke Book">
+		<!-- A collection of jokes of Galfredo Romer, a Royal Clown. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="400"/>
+	</item>
+	<item id="5972" type="EtcItem" name="Revelation of the Seals: Chapter of Avarice">
+		<!-- An ancient record regarding the Seven Seals. The first of seven chapters. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="400"/>
+	</item>
+	<item id="5973" type="EtcItem" name="Revelation of the Seals: Chapter of Gnosis">
+		<!-- An ancient record regarding the Seven Seals. The second of seven chapters. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="400"/>
+	</item>
+	<item id="5974" type="EtcItem" name="Revelation of the Seals: Chapter of Strife">
+		<!-- An ancient record regarding the Seven Seals. The third of seven chapters. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="400"/>
+	</item>
+	<item id="5975" type="EtcItem" name="Revelation of the Seals: Chapter of Vengeance">
+		<!-- An ancient record regarding the Seven Seals. The fourth of seven chapters. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="400"/>
+	</item>
+	<item id="5976" type="EtcItem" name="Revelation of the Seals: Chapter of Awakening">
+		<!-- An ancient record regarding the Seven Seals. The fifth of seven chapters. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="400"/>
+	</item>
+	<item id="5977" type="EtcItem" name="Revelation of the Seals: Chapter of Calamity">
+		<!-- An ancient record regarding the Seven Seals. The sixth of seven chapters. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="400"/>
+	</item>
+	<item id="5978" type="EtcItem" name="Revelation of the Seals: Chapter of Descent">
+		<!-- An ancient record regarding the Seven Seals. The seventh of seven chapters. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="400"/>
+	</item>
+	<item id="5979" type="EtcItem" name="Ancient Epic, Chapter 1">
+		<!-- A story of heroes written by ancient troubadours. The first of five chapters. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="400"/>
+	</item>
+	<item id="5980" type="EtcItem" name="Ancient Epic, Chapter 2">
+		<!-- A story of heroes written by ancient troubadours. The second of five chapters. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="400"/>
+	</item>
+	<item id="5981" type="EtcItem" name="Ancient Epic, Chapter 3">
+		<!-- A story of heroes written by ancient troubadours. The third of five chapters. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="400"/>
+	</item>
+	<item id="5982" type="EtcItem" name="Ancient Epic, Chapter 4">
+		<!-- A story of heroes written by ancient troubadours. The fourth of five chapters. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="400"/>
+	</item>
+	<item id="5983" type="EtcItem" name="Ancient Epic, Chapter 5">
+		<!-- A story of heroes written by ancient troubadours. The fifth of five chapters. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="400"/>
+	</item>
+	<item id="5984" type="EtcItem" name="Imperial Genealogy 1">
+		<!-- The genealogy of the Elmoreden royal family. The first of five chapters. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="400"/>
+	</item>
+	<item id="5985" type="EtcItem" name="Imperial Genealogy 2">
+		<!-- The genealogy of the Elmoreden royal family. The second of five chapters. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="400"/>
+	</item>
+	<item id="5986" type="EtcItem" name="Imperial Genealogy 3">
+		<!-- The genealogy of the Elmoreden royal family. The third of five chapters. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="400"/>
+	</item>
+	<item id="5987" type="EtcItem" name="Imperial Genealogy 4">
+		<!-- The genealogy of the Elmoreden royal family. The fourth of five chapters. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="400"/>
+	</item>
+	<item id="5988" type="EtcItem" name="Imperial Genealogy 5">
+		<!-- The genealogy of the Elmoreden royal family. The fifth of five chapters. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="400"/>
+	</item>
+	<item id="5989" type="EtcItem" name="Blueprint: Tower of Insolence, 1st Floor">
+		<!-- A blueprint drafted by the architects of the Tower of Insolence. This is the blueprint of the 1st of 13 floors. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="400"/>
+	</item>
+	<item id="5990" type="EtcItem" name="Blueprint: Tower of Insolence, 2nd Floor">
+		<!-- A blueprint drafted by the architects of the Tower of Insolence. This is the blueprint of the 2nd of 13 floors. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="400"/>
+	</item>
+	<item id="5991" type="EtcItem" name="Blueprint: Tower of Insolence, 3rd Floor">
+		<!-- A blueprint drafted by the architects of the Tower of Insolence. This is the blueprint of the 3rd of 13 floors. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="400"/>
+	</item>
+	<item id="5992" type="EtcItem" name="Blueprint: Tower of Insolence, 4th Floor">
+		<!-- A blueprint drafted by the architects of the Tower of Insolence. This is the blueprint of the 4th of 13 floors. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="400"/>
+	</item>
+	<item id="5993" type="EtcItem" name="Blueprint: Tower of Insolence, 5th Floor">
+		<!-- A blueprint drafted by the architects of the Tower of Insolence. This is the blueprint of the 5th of 13 floors. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="400"/>
+	</item>
+	<item id="5994" type="EtcItem" name="Blueprint: Tower of Insolence, 6th Floor">
+		<!-- A blueprint drafted by the architects of the Tower of Insolence. This is the blueprint of the 6th of 13 floors. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="400"/>
+	</item>
+	<item id="5995" type="EtcItem" name="Blueprint: Tower of Insolence, 7th Floor">
+		<!-- A blueprint drafted by the architects of the Tower of Insolence. This is the blueprint of the 7th of 13 floors. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="400"/>
+	</item>
+	<item id="5996" type="EtcItem" name="Blueprint: Tower of Insolence, 8th Floor">
+		<!-- A blueprint drafted by the architects of the Tower of Insolence. This is the blueprint of the 8th of 13 floors. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="400"/>
+	</item>
+	<item id="5997" type="EtcItem" name="Blueprint: Tower of Insolence, 9th Floor">
+		<!-- A blueprint drafted by the architects of the Tower of Insolence. This is the blueprint of the 9th of 13 floors. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="400"/>
+	</item>
+	<item id="5998" type="EtcItem" name="Blueprint: Tower of Insolence, 10th Floor">
+		<!-- A blueprint drafted by the architects of the Tower of Insolence. This is the blueprint of the 10th of 13 floors. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="400"/>
+	</item>
+	<item id="5999" type="EtcItem" name="Blueprint: Tower of Insolence, 11th Floor">
+		<!-- A blueprint drafted by the architects of the Tower of Insolence. This is the blueprint of the 11th of 13 floors. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="400"/>
+	</item>
+</list>

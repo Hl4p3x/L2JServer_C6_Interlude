@@ -1,0 +1,900 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="3500" type="EtcItem" name="Dragonflute of Wind">
+		<!-- Flute used to call up hatchling of wind. -->
+		<set name="item_type" val="pet_collar"/>
+		<set name="weight" val="20"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1000"/>
+	</item>
+	<item id="3501" type="EtcItem" name="Dragonflute of Star">
+		<!-- Flute used to call up hatchling of star. -->
+		<set name="item_type" val="pet_collar"/>
+		<set name="weight" val="20"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1000"/>
+	</item>
+	<item id="3502" type="EtcItem" name="Dragonflute of Twilight">
+		<!-- Flute used to call up hatchling of twilight. -->
+		<set name="item_type" val="pet_collar"/>
+		<set name="weight" val="20"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1000"/>
+	</item>
+	<item id="3503" type="EtcItem" name="Deliverymen Decertificate">
+		<!-- Official certification for making deliveries. Issued by the Iron Gate Guild. Seal of Lockrin of the Iron Gate is affixed. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3504" type="EtcItem" name="Kirunas Horn">
+		<!-- Item that Warehouse Chief Gesto entrusted saying to take it to High Prefect Penatus. You must deliver it quickly. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3505" type="EtcItem" name="Mithril Mold">
+		<!-- Item that Warehouse Chief Gesto entrusted saying to take it to Blacksmith Rupio. You must deliver it quickly. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3506" type="EtcItem" name="Bloody Letter">
+		<!-- Item that Warehouse Chief Gesto entrusted saying to take it to Martin. You must deliver it quickly. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3507" type="EtcItem" name="Supplies to Alex">
+		<!-- Supply item. It's really heavy. Let's take it to Alex in Florin Village. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3508" type="EtcItem" name="Supplies to Endrigo">
+		<!-- Supply item. It's really heavy. Let's take it to Warden Endrigo at the Execution Grounds. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3509" type="EtcItem" name="Alex's Coins">
+		<!-- Return gift given by Alex as expression of thanks for having brought enough of the supply item. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3510" type="EtcItem" name="Wardens Appreciation">
+		<!-- Letter of thanks given by Warden Endrigo of the Execution Grounds as expression of thanks for having brought enough of the supplied items. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3511" type="EtcItem" name="Blackbox to Orim">
+		<!-- Item that Warehouse Chief Gesto entrusted saying to take it to Orim the Shadow. What could be inside...? -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3512" type="EtcItem" name="Deluxe Windsus Ham">
+		<!-- Item that Warehouse Chief Gesto entrusted saying to take it to Orim the Shadow. What could be inside...? -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3513" type="EtcItem" name="Heart of Silenos">
+		<!-- Heart obtained by killing silenos. Item specially ordered by Orim the Shadow. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3514" type="EtcItem" name="Request Giran">
+		<!-- Order received from the warehouse of Giran Castle Town. You can receive the delivery fee by taking this and the receipt confirmation document. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3515" type="EtcItem" name="Request Gludin">
+		<!-- Order received from the warehouse of the Town of Gludio. You can receive the delivery fee by taking this and the receipt confirmation document. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3516" type="EtcItem" name="Request Hunters">
+		<!-- Order received from the warehouse of Hunter Village. You can receive the delivery fee by taking this and the receipt confirmation document. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3517" type="EtcItem" name="Delivery Score Red">
+		<!-- Certificate received each time a delivery is completed successfully. If you collect 50 certificates, you can exchange it for a blue delivery statement. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3518" type="EtcItem" name="Delivery Score Blue">
+		<!-- Certificate that you can receive if you successfully complete 50 deliveries. The delivery fee increases by 4% for each certificate. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3519" type="EtcItem" name="Deliverymen Advanced Certificate Super">
+		<!-- Certificate of master deliveryman received for having successfully completed 1000 deliveries. 120% delivery fee added! -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3520" type="EtcItem" name="1st Confirmation Document">
+		<!-- Confirmation form the person receiving delivery of an item signs. Collect three sheets and take it to Warehouse Chief Gesto. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3521" type="EtcItem" name="2nd Confirmation Document">
+		<!-- Confirmation form the person receiving delivery of an item signs. Collect two sheets and take it to Warehouse Chief Gesto. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3522" type="EtcItem" name="Delivery Goods 01">
+		<!-- Scroll to be taken to Magister Baulro of Einhasad Temple on Talking Island. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3523" type="EtcItem" name="Delivery Goods 02">
+		<!-- Letter to be taken to Lighthouse Keeper Rockswell of Talking Island. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3524" type="EtcItem" name="Delivery Goods 03">
+		<!-- Book to be taken to Marius at the private beach house on the north side of Talking Island. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3525" type="EtcItem" name="Delivery Goods 04">
+		<!-- Document to be taken to Matheo at the ruins near the port on Talking Island. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3526" type="EtcItem" name="Delivery Goods 05">
+		<!-- Letter to be taken to Sir Collin Windawood in front of the Obelisk of Victory on Talking Island. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3527" type="EtcItem" name="Delivery Goods 06">
+		<!-- Shaft to be taken to Orc Guild High Prefect Osborn of Gludin Village. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3528" type="EtcItem" name="Delivery Goods 07">
+		<!-- Letter to be taken to Lighthouse Keeper Perrin at the wharf in Gludin Village. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3529" type="EtcItem" name="Delivery Goods 08">
+		<!-- Picture to be taken to Wharf Manager Clancy of Gludin Village. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3530" type="EtcItem" name="Delivery Goods 09">
+		<!-- Jar to be taken to Sir Karrel Vasper of Gludin Village. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3531" type="EtcItem" name="Delivery Goods 10">
+		<!-- Box to be taken to Samed of the Town of Gludio. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3532" type="EtcItem" name="Delivery Goods 11">
+		<!-- Jar to be taken to Priestess Vivyan at Einhasad Temple in the Town of Gludio. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3533" type="EtcItem" name="Delivery Goods 12">
+		<!-- Box to be taken to Warrior Guild Master Leona in the Town of Gludio. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3534" type="EtcItem" name="Delivery Goods 13">
+		<!-- Mechanical device to be taken to Blacksmith Pinter at the blacksmith's shop in the Town of Gludio. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3535" type="EtcItem" name="Delivery Goods 14">
+		<!-- Jewelry box to be taken to Sentinel Knight Alberius in Elven Village. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3536" type="EtcItem" name="Delivery Goods 15">
+		<!-- Jewelry box to be taken to Pixy Murika in front of the Mother Tree of Elven Village. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3537" type="EtcItem" name="Delivery Goods 16">
+		<!-- Letter to be taken to Karna in Dark Elf Village. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3538" type="EtcItem" name="Delivery Goods 17">
+		<!-- Book to be taken to Magister Harne in Dark Elf Village. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3539" type="EtcItem" name="Delivery Goods 18">
+		<!-- Statue to be taken to Sir Ortho Lancer in Giran Castle Town. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3540" type="EtcItem" name="Delivery Goods 19">
+		<!-- Box to be taken to Martin in Giran Castle Town. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3541" type="EtcItem" name="Delivery Goods 20">
+		<!-- Statue to be taken to Bishop Maximillian of Einhasad Temple in Giran Castle Town. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3542" type="EtcItem" name="Delivery Goods 21">
+		<!-- Jewelry box to be taken to Master Stapin of Dark Elf Guild in Giran Castle Town. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3543" type="EtcItem" name="Delivery Goods 22">
+		<!-- Document to be taken to Master Genwitter at the Warrior Guild in Giran Castle Town. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3544" type="EtcItem" name="Delivery Goods 23">
+		<!-- Medicine bottle to be taken to High Prefect Clogg at the Orc Guild in the Town of Dion. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3545" type="EtcItem" name="Delivery Goods 24">
+		<!-- Statue to be taken to Sir Kiel Nighthawk in the Town of Dion. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3546" type="EtcItem" name="Delivery Goods 25">
+		<!-- Mineral to be taken to Blacksmith Poitan at the blacksmith's shop in the Town of Dion. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3547" type="EtcItem" name="Delivery Goods 26">
+		<!-- Book to be taken to Cardinal Seresin of Einhasad Temple in the Town of Oren. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3548" type="EtcItem" name="Delivery Goods 27">
+		<!-- Scroll to be taken to Duda-Mara Chief Takuna near the Orc Guild in the Town of Oren. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3549" type="EtcItem" name="Delivery Goods 28">
+		<!-- Picture to be taken to Hunter Guild Member Colin in Hunter Village. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3550" type="EtcItem" name="Delivery Goods 29">
+		<!-- Fabric to be taken to Guard Makhis in Hunter Village. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3551" type="EtcItem" name="Delivery Goods 30">
+		<!-- A jar which should be taken to Elder Cronos in Hunter Village. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3552" type="EtcItem" name="Delivery Goods 31">
+		<!-- Diamond to be taken to Grand Magister Scraide of Magic Guild in Hunter Village. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3553" type="EtcItem" name="Delivery Goods 32">
+		<!-- Jewelry box to be taken to Grocer Pano in Floran Village. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3554" type="EtcItem" name="Delivery Goods 33">
+		<!-- Gold nuggets to be taken to Alex in Floran Village. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3555" type="EtcItem" name="Delivery Goods 34">
+		<!-- Shaft to be taken to Militiaman Leirynn in Floran Village. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3556" type="EtcItem" name="Delivery Goods 35">
+		<!-- Letter to be taken to Fisherman Evert in Floran Village. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3557" type="EtcItem" name="Delivery Goods 36">
+		<!-- Fabric to be taken to Astrologer Creta in Floran Village. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3558" type="EtcItem" name="Delivery Goods 37">
+		<!-- Book to be taken to Magister Kaiena of Dark Elf Guild on the 4th floor of the Ivory Tower. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3559" type="EtcItem" name="Delivery Goods 38">
+		<!-- Ore to be taken to Rex in the underground shopping area at the Ivory Tower. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3560" type="EtcItem" name="Delivery Goods 39">
+		<!-- Medicine bottle to be taken to Uruha near the waterfall in the north of the marshlands in the Dark Elven region. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3561" type="EtcItem" name="Delivery Goods 40">
+		<!-- Small boxes to be taken to Sentry Irene in front of the western bridge of the Neutral Zone. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3562" type="EtcItem" name="Delivery Goods 41">
+		<!-- Document to be taken to Sentinel Trionell in front of the eastern bridge of the Neutral Zone. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3563" type="EtcItem" name="Delivery Goods 42">
+		<!-- Scroll to be taken to Northwind in front of the Underground Fortress in the Elven region. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3564" type="EtcItem" name="Delivery Goods 43">
+		<!-- Document to be taken to Thalia on the east side of Iris Lake in the Elven region. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3565" type="EtcItem" name="Delivery Goods 44">
+		<!-- Box to be taken to Peter of the Turek orc encampment in the south of the Dark Elven autonomous region. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3566" type="EtcItem" name="Delivery Goods 45">
+		<!-- A shaft to be taken to Bodyguard Jax on the coastal road in the Southern Wastelands. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3567" type="EtcItem" name="Delivery Goods 46">
+		<!-- Key to be taken to Researcher Lorain near the entrance to Cruma Tower. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3568" type="EtcItem" name="Delivery Goods 47">
+		<!-- Mechanical device to be taken to Maestro Nikola on the southwest side of Cruma Tower. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3569" type="EtcItem" name="Delivery Goods 48">
+		<!-- Document to be taken to Warden Roderik of the Execution Grounds. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3570" type="EtcItem" name="Delivery Goods 49">
+		<!-- Small boxes to be taken to Summoner Belthus on the southeast side of Cruma Tower. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3571" type="EtcItem" name="Delivery Goods 50">
+		<!-- Shaft to be taken to Enku Chief Kepra on the southern coast of Floran Village. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3572" type="EtcItem" name="Delivery Goods 51">
+		<!-- Box to be taken to Summoner Celestiel at the ruins of the Circular Coliseum to the south of the Underground Fortress of the Elven autonomous region. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3573" type="EtcItem" name="Delivery Goods 52">
+		<!-- A picture to be delivered to Orphanage Master Gupu in the Wastelands, west of the Town of Gludio. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3574" type="EtcItem" name="Delivery Goods 53">
+		<!-- A scroll to be delivered to Summoner Basillia on the coastal road, south of the Wastelands. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3575" type="EtcItem" name="Delivery Goods 54">
+		<!-- A box to be delivered to Sir Aaron Tanford on the coastal road, south of the Wastelands. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3576" type="EtcItem" name="Delivery Goods 55">
+		<!-- A jar to be delivered to Preacher Sla on the east side of the Ant Tunnel Dungeon. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3577" type="EtcItem" name="Delivery Goods 56">
+		<!-- A jewelry box to be delivered to Windy Shaoring on the west side of the Ant Tunnel Dungeon. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3578" type="EtcItem" name="Delivery Goods 57">
+		<!-- A book which should be taken to Elder Casian at the south-side of the Ant Tunnel Dungeon located in the Wastelands. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3579" type="EtcItem" name="Delivery Goods 58">
+		<!-- Medicine bottle to be taken to Annika on the south side of the Black Magic Laboratory in the Dark Elven autonomous region. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3580" type="EtcItem" name="Delivery Goods 59">
+		<!-- Scroll to be taken to Slein Shining Blade on the east side of the Altar of Coming-of-Age Ceremony in the Dark Elven autonomous region. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3581" type="EtcItem" name="Delivery Goods 60">
+		<!-- Small boxes to be taken to Shaman Varika at the Altar of Coming-of-Age Ceremony in the Dark Elven autonomous region. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3582" type="EtcItem" name="Delivery Goods 61">
+		<!-- Medicine bottle to be taken to Tyra across the western road at the Altar of Rites in the Dark Elven autonomous region. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3583" type="EtcItem" name="Delivery Goods 62">
+		<!-- Scroll to be taken to Piper Longbow at the altar on the north side of the marshlands waterfall in the Dark Elven autonomous region. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3584" type="EtcItem" name="Delivery Goods 63">
+		<!-- Letter to be taken to Katari at the altar on the north side of the marshlands waterfall in the Dark Elven autonomous region. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3585" type="EtcItem" name="Delivery Goods 64">
+		<!-- Jewelry box to be taken to Summoner Camoniell at the southern coast of Floran Village. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3586" type="EtcItem" name="Delivery Goods 65">
+		<!-- Sample to be taken to Orim the Shadow at the north side of Death Pass in Giran Territory. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3587" type="EtcItem" name="Delivery Goods 66">
+		<!-- Shaft to be taken to Breka Chief Voltar at the north-eastern side of the Death Pass in Giran Territory. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3588" type="EtcItem" name="Delivery Goods 67">
+		<!-- Book to be taken to Summoner Brynthea at the north-western side of Giran Castle Town. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3589" type="EtcItem" name="Confirmation Document 01">
+		<!-- Confirmation document received when delivering item. It is signed by Magister Baulro. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3590" type="EtcItem" name="Confirmation Document 02">
+		<!-- Confirmation document received when delivering item. It is signed by Rockswell. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3591" type="EtcItem" name="Confirmation Document 03">
+		<!-- Confirmation document received when delivering item. It is signed by Marius. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3592" type="EtcItem" name="Confirmation Document 04">
+		<!-- Confirmation document received when delivering item. It is signed by Matheo. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3593" type="EtcItem" name="Confirmation Document 05">
+		<!-- Confirmation document received when delivering item. It is signed by Sir Collin Windawood. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3594" type="EtcItem" name="Confirmation Document 06">
+		<!-- Confirmation document received when delivering item. It is signed by High Prefect Osborn. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3595" type="EtcItem" name="Confirmation Document 07">
+		<!-- Confirmation document received when delivering item. It is signed by Perrin. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3596" type="EtcItem" name="Confirmation Document 08">
+		<!-- Confirmation document received when delivering item. It is signed by Clancy. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3597" type="EtcItem" name="Confirmation Document 09">
+		<!-- Confirmation document received when delivering item. It is signed by Sir Karrel Vasper. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3598" type="EtcItem" name="Confirmation Document 10">
+		<!-- Confirmation document received when delivering item. It is signed by Samed. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3599" type="EtcItem" name="Confirmation Document 11">
+		<!-- Confirmation document received when delivering item. It is signed by Priestess Vivyan. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+</list>

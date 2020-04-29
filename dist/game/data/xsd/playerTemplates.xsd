@@ -1,0 +1,49 @@
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="list">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="class" maxOccurs="unbounded" minOccurs="0">
+					<xs:complexType>
+						<xs:simpleContent>
+							<xs:extension base="xs:string">
+								<xs:attribute type="xs:int" name="id" use="required"/>
+								<xs:attribute type="xs:string" name="name" use="required"/>
+								<xs:attribute type="xs:string" name="race" use="required"/>
+								<xs:attribute type="xs:int" name="baseSTR" use="required"/>
+								<xs:attribute type="xs:int" name="baseCON" use="required"/>
+								<xs:attribute type="xs:int" name="baseDEX" use="required"/>
+								<xs:attribute type="xs:int" name="baseINT" use="required"/>
+								<xs:attribute type="xs:int" name="baseWIT" use="required"/>
+								<xs:attribute type="xs:int" name="baseMEN" use="required"/>
+								<xs:attribute type="xs:int" name="basePAtk" use="required"/>
+								<xs:attribute type="xs:int" name="basePDef" use="required"/>
+								<xs:attribute type="xs:int" name="baseMAtk" use="required"/>
+								<xs:attribute type="xs:int" name="baseMDef" use="required"/>
+								<xs:attribute type="xs:int" name="basePAtkSpd" use="required"/>
+								<xs:attribute type="xs:int" name="baseMAtkSpd" use="required"/>
+								<xs:attribute type="xs:int" name="baseCritRate" use="required"/>
+								<xs:attribute type="xs:int" name="baseRunSpd" use="required"/>
+								<xs:attribute type="xs:int" name="spawnX" use="required"/>
+								<xs:attribute type="xs:int" name="spawnY" use="required"/>
+								<xs:attribute type="xs:int" name="spawnZ" use="required"/>
+								<xs:attribute type="xs:float" name="collision_radius" use="required"/>
+								<xs:attribute type="xs:float" name="collision_height" use="required"/>
+								<xs:attribute type="xs:string" name="items" use="required"/>
+								<xs:attribute type="xs:float" name="baseHpMax" use="required"/>
+								<xs:attribute type="xs:float" name="levelHpAdd" use="required"/>
+								<xs:attribute type="xs:float" name="levelHpMod" use="required"/>
+								<xs:attribute type="xs:float" name="baseCpMax" use="required"/>
+								<xs:attribute type="xs:float" name="levelCpAdd" use="required"/>
+								<xs:attribute type="xs:float" name="levelCpMod" use="required"/>
+								<xs:attribute type="xs:float" name="baseMpMax" use="required"/>
+								<xs:attribute type="xs:float" name="levelMpAdd" use="required"/>
+								<xs:attribute type="xs:float" name="levelMpMod" use="required"/>
+								<xs:attribute type="xs:int" name="baseLevel" use="required"/>
+							</xs:extension>
+						</xs:simpleContent>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

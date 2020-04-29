@@ -1,0 +1,888 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="3000" type="EtcItem" name="Recipe: Dwarven Chain Shield">
+		<!-- For Dwarves only. The recipe for a Dwarven Chain Shield. Requires Create Item - Skill Level 5. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3120"/>
+	</item>
+	<item id="3001" type="EtcItem" name="Recipe: Rind Leather Boots">
+		<!-- For Dwarves only. The recipe for the Rind Leather Boots. Requires Create Item - Skill Level 5. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3220"/>
+	</item>
+	<item id="3002" type="EtcItem" name="Recipe: Dwarven Chain Gloves">
+		<!-- For Dwarves only. The recipe for Dwarven Chain Gloves. Requires Create Item - Skill Level 5. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3220"/>
+	</item>
+	<item id="3003" type="EtcItem" name="Recipe: Gloves of Seal">
+		<!-- For Dwarves only. The recipe for Gloves of Seal. Requires Create Item - Skill Level 5. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3220"/>
+	</item>
+	<item id="3004" type="EtcItem" name="Recipe: Rind Leather Gloves">
+		<!-- For Dwarves only. The recipe for the Rind Leather Gloves. Requires Create Item - Skill Level 5. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3220"/>
+	</item>
+	<item id="3005" type="EtcItem" name="Recipe: Demon's Boots">
+		<!-- For Dwarves only. The recipe for Demon's Boots. Requires Create Item - Skill Level 5. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="4900"/>
+	</item>
+	<item id="3006" type="EtcItem" name="Recipe: Demon's Gloves">
+		<!-- For Dwarves only. The recipe for Demon's Gloves. Requires Create Item - Skill Level 5. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="4900"/>
+	</item>
+	<item id="3007" type="EtcItem" name="Recipe: Theca Leather Boots">
+		<!-- For Dwarves only. The recipe for the Theca Leather Boots. Requires Create Item - Skill Level 5. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="5500"/>
+	</item>
+	<item id="3008" type="EtcItem" name="Recipe: Theca Leather Gloves">
+		<!-- For Dwarves only. The recipe for the Theca Leather Gloves. Requires Create Item - Skill Level 5. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="5500"/>
+	</item>
+	<item id="3009" type="EtcItem" name="Recipe: Composite Boots">
+		<!-- For Dwarves only. The recipe for Composite Boots. Requires Create Item - Skill Level 5. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="4900"/>
+	</item>
+	<item id="3010" type="EtcItem" name="Recipe: Composite Helmet">
+		<!-- For Dwarves only. The recipe for a Composite Helmet. Requires Create Item - Skill Level 5. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="7360"/>
+	</item>
+	<item id="3011" type="EtcItem" name="Recipe: Divine Boots">
+		<!-- For Dwarves only. The recipe for Divine Boots. Requires Create Item - Skill Level 6. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="7160"/>
+	</item>
+	<item id="3012" type="EtcItem" name="Recipe: Full Plate Helmet">
+		<!-- For Dwarves only. The recipe for a Full Plate Helmet. Requires Create Item - Skill Level 6. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="10720"/>
+	</item>
+	<item id="3013" type="EtcItem" name="Recipe: Drake Leather Boots">
+		<!-- For Dwarves only. The recipe for Drake Leather Boots. Requires Create Item - Skill Level 6. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="7160"/>
+	</item>
+	<item id="3014" type="EtcItem" name="Recipe: Full Plate Boots">
+		<!-- For Dwarves only. The recipe for Full Plate Boots. Requires Create Item - Skill Level 6. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="7160"/>
+	</item>
+	<item id="3015" type="EtcItem" name="Recipe: Drake Leather Gloves">
+		<!-- For Dwarves only. The recipe for Drake Leather Gloves. Requires Create Item - Skill Level 6. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="7160"/>
+	</item>
+	<item id="3016" type="EtcItem" name="Recipe: Full Plate Gauntlets">
+		<!-- For Dwarves only. The recipe for Full Plate Gauntlets. Requires Create Item - Skill Level 6. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="7160"/>
+	</item>
+	<item id="3017" type="EtcItem" name="Recipe: Divine Gloves">
+		<!-- For Dwarves only. The recipe for Blessed Gloves. Requires Create Item - Skill Level 6. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="7160"/>
+	</item>
+	<item id="3018" type="EtcItem" name="Recipe: Blessed Gloves">
+		<!-- For Dwarves only. The recipe for Divine Gloves. Requires Create Item - Skill Level 6. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="7160"/>
+	</item>
+	<item id="3019" type="EtcItem" name="Recipe: Full Plate Shield">
+		<!-- For Dwarves only. The recipe for a Full Plate Shield. Requires Create Item - Skill Level 6. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="7500"/>
+	</item>
+	<item id="3020" type="EtcItem" name="Recipe: Elven Long Sword">
+		<!-- For Dwarves only. The recipe for an Elven Long Sword. Requires Create Item - Skill Level 4. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="36000"/>
+	</item>
+	<item id="3021" type="EtcItem" name="Recipe: Dwarven War Hammer">
+		<!-- For Dwarves only. The recipe for a Dwarven War Hammer. Requires Create Item - Skill Level 5. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="57400"/>
+	</item>
+	<item id="3022" type="EtcItem" name="Recipe: Yaksa Mace">
+		<!-- For Dwarves only. The recipe for the Yaksa Mace. Requires Create Item - Skill Level 6. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="122600"/>
+	</item>
+	<item id="3023" type="EtcItem" name="Recipe: Titan Key">
+		<!-- For Dwarves only. Recipe for Quest. Required to make a Titan Key. Requires Create Item - Skill Level 1. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="destroyable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3024" type="EtcItem" name="Recipe: Journeyman Ring">
+		<!-- For Dwarves only. Recipe for Quest. Required to make a Journeyman Ring. Requires Create Item - Skill Level 1. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="destroyable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3025" type="EtcItem" name="Recipe: Amber Bead">
+		<!-- For Dwarves only. Recipe for Quest. Required to make an Amber Bead. Requires Create Item - Skill Level 2. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="destroyable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3026" type="Weapon" name="Talins Spear">
+		<!-- Use this spear to deliver the final blow to Eva's unicorn. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="weight" val="800"/>
+		<set name="soulshots" val="2"/>
+		<set name="spiritshots" val="2"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_dam" val="24"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="pole"/>
+		<set name="critical" val="8"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="17"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<set val="24" order="0x08" stat="pAtk"/>
+			<set val="17" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<set val="66" order="0x08" stat="pAtkRange"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="3027" type="Weapon" name="Old Knight's Sword">
+		<!-- Use this sword to deliver the final blow to the spirit of Sir Herod. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="weight" val="2100"/>
+		<set name="soulshots" val="2"/>
+		<set name="spiritshots" val="2"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_dam" val="29"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="bigsword"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="17"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<set val="29" order="0x08" stat="pAtk"/>
+			<set val="17" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<add val="0" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="3028" type="Weapon" name="Crescent Moon Bow">
+		<!-- Use this bow to deliver the final blow to Commander Kadesh. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="weight" val="600"/>
+		<set name="soulshots" val="6"/>
+		<set name="spiritshots" val="2"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_dam" val="34"/>
+		<set name="rnd_dam" val="5"/>
+		<set name="weapon_type" val="bow"/>
+		<set name="critical" val="12"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="293"/>
+		<set name="mp_consume" val="2"/>
+		<set name="m_dam" val="12"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<set val="34" order="0x08" stat="pAtk"/>
+			<set val="12" order="0x08" stat="mAtk"/>
+			<set val="12" order="0x08" stat="rCrit"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="293" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="3029" type="Weapon" name="Sword of Binding">
+		<!-- Use this sword to deliver the final blow to Zeruel. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="weight" val="1200"/>
+		<set name="soulshots" val="2"/>
+		<set name="spiritshots" val="2"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_dam" val="17"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="sword"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="379"/>
+		<set name="m_dam" val="12"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<set val="17" order="0x08" stat="pAtk"/>
+			<set val="12" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<add val="0" order="0x10" stat="accCombat"/>
+			<set val="379" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="3030" type="EtcItem" name="Key of Titan">
+		<!-- A special key that opens the Titan's Box -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="10"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="3031" type="EtcItem" name="Spirit Ore">
+		<!-- A material used by Dwarves in item manufacturing. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="5"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="400"/>
+	</item>
+	<item id="3032" type="EtcItem" name="Recipe: Spiritshot D">
+		<!-- For Dwarves only. The recipe for the Spiritshot Grade D. Requires Create Item - Skill Level 2. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="5000"/>
+	</item>
+	<item id="3033" type="EtcItem" name="Recipe: Spiritshot C">
+		<!-- For Dwarves only. The recipe for the Spiritshot Grade C. Requires Create Item - Skill Level 4. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="60000"/>
+	</item>
+	<item id="3034" type="EtcItem" name="Recipe: Spiritshot B">
+		<!-- For Dwarves only. The recipe for the Spiritshot Grade B. Requires Create Item - Skill Level 6. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="100000"/>
+	</item>
+	<item id="3035" type="EtcItem" name="Recipe: Spiritshot A">
+		<!-- For Dwarves only. The recipe for the Spiritshot Grade A. Requires Create Item - Skill Level 7. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="150000"/>
+	</item>
+	<item id="3036" type="EtcItem" name="Recipe: Spiritshot S">
+		<!-- For Dwarves only. The recipe for the Spiritshot Grade S. Requires Create Item - Skill Level 8. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="450000"/>
+	</item>
+	<item id="3037" type="EtcItem" name="Kakan's Letter">
+		<!-- Kakan's reply letter to Sla. Collect three reply letters from Sla's disciples and deliver them to Sla. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3038" type="EtcItem" name="Blueprint: Summon Mechanic Golem">
+		<!-- Blueprint needed to learn the Summon Mechanic Golem technique. Used by Artisans. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1550"/>
+	</item>
+	<item id="3039" type="EtcItem" name="Spellbook: Summon Storm Cubic">
+		<!-- Spellbook needed to learn Summon Storm Cubic. Used by Temple Knights and Warlocks. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3200"/>
+	</item>
+	<item id="3040" type="EtcItem" name="Spellbook: Summon Vampiric Cubic">
+		<!-- Spellbook needed to learn Summon Vampiric Cubic. Used by Shillien Knights. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3700"/>
+	</item>
+	<item id="3041" type="EtcItem" name="Spellbook: Summon Phantom Cubic">
+		<!-- Spellbook needed to learn Summon Phantom Cubic. Used by Shillien Knights and Phantom Summoners. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3200"/>
+	</item>
+	<item id="3042" type="EtcItem" name="Spellbook: Life Scavenge">
+		<!-- Spellbook needed to learn Life Scavenge. Used by Dark Avengers. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3200"/>
+	</item>
+	<item id="3043" type="EtcItem" name="Spellbook: Holy Strike">
+		<!-- Spellbook needed to learn Holy Strike. Used by Paladins. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="4250"/>
+	</item>
+	<item id="3044" type="EtcItem" name="Spellbook: Horror">
+		<!-- Spellbook needed to learn Horror. Used by Dark Avengers. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="4250"/>
+	</item>
+	<item id="3045" type="EtcItem" name="Spellbook: Summon Life Cubic">
+		<!-- Spellbook needed to learn Summon Life Cubic. Used by Temple Knights and Elemental Summoners. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3700"/>
+	</item>
+	<item id="3046" type="EtcItem" name="Spellbook: Sacrifice">
+		<!-- Spellbook needed to learn Sacrifice. Used by Paladins. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="5400"/>
+	</item>
+	<item id="3047" type="EtcItem" name="Spellbook: Iron Will">
+		<!-- Spellbook needed to learn Iron Will. Used by Paladins and Dark Avengers. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3700"/>
+	</item>
+	<item id="3048" type="EtcItem" name="Spellbook: Reflect Damage">
+		<!-- Spellbook needed to learn Reflect Damage. Used by Dark Avengers. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3200"/>
+	</item>
+	<item id="3049" type="EtcItem" name="Spellbook: Corpse Plague">
+		<!-- Spellbook needed to learn Corpse Plague. Used by Dark Avengers and Shillien Knights. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="4250"/>
+	</item>
+	<item id="3050" type="EtcItem" name="Spellbook: Hex">
+		<!-- Spellbook needed to learn Hex. Used by Shillien Knights, Bladedancers, Abyss Walkers, and Phantom Rangers. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3200"/>
+	</item>
+	<item id="3051" type="EtcItem" name="Spellbook: Spirit Barrier">
+		<!-- Spellbook needed to learn Spirit Barrier. Used by Temple Knights, Swordsingers, Plainswalkers, and Silver Rangers. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3200"/>
+	</item>
+	<item id="3052" type="EtcItem" name="Spellbook: Hamstring">
+		<!-- Spellbook needed to learn Hamstring. Used by Dark Avengers. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3700"/>
+	</item>
+	<item id="3053" type="EtcItem" name="Spellbook: Holy Blessing">
+		<!-- Spellbook needed to learn Holy Blessing. Used by Paladins. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3200"/>
+	</item>
+	<item id="3054" type="EtcItem" name="Spellbook: Summon Viper Cubic">
+		<!-- Spellbook needed to learn Summon Viper Cubic. Used by Shillien Knights. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="4800"/>
+	</item>
+	<item id="3055" type="EtcItem" name="Spellbook: Lightning Strike">
+		<!-- Spellbook needed to learn Lightning Strike. Used by Shillien Knights. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="6750"/>
+	</item>
+	<item id="3056" type="EtcItem" name="Spellbook: Summon Dark Panther">
+		<!-- Spellbook needed to learn Summon Dark Panther. Used by Dark Avengers. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3200"/>
+	</item>
+	<item id="3057" type="EtcItem" name="Spellbook: Summon Reanimated Man">
+		<!-- Spellbook needed to learn Summon Reanimated Man. Used by Necromancers. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3850"/>
+	</item>
+	<item id="3058" type="EtcItem" name="Spellbook: Summon Corrupted Man">
+		<!-- Spellbook needed to learn Summon Corrupted Man. Used by Necromancers. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3200"/>
+	</item>
+	<item id="3059" type="EtcItem" name="Spellbook: Corpse Burst">
+		<!-- Spellbook needed to learn Corpse Burst. Used by Necromancers. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="4600"/>
+	</item>
+	<item id="3060" type="EtcItem" name="Spellbook: Forget">
+		<!-- Spellbook needed to learn Forget. Used by Necromancers. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3850"/>
+	</item>
+	<item id="3061" type="EtcItem" name="Spellbook: Curse Discord">
+		<!-- Spellbook needed to learn Curse Discord. Used by Necromancers. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3200"/>
+	</item>
+	<item id="3062" type="EtcItem" name="Spellbook: Curse Fear">
+		<!-- Spellbook needed to learn the spell Curse Fear. Used by Necromancers, Spellsingers, Spellhowlers and Sorcerers. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3200"/>
+	</item>
+	<item id="3063" type="EtcItem" name="Spellbook: Anchor">
+		<!-- Spellbook needed to learn Anchor. Used by Necromancers. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3850"/>
+	</item>
+	<item id="3064" type="EtcItem" name="Spellbook: Silence">
+		<!-- Spellbook needed to learn Silence. Used by Necromancers and Spellhowlers. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3200"/>
+	</item>
+	<item id="3065" type="EtcItem" name="Spellbook: Death Spike">
+		<!-- Spellbook needed to learn Death Spike. Used by Necromancers and Spellhowlers. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3850"/>
+	</item>
+	<item id="3066" type="EtcItem" name="Spellbook: Curse Death Link">
+		<!-- Spellbook needed to learn Curse Death Link. Used by Necromancers and Spellhowlers. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="5400"/>
+	</item>
+	<item id="3067" type="EtcItem" name="Spellbook: Vampiric Claw">
+		<!-- Spellbook needed to learn Vampiric Claw. Used by Necromancers and Spellhowlers. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3200"/>
+	</item>
+	<item id="3068" type="EtcItem" name="Spellbook: Vitalize">
+		<!-- Spellbook needed to learn Vitalize. Used by Bishops and Elven Elders. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="4600"/>
+	</item>
+	<item id="3069" type="EtcItem" name="Spellbook: Repose">
+		<!-- Spellbook needed to learn Repose. Used by Bishops. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3850"/>
+	</item>
+	<item id="3070" type="EtcItem" name="Spellbook: Hold Undead">
+		<!-- Spellbook needed to learn Hold Undead. Used by Bishops. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="4600"/>
+	</item>
+	<item id="3071" type="EtcItem" name="Spellbook: Requiem">
+		<!-- Spellbook needed to learn Requiem. Used by Bishops. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3200"/>
+	</item>
+	<item id="3072" type="EtcItem" name="Spellbook: Purify">
+		<!-- Spellbook needed to learn Purify. Used by Bishops and Shillien Elders. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3850"/>
+	</item>
+	<item id="3073" type="EtcItem" name="Spellbook: Might of Heaven">
+		<!-- Spellbook needed to learn Might of Heaven. Used by Bishops and Elven Elders. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3200"/>
+	</item>
+	<item id="3074" type="EtcItem" name="Spellbook: Surrender to Wind">
+		<!-- Spellbook needed to learn Surrender to Wind. Used by Sorcerers and Spellhowlers. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3200"/>
+	</item>
+	<item id="3075" type="EtcItem" name="Spellbook: Blazing Circle">
+		<!-- Spellbook needed to learn Blazing Circle. Used by Sorcerers and Sorceresses. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3200"/>
+	</item>
+	<item id="3076" type="EtcItem" name="Spellbook: Prominence">
+		<!-- Spellbook needed to learn Prominence. Used by Sorcerers and Sorceresses. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3200"/>
+	</item>
+	<item id="3077" type="EtcItem" name="Spellbook: Blazing Skin">
+		<!-- Spellbook needed to learn Blazing Skin. Used by Sorcerers and Sorceresses. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3200"/>
+	</item>
+	<item id="3078" type="EtcItem" name="Spellbook: Decay">
+		<!-- Spellbook needed to learn Decay. Used by Sorcerers and Sorceresses. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="4600"/>
+	</item>
+	<item id="3079" type="EtcItem" name="Spellbook: Cancel">
+		<!-- Spellbook needed to learn Cancel. Used by Sorcerers and Sorceresses. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="4600"/>
+	</item>
+	<item id="3080" type="EtcItem" name="Spellbook: Sleeping Cloud">
+		<!-- Spellbook needed to learn Sleeping Cloud. Used by Sorcerers, Sorceresses and Spellsingers. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3850"/>
+	</item>
+	<item id="3081" type="EtcItem" name="Spellbook: Aura Flare">
+		<!-- Spellbook needed to learn Aura Flare. Used by Sorcerers, Sorceresses and Spellsingers. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3200"/>
+	</item>
+	<item id="3082" type="EtcItem" name="Spellbook: Surrender to Water">
+		<!-- Spellbook needed to learn Surrender to Water. Used by Spellsingers. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3200"/>
+	</item>
+	<item id="3083" type="EtcItem" name="Spellbook: Frost Wall">
+		<!-- Spellbook needed to learn Frost Wall. Used by Spellsingers. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="5400"/>
+	</item>
+	<item id="3084" type="EtcItem" name="Spellbook: Freezing Shackle">
+		<!-- Spellbook needed to learn Freezing Shackle. Used by Spellsingers. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3850"/>
+	</item>
+	<item id="3085" type="EtcItem" name="Spellbook: Hydro Blast">
+		<!-- Spellbook needed to learn Hydro Blast. Used by Spellsingers. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3200"/>
+	</item>
+	<item id="3086" type="EtcItem" name="Spellbook: Frost Bolt">
+		<!-- Spellbook needed to learn Frost Bolt. Used by Spellsingers. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3200"/>
+	</item>
+	<item id="3087" type="EtcItem" name="Spellbook: Ice Dagger">
+		<!-- Spellbook needed to learn Ice Dagger. Used by Spellsingers. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3850"/>
+	</item>
+	<item id="3088" type="EtcItem" name="Spellbook: Freezing Skin">
+		<!-- Spellbook needed to learn Freezing Skin. Used by Spellsingers. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3200"/>
+	</item>
+	<item id="3089" type="EtcItem" name="Spellbook: Tempest">
+		<!-- Spellbook needed to learn Tempest. Used by Spellhowlers. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="4600"/>
+	</item>
+	<item id="3090" type="EtcItem" name="Spellbook: Hurricane">
+		<!-- Spellbook needed to learn Hurricane. Used by Spellhowlers. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3200"/>
+	</item>
+	<item id="3091" type="EtcItem" name="Spellbook: Servitor Magic Shield">
+		<!-- Spellbook needed to learn Servitor Magic Shield. Used by Warlocks, Elemental Summoners and Phantom Summoners. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3850"/>
+	</item>
+	<item id="3092" type="EtcItem" name="Spellbook: Servitor Physical Shield">
+		<!-- Spellbook needed to learn Servitor Physical Shield. Used by Warlocks, Elemental Summoners and Phantom Summoners. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3200"/>
+	</item>
+	<item id="3093" type="EtcItem" name="Spellbook: Servitor Haste">
+		<!-- Spellbook needed to learn Servitor Haste. Used by Warlocks, Elemental Summoners and Phantom Summoners. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3850"/>
+	</item>
+	<item id="3094" type="EtcItem" name="Spellbook: Invigor">
+		<!-- Spellbook needed to learn Invigor. Used by Prophets. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3200"/>
+	</item>
+	<item id="3095" type="EtcItem" name="Spellbook: Magic Barrier">
+		<!-- Spellbook needed to learn Magic Barrier. Used by Prophets. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3850"/>
+	</item>
+	<item id="3096" type="EtcItem" name="Spellbook: Blessed Body">
+		<!-- Spellbook needed to learn Blessed Body. Used by Prophets. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3850"/>
+	</item>
+	<item id="3097" type="EtcItem" name="Spellbook: Blessed Soul">
+		<!-- Spellbook needed to learn Blessed Soul. Used by Prophets. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3850"/>
+	</item>
+	<item id="3098" type="EtcItem" name="Spellbook: Return">
+		<!-- Spellbook needed to learn Return. Used by Prophets and Elven Elders. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3200"/>
+	</item>
+	<item id="3099" type="EtcItem" name="Spellbook: Haste">
+		<!-- Spellbook needed to learn Haste. Used by Prophets. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3850"/>
+	</item>
+</list>

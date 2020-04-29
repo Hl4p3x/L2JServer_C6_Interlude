@@ -1,0 +1,26 @@
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="list">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="fish" maxOccurs="unbounded" minOccurs="0">
+					<xs:complexType>
+						<xs:simpleContent>
+							<xs:extension base="xs:string">
+								<xs:attribute type="xs:short" name="id" use="required"/>
+								<xs:attribute type="xs:byte" name="level" use="required"/>
+								<xs:attribute type="xs:short" name="hp" use="required"/>
+								<xs:attribute type="xs:byte" name="hpRegen" use="required"/>
+								<xs:attribute type="xs:byte" name="type" use="required"/>
+								<xs:attribute type="xs:byte" name="group" use="required"/>
+								<xs:attribute type="xs:short" name="guts" use="required"/>
+								<xs:attribute type="xs:short" name="gutsCheckTime" use="required"/>
+								<xs:attribute type="xs:short" name="waitTime" use="required"/>
+								<xs:attribute type="xs:int" name="combatTime" use="required"/>
+							</xs:extension>
+						</xs:simpleContent>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

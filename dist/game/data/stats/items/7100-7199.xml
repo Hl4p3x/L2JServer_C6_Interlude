@@ -1,0 +1,885 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="7100" type="EtcItem" name="Importance of Strain">
+		<!-- Contains information regarding the means to strengthen and the means to defeat the ancient giant. Double click to view contents. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="destroyable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7101" type="EtcItem" name="Danger of Ice Spirit">
+		<!-- Contains sorcery to surround and defeat the Spirits. Double click to view contents. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="destroyable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7102" type="EtcItem" name="Guardian Angel of the Tablet - Vol. 1">
+		<!-- Contains information on how to defeat the Guardian Angel of the Tablet. Double click to view contents. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="destroyable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7103" type="EtcItem" name="Guardian Angel of the Tablet - Vol. 1">
+		<!-- Contains information on how to defeat the Guardian Angel of the Tablet. Double click to view contents. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="destroyable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7104" type="EtcItem" name="Guardian Angel of the Tablet - Vol. 1">
+		<!-- Contains information on how to defeat the Guardian Angel of the Tablet. Double click to view contents. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="destroyable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7105" type="EtcItem" name="Guardian Angel of the Tablet - Vol. 2">
+		<!-- Contains information on how to defeat the Guardian Angel of the Tablet. Double click to view contents. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="destroyable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7106" type="EtcItem" name="Guardian Angel of the Tablet - Vol. 2">
+		<!-- Contains information on how to defeat the Guardian Angel of the Tablet. Double click to view contents. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="destroyable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7107" type="EtcItem" name="Guardian Angel of the Tablet - Vol. 2">
+		<!-- Contains information on how to defeat the Guardian Angel of the Tablet. Double click to view contents. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="destroyable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7108" type="EtcItem" name="Guild's Secret Report">
+		<!-- Document containing information regarding the great angel, Iconoclasis. Double click to view contents. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="destroyable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7109" type="EtcItem" name="Guild's Secret Report">
+		<!-- Document containing information regarding the great angel, Iconoclasis. Double click to view contents. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="destroyable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7110" type="EtcItem" name="Research Report">
+		<!-- Document containing info regarding Shakiel, the guardian of vision. Double click to view contents. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="destroyable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7111" type="EtcItem" name="Research Report">
+		<!-- Document containing info regarding Shakiel, the guardian of vision. Double click to view contents. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="destroyable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7112" type="EtcItem" name="Research Report">
+		<!-- Document containing info regarding Shakiel, the guardian of vision. Double click to view contents. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="destroyable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7113" type="EtcItem" name="Dress Shoe Box">
+		<!-- Box containing fragile dress shoes. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="7114" type="EtcItem" name="Voucher - Buffalo">
+		<!-- Pet Voucher - Discount on the purchase of Buffalos in the Town of Dion. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="7115" type="EtcItem" name="Voucher - Cougar">
+		<!-- Pet Voucher - Discount on the purchase of cougars at Giran Castle Town. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="7116" type="EtcItem" name="Voucher - Kookaburra">
+		<!-- Pet Voucher - Discount on the purchase of kookaburras at the Town of Gludio. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="7117" type="EtcItem" name="Scroll of Escape to Talking Island">
+		<!-- A magical scroll that relocates you to Talking Island. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="35000"/>
+	</item>
+	<item id="7118" type="EtcItem" name="Scroll of Escape to Elven Village">
+		<!-- A magical scroll that relocates you to Elven Village. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="35000"/>
+	</item>
+	<item id="7119" type="EtcItem" name="Scroll of Escape to Dark Elf Village">
+		<!-- A magical scroll that relocates you to Dark Elf Village. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="35000"/>
+	</item>
+	<item id="7120" type="EtcItem" name="Scroll of Escape to Orc Village">
+		<!-- A magical scroll that relocates you to Orc Village. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="35000"/>
+	</item>
+	<item id="7121" type="EtcItem" name="Scroll of Escape to Dwarven Village">
+		<!-- A magical scroll that relocates you to Dwarven Village. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="35000"/>
+	</item>
+	<item id="7122" type="EtcItem" name="Scroll of Escape to Gludin Village">
+		<!-- A magical scroll that relocates you to Gludin Village. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="35000"/>
+	</item>
+	<item id="7123" type="EtcItem" name="Scroll of Escape to the Town of Gludio">
+		<!-- A magical scroll that relocates you to the Town of Gludio. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="35000"/>
+	</item>
+	<item id="7124" type="EtcItem" name="Scroll of Escape to the Town of Dion">
+		<!-- A magical scroll that relocates you to the Town of Dion. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="35000"/>
+	</item>
+	<item id="7125" type="EtcItem" name="Scroll of Escape to Floran">
+		<!-- A magical scroll that relocates you to Floran. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="35000"/>
+	</item>
+	<item id="7126" type="EtcItem" name="Scroll of Escape to Giran Castle Town">
+		<!-- A magical scroll that relocates you to Giran Castle Town. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="35000"/>
+	</item>
+	<item id="7127" type="EtcItem" name="Scroll of Escape to Hardin's Private Academy">
+		<!-- A magical scroll that relocates you to Hardin's Private Academy. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="35000"/>
+	</item>
+	<item id="7128" type="EtcItem" name="Scroll of Escape to Heine">
+		<!-- A magical scroll that relocates you to Heine. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="35000"/>
+	</item>
+	<item id="7129" type="EtcItem" name="Scroll of Escape to the Town of Oren">
+		<!-- A magical scroll that relocates you to the Town of Oren. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="35000"/>
+	</item>
+	<item id="7130" type="EtcItem" name="Scroll of Escape to Ivory Tower">
+		<!-- A magical scroll that relocates you to Ivory Tower. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="35000"/>
+	</item>
+	<item id="7131" type="EtcItem" name="Scroll of Escape to Hunters Village">
+		<!-- A magical scroll that relocates you to Hunters Village. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="35000"/>
+	</item>
+	<item id="7132" type="EtcItem" name="Scroll of Escape to Aden Castle Town">
+		<!-- A magical scroll that relocates you to Aden Castle Town. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="35000"/>
+	</item>
+	<item id="7133" type="EtcItem" name="Scroll of Escape to the Town of Goddard">
+		<!-- A magical scroll that relocates you to the Town of Goddard. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="35000"/>
+	</item>
+	<item id="7134" type="EtcItem" name="Scroll of Escape to the Rune Township">
+		<!-- A magical scroll that relocates you to the Rune Township. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="35000"/>
+	</item>
+	<item id="7135" type="EtcItem" name="Scroll of Escape to the Town of Schuttgart.">
+		<!-- A magical scroll that relocates you to the Town of Schuttgart. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="35000"/>
+	</item>
+	<item id="7136" type="EtcItem" name="Fruit Basket">
+		<!-- A basket full of fruit. Emily asked you to bring it to her. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7137" type="EtcItem" name="Avellan Spice">
+		<!-- Spice imported from Avella. Has a special fragrance. Emily asked you to bring it to her. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7138" type="EtcItem" name="Honey Pouch">
+		<!-- Well sealed pouch of honey collected from bees. Take this to Emily. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7139" type="EtcItem" name="Bracelet of Lizardman">
+		<!-- A bracelet that Leto Lizardman wears. Take this to Guard Rath in Giran Castle Town. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7140" type="EtcItem" name="Cross of Einhasad">
+		<!-- A holy item that was found in the Forest of the Dead. Take this to the priest of the Rune Township. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7141" type="EtcItem" name="Cross of Einhasad">
+		<!-- A holy cross that was found in the Forest of the Dead. The Priest of the Rune Township returned it to you. Take this to Dark Elf Magister Tifaren. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7142" type="EtcItem" name="Lost Skull of Elf">
+		<!-- A skull of an elf that Grand Magister Tifaren asked you to bring. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7143" type="EtcItem" name="Letter of Innocentin">
+		<!-- A contract between High Priest Innocentin and the dead explorer is in this letter. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7144" type="EtcItem" name="Jewel of Adventurer">
+		<!-- Jewel that the explorer possessed. The color of jewel changes by the explorer's call. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7145" type="EtcItem" name="Jewel of Adventurer">
+		<!-- Jewel that the explorer possessed. The color of jewel changes by the explorer's call. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7146" type="EtcItem" name="Sealed Report Box">
+		<!-- Explorer's report box. It is sealed multiple times. Take this to the ghost of explorer. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7147" type="EtcItem" name="Report Box">
+		<!-- Explorer's report box. The box is locked. Take this to High Priest Innocentin. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7148" type="EtcItem" name="Lidia's Hairpin">
+		<!-- Lidia's hair pin that has moonlight flower shape. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7149" type="EtcItem" name="Silver Key">
+		<!-- A silver spear is engraved on this key. There must be a lock that can be opened with this key. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7150" type="EtcItem" name="Silver Spear">
+		<!-- A reward that is given to the family with highest merit by the royal member of Elmore land. It is a model spear thus it has no attack power. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7151" type="EtcItem" name="Suspicious Totem Doll">
+		<!-- A totem doll you have obtained while hunting black magi according to the instructions of Lidia's maid. Take this to the mysterious magus and question him. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7152" type="EtcItem" name="Flower Bouquet">
+		<!-- A flower bouquet that Dorian asked you to lay at the gravestone in the south. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7153" type="EtcItem" name="Silver Cross of Einhasad">
+		<!-- A talisman given by Dorian. He asked you to find information about the monsters that appear in the Forest of the Dead at night. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7154" type="EtcItem" name="Broken Silver Cross of Einhasad">
+		<!-- A talisman given by Dorian. It seems to have been cracked by a powerful force. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7155" type="EtcItem" name="Lidia's Dress">
+		<!-- A red dress that was unearthed from the grave of Rose. It exhibits an aristocratic taste. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7156" type="EtcItem" name="Suspicious Totem Doll">
+		<!-- The totem doll that was returned by the mysterious magus. Take it to the priests of the Rune Township and question them about it. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7157" type="EtcItem" name="Gemstone Key">
+		<!-- A gemstone studded key. It has a nickname of "bejeweled staff" that indicates the authority of the king. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7158" type="EtcItem" name="Suspicious Totem Doll">
+		<!-- A suspicious totem doll that one obtains after slaying the underlings of Triol. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7159" type="EtcItem" name="Box of Cookies">
+		<!-- Well sealed box of cookies. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7160" type="EtcItem" name="Luxury Wine">
+		<!-- Premium wine that is on delivery. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7161" type="EtcItem" name="Skein of Yarn">
+		<!-- Yarn made of twisted spider web. Tenacious and sturdy. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7162" type="EtcItem" name="Rough Jewel">
+		<!-- Rough stone of jewel. Becomes a beautiful jewel when processed. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7163" type="EtcItem" name="Enchanted Iron">
+		<!-- Sturdier than generic iron. Tools made of this iron are said to be priceless. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7164" type="EtcItem" name="Signet Ring">
+		<!-- A seal that represents noble family. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7165" type="EtcItem" name="Map">
+		<!-- A map that is drawn for Miki the Cat. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7166" type="EtcItem" name="Medicinal Herb">
+		<!-- A medicinal herb that Miki the Cat found in Devil's Isle. Gentler is in need of this herb. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7167" type="EtcItem" name="Crystal of Seal">
+		<!-- A crystal that is used to activate the sealing in the altar. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7168" type="EtcItem" name="Blood of Saint">
+		<!-- Saint's blood that has power of holiness. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7169" type="EtcItem" name="Blood of Saint">
+		<!-- The blood obtained at the time of Kel Mahum's death. It contains the power of Einhasad. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7170" type="EtcItem" name="Seal of Light">
+		<!-- A seal from a Mysterious Necromancer. It uses the power of light. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7171" type="EtcItem" name="Bead of Obedience">
+		<!-- A gem from Kel Mahum that has power of Einhasad. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7172" type="EtcItem" name="Gem of Saints">
+		<!-- A gem that is left after the cremation of a saint. It has power of holiness. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7173" type="EtcItem" name="Feather Ornament">
+		<!-- A warrior symbol for Langk Lizardman. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7174" type="EtcItem" name="Tooth of Totem">
+		<!-- A tooth that has mysterious power. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7175" type="EtcItem" name="Tooth of Dragon">
+		<!-- A tooth of Langk Lizardman Commanders that strengthens their warriors. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7176" type="EtcItem" name="Letter of Iris">
+		<!-- A letter from Iris to Magister Rohmer in the Town of Gludio. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7177" type="EtcItem" name="Letter of Rohmer">
+		<!-- A letter from Rohmer to Magister Iris in Gludin Village. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7178" type="EtcItem" name="Black Bone Necklace">
+		<!-- A charm of Maille Lizardman Warriors. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7179" type="EtcItem" name="Red Bone Necklace">
+		<!-- A charm of Maille Lizardman Commanders. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7180" type="EtcItem" name="Incense Pouch">
+		<!-- A pouch of incense with mysterious scent. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7181" type="EtcItem" name="Gem of Maille Lizardman">
+		<!-- A gem of Maille Lizardman that has mysterious power. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7182" type="EtcItem" name="Patrol's Report">
+		<!-- A report from Guard Praga to Magister Rohmer. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7183" type="EtcItem" name="Shining Gem">
+		<!-- A gem that controls Araneid. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7184" type="EtcItem" name="Shining Red Gem">
+		<!-- A gem in Araneid's head that controls them. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7185" type="EtcItem" name="Jewel of Innocence">
+		<!-- A white jewel from the beast that brings back fond memories. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7186" type="EtcItem" name="Horn of Buffalo">
+		<!-- Buffalo horn fragments used by Ketra Orcs as currency. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7187" type="EtcItem" name="Nepenthes Seed">
+		<!-- Nepenthes seed used by Varka Silenos as currency. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7188" type="EtcItem" name="Proof of Avenger">
+		<!-- Certificate acquired when one becomes an avenger. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7189" type="EtcItem" name="Eye of Darkness">
+		<!-- A mark that proves membership of Daimon's family. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7190" type="EtcItem" name="Evil Spirit of Darkness">
+		<!-- An object substantiating the intrinsic darkness of Daimon the White-Eyed. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7191" type="EtcItem" name="Broken Crystal">
+		<!-- A fraction of the crystal used to summon Daimon. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7192" type="EtcItem" name="Unfinished Summon Crystal">
+		<!-- A fraction of the crystal used to summon Daimon. Still in an unfinished state. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7193" type="EtcItem" name="Summon Crystal">
+		<!-- A crystal used to summon Daimon. Emits golden shine. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7194" type="EtcItem" name="Essence of Daimon">
+		<!-- A crystal of darkness that constitutes Daimon. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7195" type="EtcItem" name="Boiled Eggs">
+		<!-- Delicious eggs boiled in spring water. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7196" type="EtcItem" name="Fee of Boiled Egg">
+		<!-- Price of the boiled egg. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7197" type="EtcItem" name="Special Drink">
+		<!-- Special drink at hot springs. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7198" type="EtcItem" name="Fee of Special Drink">
+		<!-- Price of the special drink. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7199" type="EtcItem" name="Leaf of Flava">
+		<!-- Rare ingredient for food. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+</list>

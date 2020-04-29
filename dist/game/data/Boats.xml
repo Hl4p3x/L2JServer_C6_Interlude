@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="xsd/Boats.xsd">
+	<path id="1"> <!-- Talking Island to Gludin -->
+		<point speed1="180" speed2="800" x="-121385" y="261660" z="-3610" time="-12" />
+		<point speed1="200" speed2="800" x="-127694" y="253312" z="-3610" time="55500" />
+		<point speed1="250" speed2="800" x="-129274" y="237060" z="-3610" time="65300" />
+		<point speed1="200" speed2="800" x="-114688" y="139040" z="-3610" time="495900" />
+		<point speed1="180" speed2="800" x="-109663" y="135704" z="-3610" time="-8" />
+		<point speed1="180" speed2="800" x="-102151" y="135704" z="-3610" time="-7" />
+		<point speed1="180" speed2="800" x="-96686" y="140595" z="-3610" time="-6" />
+		<point speed1="180" speed2="800" x="-95686" y="147718" z="-3610" time="-5" />
+		<point speed1="180" speed2="800" x="-95686" y="148718" z="-3610" time="-4" />
+		<point speed1="150" speed2="800" x="-95686" y="149718" z="-3610" time="-3" />
+		<point speed1="150" speed2="800" x="-95686" y="150514" z="-3610" time="-2" />
+	</path>
+	<path id="2"> <!-- Gludin to Talking Island -->
+		<point speed1="180" speed2="800" x="-95686" y="155514" z="-3610" time="-12" />
+		<point speed1="250" speed2="800" x="-95686" y="185514" z="-3610" time="111800" />
+		<point speed1="200" speed2="800" x="-60136" y="238816" z="-3610" time="330200" />
+		<point speed1="180" speed2="1800" x="-60520" y="259609" z="-3610" time="115800" />
+		<point speed1="180" speed2="1800" x="-65344" y="261460" z="-3610" time="-8" />
+		<point speed1="180" speed2="1800" x="-83344" y="261560" z="-3610" time="-7" />
+		<point speed1="180" speed2="1800" x="-88344" y="261660" z="-3610" time="-6" />
+		<point speed1="150" speed2="1800" x="-92344" y="261660" z="-3610" time="-5" />
+		<point speed1="150" speed2="1800" x="-95622" y="261660" z="-3610" time="-4" />
+		<point speed1="150" speed2="1800" x="-96622" y="261660" z="-3610" time="-3" />
+	</path>
+	<path id="3"> <!-- Giran to Talking Island -->
+		<point speed1="150" speed2="800" x="51914" y="189023" z="-3610" time="-18" />
+		<point speed1="200" speed2="800" x="60567" y="189789" z="-3610" time="44200" />
+		<point speed1="250" speed2="800" x="63732" y="197457" z="-3610" time="33600" />
+		<point speed1="250" speed2="800" x="63732" y="207457" z="-3610" time="40500" />
+		<point speed1="250" speed2="800" x="60434" y="219306" z="-3610" time="49900" />
+		<point speed1="300" speed2="800" x="56115" y="225303" z="-3610" time="24700" />
+		<point speed1="300" speed2="800" x="41634" y="226047" z="-3610" time="51900" />
+		<point speed1="300" speed2="800" x="27153" y="226791" z="-3610" time="50100" />
+		<point speed1="300" speed2="800" x="12672" y="227535" z="-3610" time="49400" />
+		<point speed1="300" speed2="800" x="-1808" y="228280" z="-3610" time="49800" />
+		<point speed1="300" speed2="800" x="-22165" y="231742" z="-3610" time="69400" />
+		<point speed1="250" speed2="800" x="-42523" y="235205" z="-3610" time="83200" />
+		<point speed1="200" speed2="800" x="-68451" y="259960" z="-3610" time="178700" />
+		<point speed1="180" speed2="800" x="-83344" y="261610" z="-3610" time="-5" />
+		<point speed1="180" speed2="800" x="-88344" y="261660" z="-3610" time="-4" />
+		<point speed1="150" speed2="800" x="-92344" y="261660" z="-3610" time="-3" />
+		<point speed1="150" speed2="1800" x="-96622" y="261660" z="-3610" time="-1" />
+	</path>
+	<path id="4"> <!-- Talking Island to Giran -->
+		<point speed1="180" speed2="800" x="-113925" y="261660" z="-3610" time="-18" />
+		<point speed1="180" speed2="800" x="-126107" y="249116" z="-3610" time="-17" />
+		<point speed1="180" speed2="800" x="-126107" y="234499" z="-3610" time="-16" />
+		<point speed1="180" speed2="800" x="-126107" y="219882" z="-3610" time="-15" />
+		<point speed1="180" speed2="800" x="-109414" y="204914" z="-3610" time="-14" />
+		<point speed1="250" speed2="800" x="-92807" y="204914" z="-3610" time="68400" />
+		<point speed1="250" speed2="800" x="-80425" y="216450" z="-3610" time="69300" />
+		<point speed1="250" speed2="800" x="-68043" y="227987" z="-3610" time="67900" />
+		<point speed1="200" speed2="800" x="-60844" y="231369" z="-3610" time="39200" />
+		<point speed1="200" speed2="800" x="-44915" y="231369" z="-3610" time="80800" />
+		<point speed1="200" speed2="800" x="-28986" y="231369" z="-3610" time="81900" />
+		<point speed1="180" speed2="800" x="8233" y="207624" z="-3610" time="-7" />
+		<point speed1="180" speed2="800" x="21470" y="201503" z="-3610" time="-6" />
+		<point speed1="150" speed2="800" x="40058" y="195383" z="-3610" time="-5" />
+		<point speed1="150" speed2="800" x="43022" y="193793" z="-3610" time="-4" />
+		<point speed1="150" speed2="800" x="45986" y="192203" z="-3610" time="-3" />
+		<point speed1="150" speed2="1800" x="48950" y="190613" z="-3610" time="-1" />
+	</path>
+	<path id="5"> <!-- Gludin to Rune -->
+		<point speed1="150" speed2="800" x="-95686" y="155514" z="-3610" time="-1" />
+		<point speed1="150" speed2="800" x="-97727" y="160575" z="-3610" time="-1" />
+		<point speed1="180" speed2="800" x="-108048" y="158380" z="-3610" time="-1" />
+		<point speed1="300" speed2="800" x="-107964" y="91102" z="-3610" time="-1" />
+		<point speed1="300" speed2="800" x="-66492" y="47880" z="-3610" time="-1" />
+		<point speed1="250" speed2="800" x="-56257" y="40932" z="-3610" time="-1" />
+		<point speed1="300" speed2="800" x="-33367" y="16345" z="-3610" time="-1" />
+		<point speed1="250" speed2="800" x="-27195" y="1065" z="-3610" time="-1" />
+		<point speed1="250" speed2="800" x="34000" y="1065" z="-3610" time="-1" />
+		<point speed1="180" speed2="800" x="44914" y="-25021" z="-3610" time="-1" />
+		<point speed1="180" speed2="800" x="43496" y="-27864" z="-3610" time="-1" />
+		<point speed1="150" speed2="800" x="39077" y="-32922" z="-3610" time="-1" />
+		<point speed1="150" speed2="800" x="36650" y="-35468" z="-3610" time="-1" />
+		<point speed1="150" speed2="800" x="34400" y="-37670" z="-3610" time="-1" />	
+	</path>
+	<path id="6"> <!-- Rune to Gludin -->
+		<point speed1="150" speed2="800" x="31622" y="-40501" z="-3610" time="-1" />
+		<point speed1="150" speed2="800" x="2493" y="-29776" z="-3610" time="-1" />
+		<point speed1="150" speed2="800" x="-13722" y="3629" z="-3610" time="421823" />
+		<point speed1="180" speed2="800" x="-28875" y="15029" z="-3610" time="105347" />
+		<point speed1="200" speed2="800" x="-33367" y="16345" z="-3610" time="23404" />
+		<point speed1="250" speed2="800" x="-56257" y="40932" z="-3610" time="134371" />
+		<point speed1="250" speed2="800" x="-66492" y="47880" z="-3610" time="49482" />
+		<point speed1="300" speed2="800" x="-107964" y="91102" z="-3610" time="199668" />
+		<point speed1="300" speed2="800" x="-107531" y="126510" z="-3610" time="118035" />
+		<point speed1="300" speed2="1800" x="-96686" y="140595" z="-3610" time="59255" />
+		<point speed1="250" speed2="1800" x="-95686" y="147718" z="-3610" time="28771" />
+		<point speed1="150" speed2="1800" x="-95686" y="148718" z="-3610" time="-1" />
+		<point speed1="150" speed2="1800" x="-95686" y="149718" z="-3610" time="-1" />
+		<point speed1="150" speed2="1800" x="-95686" y="150500" z="-3610" time="-1" />
+	</path>
+	<path id="7"> <!-- Innandril tour -->
+		<point speed1="150" speed2="800" x="105129" y="226240" z="-3610" time="-1" />
+		<point speed1="150" speed2="800" x="90604" y="238797" z="-3610" time="128002" />
+		<point speed1="150" speed2="800" x="74853" y="237943" z="-3610" time="105161" />
+		<point speed1="150" speed2="800" x="68207" y="235399" z="-3610" time="47442" />
+		<point speed1="150" speed2="800" x="63226" y="230487" z="-3610" time="46637" />
+		<point speed1="150" speed2="800" x="61843" y="224797" z="-3610" time="39038" />
+		<point speed1="150" speed2="800" x="61822" y="203066" z="-3610" time="144873" />
+		<point speed1="150" speed2="800" x="59051" y="197685" z="-3610" time="40350" />
+		<point speed1="150" speed2="800" x="54048" y="195298" z="-3610" time="36955" />
+		<point speed1="150" speed2="800" x="41609" y="195687" z="-3610" time="82967" />
+		<point speed1="150" speed2="800" x="35821" y="200284" z="-3610" time="49276" />
+		<point speed1="150" speed2="800" x="35567" y="205265" z="-3610" time="33250" />
+		<point speed1="150" speed2="800" x="35617" y="222471" z="-3610" time="114707" />
+		<point speed1="150" speed2="800" x="37932" y="226588" z="-3610" time="31488" />
+		<point speed1="150" speed2="800" x="42932" y="229394" z="-3610" time="38224" />
+		<point speed1="150" speed2="800" x="74324" y="245231" z="-3610" time="234404" />
+		<point speed1="150" speed2="800" x="81872" y="250314" z="-3610" time="60666" />
+		<point speed1="150" speed2="800" x="101692" y="249882" z="-3610" time="132165" />
+		<point speed1="150" speed2="800" x="107907" y="256073" z="-3610" time="58483" />
+		<point speed1="150" speed2="800" x="112317" y="257133" z="-3610" time="30237" />
+		<point speed1="150" speed2="800" x="126273" y="255313" z="-3610" time="93828" />
+		<point speed1="150" speed2="800" x="128067" y="250961" z="-3610" time="31382" />
+		<point speed1="150" speed2="800" x="128520" y="238249" z="-3610" time="84800" />
+		<point speed1="150" speed2="800" x="126428" y="235072" z="-3610" time="25359" />
+		<point speed1="150" speed2="800" x="121843" y="234656" z="-3610" time="30692" />
+		<point speed1="150" speed2="800" x="120096" y="234268" z="-3610" time="11930" />
+		<point speed1="150" speed2="800" x="118572" y="233046" z="-3610" time="13023" />
+		<point speed1="150" speed2="800" x="117671" y="228951" z="-3610" time="27953" />
+		<point speed1="150" speed2="800" x="115936" y="226540" z="-3610" time="-1" />
+		<point speed1="150" speed2="800" x="113628" y="226240" z="-3610" time="-1" />
+		<point speed1="150" speed2="800" x="111300" y="226240" z="-3610" time="-1" />
+		<point speed1="150" speed2="800" x="111264" y="226240" z="-3610" time="-1" />	
+	</path>
+	<path id="8"> <!-- Rune to Primeval -->
+		<point speed1="180" speed2="1800" x="40500" y="-35767" z="-3610" time="-1" />
+		<point speed1="200" speed2="1800" x="42200" y="-33000" z="-3610" time="-1" />
+		<point speed1="250" speed2="1800" x="40439" y="-30475" z="-3610" time="-1" />
+		<point speed1="300" speed2="1800" x="34439" y="-29475" z="-3610" time="-1" />
+		<point speed1="300" speed2="1800" x="20439" y="-33475" z="-3610" time="-1" />
+		<point speed1="300" speed2="1800" x="11963" y="-33475" z="-3610" time="-1" />
+		<point speed1="250" speed2="1800" x="8063" y="-32580" z="-3610" time="-1" />
+		<point speed1="180" speed2="1800" x="5063" y="-29700" z="-3610" time="-1" />
+		<point speed1="180" speed2="1800" x="8063" y="-27276" z="-3610" time="-1" />
+		<point speed1="180" speed2="1800" x="10363" y="-27276" z="-3610" time="-1" />	
+	</path>
+	<path id="9"> <!-- Primeval to Rune -->
+		<point speed1="180" speed2="1800" x="11800" y="-27276" z="-3610" time="-1" />
+		<point speed1="200" speed2="1800" x="13800" y="-28300" z="-3610" time="-1" />
+		<point speed1="250" speed2="1800" x="15700" y="-29700" z="-3610" time="-1" />
+		<point speed1="250" speed2="1800" x="25300" y="-35700" z="-3610" time="-1" />
+		<point speed1="200" speed2="1800" x="28300" y="-36000" z="-3610" time="-1" />
+		<point speed1="180" speed2="1800" x="31300" y="-35767" z="-3610" time="-1" />
+		<point speed1="180" speed2="1800" x="37890" y="-35765" z="-3610" time="-1" />	
+	</path>
+	<!-- Load after paths, since boats need paths on initialization. -->
+	<boat name="TI_Gludin_TI" id="1" spawnX="-96622" spawnY="261660" spawnZ="-3610" heading="32768" pathIdA="1" ticketA="1074" xTeleNoTicketA="-96777" yTeleNoTicketA="258970" zTeleNoTicketA="-3623" announcerA=" Passenger Boat Info" message10A="The ferry arrived at Talking Island Harbor. The ferry will leave for Gludin Harbor after anchoring for ten minutes." message5A="The ferry will leave for Gludin Harbor in five minutes." message1A="The ferry will leave for Gludin Harbor in one minute." message0A="The ferry will be leaving soon for Gludin Harbor." messageBeginA="The ferry is leaving for Gludin Harbor." pathIdB="2" ticketB="1075" xTeleNoTicketB="-90015" yTeleNoTicketB="150422" zTeleNoTicketB="-3610" announcerB=" Passenger Boat Info" message10B="The ferry has arrived at Gludin Harbor. The ferry will leave for Talking Island Harbor after anchoring for ten minutes." message5B="The ferry will leave for Talking Island Harbor in five minutes." message1B="The ferry will leave for Talking Island Harbor in one minute." message0B="The ferry will be leaving soon for Talking Island Harbor." messageBeginB="The ferry is leaving for Talking Island Harbor." />
+	<boat name="TI_Giran_TI" id="2" spawnX="48950" spawnY="190613" spawnZ="-3610" heading="60800" pathIdA="3" ticketA="3946" xTeleNoTicketA="46763" yTeleNoTicketA="187041" zTeleNoTicketA="-3451" announcerA=" Passenger Boat Info" message10A="The ferry has arrived at Giran Harbor. The ferry will leave for Talking Island Harbor after anchoring for ten minutes." message5A="We depart for Talking Island Harbor in five minutes." message1A="We depart for Talking Island Harbor in one minute." message0A="All aboard for Talking Island!" messageBeginA="We are now leaving for Talking Island!" pathIdB="4" ticketB="3945" xTeleNoTicketB="-96777" yTeleNoTicketB="258970" zTeleNoTicketB="-3623" announcerB=" Passenger Boat Info" message10B="The ferry arrived at Talking Island Harbor.The ferry will leave for Giran Harbor after anchoring for ten minutes." message5B="The ferry will leave for Giran Harbor in five minutes." message1B="The ferry will leave for Giran Harbor in one minute. Those wishing to ride should make haste to get on." message0B="The ferry will be leaving soon for Giran Harbor." messageBeginB="The ferry is leaving for Giran Harbor." />
+	<boat name="Gludin_Rune_Gludin" id="3" spawnX="-95686" spawnY="150514" spawnZ="-3610" heading="16723" pathIdA="5" ticketA="7905" xTeleNoTicketA="-90015" yTeleNoTicketA="150422" zTeleNoTicketA="-3000" announcerA=" Passenger Boat Info" message10A="The ferry has arrived at Gludin Harbor. Departure for Rune Harbor will take place after anchoring for ten minutes." message5A="Departure for Rune Harbor will take place in five minutes!" message1A="Departure for Rune Harbor will take place in one minute!" message0A="Make haste! We will be departing for Rune shortly." messageBeginA="We are now departing for Rune Harbor. Hold on and enjoy the ride!" pathIdB="6" ticketB="7904" xTeleNoTicketB="35929" yTeleNoTicketB="-39403" zTeleNoTicketB="-3152" announcerB=" Passenger Boat Info" message10B="Arrived at Rune Harbor. Departure for Gludin Harbor will take place after anchoring for ten minutes" message5B="Departure for Gludin Harbor will take place in five minutes." message1B="Departure for Gludin Harbor will take place in one minute." message0B="Make haste! We will be departing for Gludin shortly." messageBeginB="We are now departing for Gludin Harbor. Hold on and enjoy the ride!" />
+	<boat name="Innadril_Tour" id="4" spawnX="111264" spawnY="226240" spawnZ="-3610" heading="32768" pathIdA="7" ticketA="0" xTeleNoTicketA="107092" yTeleNoTicketA="219098" zTeleNoTicketA="-3952" announcerA="Passenger Boat Info" message10A="The Innadril pleasure boat has arrived. It will anchor for ten minutes." message5A="The Innadril pleasure boat will leave in five minutes." message1A="The Innadril pleasure boat will leave in one minute. Those wishing to ride should make haste to get on." message0A="Innadril pleasure boat is leaving soon. Those wishing to ride should make haste to get on." messageBeginA="Innadril pleasure boat is leaving." pathIdB="7" ticketB="0" xTeleNoTicketB="107092" yTeleNoTicketB="219098" zTeleNoTicketB="-3952" announcerB="Passenger Boat Info" message10B="The Innadril pleasure boat has arrived. It will anchor for ten minutes." message5B="The Innadril pleasure boat will leave in five minutes." message1B="The Innadril pleasure boat will leave in one minute. Those wishing to ride should make haste to get on." message0B="Innadril pleasure boat is leaving soon. Those wishing to ride should make haste to get on." messageBeginB="Innadril pleasure boat is leaving." />
+	<boat name="Rune_Primeval_Rune" id="5" spawnX="37885" spawnY="-35767" spawnZ="-3615" heading="0" pathIdA="8" ticketA="8924" xTeleNoTicketA="34513" yTeleNoTicketA="-38009" zTeleNoTicketA="-3610" announcerA="Passenger Boat Info" message10A="The boat for Primeval Isle has arrived. It will anchor for ten minutes." message5A="The boat for Primeval Isle will leave in five minutes." message1A="The boat for Primeval Isle will leave in one minute. Those wishing to ride should make haste to get on." message0A="The boat for Primeval Isle is leaving soon. Those wishing to ride should make haste to get on." messageBeginA="The boat for Primeval Isle is leaving." pathIdB="9" ticketB="8925" xTeleNoTicketB="10449" yTeleNoTicketB="-25180" zTeleNoTicketB="-3688" announcerB="Passenger Boat Info" message10B="The boat from Rune arrived. It will anchor for ten minutes." message5B="The boat for Rune will leave in five minutes." message1B="The boat for Rune will leave in one minute. Those wishing to ride should make haste to get on." message0B="The boat for Rune is leaving soon. Those wishing to ride should make haste to get on." messageBeginB="The boat for Rune is leaving." />
+</list>

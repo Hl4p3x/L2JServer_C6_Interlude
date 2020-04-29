@@ -1,0 +1,26 @@
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="list">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="henna" maxOccurs="unbounded" minOccurs="0">
+					<xs:complexType>
+						<xs:simpleContent>
+							<xs:extension base="xs:string">
+								<xs:attribute type="xs:short" name="symbolId" use="required"/>
+								<xs:attribute type="xs:short" name="dyeId" use="required"/>
+								<xs:attribute type="xs:int" name="price" use="required"/>
+								<xs:attribute type="xs:byte" name="INT" use="required"/>
+								<xs:attribute type="xs:byte" name="STR" use="required"/>
+								<xs:attribute type="xs:byte" name="CON" use="required"/>
+								<xs:attribute type="xs:byte" name="MEN" use="required"/>
+								<xs:attribute type="xs:byte" name="DEX" use="required"/>
+								<xs:attribute type="xs:byte" name="WIT" use="required"/>
+								<xs:attribute type="xs:string" name="classes" use="required"/>
+							</xs:extension>
+						</xs:simpleContent>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

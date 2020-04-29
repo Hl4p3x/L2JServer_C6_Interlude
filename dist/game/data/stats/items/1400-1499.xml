@@ -1,0 +1,895 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="1400" type="EtcItem" name="Spellbook: Surrender To Fire">
+		<!-- Spellbook needed to learn Surrenders To Fire. Used by Human Wizards. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1250"/>
+	</item>
+	<item id="1401" type="EtcItem" name="Spellbook: Acumen">
+		<!-- Spellbook needed to learn Acumen. Used by Clerics. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="750"/>
+	</item>
+	<item id="1402" type="EtcItem" name="Spellbook: Agility">
+		<!-- Spellbook needed to learn Agility. Used by Elven Oracles. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1250"/>
+	</item>
+	<item id="1403" type="EtcItem" name="Spellbook: Summon Kat the Cat">
+		<!-- Spellbook needed to learn Summon Kat the Cat. Used by Human Wizards. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="750"/>
+	</item>
+	<item id="1404" type="EtcItem" name="Spellbook: Servitor Recharge">
+		<!-- Spellbook needed to learn Servitor Recharge. Used by Human Wizards, Elven Wizards, and Dark Wizards. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1250"/>
+	</item>
+	<item id="1405" type="EtcItem" name="Spellbook: Servitor Heal">
+		<!-- Spellbook needed to learn Servitor Heal. Used by Human Wizards, Elven Wizards, and Dark Wizards. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="750"/>
+	</item>
+	<item id="1406" type="EtcItem" name="Spellbook: Servitor Wind Walk">
+		<!-- Spellbook needed to learn Servitor Wind Walk. Used by Human Wizards. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="2450"/>
+	</item>
+	<item id="1407" type="EtcItem" name="Spellbook: Servitor Magic Boost">
+		<!-- Spellbook needed to learn Bright Servitor. Used by Elven Wizards. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="2450"/>
+	</item>
+	<item id="1408" type="EtcItem" name="Spellbook: Mighty Servitor">
+		<!-- Spellbook needed to learn Mighty Servitor. Used by Dark Wizards. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="2450"/>
+	</item>
+	<item id="1409" type="EtcItem" name="Spellbook: Slow">
+		<!-- Spellbook needed to learn Slow. Used by Human Wizards and Dark Wizards. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="2450"/>
+	</item>
+	<item id="1410" type="EtcItem" name="Spellbook: Poisonous Cloud">
+		<!-- Spellbook needed to learn Poisonous Cloud. Used by Human Wizards and Dark Wizards. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1250"/>
+	</item>
+	<item id="1411" type="EtcItem" name="Spellbook: Aura Burn">
+		<!-- Spellbook needed to learn Aura Burn. Used by Human Wizards, Elven Wizards and Dark Wizards. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="750"/>
+	</item>
+	<item id="1412" type="EtcItem" name="Spellbook: Resist Aqua">
+		<!-- Spellbook needed to learn Resist Aqua. Used by Prophets and Elven Wizards. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="2450"/>
+	</item>
+	<item id="1413" type="EtcItem" name="Spellbook: Resist Wind">
+		<!-- Spellbook needed to learn Resist Wind. Used by Prophets and Shillien Oracles. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="2450"/>
+	</item>
+	<item id="1414" type="EtcItem" name="Spellbook: Resist Fire">
+		<!-- Spellbook needed to learn Resist Fire. Used by Clerics. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1800"/>
+	</item>
+	<item id="1415" type="EtcItem" name="Spellbook: Dryad Root">
+		<!-- Spellbook needed to learn Dryad Root. Used by Clerics, Elven Oracles and Shillien Oracles. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1250"/>
+	</item>
+	<item id="1416" type="EtcItem" name="Spellbook: Curse of Chaos">
+		<!-- Spellbook needed to learn Curse of Chaos. Used by Human Wizards and Dark Wizards. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="2450"/>
+	</item>
+	<item id="1417" type="EtcItem" name="Spellbook: Surrender To Earth">
+		<!-- Spellbook needed to learn Surrender To Earth. Used by Elven Wizards. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1250"/>
+	</item>
+	<item id="1418" type="EtcItem" name="Spellbook: Surrender To Poison">
+		<!-- Spellbook needed to learn Surrender To Poison. Used by Dark Wizards. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1250"/>
+	</item>
+	<item id="1419" type="EtcItem" name="Blood Mark">
+		<!-- An item needed to upgrade a clan to level three. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="1420" type="EtcItem" name="Ingredient List">
+		<!-- A list of cooking ingredients from Jonas. Mandragora essence. Honey. Dionian potato. Marsh moss. Floating eye meat. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1421" type="EtcItem" name="Sonia's Botany Book">
+		<!-- A picture that shows what a mandragora looks like. You need this to get mandragora roots. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1422" type="EtcItem" name="Red Mandragora Root">
+		<!-- Red mandragora root. Collect these to take them to Trader Sonia. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1423" type="EtcItem" name="White Mandragora Root">
+		<!-- Rare white mandragora root. Collect these to take them to Trader Sonia. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1424" type="EtcItem" name="Red Mandragora Sap">
+		<!-- Red mandragora sap. One of the five ingredients needed for Jonas's cooking. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1425" type="EtcItem" name="White Mandragora Sap">
+		<!-- Transparent mandragora sap. One of the ingredients needed for Jonas's cooking. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1426" type="EtcItem" name="Jacob's Insect Book">
+		<!-- A diagram that depicts the drawing of a bee. You must possess this in order to obtain nectar and royal jelly from the bloody bee or the stinger wasp. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1427" type="EtcItem" name="Nectar">
+		<!-- Honey water taken from a giant bee. Collect 20 of these to take them to Guard Jaycub. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1428" type="EtcItem" name="Royal Jelly">
+		<!-- A rare ingredient that can be taken only from newborn working bees. Collect these and take them to Guard Jaycub. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1429" type="EtcItem" name="Honey">
+		<!-- Honey made from the nectar you collected from bees. One of the five ingredients needed for Jonas's cooking. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1430" type="EtcItem" name="Golden Honey">
+		<!-- Golden honey made from the nectar and the royal jelly you collected from bees. One of the five ingredients needed for Jonas's cooking. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1431" type="EtcItem" name="Pano's Contract">
+		<!-- A contract Grocer Pano gave you. It says, if you kill Hobgoblins and bring 30 pieces of proof, he will give you potatoes as a reward. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1432" type="EtcItem" name="Hobgoblin Amulet">
+		<!-- An amulet made of a feather that Hobgoblins carry on their bodies. Collect 30 of these and take them to Grocer Pano. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1433" type="EtcItem" name="Dionian Potato">
+		<!-- The highest-quality potatoes grown in the rich soil of southern Dion. One of the five ingredients needed for Jonas's cooking. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1434" type="EtcItem" name="Glyvka's Botany Book">
+		<!-- A picture that explains how to collect moss. You need this to collect marsh moss from grey ants or crimson ants. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1435" type="EtcItem" name="Green Marsh Moss">
+		<!-- Green marsh moss is sometimes used in cooking. Collect this and take it to Priestess Glyvka. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1436" type="EtcItem" name="Brown Marsh Moss">
+		<!-- Rare brown marsh moss, its flavors are superior to the green ones. Collect this and take it to Priestess Glyvka. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1437" type="EtcItem" name="Green Moss Bundle">
+		<!-- A bundle of well-cared-for moss, collected from a marshy place for cooking. One of the five ingredients needed for Jonas's cooking. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1438" type="EtcItem" name="Brown Moss Bundle">
+		<!-- A bundle of well-cared-for moss, collected from a marshy place for cooking. One of the five ingredients needed for Jonas's cooking. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1439" type="EtcItem" name="Rollant's Creature Book">
+		<!-- A picture that shows what a monster eye looks like. You need this to collect the right monster eye searcher or the monster eye gazer. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1440" type="EtcItem" name="Body of Monster Eye">
+		<!-- Severed flesh of the dead body of monster eye. Take this to Magister Rollant. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1441" type="EtcItem" name="Meat of Monster Eye">
+		<!-- The dead body of a monster eye, ready to cook. One of the five ingredients needed for Jonas's cooking. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1442" type="EtcItem" name="Jonas's 1st Steak Dish">
+		<!-- A plate that contains Jonas's monster eye steak. Take this to Magister Mirien. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1443" type="EtcItem" name="Jonas's 2nd Steak Dish">
+		<!-- A plate that contains Jonas's monster eye steak. Take this to Magister Mirien. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1444" type="EtcItem" name="Jonas's 3rd Steak Dish">
+		<!-- A plate that contains Jonas's monster eye steak. Take this to Magister Mirien. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1445" type="EtcItem" name="Jonas's 4th Steak Dish">
+		<!-- A plate that contains Jonas's monster eye steak. Take this to Magister Mirien. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1446" type="EtcItem" name="Jonas's 5th Steak Dish">
+		<!-- A plate that contains Jonas's monster eye steak. Take this to Magister Mirien. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1447" type="EtcItem" name="Mirien's Review">
+		<!-- A letter from Magister Mirien about the taste of Jonas's dish. Take this to Jonas. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1448" type="EtcItem" name="Mirien's Review">
+		<!-- A letter from Magister Mirien about the taste of Jonas's dish. Take this to Jonas. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1449" type="EtcItem" name="Mirien's Review">
+		<!-- A letter from Magister Mirien about the taste of Jonas's dish. Take this to Jonas. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1450" type="EtcItem" name="Mirien's Review">
+		<!-- A letter from Magister Mirien about the taste of Jonas's dish. Take this to Jonas. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1451" type="EtcItem" name="Mirien's Review">
+		<!-- A letter from Magister Mirien about the taste of Jonas's dish. Take this to Jonas. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1452" type="EtcItem" name="Harpy Feather">
+		<!-- A feather taken from a harpy. Collect these and take them to Guard Belton. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1453" type="EtcItem" name="Medusa Venom">
+		<!-- Poison extracted from the snake hair of a medusa. Collect these and take them to Guard Belton. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1454" type="EtcItem" name="Wyrm's Tooth">
+		<!-- A sharp fang of a wyrm. Collect these and take them to Guard Belton. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1455" type="EtcItem" name="Jonas's Salad Recipe">
+		<!-- Jonas's recipe for making marsh moss salad. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="9000"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1456" type="EtcItem" name="Jonas's Sauce Recipe">
+		<!-- Jonas's recipe for making mandragora sauce. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="11250"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1457" type="EtcItem" name="Jonas's Steak Recipe">
+		<!-- Jonas's recipe for making monster eye meat steak. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="13500"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1458" type="EtcItem" name="Crystal: D-Grade">
+		<!-- A crystal of D-Grade. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="d"/>
+		<set name="price" val="650"/>
+	</item>
+	<item id="1459" type="EtcItem" name="Crystal: C-Grade">
+		<!-- A crystal of C-Grade. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="c"/>
+		<set name="price" val="3000"/>
+	</item>
+	<item id="1460" type="EtcItem" name="Crystal: B-Grade">
+		<!-- A crystal of B-Grade. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="b"/>
+		<set name="price" val="9000"/>
+	</item>
+	<item id="1461" type="EtcItem" name="Crystal: A-Grade">
+		<!-- A crystal of A-Grade. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="a"/>
+		<set name="price" val="15000"/>
+	</item>
+	<item id="1462" type="EtcItem" name="Crystal: S Grade">
+		<!-- A crystal of S Grade. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="s"/>
+		<set name="price" val="25000"/>
+	</item>
+	<item id="1463" type="EtcItem" name="Soulshot: D-grade">
+		<!-- The power of a higher-level spirit is bestowed upon a weapon, temporarily increasing power of attack. Used with a D-grade weapon. -->
+		<set name="item_type" val="shot"/>
+		<set name="weight" val="3"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="d"/>
+		<set name="price" val="10"/>
+	</item>
+	<item id="1464" type="EtcItem" name="Soulshot: C-grade">
+		<!-- The power of a higher-level spirit is bestowed upon a weapon, temporarily increasing power of attack. Used with a C-grade weapon. -->
+		<set name="item_type" val="shot"/>
+		<set name="weight" val="3"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="c"/>
+		<set name="price" val="15"/>
+	</item>
+	<item id="1465" type="EtcItem" name="Soulshot: B-grade">
+		<!-- The power of a higher-level spirit is bestowed upon a weapon, temporarily increasing power of attack. Used with a B-grade weapon. -->
+		<set name="item_type" val="shot"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="b"/>
+		<set name="price" val="50"/>
+	</item>
+	<item id="1466" type="EtcItem" name="Soulshot: A-grade">
+		<!-- The power of a higher-level spirit is bestowed upon a weapon, temporarily increasing power of attack. Used with an A-grade weapon. -->
+		<set name="item_type" val="shot"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="a"/>
+		<set name="price" val="80"/>
+	</item>
+	<item id="1467" type="EtcItem" name="Soulshot: S-grade">
+		<!-- The power of a higher-level spirit is bestowed upon a weapon, temporarily increasing power of attack. Used with an S-grade weapon. -->
+		<set name="item_type" val="shot"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="s"/>
+		<set name="price" val="100"/>
+	</item>
+	<item id="1468" type="EtcItem" name="Gludin Panacen">
+		<!-- A medicated herb from Gludio. Purchase at the Castle Gludio. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="s"/>
+	</item>
+	<item id="1469" type="EtcItem" name="Gludin Vermouth">
+		<!-- Medicated wine from Gludio. Purchase at the Castle Gludio. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="s"/>
+	</item>
+	<item id="1470" type="EtcItem" name="Artemeter">
+		<!-- A medicated herb from Gludio. Purchase at the Castle Gludio. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="s"/>
+	</item>
+	<item id="1471" type="Weapon" name="Silenos Blowgun">
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="300"/>
+		<set name="soulshots" val="2"/>
+		<set name="spiritshots" val="2"/>
+		<set name="crystal_type" val="d"/>
+		<set name="p_dam" val="5"/>
+		<set name="rnd_dam" val="5"/>
+		<set name="weapon_type" val="dagger"/>
+		<set name="critical" val="12"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="433"/>
+		<set name="m_dam" val="5"/>
+		<set name="price" val="409000"/>
+		<set name="crystal_count" val="743"/>
+		<for>
+			<set val="5" order="0x08" stat="pAtk"/>
+			<set val="5" order="0x08" stat="mAtk"/>
+			<set val="12" order="0x08" stat="rCrit"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="433" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="1472" type="Weapon" name="Dreadbane">
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="300"/>
+		<set name="soulshots" val="2"/>
+		<set name="spiritshots" val="2"/>
+		<set name="crystal_type" val="d"/>
+		<set name="p_dam" val="50"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="pole"/>
+		<set name="critical" val="8"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="26"/>
+		<set name="price" val="409000"/>
+		<set name="crystal_count" val="743"/>
+		<for>
+			<set val="50" order="0x08" stat="pAtk"/>
+			<set val="26" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<set val="66" order="0x08" stat="pAtkRange"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="1473" type="EtcItem" name="Kasha Wolf Fang">
+		<!-- A fang that is obtained by killing a kasha wolf. Collect fifty and take these to Praetorian Rukain. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1474" type="EtcItem" name="Grave Robber's Head">
+		<!-- The head of goblin robbers, who damaged the graves of Orc ancestors. Collect 50 to take to Seer Livina. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1475" type="EtcItem" name="Black Soulstone">
+		<!-- A black soulstone pulled out of the heart of a rakeclaw imp. Collect these to take to Atuba Chief Varkees. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1476" type="EtcItem" name="Red Soulstone">
+		<!-- A red soulstone pulled out of the heart of a rakeclaw imp. Collect these to take to Atuba Chief Varkees. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1477" type="EtcItem" name="Maraku Werewolf Head">
+		<!-- The head of a Maraku werewolf that has been cut off after they were defeated. Collect 40 of these and take them to Prefect Brukurse. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1478" type="EtcItem" name="Darkwing Bat Fang">
+		<!-- A fang of a darkwing bat. Collect 70 of these and take them to Neruga Chief Tantus. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1479" type="EtcItem" name="Varangka's Parasite">
+		<!-- An evil parasite that summons Varangka's trackers. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1480" type="EtcItem" name="Kasha Parasite">
+		<!-- A parasite-type evil spirit that comes out of the gray bear polluted by kasha's evil spirit. This is the key calling forth the kasha totem spirit. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1481" type="EtcItem" name="Kasha Crystal">
+		<!-- A crystal obtained by killing the gray bear totem polluted by kasha's evil spirit. Take this to Seer Tanapi. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1482" type="EtcItem" name="Black Wolf Pelt">
+		<!-- Pelt of a black wolf. Collect 40 to take to Maryse Redbonnet. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1483" type="EtcItem" name="Goblin Necklace">
+		<!-- A necklace obtained by killing a low-level goblin. Collect these and take them to Golden Wheel's Spiron. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1484" type="EtcItem" name="Goblin Pendant">
+		<!-- A necklace obtained by killing a high-level goblin. Collect these and take them to Golden Wheel's Spiron. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1485" type="EtcItem" name="Goblin Lord Pendant">
+		<!-- A necklace obtained by killing the goblin lord. Collect these and take them to Golden Wheel's Spiron. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1486" type="EtcItem" name="Suspicious Memo">
+		<!-- A suspicious memo obtained by killing a goblin brigand leader. Take this to Golden Wheel's Spiron. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1487" type="EtcItem" name="Suspicious Contract">
+		<!-- A suspicious contract completed by collecting suspicious memos. This contract reveals that the Silver Scale Guild requested the brigands to attack the freight wagons. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1488" type="EtcItem" name="Chrysolite Ore">
+		<!-- Chrysolite Ore received from defeating Utuku Orcs. Collect these and take them to Filaur of the Gray Pillar. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1489" type="EtcItem" name="Torn Map Fragment">
+		<!-- A part of the map that reveals the hidden vein of Chrysolite. Collect 4 of these pieces to complete the map. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1490" type="EtcItem" name="Hidden Ore Map">
+		<!-- A map that reveals a hidden vein of Chrysolite. Take this to Filaur of the Gray Pillar. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1491" type="EtcItem" name="Bat Fang">
+		<!-- A fang taken by killing a blade bat or a barb bat. Collect 100 and take them to Bronze Key's Keef -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1492" type="EtcItem" name="Floating Stone">
+		<!-- A stone that floats on water. Obtain it from a magical weaver. Collect 50 and take them to Black Anvil's Arin. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1493" type="EtcItem" name="Tarantula Spider Silk">
+		<!-- The spider silk that makes when making their nests. Collect these and take them to Trader Mion. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1494" type="EtcItem" name="Tarantula Spinnerette">
+		<!-- A pocket shaped organ that makes spider silk. Take this to Defender Nathan. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1495" type="EtcItem" name="Giant Spider Skin">
+		<!-- The husk of a giant spider that you peel off. Collect them and take them to Edmond. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1496" type="EtcItem" name="Voucher of Flame">
+		<!-- This token represents the qualification of Orc fighters. Take this and go to the Flame Guardian Vulkus. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1497" type="EtcItem" name="Necklace of Flame">
+		<!-- The necklace of flame given by Vulkus. Hand this to Kakai, the Lord of Flame, king of the Orcs. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1498" type="EtcItem" name="License of Miner">
+		<!-- A license given to Dwarves to allow them to mine. Take this and go to Foreman Laferon. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1499" type="EtcItem" name="Laferon's Recommendation">
+		<!-- The recommendation of Foreman Laferon. Take this and go to First Elder Lockirin. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+</list>

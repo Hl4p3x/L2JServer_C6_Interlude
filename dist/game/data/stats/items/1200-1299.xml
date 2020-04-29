@@ -1,0 +1,1007 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="1200" type="EtcItem" name="Lionel's Covenant">
+		<!-- Lionel's pledge not to use the forbidden book again. Give it to Priest Zigaunt and receive the mark of faith. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1201" type="EtcItem" name="Mark of Faith">
+		<!-- Take this token to the high priest of the temple to change your occupation to a Cleric. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1202" type="EtcItem" name="Sorius's Letter">
+		<!-- A letter received from Master Sorius to be given to Blacksmith Kluto in the Village of Gludin. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1203" type="EtcItem" name="Kluto Box">
+		<!-- A box that Kluto asked to give to Master Sorius. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1204" type="EtcItem" name="Elven Knight Brooch">
+		<!-- Take this brooch to the Grand Master of the Fighter Guild and he will change your occupation to a Knight. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1205" type="EtcItem" name="Topaz Piece">
+		<!-- A piece of topaz obtained from the undead in the ruins. Collect 20 to take to Master Sorius. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1206" type="EtcItem" name="Emerald Piece">
+		<!-- A piece of emerald obtained from the Ol Mahum Novices. Collect 20 of these to take to Blacksmith Kluto. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1207" type="EtcItem" name="Reisa's Letter">
+		<!-- Master Reisa's letter to Guard Moretti. Find Guard Moretti and give him the letter. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1208" type="EtcItem" name="Prias's 1st Torn Letter">
+		<!-- A torn piece of letter written by Prias and is not legible. Collect all four torn pieces and take them to Guard Moretti. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1209" type="EtcItem" name="Prias's 2nd Torn Letter">
+		<!-- A torn piece of letter written by Prias and is not legible Collect all four torn pieces and take them to Guard Moretti. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1210" type="EtcItem" name="Prias's 3rd Torn Letter">
+		<!-- A torn piece of letter written by Prias and is not legible. Collect all four torn pieces and take them to Guard Moretti. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1211" type="EtcItem" name="Prias's 4th Torn Letter">
+		<!-- A torn piece of letter written by Prias and is not legible. Collect all four torn pieces and take them to Guard Moretti. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1212" type="EtcItem" name="Moretti's Herb">
+		<!-- An herb that Guard Moretti asked to give to Prias. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1213" type="Weapon" name="Guard's Bow">
+		<!-- A bow given by Guard Moretti. May be efficiently used for some purpose. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="weight" val="1800"/>
+		<set name="soulshots" val="7"/>
+		<set name="spiritshots" val="2"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_dam" val="49"/>
+		<set name="rnd_dam" val="5"/>
+		<set name="weapon_type" val="bow"/>
+		<set name="critical" val="12"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="293"/>
+		<set name="mp_consume" val="3"/>
+		<set name="m_dam" val="17"/>
+		<set name="price" val="136000"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<set val="49" order="0x08" stat="pAtk"/>
+			<set val="17" order="0x08" stat="mAtk"/>
+			<set val="12" order="0x08" stat="rCrit"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="293" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="1214" type="EtcItem" name="Moretti's Letter">
+		<!-- An urgent letter from Guard Moretti to Prias. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1215" type="EtcItem" name="Prias's Letter">
+		<!-- A reply of Prias to the letter from Guard Moretti. Hand this to Moretti. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1216" type="EtcItem" name="Honorary Guard">
+		<!-- A letter written by Guard Moretti to Master Reisa. Take it to Master Reisa. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1217" type="EtcItem" name="Reisa's Recommendation">
+		<!-- Take this recommendation to the Grand Master of the Fighter Guild to change your occupation to an Elven Scout. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1218" type="EtcItem" name="Rosella's Letter">
+		<!-- A letter from Rosella to Elven Magister Greenis. Related to ruby, the symbol of fire. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1219" type="EtcItem" name="Red Down">
+		<!-- Material needed to make ruby of magical powers. Collect 5 and take them to Magister Greenis for the magical power ruby. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1220" type="EtcItem" name="Magical Powers Ruby">
+		<!-- Ruby that symbolizes fire. Gather 4 jewels that symbolize nature and take them to Rosella for a token to change occupations. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1221" type="EtcItem" name="Pure Aquamarine">
+		<!-- Aquamarine that symbolizes water. Gather the 4 jewels that symbolize nature and take them to Rosella for a token to change occupations. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1222" type="EtcItem" name="Appetizing Apple">
+		<!-- A very ripe apple. Give it to Thalia for information on the aquamarine of water. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1223" type="EtcItem" name="Gold Leaves">
+		<!-- Leaves used as fertilizer for the Mother Tree. Collect five leaves and give them to Thalia for an aquamarine. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1224" type="EtcItem" name="Immortal Love">
+		<!-- A book Northwind wanted to borrow. If you give this book to Northwind, you can obtain information on the amethyst. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1225" type="EtcItem" name="Amethyst">
+		<!-- An amethyst obtained by killing sukar wererat. Give two to Northwind for nobility amethyst. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1226" type="EtcItem" name="Nobility Amethyst">
+		<!-- Amethyst that symbolizes wind. Gather 4 jewels that symbolize nature and take them to Rosella for a token to change occupations. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1227" type="EtcItem" name="Rosella's Recommendation">
+		<!-- Rosella's recommendation. If you show this to Varsak, you can get information on the fertility peridot. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1228" type="EtcItem" name="Peridot">
+		<!-- A peridot you can get if you kill a sniper skeleton. If you collect 3 and show them to Varsak, you can get the fertility peridot. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1229" type="EtcItem" name="Fertility Peridot">
+		<!-- A peridot that symbolizes the earth. Gather 4 jewels that symbolize nature and take them to Rosella for a token to change occupations. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1230" type="EtcItem" name="Eternity Diamond">
+		<!-- Take this token to the Grand Master of the Magician Guild to change your occupation to an Elven Wizard. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1231" type="EtcItem" name="Crystal Medallion">
+		<!-- A necklace given by Priest Manuel. Take this and go to the port Gludin to find the girl who works miracles. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1232" type="EtcItem" name="Swindler's Money">
+		<!-- Money from Perrin's swindling. Give it to Allana. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1233" type="EtcItem" name="Allana's Diary">
+		<!-- A diary with records of fraud miracle. Show this to Priest Manuel as proof. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1234" type="EtcItem" name="Lizard Captain Order">
+		<!-- An order of lizard captain to kidnap the sacred flame of prophecy. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1235" type="EtcItem" name="Leaf of Oracle">
+		<!-- Take this to the high priest to change your occupation to an Oracle. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1236" type="EtcItem" name="Half of Diary">
+		<!-- Half of the diary given by Allana. You must get money from Perrin and find the other half of the diary. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1237" type="EtcItem" name="Palus Talisman">
+		<!-- A talisman inscribed with palus runes that symbolize a deep lake. Carry this and hunt lycanthrope in the Neutral Zone. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1238" type="EtcItem" name="Lycanthrope Skull">
+		<!-- A skull obtained after killing lycanthrope. Collect thirteen and take them to Master Virgil. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1239" type="EtcItem" name="Virgil's Letter">
+		<!-- A letter written by Master Virgil. Take this to Abyssal Celebrant Kalinta of the village of Gludin. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1240" type="EtcItem" name="Morte Talisman">
+		<!-- A talisman with inscription of rune of Morte, symbol of death. Carry this and find materials needed for coffin. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1241" type="EtcItem" name="Predator's Carapace">
+		<!-- The hard carapace of a poison spider. Take this and five arachnid tracker silk threads to Abyssal Celebrant Kalinta. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1242" type="EtcItem" name="Arachnid Tracker Silk">
+		<!-- Arachnid tracker web threads. Take five of these and a giant poison spider carapace to Abyssal Celebrant Kalinta. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1243" type="EtcItem" name="Coffin of Eternal Rest">
+		<!-- A coffin used in funeral of Dark Elven Knight. Take this to Master Virgil. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1244" type="EtcItem" name="Gaze of Abyss">
+		<!-- Take this token to the Grand Master of the Fighter Guild to change your occupation to a Knight. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1245" type="EtcItem" name="Shilen's Call">
+		<!-- A letter received from Triskel. Go to Witch Arkenia of the Altar of Rites. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1246" type="EtcItem" name="Arkenia's Letter">
+		<!-- A letter received from Arkenia. Take this to Guard Leikan to obtain information about the thief. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1247" type="EtcItem" name="Leikan's Note">
+		<!-- A simple contract given by Guard Leikan. Must hunt moonstone beasts and collect their molars. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1248" type="EtcItem" name="Moonstone Beast's Molar">
+		<!-- A molar obtained after killing a moonstone beast. Collect 10 of these to take to Guard Leikan. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1249" type="EtcItem" name="Leikan's Knife">
+		<!-- A knife received as present from Leikan. They say it works well against the Calpicos. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1250" type="EtcItem" name="Shilen's Tears">
+		<!-- Magic liquid stolen from the Altar of Rites. Give this to Witch Arkenia. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1251" type="EtcItem" name="Arkenia's Recommendation">
+		<!-- A token of thanks received from Arkenia. Take this to Triskel. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1252" type="EtcItem" name="Iron Heart">
+		<!-- Take this to the Grand Master of the Dark Elf Guild to change your occupation to an Assassin. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1253" type="EtcItem" name="Seed of Anger">
+		<!-- A seed obtained from Charkeren, who is full of anger. Take this to Witch Varika. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1254" type="EtcItem" name="Seed of Despair">
+		<!-- A seed obtained from Witch Varika. You must obtain all four seeds to earn the Jewel of Darkness. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1255" type="EtcItem" name="Seed of Horror">
+		<!-- A seed obtained from Annika, who is full of horror. Take this to Witch Varika. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1256" type="EtcItem" name="Seed of Lunacy">
+		<!-- A seed obtained from a lunatic. Take this to Witch Varika. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1257" type="EtcItem" name="Family's Remains">
+		<!-- Remains of Charkeren's slain family. Find 3 and return to Charkeren. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1258" type="EtcItem" name="Varika's Liquor">
+		<!-- A medicine Varika made for the son of Duchess Dwell. If you give it to Duchess, you can obtain the Seed of Despair. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1259" type="EtcItem" name="Knee Bone">
+		<!-- The knee bone of undead that Annika was looking for. Give this to Annika to obtain the Seed of Horror. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1260" type="EtcItem" name="Heart of Lunacy">
+		<!-- The hearts of those who have been turned into skeletons by a sorcerer of lunacy. Collect 3 Hearts of Lunacy and take them to Arkenia. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1261" type="EtcItem" name="Jewel of Darkness">
+		<!-- Take this token to the Grand Master of the Dark Elf guild to change your occupation to a Dark Wizard. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1262" type="EtcItem" name="Sidra's Letter">
+		<!-- The letter of introduction written by Magister Sidra. Take this to Magister Talbot. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1263" type="EtcItem" name="Blank Sheet">
+		<!-- A blank scroll. Take this and hunt dark succubus to obtain bloody runes. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1264" type="EtcItem" name="Bloody Rune">
+		<!-- Runes written with the blood of dark succubus. Collect 5 and take to Magister Talbot. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1265" type="EtcItem" name="Garmiel Book">
+		<!-- The sacred book of Gran Kain, god of darkness, written in elven language. One of two books Sidra told you to find. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1266" type="EtcItem" name="Prayer of Adonius">
+		<!-- The widely beloved prayer book. Take this to Priest Adonius in the village of Gludin. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1267" type="EtcItem" name="Penitent's Mark">
+		<!-- The mark that shows one is in the course of repenting one's sins. Carry this and hunt skeletons and zombies in the Ruins of Despair. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1268" type="EtcItem" name="Ashen Bones">
+		<!-- Bones from the skeletons and zombies in the Ruins of Despair. Gather 10 and take them to Priest Adonius. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1269" type="EtcItem" name="Andariel Book">
+		<!-- The sacred book of Einhasad, goddess of light, written in the Elven language. One of two books Sidra told you to find. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1270" type="EtcItem" name="Orb of Abyss">
+		<!-- Take this token to a Grand Master of a Dark Elf Guild in any major city to change your occupation to a Shillien Oracle. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1271" type="EtcItem" name="Mark of Esquire">
+		<!-- A mark that indicates an esquire. Wander around the villages in Gludio and meet with guard captains and high priests. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1272" type="EtcItem" name="Charm of Grain">
+		<!-- Greenis's good luck charm. Kill pincer spiders and give 5 red down to Greenis. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1273" type="EtcItem" name="Sap of the Mother Tree">
+		<!-- Sap of Mother Tree that dryad elders like. Find 5 gold leaves and give them to Thalia. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1274" type="EtcItem" name="Lucky Potpourri">
+		<!-- Northwind's lucky potpourri. Give Northwind 2 amethysts obtained from killing sukar wererats. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1275" type="EtcItem" name="Tamil's Necklace">
+		<!-- Tamil's necklace. Show it to Perrin. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1276" type="EtcItem" name="Kluto's Memo">
+		<!-- A memo from Blacksmith Kluto asking to defeat the Ol Mahum Novices. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1277" type="EtcItem" name="Lucky Key">
+		<!-- A bronze key. Hunt zombies in the swamp area, collect 3 remains, and take them to Charkeren. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1278" type="EtcItem" name="Candle">
+		<!-- A candle that lights up the dark. Collect 2 knee bones from the undead and give them to Annika for the Seed of Horror. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1279" type="EtcItem" name="Hub Scent">
+		<!-- Fragrant herb potpourri. Obtain 3 Hearts of Lunacy from a skeleton scout and take them to Arkenia. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1280" type="EtcItem" name="Map of Luster">
+		<!-- A map given by the Flame Salamander. Kill ratman fighters and give the key of flame to the salamander in exchange for the token of fire. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1281" type="EtcItem" name="Key of Flame">
+		<!-- The key that can be obtained by killing a ratman fighter. When you give it to a salamander, he will give you the token of fire. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1282" type="EtcItem" name="Flame Earring">
+		<!-- The token of fire given by fire spirit salamander. Collect four tokens and give them to Parina to receive the token that enables changing occupations. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1283" type="EtcItem" name="Broken Bronze Mirror">
+		<!-- The mirror given by the Wind Sylph. Go to the lizardmen of the Wastelands and obtain the Wind Feather and return it to the Wind Sylph. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1284" type="EtcItem" name="Wind Feather">
+		<!-- The feather hidden by the Wind Sylph near the Wastelands. Return this to the Wind Sylph to receive a Wind Token. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1285" type="EtcItem" name="Wind Bangle">
+		<!-- The Wind Token given to you by the Wind Spirit Sylph. Collect all four tokens and give them to Parina to receive a special token that will enable you to change occupations. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1286" type="EtcItem" name="Rama's Diary">
+		<!-- Kill water seer and take two sparkle pebbles to water Undine for the token of water. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1287" type="EtcItem" name="Sparkle Pebble">
+		<!-- Kill water seer in Lake Fellmere for stones. If you give this to Water Undine, she will give you the token of water. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1288" type="EtcItem" name="Water Necklace">
+		<!-- The token of water given by water spirit Undine. Collect four tokens and give them to Parina to receive the token that enables changing occupations. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1289" type="EtcItem" name="Rust Gold Coin">
+		<!-- The coin given by earth snake. Kill red bear and give red soil to earth snake for Token of Earth. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1290" type="EtcItem" name="Red Soil">
+		<!-- The soil obtained from killing red bear. Give to the earth snake for the token of earth. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1291" type="EtcItem" name="Earth Ring">
+		<!-- Token of Earth given by earth snake. Collect 4 tokens and give them to Parina to receive the token that enables changing occupations. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1292" type="EtcItem" name="Bead of Season">
+		<!-- Take this bead to the high priest of the temple to change your occupation to a Wizard. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1293" type="EtcItem" name="Rusted Key">
+		<!-- The key that unlocks Prias's shackles. Take this and go to Prias. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1294" type="EtcItem" name="Spellbook: Defense Aura">
+		<!-- Spellbook needed to learn Defense Aura. Used by Elven Fighters and Dark Fighters. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="75"/>
+	</item>
+	<item id="1295" type="Weapon" name="Long Sword">
+		<!-- A temporary item for Kamex -->
+		<set name="bodypart" val="rhand"/>
+		<set name="weight" val="200"/>
+		<set name="soulshots" val="2"/>
+		<set name="spiritshots" val="2"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_dam" val="22"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="sword"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="379"/>
+		<set name="m_dam" val="6"/>
+		<set name="price" val="66600"/>
+		<set name="sellable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<set val="22" order="0x08" stat="pAtk"/>
+			<set val="6" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<add val="0" order="0x10" stat="accCombat"/>
+			<set val="379" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="1296" type="Weapon" name="Gladius">
+		<!-- A temporary item for Kamex -->
+		<set name="bodypart" val="rhand"/>
+		<set name="weight" val="300"/>
+		<set name="soulshots" val="2"/>
+		<set name="spiritshots" val="2"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_dam" val="22"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="sword"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="379"/>
+		<set name="m_dam" val="6"/>
+		<set name="price" val="66600"/>
+		<set name="sellable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<set val="22" order="0x08" stat="pAtk"/>
+			<set val="6" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<add val="0" order="0x10" stat="accCombat"/>
+			<set val="379" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="1297" type="Weapon" name="Bastard Sword">
+		<!-- A temporary item for Kamex -->
+		<set name="bodypart" val="rhand"/>
+		<set name="weight" val="400"/>
+		<set name="soulshots" val="2"/>
+		<set name="spiritshots" val="2"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_dam" val="22"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="sword"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="379"/>
+		<set name="m_dam" val="6"/>
+		<set name="price" val="66600"/>
+		<set name="sellable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<set val="22" order="0x08" stat="pAtk"/>
+			<set val="6" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<add val="0" order="0x10" stat="accCombat"/>
+			<set val="379" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="1298" type="Weapon" name="Caliburs">
+		<!-- A temporary item for Kamex -->
+		<set name="bodypart" val="rhand"/>
+		<set name="weight" val="500"/>
+		<set name="soulshots" val="2"/>
+		<set name="spiritshots" val="2"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_dam" val="22"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="sword"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="379"/>
+		<set name="m_dam" val="6"/>
+		<set name="price" val="66600"/>
+		<set name="sellable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<set val="22" order="0x08" stat="pAtk"/>
+			<set val="6" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<add val="0" order="0x10" stat="accCombat"/>
+			<set val="379" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="1299" type="Weapon" name="Great Sword">
+		<!-- A temporary item for Kamex -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="weight" val="500"/>
+		<set name="soulshots" val="3"/>
+		<set name="spiritshots" val="3"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_dam" val="200"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="dual"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="6"/>
+		<set name="price" val="3340000"/>
+		<set name="sellable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<set val="200" order="0x08" stat="pAtk"/>
+			<set val="6" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<add val="0" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+</list>

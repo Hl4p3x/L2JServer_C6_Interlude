@@ -1,0 +1,32 @@
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="list">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="door" maxOccurs="unbounded" minOccurs="0">
+					<xs:complexType>
+						<xs:simpleContent>
+							<xs:extension base="xs:string">
+								<xs:attribute type="xs:string" name="name" use="required"/>
+								<xs:attribute type="xs:int" name="id" use="required"/>
+								<xs:attribute type="xs:int" name="x" use="required"/>
+								<xs:attribute type="xs:int" name="y" use="required"/>
+								<xs:attribute type="xs:short" name="z" use="required"/>
+								<xs:attribute type="xs:int" name="xMin" use="required"/>
+								<xs:attribute type="xs:int" name="yMin" use="required"/>
+								<xs:attribute type="xs:short" name="zMin" use="required"/>
+								<xs:attribute type="xs:int" name="xMax" use="required"/>
+								<xs:attribute type="xs:int" name="yMax" use="required"/>
+								<xs:attribute type="xs:short" name="zMax" use="required"/>
+								<xs:attribute type="xs:int" name="hp" use="required"/>
+								<xs:attribute type="xs:int" name="pDef" use="required"/>
+								<xs:attribute type="xs:short" name="mDef" use="required"/>
+								<xs:attribute type="xs:string" name="unlockable" use="required"/>
+								<xs:attribute type="xs:string" name="isOpen" use="required"/>
+							</xs:extension>
+						</xs:simpleContent>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/LibericaJDK-14">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="dist/libs/HikariCP-3.3.1.jar"/>
+	<classpathentry kind="lib" path="dist/libs/mariadb-java-client-2.4.3.jar"/>
+	<classpathentry kind="lib" path="dist/libs/slf4j-api-1.7.27.jar"/>
+	<classpathentry kind="lib" path="dist/libs/slf4j-simple-1.7.27.jar"/>
+	<classpathentry including="**/*.java" kind="src" path="dist/game/data/scripts"/>
+	<classpathentry kind="src" path="java"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

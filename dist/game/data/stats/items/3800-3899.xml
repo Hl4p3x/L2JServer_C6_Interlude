@@ -1,0 +1,877 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="3800" type="EtcItem" name="Vanor Silenos Mane">
+		<!-- Mane of vanor silenos soldiers, scouts or warriors. Collect 30 and take them to Guild Member Tor. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3801" type="EtcItem" name="Talk Bugbear Totem">
+		<!-- Small statue that talk bugbear warriors carry around on their bodies. Collect 30 and take them to Guild Member Tor. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3802" type="EtcItem" name="Okun's Head">
+		<!-- Certificate of having killed timak overlord okun. Take it to Guild Member Tor. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3803" type="EtcItem" name="Kakran's Head">
+		<!-- Certificate of having killed taik overlord kakran. Take it to Guild Member Tor. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3804" type="EtcItem" name="Narcissus's Soulstone">
+		<!-- Fragment of destroyed mirror. Collect 40 and take them to Guild Member Tor. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3805" type="EtcItem" name="Deprive Eye">
+		<!-- Eye obtained from deprive corpse. Collect 20 and take them to Guild Member Tor. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3806" type="EtcItem" name="Unicorn's Horn">
+		<!-- Horn obtained from killing unicorn or unicorn elder. Collect 20 and take them to Guild Member Tor. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3807" type="EtcItem" name="Kerunos's Gold Mane">
+		<!-- Mane removed after killing vanor chief kerunos. Take it to Guild Member Tor. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3808" type="EtcItem" name="Skull of Executed">
+		<!-- Skull obtained from killing grave wanderer. Collect 20 and take them to Guild Member Tor. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3809" type="EtcItem" name="Bust of Travis">
+		<!-- Bust of King Travis recovered from hatar chieftain kubel. Take it to Guild Member Tor. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3810" type="EtcItem" name="Sword of Cadmus">
+		<!-- Sword of bodyguard of King Cadmus recovered from judge of marsh. Collect 10 and take them to Guild Member Tor. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3811" type="EtcItem" name="Coin Diagram">
+		<!-- An illustration of the coin that Warehouse Keeper Sorint wants you to retrieve. Meet with Hunter Guild President Bernard who will instruct you on what to do next. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3812" type="EtcItem" name="Kaldis Gold Dragon">
+		<!-- Coin that is the same as that which Hunter Guild President Bernard has. Take this to Warehouse Keeper Sorint. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3813" type="EtcItem" name="Coin Collector Membership 1">
+		<!-- Level 1 coin collector club membership card. You must have this to exchange coins with members of other places. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3814" type="EtcItem" name="Coin Collector Membership 2">
+		<!-- Level 2 coin collector club membership card. You must have this to exchange coins with level 2 or level 3 members of other places. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3815" type="EtcItem" name="Coin Collector Membership 3">
+		<!-- Level 3 coin collector club membership card. You must have this to exchange coins with level 3 members of other places. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3816" type="EtcItem" name="Fairy Stone">
+		<!-- Jewel required to meet and talk with fairy Mimyu. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3817" type="EtcItem" name="Deluxe Fairy Stone">
+		<!-- Jewel required to meet and talk with fairy Mimyu. Be careful because creatures living in Fairy Valley disappear when killed. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3818" type="EtcItem" name="Fairy Stone List">
+		<!-- 10 pieces of coal, 10 pieces of charcoal, 1 D-grade gemstone, 3 silver nuggets and 10 pieces of toad lord back skin. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3819" type="EtcItem" name="Deluxe Fairy Stone List">
+		<!-- 10 pieces of coal, 10 pieces of charcoal, 1 C-grade gemstone, 1 stone of purity, 5 nuggets of silver and 20 pieces of toad lord back skin. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3820" type="EtcItem" name="Toad Lord Back Skin">
+		<!-- Haggard backskin of a toad lord. Ingredient used for removing impurities from fairy stone. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3821" type="EtcItem" name="Juice of Monkshood">
+		<!-- Medicine needed to talk with drakes or wyrms. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3822" type="EtcItem" name="Scale of Drake Exarion">
+		<!-- Scale of drake exarion. Take this and recover 20 eggs from leto lizardman warriors near Oren Castle. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3823" type="EtcItem" name="Egg of Drake Exarion">
+		<!-- Egg of drake exarion recovered from leto lizardman warriors. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3824" type="EtcItem" name="Scale of Drake Zwov">
+		<!-- Scale of drake zwov. Take this and recover 20 eggs from marsh spiders of Cruma Marshlands. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3825" type="EtcItem" name="Egg of Drake Zwov">
+		<!-- Egg of drake zwov recovered from marsh spiders. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3826" type="EtcItem" name="Scale of Drake Kalibran">
+		<!-- Scale of drake kalibran. Take this and recover 20 eggs from road scavengers near Corridor of Death. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3827" type="EtcItem" name="Egg of Drake Kalibran">
+		<!-- Egg of drake kalibran recovered from road scavengers. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3828" type="EtcItem" name="Scale of Wyvern Suzet">
+		<!-- Scale of wyvern suzet. Take this and recover 20 eggs from breka orc overlords in northern Giran. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3829" type="EtcItem" name="Egg of Wyvern Suzet">
+		<!-- Egg of wyvern suzet recovered from breka orc overlords. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3830" type="EtcItem" name="Scale of Wyvern Shamhai">
+		<!-- Scale of wyvern shamhai. Take this and recover 20 eggs from deadseekers of the Execution Grounds. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3831" type="EtcItem" name="Egg of Wyvern Shamhai">
+		<!-- Egg of wyvern shamhai recovered from deadseekers. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3832" type="EtcItem" name="Herb of Harit">
+		<!-- One ingredient of antidote. Take all four antidote ingredients to the clan leader within the time. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="dropable" val="false"/>
+	</item>
+	<item id="3833" type="EtcItem" name="Herb of Vanor">
+		<!-- One ingredient of antidote. Take all four antidote ingredients to the clan leader within the time. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="dropable" val="false"/>
+	</item>
+	<item id="3834" type="EtcItem" name="Herb of Oel Mahum">
+		<!-- One ingredient of antidote. Take all four antidote ingredients to the clan leader within the time. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="dropable" val="false"/>
+	</item>
+	<item id="3835" type="EtcItem" name="Blood of Eva">
+		<!-- One ingredient of antidote. Take all four antidote ingredients to the clan leader within the time. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="dropable" val="false"/>
+	</item>
+	<item id="3836" type="EtcItem" name="Athrea's Coin">
+		<!-- If you collect three Athrea's coins and take them to Witch Athrea, you will be able to obtain Eva's Blood. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="dropable" val="false"/>
+	</item>
+	<item id="3837" type="EtcItem" name="Symbol of Loyalty">
+		<!-- Certificate exchanged for life of clan member. Take this to clan leader. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="dropable" val="false"/>
+	</item>
+	<item id="3838" type="EtcItem" name="Recipe: Titan's Powerstone">
+		<!-- For Dwarves only. Recipe for Quest. Required to make a Titan's Powerstone. Requires Create Item - Skill Level 2. The success rate is 25%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="dropable" val="false"/>
+	</item>
+	<item id="3839" type="EtcItem" name="Mist Drake Egg">
+		<!-- Egg of mist drake. The clan leader must collect ten of each of four kinds of eggs and take them to Martien. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="dropable" val="false"/>
+	</item>
+	<item id="3840" type="EtcItem" name="Blitz Wyrm Egg">
+		<!-- Egg of blitz wyrm. The clan leader must collect ten of each of four kinds of eggs and take them to Martien. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="dropable" val="false"/>
+	</item>
+	<item id="3841" type="EtcItem" name="Drake Egg">
+		<!-- Egg of drake. The clan leader must collect ten of each of four kinds of eggs and take them to Martien. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="dropable" val="false"/>
+	</item>
+	<item id="3842" type="EtcItem" name="Thunder Wyrm Egg">
+		<!-- Egg of thunder wyrm. The clan leader must collect ten of each of four kinds of eggs and take them to Martien. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="dropable" val="false"/>
+	</item>
+	<item id="3843" type="EtcItem" name="Brooch of the Magpie">
+		<!-- This brooch that was left by a dying Dwarf to be delivered to Head Blacksmith Kusto, his younger brother in Giran Castle Town. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1000"/>
+		<set name="dropable" val="false"/>
+	</item>
+	<item id="3844" type="EtcItem" name="Nebulite Crystals">
+		<!-- Soulshot of unknown identity. The clan leader must collect ten each of this and Titan's powerstones and take it all to Balthazar. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="dropable" val="false"/>
+	</item>
+	<item id="3845" type="EtcItem" name="Broken Titan's Powerstone">
+		<!-- Titan's Powerstone. It is broken and useless. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="500"/>
+		<set name="dropable" val="false"/>
+	</item>
+	<item id="3846" type="EtcItem" name="Titan's Powerstone">
+		<!-- Titan's Powerstone. The clan leader must collect ten of these and also, ten Nebulite Crystals and take them all to Balthazar. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="dropable" val="false"/>
+	</item>
+	<item id="3847" type="EtcItem" name="Imperial Key">
+		<!-- Key used when opening imperial coffer. Must have all six to open the coffer. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="dropable" val="false"/>
+	</item>
+	<item id="3848" type="EtcItem" name="Undead Ash">
+		<!-- Ash dust remaining after an undead of the Execution Grounds is destroyed. Collect this and take it to Mercenary Sophya. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3849" type="EtcItem" name="Bloody Axe Insignia">
+		<!-- Insignia obtained from killing Ol Mahums in the Fortress of Resistance. Collect these and take them to Mercenary Sophya. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3850" type="EtcItem" name="Delu Lizardman Fang">
+		<!-- Tooth removed after killing a Delu Lizardman. Collect these and take them to Mercenary Sophya. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3851" type="EtcItem" name="Stakato Talon">
+		<!-- Claw cut off after killing marsh stakatos of the Cruma Marshlands. Collect this and take it to Mercenary Sophya. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3852" type="EtcItem" name="Feather of Gabrielle">
+		<!-- Mark given by Seal Guardian Gabrielle. Receive recognition for your abilities after taking this and meeting the other guardians. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3853" type="EtcItem" name="Marsh Stalker Horn">
+		<!-- The horn that was cut off of a marsh stalker after it was killed. Take it to Magister Kaiena, the Watchman of the Seal. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3854" type="EtcItem" name="Marsh Drake Talons">
+		<!-- The talons that were removed from a marsh drake after it was killed. Take them to Magister Kaiena, the Watchman of the Seal. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3855" type="EtcItem" name="Kranrot Skin">
+		<!-- The skin that was removed from a Kranrot after it was killed. Take it to Prefect Chakiris, the Watchman of the Seal. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3856" type="EtcItem" name="Hamrut Leg">
+		<!-- The leg that was removed from a Hamrut and skinned after it was killed. Take it to Prefect Chakiris, the Watchman of the Seal. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3857" type="EtcItem" name="Remains of Sacrified">
+		<!-- The remains of a sacrified soul. Take them to High Priest Orven, the Watchman of the Seal. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3858" type="EtcItem" name="Totem of Land Dragon">
+		<!-- The totem created by Harit lizardmen who worship Antharas. Take it to Master Kendra the Watchman of the Seal. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3859" type="EtcItem" name="1st Fragment of Abyss Jewel">
+		<!-- A fragment obtained by destroying an abyss jewel in Gludio. Take it to Warehouse Chief Moke, the Watchman of the Seal. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3860" type="EtcItem" name="2nd Fragment of Abyss Jewel">
+		<!-- A fragment obtained by destroying an abyss jewel in Oren. Take it to Blacksmith Helton, the Watchman of the Seal. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3861" type="EtcItem" name="3rd Fragment of Abyss Jewel">
+		<!-- Fragment obtained from destroying abyss jewel. Take this to Antharas Watchman Theodric at the entrance to Antharas' Lair. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3862" type="EtcItem" name="Mara Fang">
+		<!-- The proof obtained after killing jewel guardian Mara. Take it to Warehouse Chief Moke, the Watchman of the Seal. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3863" type="EtcItem" name="Musfel Fang">
+		<!-- The proof obtained after killing jewel guardian Musfel. Take it to Blacksmith Helton, the Watchman of the Seal. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3864" type="EtcItem" name="Mark of Watchman">
+		<!-- Certificate of having been recognized by seal guardian. Return to Gabrielle after receiving certificates from guardians of each region. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3865" type="EtcItem" name="Portal Stone">
+		<!-- Item needed to activate the teleport crystal that teleports to Antharas' Lair. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3866" type="EtcItem" name="Gustav's 1st Letter">
+		<!-- A secret letter sent by Sir Gustav Athebaldt to his aides. Get a hold of it and take it to Martien of the Town of Giran. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3867" type="EtcItem" name="Gustav's 2nd Letter">
+		<!-- A letter sent by Sir Gustav Athebaldt to those supporting him. Take it to Balthazar of Hunter Village. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3868" type="EtcItem" name="Gustav's 3rd Letter">
+		<!-- A letter sent by Sir Gustav Athebaldt to those supporting him. Take it to Sir Eric Rodemai of the Town of Aden. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3869" type="EtcItem" name="Scepter of Judgment">
+		<!-- Scepter bestowed on Founding Emperor Shunaiman of the ancient Elmoreden Empire by the god of light. Certificate representing the emperor's authority. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3870" type="EtcItem" name="Seal of Aspiration">
+		<!-- Item needed for a clan leader to raise the clan to level 5. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="destroyable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3871" type="EtcItem" name="Black Anvil Coin">
+		<!-- Commemorative coin given as an expression of gratitude by the Black Anvil Guild. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3872" type="EtcItem" name="Antidote Recipe List">
+		<!-- Herb of Vanor, herb of oel mahum, herb of harit and blood of Eva. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3873" type="EtcItem" name="Voucher of Faith">
+		<!-- If you take this document to Sir Kristof Rodemai, you will receive the Alliance Manifesto. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3874" type="EtcItem" name="Alliance Manifesto">
+		<!-- Item needed for a clan leader to raise the clan to level 4. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="destroyable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3875" type="EtcItem" name="L2Day - A">
+		<!-- L2 Day event item. Create the special word and take it to the event coordinator for a surprise gift! -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="3876" type="EtcItem" name="L2Day - C">
+		<!-- L2 Day event item. Create the special word and take it to the event coordinator for a surprise gift! -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="3877" type="EtcItem" name="L2Day - E">
+		<!-- L2 Day event item. Create the special word and take it to the event coordinator for a surprise gift! -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="3878" type="EtcItem" name="L2Day - F">
+		<!-- L2 Day event item. Create the special word and take it to the event coordinator for a surprise gift! -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="3879" type="EtcItem" name="L2Day - G">
+		<!-- L2 Day event item. Create the special word and take it to the event coordinator for a surprise gift! -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="3880" type="EtcItem" name="L2Day - H">
+		<!-- L2 Day event item. Create the special word and take it to the event coordinator for a surprise gift! -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="3881" type="EtcItem" name="L2Day - I">
+		<!-- L2 Day event item. Create the special word and take it to the event coordinator for a surprise gift! -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="3882" type="EtcItem" name="L2Day - L">
+		<!-- L2 Day event item. Create the special word and take it to the event coordinator for a surprise gift! -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="3883" type="EtcItem" name="L2Day - N">
+		<!-- L2 Day event item. Create the special word and take it to the event coordinator for a surprise gift! -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="3884" type="EtcItem" name="L2Day - O">
+		<!-- L2 Day event item. Create the special word and take it to the event coordinator for a surprise gift! -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="3885" type="EtcItem" name="L2Day - R">
+		<!-- L2 Day event item. Create the special word and take it to the event coordinator for a surprise gift! -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="3886" type="EtcItem" name="L2Day - S">
+		<!-- L2 Day event item. Create the special word and take it to the event coordinator for a surprise gift! -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="3887" type="EtcItem" name="L2Day - T">
+		<!-- L2 Day event item. Create the special word and take it to the event coordinator for a surprise gift! -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="3888" type="EtcItem" name="L2Day - II">
+		<!-- L2 Day event item. Create the special word and take it to the event coordinator for a surprise gift! -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="3889" type="EtcItem" name="Potion of Recovery">
+		<!-- Remedy that can neutralize the poison of Witch Kalis. If the clan leader uses this, the poisoning is healed. -->
+		<set name="item_type" val="potion"/>
+		<set name="weight" val="180"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="3890" type="EtcItem" name="Herald of Slayer">
+		<!-- Certificate showing eligibility to participate in the group to conquer Antharas. Take this and go meet Antharas Watchman Gilmore. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3891" type="Armor" name="Wolf's Hide Armor">
+		<!-- Double-click to wear. Only for wolves. -->
+		<set name="bodypart" val="wolf"/>
+		<set name="armor_type" val="pet"/>
+		<set name="weight" val="160"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_def" val="13"/>
+		<set name="m_def" val="16"/>
+		<set name="price" val="18000"/>
+		<for>
+			<add val="13" order="0x10" stat="pDef"/>
+			<add val="16" order="0x10" stat="mDef"/>
+		</for>
+	</item>
+	<item id="3892" type="Armor" name="Wolf's Hard Leather Mail">
+		<!-- Double-click to wear. Only for wolves. -->
+		<set name="bodypart" val="wolf"/>
+		<set name="armor_type" val="pet"/>
+		<set name="weight" val="160"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_def" val="16"/>
+		<set name="m_def" val="18"/>
+		<set name="price" val="32000"/>
+		<for>
+			<add val="16" order="0x10" stat="pDef"/>
+			<add val="18" order="0x10" stat="mDef"/>
+		</for>
+	</item>
+	<item id="3893" type="Armor" name="Wolf's Wooden Armor">
+		<!-- Double-click to wear. Only for wolves. -->
+		<set name="bodypart" val="wolf"/>
+		<set name="armor_type" val="pet"/>
+		<set name="weight" val="160"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_def" val="19"/>
+		<set name="m_def" val="20"/>
+		<set name="price" val="55000"/>
+		<for>
+			<add val="19" order="0x10" stat="pDef"/>
+			<add val="20" order="0x10" stat="mDef"/>
+		</for>
+	</item>
+	<item id="3894" type="Armor" name="Wolf's Ring Mail">
+		<!-- Double-click to wear. Only for wolves. -->
+		<set name="bodypart" val="wolf"/>
+		<set name="armor_type" val="pet"/>
+		<set name="weight" val="160"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_def" val="22"/>
+		<set name="m_def" val="23"/>
+		<set name="price" val="87000"/>
+		<for>
+			<add val="22" order="0x10" stat="pDef"/>
+			<add val="23" order="0x10" stat="mDef"/>
+		</for>
+	</item>
+	<item id="3895" type="Armor" name="Wolf's Bone Armor">
+		<!-- Double-click to wear. Only for wolves. -->
+		<set name="bodypart" val="wolf"/>
+		<set name="armor_type" val="pet"/>
+		<set name="weight" val="160"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_def" val="26"/>
+		<set name="m_def" val="26"/>
+		<set name="price" val="130000"/>
+		<for>
+			<add val="26" order="0x10" stat="pDef"/>
+			<add val="26" order="0x10" stat="mDef"/>
+		</for>
+	</item>
+	<item id="3896" type="Armor" name="Wolf's Scale Male">
+		<!-- Double-click to wear. Only for wolves. -->
+		<set name="bodypart" val="wolf"/>
+		<set name="armor_type" val="pet"/>
+		<set name="weight" val="160"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_def" val="30"/>
+		<set name="m_def" val="29"/>
+		<set name="price" val="200000"/>
+		<for>
+			<add val="30" order="0x10" stat="pDef"/>
+			<add val="29" order="0x10" stat="mDef"/>
+		</for>
+	</item>
+	<item id="3897" type="Armor" name="Wof's Bronze Armor">
+		<!-- Double-click to wear. Only for wolves. -->
+		<set name="bodypart" val="wolf"/>
+		<set name="armor_type" val="pet"/>
+		<set name="weight" val="160"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_def" val="33"/>
+		<set name="m_def" val="31"/>
+		<set name="price" val="260000"/>
+		<for>
+			<add val="33" order="0x10" stat="pDef"/>
+			<add val="31" order="0x10" stat="mDef"/>
+		</for>
+	</item>
+	<item id="3898" type="Armor" name="Wolf's Plate Mail">
+		<!-- Double-click to wear. Only for wolves. -->
+		<set name="bodypart" val="wolf"/>
+		<set name="armor_type" val="pet"/>
+		<set name="weight" val="160"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_def" val="37"/>
+		<set name="m_def" val="33"/>
+		<set name="price" val="330000"/>
+		<for>
+			<add val="37" order="0x10" stat="pDef"/>
+			<add val="33" order="0x10" stat="mDef"/>
+		</for>
+	</item>
+	<item id="3899" type="Armor" name="Wolf's Steel Armor">
+		<!-- Double-click to wear. Only for wolves. -->
+		<set name="bodypart" val="wolf"/>
+		<set name="armor_type" val="pet"/>
+		<set name="weight" val="160"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_def" val="40"/>
+		<set name="m_def" val="36"/>
+		<set name="price" val="420000"/>
+		<for>
+			<add val="40" order="0x10" stat="pDef"/>
+			<add val="36" order="0x10" stat="mDef"/>
+		</for>
+	</item>
+</list>

@@ -1,0 +1,903 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="3600" type="EtcItem" name="Confirmation Document 12">
+		<!-- Confirmation document received when delivering item. It is signed by Master Leona. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3601" type="EtcItem" name="Confirmation Document 13">
+		<!-- Confirmation document received when delivering item. It is signed by Blacksmith Pinter. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3602" type="EtcItem" name="Confirmation Document 14">
+		<!-- Confirmation document received when delivering item. It is signed by Sentinel Knight Smallberry. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3603" type="EtcItem" name="Confirmation Document 15">
+		<!-- Confirmation document received when delivering item. It is signed by Pixy Murika. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3604" type="EtcItem" name="Confirmation Document 16">
+		<!-- Confirmation document received when delivering item. It is signed by Karna. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3605" type="EtcItem" name="Confirmation Document 17">
+		<!-- Confirmation document received when delivering item. It is signed by Magister Harne. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3606" type="EtcItem" name="Confirmation Document 18">
+		<!-- Confirmation document received when delivering item. It is signed by Sir Ortho Lancer. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3607" type="EtcItem" name="Confirmation Document 19">
+		<!-- Confirmation document received when delivering item. It is signed by Martin. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3608" type="EtcItem" name="Confirmation Document 20">
+		<!-- Confirmation document received when delivering item. It is signed by Bishop Maximilian. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3609" type="EtcItem" name="Confirmation Document 21">
+		<!-- Confirmation document received when delivering item. It is signed by Master Stapin. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3610" type="EtcItem" name="Confirmation Document 22">
+		<!-- Confirmation document received when delivering item. It is signed by Master Genwitter. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3611" type="EtcItem" name="Confirmation Document 23">
+		<!-- Confirmation document received when delivering item. It is signed by High Prefect Clogg. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3612" type="EtcItem" name="Confirmation Document 24">
+		<!-- Confirmation document received when delivering item. It is signed by Sir Kiel Nighthawk. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3613" type="EtcItem" name="Confirmation Document 25">
+		<!-- Confirmation document received when delivering item. It is signed by Blacksmith Poitan. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3614" type="EtcItem" name="Confirmation Document 26">
+		<!-- Confirmation document received when delivering item. It is signed by Cardinal Seresin. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3615" type="EtcItem" name="Confirmation Document 27">
+		<!-- Confirmation document received when delivering item. It is signed by Duda-Mara Chief Takuna. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3616" type="EtcItem" name="Confirmation Document 28">
+		<!-- Confirmation document received when delivering item. It is signed by Hunter Guild Member Colin. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3617" type="EtcItem" name="Confirmation Document 29">
+		<!-- Confirmation document received when delivering item. It is signed by Guard Makhis. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3618" type="EtcItem" name="Confirmation Document 30">
+		<!-- Document confirming receipt after delivering an item to Elder Cronos. It is signed. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3619" type="EtcItem" name="Confirmation Document 31">
+		<!-- Confirmation document received when delivering item. It is signed by Grand Magister Scraide. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3620" type="EtcItem" name="Confirmation Document 32">
+		<!-- Confirmation document received when delivering item. It is signed by Grocer Pano. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3621" type="EtcItem" name="Confirmation Document 33">
+		<!-- Confirmation document received when delivering item. It is signed by Alex. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3622" type="EtcItem" name="Confirmation Document 34">
+		<!-- Confirmation document received when delivering item. It is signed by Militiaman Leirynn. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3623" type="EtcItem" name="Confirmation Document 35">
+		<!-- Confirmation document received when delivering item. It is signed by Fisherman Evert. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3624" type="EtcItem" name="Confirmation Document 36">
+		<!-- Confirmation document received when delivering item. It is signed by Astrologer Creta. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3625" type="EtcItem" name="Confirmation Document 37">
+		<!-- Confirmation document received when delivering item. It is signed by Magister Kaiena. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3626" type="EtcItem" name="Confirmation Document 38">
+		<!-- Confirmation document received when delivering item. It is signed by Rex. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3627" type="EtcItem" name="Confirmation Document 39">
+		<!-- Confirmation document received when delivering item. It is signed by Uruha. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3628" type="EtcItem" name="Confirmation Document 40">
+		<!-- Confirmation document received when delivering item. It is signed by Sentry Irene. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3629" type="EtcItem" name="Confirmation Document 41">
+		<!-- Confirmation document received when delivering item. It is signed by Sentinel Trionell -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3630" type="EtcItem" name="Confirmation Document 42">
+		<!-- Confirmation document received when delivering item. It is signed by Northwind. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3631" type="EtcItem" name="Confirmation Document 43">
+		<!-- Confirmation document received when delivering item. It is signed by Thalia. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3632" type="EtcItem" name="Confirmation Document 44">
+		<!-- Confirmation document received when delivering item. It is signed by Peter. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3633" type="EtcItem" name="Confirmation Document 45">
+		<!-- Confirmation document received when delivering item. It is signed by Bodyguard Jax. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3634" type="EtcItem" name="Confirmation Document 46">
+		<!-- Confirmation document received when delivering item. It is signed by Researcher Lorain. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3635" type="EtcItem" name="Confirmation Document 47">
+		<!-- Confirmation document received when delivering item. It is signed by Maestro Nikola. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3636" type="EtcItem" name="Confirmation Document 48">
+		<!-- Confirmation document received when delivering item. It is signed by Warden Roderik of the Execution Grounds. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3637" type="EtcItem" name="Confirmation Document 49">
+		<!-- Confirmation document received when delivering item. It is signed by Summoner Belthus. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3638" type="EtcItem" name="Confirmation Document 50">
+		<!-- Confirmation document received when delivering item. It is signed by Enku Chief Kepra. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3639" type="EtcItem" name="Confirmation Document 51">
+		<!-- Confirmation document received when delivering item. It is signed by Summoner Celestiel. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3640" type="EtcItem" name="Confirmation Document 52">
+		<!-- Confirmation document received when delivering item. It is signed by Orphanage Master Gupu. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3641" type="EtcItem" name="Confirmation Document 53">
+		<!-- Confirmation document received when delivering item. It is signed by Summoner Basillia. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3642" type="EtcItem" name="Confirmation Document 54">
+		<!-- Confirmation document received when delivering item. It is signed by Sir Aaron Tanford. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3643" type="EtcItem" name="Confirmation Document 55">
+		<!-- Confirmation document received when delivering item. It is signed by Preacher Sla. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3644" type="EtcItem" name="Confirmation Document 56">
+		<!-- Confirmation document received when delivering item. It is signed by Windy Shaoring. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3645" type="EtcItem" name="Confirmation Document 57">
+		<!-- Document confirming receipt after delivering an item to Elder Casian. It is signed. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3646" type="EtcItem" name="Confirmation Document 58">
+		<!-- Confirmation document received when delivering item. It is signed by Annika. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3647" type="EtcItem" name="Confirmation Document 59">
+		<!-- Confirmation document received when delivering item. It is signed by Slein Shining Blade. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3648" type="EtcItem" name="Confirmation Document 60">
+		<!-- Confirmation document received when delivering item. It is signed by Shaman Varika. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3649" type="EtcItem" name="Confirmation Document 61">
+		<!-- Confirmation document received when delivering item. It is signed by Tyra. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3650" type="EtcItem" name="Confirmation Document 62">
+		<!-- Confirmation document received when delivering item. It is signed by Piper Longbow. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3651" type="EtcItem" name="Confirmation Document 63">
+		<!-- Confirmation document received when delivering item. It is signed by Katari. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3652" type="EtcItem" name="Confirmation Document 64">
+		<!-- Confirmation document received when delivering item. It is signed by Summoner Camoniell. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3653" type="EtcItem" name="Confirmation Document 65">
+		<!-- Confirmation document received when delivering item. It is signed by Orim the Shadow. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3654" type="EtcItem" name="Confirmation Document 66">
+		<!-- Confirmation document received when delivering item. It is signed by Breka Chief Voltar. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3655" type="EtcItem" name="Confirmation Document 67">
+		<!-- Confirmation document received when delivering item. It is signed by Summoner Brynthea. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3656" type="EtcItem" name="Eye of Seer">
+		<!-- Eye obtained from killing a floating eye seer. Item specially ordered by Samed. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3657" type="EtcItem" name="Pincher Claw">
+		<!-- Claw obtained from killing pincher spider. Item specially ordered by Blacksmith Pinter. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3658" type="EtcItem" name="Ol Mahum Uniform">
+		<!-- Ol mahum uniform received from ol mahum captain and ol mahum lord. Item specially ordered by Sir Ortho Lancer. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3659" type="EtcItem" name="Enku Orc Champion's Head">
+		<!-- Head of Enku orc champion. Item specially ordered by High Prefect Clogg. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3660" type="EtcItem" name="Bloody Bee Stinger">
+		<!-- Poison stinger from a bloody bee. Item specially ordered by Grocer Pano. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3661" type="EtcItem" name="Ignition of Ghost Fire">
+		<!-- Special item obtained by killing ghost fire. Item specially ordered by Sorceress Kaiena. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3662" type="EtcItem" name="Ethereal Blood">
+		<!-- Ethereal blood received from killing a horror mist ripper. Item specially ordered by Maestro Nikola. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3663" type="EtcItem" name="Returned Delivery Goods 10">
+		<!-- Box returned by Samed. Let's take this to a nearby warehouse. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3664" type="EtcItem" name="Returned Delivery Goods 15">
+		<!-- Jewelry box returned by Pixy Murika. Let's take this to a nearby warehouse. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3665" type="EtcItem" name="Returned Delivery Goods 30">
+		<!-- Jar returned by Elder Cronos. Let's take this to a nearby warehouse. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3666" type="EtcItem" name="Returned Delivery Goods 33">
+		<!-- Gold nugget returned by Alex. Let's take this to a nearby warehouse. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3667" type="EtcItem" name="Returned Delivery Goods 37">
+		<!-- Book returned by Sorceress Kaiena. Let's take this to a nearby warehouse. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3668" type="EtcItem" name="Returned Delivery Goods 45">
+		<!-- Shaft returned by Bodyguard Jax. Let's take this to a nearby warehouse. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3669" type="EtcItem" name="Returned Delivery Goods 55">
+		<!-- Jar returned by Preacher Sla. Let's take this to a nearby warehouse. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3670" type="EtcItem" name="Returned Delivery Goods 60">
+		<!-- Small boxes returned by Shaman Varika. Let's take this to a nearby warehouse. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3671" type="EtcItem" name="Sophya's 1st Order">
+		<!-- Order from Chief Mercenary Sophya. Says to destroy the undead at the Execution Grounds. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3672" type="EtcItem" name="Sophya's 2nd Order">
+		<!-- Order from Chief Mercenary Sophya. It says to destroy Ol Mahums in the Fortress of Resistance. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3673" type="EtcItem" name="Sophya's 3rd Order">
+		<!-- Order from Chief Mercenary Sophya. Says to destroy Delu lizardmen of the southern areas of the Dion and Giran regions. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3674" type="EtcItem" name="Sophya's 4th Order">
+		<!-- Order from Chief Mercenary Sophya. Says to destroy marsh stakatos of the Cruma Marshland. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3675" type="EtcItem" name="Lion's Claw">
+		<!-- Mark given to the person that achieves distinguished merits in the Black Lion Mercenaries. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3676" type="EtcItem" name="Lion's Eye">
+		<!-- Mark given to the person that achieves very distinguished merits in the Black Lion Mercenaries. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3677" type="EtcItem" name="Guild Coin">
+		<!-- Commemorative coin given as thanks by the members of the Aden Commercial Guild. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3678" type="EtcItem" name="Alchemy Text">
+		<!-- A book that can be obtained from Alchemist Matild. According to the instructions written in the book, go find the secret keeper tree located in the Cruma Marshlands and obtain the secret book. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3679" type="EtcItem" name="Secret Book of Potion">
+		<!-- Ancient book received from the guardian trees of the secret. Take this to Alchemist Matild. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3680" type="EtcItem" name="1st Potion Recipe">
+		<!-- Scale of amber basilisk, wind soulstone of whispering wind, glass eye of glass jaguar, blood of Turak bugbear -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3681" type="EtcItem" name="2nd Potion Recipe">
+		<!-- Silenos's horn, ant soldier aphid, tyrant's chitin, and horror ectoplasm of horror mist ripper. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3682" type="EtcItem" name="Matild's Orb">
+		<!-- Certificate of friendship from Alchemist Matild. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3683" type="EtcItem" name="Forbidden Love Scroll">
+		<!-- The secrets of depraved but rapturous love are written. May be sold at a high price to an interested person... -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3684" type="EtcItem" name="Amber Scale">
+		<!-- Necessary ingredient for making wish potion. Take it with the other ingredients to Alchemist Matild. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3685" type="EtcItem" name="Wind Soulstone">
+		<!-- Necessary ingredient for making wish potion. Take it with the other ingredients to Alchemist Matild. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3686" type="EtcItem" name="Glass Eye">
+		<!-- Necessary ingredient for making wish potion. Take it with the other ingredients to Alchemist Matild. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3687" type="EtcItem" name="Horror Ectoplasm">
+		<!-- Necessary ingredient for making wish potion. Take it with the other ingredients to Alchemist Matild. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3688" type="EtcItem" name="Silenos Horn">
+		<!-- Necessary ingredient for making wish potion. Take it with the other ingredients to Alchemist Matild. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3689" type="EtcItem" name="Ant Soldier Aphid">
+		<!-- Necessary ingredient for making wish potion. Take it with the other ingredients to Alchemist Matild. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3690" type="EtcItem" name="Tyrant's Chitin">
+		<!-- Necessary ingredient for making wish potion. Take it with the other ingredients to Alchemist Matild. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3691" type="EtcItem" name="Bugbear Blood">
+		<!-- Necessary ingredient for making wish potion. Take it with the other ingredients to Alchemist Matild. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3692" type="EtcItem" name="1st Circle Hunter License">
+		<!-- Certificate that proves eligibility as a 1st circle hunter. You must have this to be able to carry out orders given by the Hunter Guild. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3693" type="EtcItem" name="2nd Circle Hunter License">
+		<!-- Certificate that proves eligibility as a 2nd circle hunter. You must have this to be able to carry out orders given by the Hunter Guild. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3694" type="EtcItem" name="Laurel Leaf Pin">
+		<!-- Mark given to hunters that successfully carry out requests of the guild. The more experienced a hunter is, the more of these he or she has. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3695" type="EtcItem" name="1st Test Instructions">
+		<!-- Instructions of the test for the 1st circle hunter certificate. Says to complete at least three of the six tasks presented by Grey. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3696" type="EtcItem" name="2nd Test Instructions">
+		<!-- Instructions of the test for the 2nd circle hunter certificate. Says to complete at least three of the six tasks presented by Grey. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3697" type="EtcItem" name="Cybellin's Request">
+		<!-- Asks you to raise the purity of blood crystal by killing Leto lizardmen or Harit lizardmen with cybellin dagger. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3698" type="EtcItem" name="Blood Crystal: Purity 1">
+		<!-- Bloody jewel that contains dreary magical power. Purity 1. The higher the purity of the crystal is, the higher the value. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3699" type="EtcItem" name="Blood Crystal: Purity 2">
+		<!-- Bloody jewel that contains dreary magical power. Purity 2. The higher the purity of the crystal is, the higher the value. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+</list>

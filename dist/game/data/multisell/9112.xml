@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Scrolls -->
+
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/multisell.xsd">
+
+	<!-- Scroll: Enchant Weapon D-Grade -->
+	<item id="1">
+		<ingredient id="57" count="100000"/>
+		<production id="955" count="1"/>
+	</item>
+
+	<!-- Scroll: Enchant Weapon C-Grade -->
+	<item id="2">
+		<ingredient id="57" count="200000"/>
+		<production id="951" count="1"/>
+	</item>
+
+	<!-- Scroll: Enchant Weapon B-Grade -->
+	<item id="3">
+		<ingredient id="57" count="1000000"/>
+		<production id="947" count="1"/>
+	</item>
+
+	<!-- Scroll: Enchant Weapon A-Grade -->
+	<item id="4">
+		<ingredient id="57" count="1800000"/>
+		<production id="729" count="1"/>
+	</item>
+
+	<!-- Scroll: Enchant Weapon S-Grade -->
+	<item id="5">
+		<ingredient id="57" count="2500000"/>
+		<production id="959" count="1"/>
+	</item>
+
+	<!-- Scroll: Enchant Armor D-Grade -->
+	<item id="6">
+		<ingredient id="57" count="50000"/>
+		<production id="956" count="1"/>
+	</item>
+
+	<!-- Scroll: Enchant Armor C-Grade -->
+	<item id="7">
+		<ingredient id="57" count="100000"/>
+		<production id="952" count="1"/>
+	</item>
+
+	<!-- Scroll: Enchant Armor B-Grade -->
+	<item id="8">
+		<ingredient id="57" count="250000"/>
+		<production id="948" count="1"/>
+	</item>
+
+	<!-- Scroll: Enchant Armor A-Grade -->
+	<item id="9">
+		<ingredient id="57" count="425000"/>
+		<production id="730" count="1"/>
+	</item>
+
+	<!-- Scroll: Enchant Armor S-Grade -->
+	<item id="10">
+		<ingredient id="57" count="500000"/>
+		<production id="960" count="1"/>
+	</item>
+
+	<!-- Scroll of Escape -->
+	<item id="11">
+		<ingredient id="57" count="10000"/>
+		<production id="736" count="1"/>
+	</item>
+
+	<!-- Scroll of Resurrection -->
+	<item id="12">
+		<ingredient id="57" count="10000"/>
+		<production id="737" count="1"/>
+	</item>
+
+	<!-- Scroll of Escape: Clan Hall -->
+	<item id="13">
+		<ingredient id="57" count="10000"/>
+		<production id="1829" count="1"/>
+	</item>
+
+	<!-- Scroll of Escape: Castle -->
+	<item id="14">
+		<ingredient id="57" count="10000"/>
+		<production id="1830" count="1"/>
+	</item>
+
+</list>

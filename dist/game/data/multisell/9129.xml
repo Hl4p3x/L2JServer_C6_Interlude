@@ -1,0 +1,272 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- D-Grade Weapons -->
+
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/multisell.xsd">
+
+	<!-- Soulshot: No grade -->
+	<item id="1">
+		<ingredient id="57" count="100000"/>
+		<production id="1835" count="10000"/>
+	</item>
+
+	<!-- Soulshot: D-Grade -->
+	<item id="2">
+		<ingredient id="57" count="200000"/>
+		<production id="1463" count="10000"/>
+	</item>
+
+	<!-- Soulshot: C-Grade -->
+	<item id="3">
+		<ingredient id="57" count="400000"/>
+		<production id="1464" count="10000"/>
+	</item>
+
+	<!-- Soulshot: B-Grade -->
+	<item id="4">
+		<ingredient id="57" count="600000"/>
+		<production id="1465" count="10000"/>
+	</item>
+
+	<!-- Soulshot: A-Grade -->
+	<item id="5">
+		<ingredient id="57" count="800000"/>
+		<production id="1466" count="10000"/>
+	</item>
+
+	<!-- Soulshot: S-Grade -->
+	<item id="6">
+		<ingredient id="57" count="1000000"/>
+		<production id="1467" count="10000"/>
+	</item>
+
+	<!-- Spiritshot: No Grade -->
+	<item id="7">
+		<ingredient id="57" count="200000"/>
+		<production id="2509" count="10000"/>
+	</item>
+
+	<!-- Spiritshot: D-Grade -->
+	<item id="8">
+		<ingredient id="57" count="400000"/>
+		<production id="2510" count="10000"/>
+	</item>
+
+	<!-- Spiritshot: C-Grade -->
+	<item id="9">
+		<ingredient id="57" count="600000"/>
+		<production id="2511" count="10000"/>
+	</item>
+
+	<!-- Spiritshot: B-Grade -->
+	<item id="10">
+		<ingredient id="57" count="800000"/>
+		<production id="2512" count="10000"/>
+	</item>
+
+	<!-- Spiritshot: A-Grade -->
+	<item id="11">
+		<ingredient id="57" count="1000000"/>
+		<production id="2513" count="10000"/>
+	</item>
+
+	<!-- Spiritshot: S-Grade -->
+	<item id="12">
+		<ingredient id="57" count="2000000"/>
+		<production id="2514" count="10000"/>
+	</item>
+
+	<!-- Blessed Spiritshot: No Grade -->
+	<item id="13">
+		<ingredient id="57" count="200000"/>
+		<production id="3947" count="10000"/>
+	</item>
+
+	<!-- Blessed Spiritshot: D-Grade -->
+	<item id="14">
+		<ingredient id="57" count="400000"/>
+		<production id="3948" count="10000"/>
+	</item>
+
+	<!-- Blessed Spiritshot: C-Grade -->
+	<item id="15">
+		<ingredient id="57" count="600000"/>
+		<production id="3949" count="10000"/>
+	</item>
+
+	<!-- Blessed Spiritshot: B-Grade -->
+	<item id="16">
+		<ingredient id="57" count="1500000"/>
+		<production id="3950" count="10000"/>
+	</item>
+
+	<!-- Blessed Spiritshot: A-Grade -->
+	<item id="17">
+		<ingredient id="57" count="1700000"/>
+		<production id="3951" count="10000"/>
+	</item>
+
+	<!-- Blessed Spiritshot: S-Grade -->
+	<item id="18">
+		<ingredient id="57" count="2000000"/>
+		<production id="3952" count="10000"/>
+	</item>
+
+	<!-- Mana Potion -->
+	<item id="19">
+		<ingredient id="57" count="500000"/>
+		<production id="728" count="1"/>
+	</item>
+
+	<!-- Greater Healing Potion -->
+	<item id="20">
+		<ingredient id="57" count="300000"/>
+		<production id="1539" count="1"/>
+	</item>
+
+	<!-- Spirit Ore -->
+	<item id="21">
+		<ingredient id="57" count="20000"/>
+		<production id="3031" count="100"/>
+	</item>
+
+	<!-- Soul Ore -->
+	<item id="22">
+		<ingredient id="57" count="20000"/>
+		<production id="1785" count="100"/>
+	</item>
+
+	<!-- Soul Ore -->
+	<item id="23">
+		<ingredient id="57" count="10000"/>
+		<production id="5589" count="100"/>
+	</item>
+
+	<!-- Cursed Bones -->
+	<item id="24">
+		<ingredient id="57" count="150000"/>
+		<production id="2508" count="1000"/>
+	</item>
+
+	<!-- Crystal: D-Grade -->
+	<item id="25">
+		<ingredient id="57" count="500"/>
+		<production id="1458" count="1"/>
+	</item>
+
+	<!-- Crystal: C-Grade -->
+	<item id="26">
+		<ingredient id="57" count="2000"/>
+		<production id="1459" count="1"/>
+	</item>
+
+	<!-- Crystal: B-Grade -->
+	<item id="27">
+		<ingredient id="57" count="5000"/>
+		<production id="1460" count="1"/>
+	</item>
+
+	<!-- Crystal: A-Grade -->
+	<item id="28">
+		<ingredient id="57" count="8000"/>
+		<production id="1461" count="1"/>
+	</item>
+
+	<!-- Crystal: S-Grade -->
+	<item id="29">
+		<ingredient id="57" count="13000"/>
+		<production id="1462" count="1"/>
+	</item>
+
+	<!-- Wooden Arrow -->
+	<item id="30">
+		<ingredient id="57" count="1"/>
+		<production id="17" count="1"/>
+	</item>
+
+	<!-- Bone Arrow -->
+	<item id="31">
+		<ingredient id="57" count="2"/>
+		<production id="1341" count="1"/>
+	</item>
+
+	<!-- Fine Steel Arrow -->
+	<item id="32">
+		<ingredient id="57" count="2"/>
+		<production id="1342" count="1"/>
+	</item>
+
+	<!-- Silver Arrow -->
+	<item id="33">
+		<ingredient id="57" count="3"/>
+		<production id="1343" count="1"/>
+	</item>
+
+	<!-- Mithril Arrow -->
+	<item id="34">
+		<ingredient id="57" count="4"/>
+		<production id="1344" count="1"/>
+	</item>
+
+	<!-- Shining Arrow -->
+	<item id="35">
+		<ingredient id="57" count="5"/>
+		<production id="1345" count="1"/>
+	</item>
+
+	<!-- Einhasad's Holy Water -->
+	<item id="36">
+		<ingredient id="57" count="10000"/>
+		<production id="8874" count="1"/>
+	</item>
+
+	<!-- Phoenix Blood -->
+	<item id="37">
+		<ingredient id="57" count="10000"/>
+		<production id="8873" count="1"/>
+	</item>
+
+	<!-- Gemstone C -->
+	<item id="38">
+		<ingredient id="57" count="1500"/>
+		<production id="2131" count="1"/>
+	</item>
+
+	<!--recovery no grade -->
+	<item id="39">
+		<ingredient id="57" count="10000"/>
+		<production id="8594" count="3"/>
+	</item>
+
+	<!--recovery D grade -->
+	<item id="40">
+		<ingredient id="57" count="20000"/>
+		<production id="8595" count="3"/>
+	</item>
+
+	<!--recovery C grade -->
+	<item id="41">
+		<ingredient id="57" count="100000"/>
+		<production id="8596" count="3"/>
+	</item>
+
+	<!--recovery B grade -->
+	<item id="42">
+		<ingredient id="57" count="200000"/>
+		<production id="8597" count="3"/>
+	</item>
+
+	<!--recovery A grade -->
+	<item id="43">
+		<ingredient id="57" count="300000"/>
+		<production id="8598" count="3"/>
+	</item>
+
+
+	<!--recovery S grade -->
+	<item id="44">
+		<ingredient id="57" count="400000"/>
+		<production id="8599" count="3"/>
+	</item>
+
+</list>

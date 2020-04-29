@@ -1,0 +1,837 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="3400" type="EtcItem" name="Huge Orc Fang">
+		<!-- The totem of the Atuba tribe. Gather the totems of the 5 tribes and take them to Pa'agrio Lord Kakai. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3401" type="EtcItem" name="Sumari's Letter">
+		<!-- A letter from Blacksmith Sumari to Seer Somak in the Town of Dion. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3402" type="EtcItem" name="Urutu Blade">
+		<!-- A blade crafted by Blacksmith Sumari. Take this to Urutu Chief Hatos. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3403" type="EtcItem" name="Timak Orc Skull">
+		<!-- The skull of a slain Timak Orc. Gather 10 of these and take them to Urutu chief Hatos. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3404" type="EtcItem" name="Sword Into Skull">
+		<!-- The totem of the Urutu tribe. Gather the totems of the 5 tribes and take them to Pa'agrio Lord Kakai. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3405" type="EtcItem" name="Neruga Axe Blade">
+		<!-- The blade portion of a ceremonial axe. Take this to Neruga Chief Tantus. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3406" type="EtcItem" name="Axe of Ceremony">
+		<!-- The totem of the Neruga tribe. Gather the totems of the 5 tribes and take them to Pa'agrio Lord Kakai. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3407" type="EtcItem" name="Marsh Spider Feeler">
+		<!-- A key ingredient in making the Duda-Mara tribe totem. Gather 10 of these and take them to Duda-Mara Chief Takuna. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3408" type="EtcItem" name="Marsh Spider Feet">
+		<!-- A key ingredient in making the Duda-Mara tribe totem. Gather 10 of these and take them to Duda-Mara Chief Takuna. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3409" type="EtcItem" name="Handiwork Spider Brooch">
+		<!-- The totem of the Duda-Mara tribe. Gather the totems of the 5 tribes and take them to Pa'agrio Lord Kakai. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3410" type="EtcItem" name="Cornea of Enchanted Monster Eye">
+		<!-- A key ingredient in making the Gandi tribe totem. Gather 20 of these and take them to Gandi Chief Chianta. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3411" type="EtcItem" name="Monster Eye Woodcarving">
+		<!-- The totem of the Gandi tribe. Gather the totems of the 5 tribes and take them to Pa'agrio Lord Kakai. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3412" type="EtcItem" name="Bear Fang Necklace">
+		<!-- The totem of the Hestui tribe. Take this and go to the Ancestor Martankus in the Cave of Trials. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3413" type="EtcItem" name="Martankus's Charm">
+		<!-- The talisman of the Ancestor Martankus. Go back to him after completing this task. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3414" type="EtcItem" name="Ragna Orc Head">
+		<!-- The head of a slain Ragna Orc. Take this to the Ancestor Martankus. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3415" type="EtcItem" name="Ragna Chief Notice">
+		<!-- He who destroys the Lord of Flame shall be appointed Chief. Take this to the ancestral spirit Martankus. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3416" type="EtcItem" name="Immortal Flame">
+		<!-- The mark received after passing the Ancestor Martankus' test. Take this to Pa'agrio Lord Kakai. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3417" type="EtcItem" name="Animal Lover's List">
+		<!-- Go and seek Gatekeeper Bella in the Town of Gludio, Guard Metty in the Town of Dion, and Accessory Jeweler Ellie in the Town of Giran. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3418" type="EtcItem" name="Animal Slayer's 1st List">
+		<!-- Destroy the animal slayers of Talking Island: giant spiders, talon spiders, and bladers. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3419" type="EtcItem" name="Animal Slayer's 2nd List">
+		<!-- Destroy the animal slayers of the Elven Forest: crimson spiders, hook spiders, and the pincer spiders. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3420" type="EtcItem" name="Animal Slayer's 3rd List">
+		<!-- Destroy the animal slayers of the Dark Elven Forest: lesser dark horrors, dark horrors, and prowlers. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3421" type="EtcItem" name="Animal Slayer's 4th List">
+		<!-- Destroy the animal slayers of the Indomitable Plateau: kasha spiders, kasha poker spiders, and kasha blade spiders. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3422" type="EtcItem" name="Animal Slayer's 5th List">
+		<!-- Destroy the animal slayers of the Spine Mountains Mining Zone: hunter tarantulas and plunder tarantulas. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3423" type="EtcItem" name="Bloody Fang">
+		<!-- A fang dripping with animal blood. Collect 50 of these and take them to Martin, the Pet Manager of the Town of Gludin. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3424" type="EtcItem" name="Bloody Claw">
+		<!-- A claw dripping with animal blood. Collect 50 of these and take them to Martin, the Pet Manager of the Town of Gludin. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3425" type="EtcItem" name="Bloody Nail">
+		<!-- A nail dripping with animal blood. Collect 50 of these and take them to Martin, the Pet Manager of the Town of Gludin. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3426" type="EtcItem" name="Bloody Kasha Fang">
+		<!-- A fang of a kasha dripping with animal blood. Collect 50 of these and take them to Martin, the Pet Manager of the Town of Gludin. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3427" type="EtcItem" name="Bloody Tarantula Nail">
+		<!-- A nail of a tarantula dripping with animal blood. Collect 50 of these and take them to Martin, the Pet Manager of the Town of Gludin. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3428" type="EtcItem" name="Crystal Brooch">
+		<!-- A brooch received from Warehouse Keeper Wilfred. Present this to Lilith of the temple at the Village of Talking Island. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3429" type="EtcItem" name="Spellbook: Greater Heal">
+		<!-- Spellbook needed to learn the Greater Heal spell. Used by Bishops, Elven Elders, and Shillien Elders. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3200"/>
+	</item>
+	<item id="3430" type="EtcItem" name="Spellbook: Greater Battle Heal">
+		<!-- Amulet required for the Greater Battle Heal spell. Used by Bishops. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3200"/>
+	</item>
+	<item id="3431" type="EtcItem" name="Spellbook: Greater Group Heal">
+		<!-- Amulet required for the Greater Group Heal spell. Used by Bishops and Shillien Elders. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3200"/>
+	</item>
+	<item id="3432" type="EtcItem" name="Spellbook: Remedy">
+		<!-- Amulet required for the Remedy spell. Used by Paladins. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3200"/>
+	</item>
+	<item id="3433" type="EtcItem" name="Elf Figure">
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="destroyable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3434" type="EtcItem" name="Coke">
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="destroyable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3435" type="EtcItem" name="Nvidia">
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="destroyable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3436" type="EtcItem" name="Mouse">
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="destroyable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3437" type="EtcItem" name="Trade Book of Merchant">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="20000"/>
+	</item>
+	<item id="3438" type="EtcItem" name="Trade Book of Great Merchant">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="20000"/>
+	</item>
+	<item id="3439" type="Weapon" name="Shining Canine">
+		<!-- Double-click to wear. Only for wolves. -->
+		<set name="bodypart" val="wolf"/>
+		<set name="weight" val="100"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_dam" val="7"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="pet"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="277"/>
+		<set name="m_dam" val="8"/>
+		<set name="price" val="34000"/>
+		<for>
+			<add val="7" order="0x10" stat="pAtk"/>
+			<add val="8" order="0x10" stat="mAtk"/>
+			<set val="80" order="0x08" stat="rCrit"/>
+			<set val="304" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="3440" type="EtcItem" name="Cargo Box">
+		<!-- Freight box on which the mark of Aden Commercial Guild is stamped. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="20"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="10"/>
+	</item>
+	<item id="3441" type="EtcItem" name="Cargo Box">
+		<!-- Freight box on which the mark of Aden Commercial Guild is stamped. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="20"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="10"/>
+	</item>
+	<item id="3442" type="EtcItem" name="Cargo Box">
+		<!-- Freight box on which the mark of Aden Commercial Guild is stamped. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="20"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="10"/>
+	</item>
+	<item id="3443" type="EtcItem" name="Cargo Box">
+		<!-- Freight box on which the mark of Aden Commercial Guild is stamped. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="20"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="10"/>
+	</item>
+	<item id="3444" type="EtcItem" name="Gludio Apples">
+		<!-- Apple cultivated in the Gludio region. Can be sold at shops. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="20"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1000"/>
+	</item>
+	<item id="3445" type="EtcItem" name="Dion Corn Meal">
+		<!-- Powder made from corn cultivated in Dion. Can be sold at shops. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="20"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1000"/>
+	</item>
+	<item id="3446" type="EtcItem" name="Dire Wolf Pelts">
+		<!-- Tanned Dire Wolf pelts. Can be sold at shops. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="20"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1000"/>
+	</item>
+	<item id="3447" type="EtcItem" name="Moonstone">
+		<!-- Jewel of blue and white light called Moonjang Stone or Moonstone. Can be sold at shops. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="20"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1500"/>
+	</item>
+	<item id="3448" type="EtcItem" name="Gludio Wheat Flour">
+		<!-- Powder made from wheat cultivated in the Gludio region. Can be sold at shops. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="20"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1500"/>
+	</item>
+	<item id="3449" type="EtcItem" name="Spidersilk Rope">
+		<!-- Strong rope made of weaving tarantula spider silk. Can be sold at shops. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="20"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1500"/>
+	</item>
+	<item id="3450" type="EtcItem" name="Alexandrite">
+		<!-- Precious jewel that shines green in the sunlight and red in the moonlight. Can be sold at shops. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="20"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="2000"/>
+	</item>
+	<item id="3451" type="EtcItem" name="Silver Tea Service">
+		<!-- High-quality teacup and dish set crafted of silver. Can be sold at shops. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="20"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="2000"/>
+	</item>
+	<item id="3452" type="EtcItem" name="Mechanic Golem Spare Parts">
+		<!-- A component of mechanic golems. Useless for anything else, it is best sold. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="20"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="2000"/>
+	</item>
+	<item id="3453" type="EtcItem" name="Fire Emerald">
+		<!-- Precious jewel that shines with an intense red light. Can be sold at shops. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="20"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="5000"/>
+	</item>
+	<item id="3454" type="EtcItem" name="Avellan Silk Frock">
+		<!-- High-quality silk dress imported from Avellan of the east. Can be sold at shops. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="20"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="5000"/>
+	</item>
+	<item id="3455" type="EtcItem" name="Feriotic Porcelain Urn">
+		<!-- As a water cup made for their rituals, it is a relic of the ancient Ferios empire. Can be sold at shops. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="20"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="20000"/>
+	</item>
+	<item id="3456" type="EtcItem" name="Imperial Diamond">
+		<!-- Jewel of brilliant light used in decorating the crown of the Elmoreden emperor. Can be sold at shops. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="20"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="20000"/>
+	</item>
+	<item id="3457" type="EtcItem" name="Statue of Shilen - Head">
+		<!-- Part of a broken statue. Can be sold at shops. If you collect the remaining pieces of the statue...? -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="20"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="2000"/>
+	</item>
+	<item id="3458" type="EtcItem" name="Statue of Shilen - Torso">
+		<!-- Part of a broken statue. Can be sold at shops. If you collect the remaining pieces of the statue...? -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="20"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="2000"/>
+	</item>
+	<item id="3459" type="EtcItem" name="Statue of Shilen - Arm">
+		<!-- Part of a broken statue. Can be sold at shops. If you collect the remaining pieces of the statue...? -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="20"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="2000"/>
+	</item>
+	<item id="3460" type="EtcItem" name="Statue of Shilen - Leg">
+		<!-- Part of a broken statue. Can be sold at shops. If you collect the remaining pieces of the statue...? -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="20"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="2000"/>
+	</item>
+	<item id="3461" type="EtcItem" name="Complete Statue of Shilen">
+		<!-- Statue of Shilen made in the time of the ancient Elmoreden empire. Can be sold at shops for a high price. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="20"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="20000"/>
+	</item>
+	<item id="3462" type="EtcItem" name="Fragment of Ancient Tablet - 1st Piece">
+		<!-- Fragment of ancient clay tablet. If you collect the remaining pieces of the tablet...? -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="20"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="2000"/>
+	</item>
+	<item id="3463" type="EtcItem" name="Fragment of Ancient Tablet - 2nd Piece">
+		<!-- Fragment of ancient clay tablet. If you collect the remaining pieces of the tablet...? -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="20"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="2000"/>
+	</item>
+	<item id="3464" type="EtcItem" name="Fragment of Ancient Tablet - 3rd Piece">
+		<!-- Fragment of ancient clay tablet. If you collect the remaining pieces of the tablet...? -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="20"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="2000"/>
+	</item>
+	<item id="3465" type="EtcItem" name="Fragment of Ancient Tablet - 4th Piece">
+		<!-- Fragment of ancient clay tablet. If you collect the remaining pieces of the tablet...? -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="20"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="2000"/>
+	</item>
+	<item id="3466" type="EtcItem" name="Complete Ancient Tablet">
+		<!-- A large clay tablet upon which ancient texts are engraved. You can sell it to a store at a high price. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="20"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="20000"/>
+	</item>
+	<item id="3467" type="EtcItem" name="Wish Potion">
+		<!-- Magic potion that is said to make wishes come true. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="10"/>
+	</item>
+	<item id="3468" type="EtcItem" name="Ancient Crown">
+		<!-- Crown that is full of jewels but is too big to wear on the head. Let's sell it. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1000"/>
+	</item>
+	<item id="3469" type="EtcItem" name="Certificate of Royalty">
+		<!-- Certificate of royalty but nobody knows who made it. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="10"/>
+	</item>
+	<item id="3470" type="EtcItem" name="Gold Bar">
+		<!-- Heavy lump of pure gold. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="10000"/>
+	</item>
+	<item id="3471" type="Weapon" name="Cybellin's Dagger">
+		<!-- Dagger used in ceremony to raise the purity of blood crystal. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="weight" val="400"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_dam" val="10"/>
+		<set name="rnd_dam" val="5"/>
+		<set name="weapon_type" val="dagger"/>
+		<set name="critical" val="12"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="433"/>
+		<set name="m_dam" val="9"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="destroyable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<set val="10" order="0x08" stat="pAtk"/>
+			<set val="9" order="0x08" stat="mAtk"/>
+			<set val="12" order="0x08" stat="rCrit"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="433" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="3472" type="EtcItem" name="Blood Medusa">
+		<!-- Lowest-grade coin -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="50"/>
+	</item>
+	<item id="3473" type="EtcItem" name="Blood Werewolf">
+		<!-- Low-grade coin -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="100"/>
+	</item>
+	<item id="3474" type="EtcItem" name="Blood Basilisk">
+		<!-- Mid-grade coin -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="150"/>
+	</item>
+	<item id="3475" type="EtcItem" name="Blood Drevanul">
+		<!-- Low-grade coin -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="100"/>
+	</item>
+	<item id="3476" type="EtcItem" name="Blood Succubus">
+		<!-- Mid-grade coin -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="150"/>
+	</item>
+	<item id="3477" type="EtcItem" name="Blood Dragon">
+		<!-- High-grade coin -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="200"/>
+	</item>
+	<item id="3478" type="EtcItem" name="Beleth's Blood Dragon">
+		<!-- Highest-grade coin -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="300"/>
+	</item>
+	<item id="3479" type="EtcItem" name="Manak's Blood Werewolf">
+		<!-- Mid-grade coin -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="150"/>
+	</item>
+	<item id="3480" type="EtcItem" name="Nia's Blood Medusa">
+		<!-- Low-grade coin -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="100"/>
+	</item>
+	<item id="3481" type="EtcItem" name="Gold Dragon">
+		<!-- High-grade coin -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="200"/>
+	</item>
+	<item id="3482" type="EtcItem" name="Gold Wyvern">
+		<!-- Lowest-grade coin -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="50"/>
+	</item>
+	<item id="3483" type="EtcItem" name="Gold Knight">
+		<!-- Low-grade coin -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="100"/>
+	</item>
+	<item id="3484" type="EtcItem" name="Gold Giant">
+		<!-- Mid-grade coin -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="150"/>
+	</item>
+	<item id="3485" type="EtcItem" name="Gold Drake">
+		<!-- Low-grade coin -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="100"/>
+	</item>
+	<item id="3486" type="EtcItem" name="Gold Wyrm">
+		<!-- Mid-grade coin -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="150"/>
+	</item>
+	<item id="3487" type="EtcItem" name="Beleth's Gold Dragon">
+		<!-- Highest-grade coin -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="300"/>
+	</item>
+	<item id="3488" type="EtcItem" name="Manak's Gold Giant">
+		<!-- Mid-grade coin -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="150"/>
+	</item>
+	<item id="3489" type="EtcItem" name="Nia's Gold Wyvern">
+		<!-- Low-grade coin -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="100"/>
+	</item>
+	<item id="3490" type="EtcItem" name="Silver Unicorn">
+		<!-- Lowest-grade coin -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="50"/>
+	</item>
+	<item id="3491" type="EtcItem" name="Silver Fairy">
+		<!-- Low-grade coin -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="100"/>
+	</item>
+	<item id="3492" type="EtcItem" name="Silver Dryad">
+		<!-- Mid-grade coin -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="150"/>
+	</item>
+	<item id="3493" type="EtcItem" name="Silver Dragon">
+		<!-- High-grade coin -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="200"/>
+	</item>
+	<item id="3494" type="EtcItem" name="Silver Golem">
+		<!-- Low-grade coin -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="100"/>
+	</item>
+	<item id="3495" type="EtcItem" name="Silver Undine">
+		<!-- Mid-grade coin -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="150"/>
+	</item>
+	<item id="3496" type="EtcItem" name="Beleth's Silver Dragon">
+		<!-- Highest-grade coin -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="300"/>
+	</item>
+	<item id="3497" type="EtcItem" name="Manak's Silver Dryad">
+		<!-- Mid-grade coin -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="150"/>
+	</item>
+	<item id="3498" type="EtcItem" name="Nia's Silver Fairy">
+		<!-- Low-grade coin -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="100"/>
+	</item>
+	<item id="3499" type="EtcItem" name="Fairy Dust">
+		<!-- Powder that falls from the body of fairy. Is sold at an expensive price at shops. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="10000"/>
+		<set name="dropable" val="false"/>
+	</item>
+</list>

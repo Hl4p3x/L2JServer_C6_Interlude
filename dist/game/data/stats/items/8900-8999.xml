@@ -1,0 +1,1556 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="8900" type="EtcItem" name="Ancient Spellbook: Cyclone">
+		<!-- Ancient Spellbook needed to learn Cyclone. Can be used by a Storm Screamer. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8901" type="EtcItem" name="Ancient Spellbook: Raging Waves">
+		<!-- Ancient Spellbook needed to learn Raging Waves. Used by Mystic Muses. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8902" type="EtcItem" name="Ancient Spellbook: Day of Doom">
+		<!-- Ancient Spellbook needed to learn Day of Doom. Can be used by a Soultaker. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8903" type="EtcItem" name="Ancient Spellbook: Gehenna">
+		<!-- Ancient Spellbook needed to learn Gehenna. Can be used by a Soultaker. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8904" type="EtcItem" name="Ancient Spellbook: Anti-Summoning Field">
+		<!-- Ancient Spellbook needed to learn Anti-Summoning Field. Can be used by an Arcana Lord, Elemental Master, and Spectral Master. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8905" type="EtcItem" name="Ancient Spellbook: Purification Field">
+		<!-- Ancient Spellbook needed to learn Purification Field. Used by a Cardinal. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8906" type="EtcItem" name="Ancient Spellbook: Miracle">
+		<!-- Ancient Spellbook needed to learn Miracle. Used by a Cardinal. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8907" type="EtcItem" name="Ancient Spellbook: Flames of Invincibility">
+		<!-- Ancient Spellbook needed to learn Flames of Invincibility. Used by a Dominator. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8908" type="EtcItem" name="Ancient Spellbook: Mass Recharge">
+		<!-- Ancient Spellbook needed to learn Mass Recharge. Can be used by an Eva's Saint and Shillien Saint. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8909" type="EtcItem" name="Blueprint: Summon Swoop Cannon">
+		<!-- Blueprint needed to learn the Summon Swoop Cannon technique. Can be used by a Warsmith. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="9600"/>
+	</item>
+	<item id="8910" type="Armor" name="Black Feather Mask (Event)">
+		<!-- Hair accessory containing a dark feather. It uses 2 hair accessory slots. This is an event item which cannot be exchanged or dropped. -->
+		<set name="bodypart" val="dhair"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="10"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<add val="0" order="0x10" stat="pDef"/>
+		</for>
+	</item>
+	<item id="8911" type="Armor" name="Black Half-Mask (Event)">
+		<!-- A black-colored half mask. Event Item. -->
+		<set name="bodypart" val="face"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="10"/>
+		<set name="crystal_type" val="none"/>
+		<for>
+			<add val="0" order="0x10" stat="pDef"/>
+		</for>
+	</item>
+	<item id="8912" type="Armor" name="Single Stem Flower">
+		<!-- Hair pin made in the shape of a flower. -->
+		<set name="bodypart" val="hair"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="10"/>
+		<set name="crystal_type" val="none"/>
+		<for>
+			<add val="0" order="0x10" stat="pDef"/>
+		</for>
+	</item>
+	<item id="8913" type="Armor" name="Butterfly Hairpin">
+		<!-- Hairpin in the shape of a butterfly. This is a female-only hair accessory. -->
+		<set name="bodypart" val="hair"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="10"/>
+		<set name="crystal_type" val="none"/>
+		<for>
+			<add val="0" order="0x10" stat="pDef"/>
+		</for>
+	</item>
+	<item id="8914" type="Armor" name="Luxurious Gold Circlet">
+		<!-- Luxurious Gold Circlet. It uses 2 hair accessory slots. -->
+		<set name="bodypart" val="dhair"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="10"/>
+		<set name="crystal_type" val="none"/>
+		<for>
+			<add val="0" order="0x10" stat="pDef"/>
+		</for>
+	</item>
+	<item id="8915" type="Armor" name="Luxurious Silver Circlet">
+		<!-- Luxurious Silver Circlet. It uses 2 hair accessory slots. -->
+		<set name="bodypart" val="dhair"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="10"/>
+		<set name="crystal_type" val="none"/>
+		<for>
+			<add val="0" order="0x10" stat="pDef"/>
+		</for>
+	</item>
+	<item id="8916" type="Armor" name="Eye Patch">
+		<!-- One eye patch accessory. -->
+		<set name="bodypart" val="face"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="10"/>
+		<set name="crystal_type" val="none"/>
+		<for>
+			<add val="0" order="0x10" stat="pDef"/>
+		</for>
+	</item>
+	<item id="8917" type="Armor" name="Goddess Circlet">
+		<!-- The goddess' circlet. This is a female-use hair accessory. It uses 2 hair accessory slots. -->
+		<set name="bodypart" val="dhair"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="10"/>
+		<set name="crystal_type" val="none"/>
+		<for>
+			<add val="0" order="0x10" stat="pDef"/>
+		</for>
+	</item>
+	<item id="8918" type="Armor" name="Leather Cap">
+		<!-- A medieval-era hat made of leather. It uses 2 hair accessory slots. -->
+		<set name="bodypart" val="dhair"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="10"/>
+		<set name="crystal_type" val="none"/>
+		<for>
+			<add val="0" order="0x10" stat="pDef"/>
+		</for>
+	</item>
+	<item id="8919" type="Armor" name="First Mate's Hat - Event Use">
+		<!-- A hat befitting a favored member of Zaken's crew. Uses 2 hair accessory slots. This item cannot be exchanged or dropped. -->
+		<set name="bodypart" val="dhair"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="10"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<add val="0" order="0x10" stat="pDef"/>
+		</for>
+	</item>
+	<item id="8920" type="Armor" name="Angel Halo">
+		<!-- Hair accessory imbued with holy energy. It uses 2 hair accessory slots. -->
+		<set name="bodypart" val="dhair"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="10"/>
+		<set name="crystal_type" val="none"/>
+		<for>
+			<add val="0" order="0x10" stat="pDef"/>
+		</for>
+	</item>
+	<item id="8921" type="Armor" name="Demon Circlet">
+		<!-- Hair accessory possessed of dark energy. It uses 2 hair accessory slots. -->
+		<set name="bodypart" val="dhair"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="10"/>
+		<set name="crystal_type" val="none"/>
+		<for>
+			<add val="0" order="0x10" stat="pDef"/>
+		</for>
+	</item>
+	<item id="8922" type="Armor" name="Pirate Hat">
+		<!-- Hat worn by pirates. It uses 2 hair accessory slots. -->
+		<set name="bodypart" val="dhair"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="10"/>
+		<set name="crystal_type" val="none"/>
+		<for>
+			<add val="0" order="0x10" stat="pDef"/>
+		</for>
+	</item>
+	<item id="8923" type="Armor" name="Scar">
+		<!-- A scar. This is a male-only accessory. -->
+		<set name="bodypart" val="face"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="10"/>
+		<set name="crystal_type" val="none"/>
+		<for>
+			<add val="0" order="0x10" stat="pDef"/>
+		</for>
+	</item>
+	<item id="8924" type="EtcItem" name="Boat Ticket: Primeval Isle to Rune.">
+		<!-- Boat Ticket from Primeval Isle to Rune. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="20"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8925" type="EtcItem" name="Boat Ticket: Rune to Primeval Isle.">
+		<!-- Boat Ticket from Rune to Primeval Isle. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="20"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="25000"/>
+	</item>
+	<item id="8926" type="Weapon" name="Shadow Item: Sword of Delusion">
+		<!-- This Shadow Item contains the mirrored power of a Sword of Delusion. It cannot be traded, dropped or given other functions. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="470"/>
+		<set name="soulshots" val="3"/>
+		<set name="spiritshots" val="3"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="139"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="sword"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="379"/>
+		<set name="m_dam" val="76"/>
+		<set name="duration" val="120"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<set val="139" order="0x08" stat="pAtk"/>
+			<set val="76" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<add val="0" order="0x10" stat="accCombat"/>
+			<set val="379" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="8927" type="Weapon" name="Shadow Item: Poleaxe">
+		<!-- This Shadow Item contains the mirrored power of a Poleaxe. It cannot be traded, dropped or given other functions. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="670"/>
+		<set name="soulshots" val="3"/>
+		<set name="spiritshots" val="3"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="139"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="pole"/>
+		<set name="critical" val="8"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="76"/>
+		<set name="duration" val="120"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<set val="139" order="0x08" stat="pAtk"/>
+			<set val="76" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<set val="66" order="0x08" stat="pAtkRange"/>
+		</for>
+	</item>
+	<item id="8928" type="Weapon" name="Shadow Item: Stick of Eternity">
+		<!-- This Shadow Item contains the mirrored power of a Stick of Eternity. It cannot be traded, dropped or given other functions. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="380"/>
+		<set name="soulshots" val="3"/>
+		<set name="spiritshots" val="3"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="111"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="blunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="379"/>
+		<set name="m_dam" val="101"/>
+		<set name="duration" val="120"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<set val="111" order="0x08" stat="pAtk"/>
+			<set val="101" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="379" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="8929" type="Weapon" name="Shadow Item: Inferno Staff">
+		<!-- This Shadow Item contains the mirrored power of an Inferno Staff. It cannot be traded, dropped or given other functions. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="340"/>
+		<set name="soulshots" val="3"/>
+		<set name="spiritshots" val="3"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="135"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="bigblunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="101"/>
+		<set name="duration" val="120"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<set val="135" order="0x08" stat="pAtk"/>
+			<set val="101" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="8930" type="Weapon" name="Shadow Item: Pa'agrian Hammer">
+		<!-- This Shadow Item contains the mirrored power of a Pa'agrian Hammer. It cannot be traded, dropped or given other functions. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="340"/>
+		<set name="soulshots" val="3"/>
+		<set name="spiritshots" val="3"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="135"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="bigblunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="101"/>
+		<set name="duration" val="120"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<set val="135" order="0x08" stat="pAtk"/>
+			<set val="101" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="8931" type="Weapon" name="Shadow Item: Dark Screamer">
+		<!-- This Shadow Item contains the mirrored power of a Dark Screamer. It cannot be traded, dropped or given other functions. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="340"/>
+		<set name="soulshots" val="3"/>
+		<set name="spiritshots" val="3"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="122"/>
+		<set name="rnd_dam" val="5"/>
+		<set name="weapon_type" val="dagger"/>
+		<set name="critical" val="12"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="433"/>
+		<set name="m_dam" val="76"/>
+		<set name="duration" val="120"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<set val="122" order="0x08" stat="pAtk"/>
+			<set val="76" order="0x08" stat="mAtk"/>
+			<set val="12" order="0x08" stat="rCrit"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="433" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="8932" type="Weapon" name="Shadow Item: Akat Long Bow">
+		<!-- This Shadow Item contains the mirrored power of an Akat Long Bow. It cannot be traded, dropped or given other functions. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="580"/>
+		<set name="soulshots" val="9"/>
+		<set name="spiritshots" val="3"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="316"/>
+		<set name="rnd_dam" val="5"/>
+		<set name="weapon_type" val="bow"/>
+		<set name="critical" val="12"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="227"/>
+		<set name="mp_consume" val="7"/>
+		<set name="m_dam" val="84"/>
+		<set name="duration" val="120"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<set val="316" order="0x08" stat="pAtk"/>
+			<set val="84" order="0x08" stat="mAtk"/>
+			<set val="12" order="0x08" stat="rCrit"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="227" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="8933" type="Weapon" name="Shadow Item: Pa'agrian Sword">
+		<!-- This Shadow Item contains the mirrored power of a Pa'agrian Sword. It cannot be traded, dropped or given other functions. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="660"/>
+		<set name="soulshots" val="3"/>
+		<set name="spiritshots" val="3"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="169"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="bigsword"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="76"/>
+		<set name="duration" val="120"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<set val="169" order="0x08" stat="pAtk"/>
+			<set val="76" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<add val="0" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="8934" type="Weapon" name="Shadow Item: Fisted Blade">
+		<!-- This Shadow Item contains the mirrored power of a Fisted Blade. It cannot be traded, dropped or given other functions. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="500"/>
+		<set name="soulshots" val="3"/>
+		<set name="spiritshots" val="3"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="169"/>
+		<set name="rnd_dam" val="5"/>
+		<set name="weapon_type" val="dualfist"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="76"/>
+		<set name="duration" val="120"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<set val="169" order="0x08" stat="pAtk"/>
+			<set val="76" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="8935" type="Weapon" name="Test Rapier">
+		<!-- Test -->
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1380"/>
+		<set name="soulshots" val="3"/>
+		<set name="spiritshots" val="3"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="156"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="sword"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="379"/>
+		<set name="m_dam" val="83"/>
+		<set name="duration" val="120"/>
+		<for>
+			<set val="156" order="0x08" stat="pAtk"/>
+			<set val="83" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<add val="0" order="0x10" stat="accCombat"/>
+			<set val="379" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="8936" type="Armor" name="Santa's Antlers">
+		<!-- Festive Santa hat with antlers. Ideal for celebrating the holidays. This item can only be equipped during the year end. -->
+		<set name="bodypart" val="dhair"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="10"/>
+		<set name="crystal_type" val="none"/>
+		<for>
+			<add val="0" order="0x10" stat="pDef"/>
+		</for>
+	</item>
+	<item id="8937" type="Weapon" name="Shadow Item: Stormbringer">
+		<!-- This Shadow Item contains the mirrored power of a Stormbringer. It cannot be traded, dropped or given other functions. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="780"/>
+		<set name="soulshots" val="3"/>
+		<set name="spiritshots" val="3"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="175"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="dual"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="78"/>
+		<set name="duration" val="120"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<set val="175" order="0x08" stat="pAtk"/>
+			<set val="78" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<add val="0" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="8938" type="Weapon" name="Damascus * Tallum Blade">
+		<!-- When enchanted, the P.Atk. of a dualsword will increase more significantly than that of a one-handed or fist weapon. When enchanted by 4 or more, Atk. Spd. will increase by 8%. Inflicts additional damage to target during PvP. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1890"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_dam" val="305"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="dual"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="121"/>
+		<set name="crystal_count" val="2824"/>
+		<for>
+			<set val="305" order="0x08" stat="pAtk"/>
+			<set val="121" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<add val="0" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<mul val="1.08" order="0x30" stat="pAtkSpd">
+				<and>
+					<using slotitem="8938;14;4"/>
+				</and>
+			</mul>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- Enhances damage to target during PvP -->
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg"/>
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg"/>
+		</for>
+	</item>
+	<item id="8939" type="EtcItem" name="Dominic's Mark">
+		<!-- Dominic's Mark. Used in carrying out a secret mission. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8940" type="EtcItem" name="Mark of the Future: Human">
+		<!-- Mark of the Future. Received from Grandmaster Klaus Blackbird of Oren Castle Town. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8941" type="EtcItem" name="Mark of the Future: Dwarf">
+		<!-- Mark of the Future. Received from Warehouse Chief Alder of Schuttgart Castle Town. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8942" type="EtcItem" name="Mark of the Future: Elf">
+		<!-- Mark of the Future. Received from Magister Juris of Giran Castle Town. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8943" type="EtcItem" name="Mark of the Future: Dark Elf">
+		<!-- Mark of the Future. Received from Grand Master Oltlin of Aden Castle Town. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8944" type="EtcItem" name="Mark of the Future: Orc">
+		<!-- Mark of the Future. Received from High Prefect Aklan of Goddard Castle Town. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8945" type="EtcItem" name="Spellbook: Celestial Shield">
+		<!-- Spellbook needed to learn Celestial Shield. Can be used by a Bishop. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="8100"/>
+	</item>
+	<item id="8946" type="EtcItem" name="Spellbook: Invocation">
+		<!-- Spellbook needed to learn Invocation. Can be used by an Elder, Shillien Elder, and Bishop. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="6250"/>
+	</item>
+	<item id="8947" type="Armor" name="L2 Day: Rabbit Ears">
+		<!-- Hair accessory in the shape of Rabbit Ears. -->
+		<set name="bodypart" val="hair"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="10"/>
+		<set name="crystal_type" val="none"/>
+		<for>
+			<add val="0" order="0x10" stat="pDef"/>
+		</for>
+	</item>
+	<item id="8948" type="Armor" name="L2 Day: Little Angel Wings">
+		<!-- A wing-shaped hair accessory. -->
+		<set name="bodypart" val="hair"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="10"/>
+		<set name="crystal_type" val="none"/>
+		<for>
+			<add val="0" order="0x10" stat="pDef"/>
+		</for>
+	</item>
+	<item id="8949" type="Armor" name="L2 Day: Fairy Antennae">
+		<!-- Cute antennae hair accessory with stars. -->
+		<set name="bodypart" val="hair"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="10"/>
+		<set name="crystal_type" val="none"/>
+		<for>
+			<add val="0" order="0x10" stat="pDef"/>
+		</for>
+	</item>
+	<item id="8950" type="Armor" name="L2 Day: Feathered Hat">
+		<!-- A fancy hat containing a feather. Uses 2 accessory slot spaces. -->
+		<set name="bodypart" val="dhair"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="10"/>
+		<set name="crystal_type" val="none"/>
+		<for>
+			<add val="0" order="0x10" stat="pDef"/>
+		</for>
+	</item>
+	<item id="8951" type="Armor" name="L2 Day: Artisan's Goggles">
+		<!-- Big, round goggles to protect your eyes. Uses 2 accessory slot spaces. -->
+		<set name="bodypart" val="dhair"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="10"/>
+		<set name="crystal_type" val="none"/>
+		<for>
+			<add val="0" order="0x10" stat="pDef"/>
+		</for>
+	</item>
+	<item id="8952" type="EtcItem" name="Greater Herb of Life">
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8953" type="EtcItem" name="Greater Herb of Mana">
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8954" type="EtcItem" name="Blue Primeval Crystal">
+		<!-- Increases SP by 50000 when used. Can only be used by characters level 76 or higher. -->
+		<set name="item_type" val="scroll"/>
+		<set name="weight" val="10"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="s"/>
+		<set name="price" val="50000"/>
+	</item>
+	<item id="8955" type="EtcItem" name="Green Primeval Crystal">
+		<!-- Increases SP by 100000 when used. Can only be used by characters level 76 or higher. -->
+		<set name="item_type" val="scroll"/>
+		<set name="weight" val="10"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="s"/>
+		<set name="price" val="100000"/>
+	</item>
+	<item id="8956" type="EtcItem" name="Red Primeval Crystal">
+		<!-- Increases SP by 200000 when used. Can only be used by characters level 76 or higher. -->
+		<set name="item_type" val="scroll"/>
+		<set name="weight" val="10"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="s"/>
+		<set name="price" val="200000"/>
+	</item>
+	<item id="8957" type="EtcItem" name="Attack Orders">
+		<!-- Call to Arms event item. Can be exchanged through Strategist Lucien for a Shadow Item suitable to your level. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8958" type="EtcItem" name="Defense Orders">
+		<!-- Call to Arms event item. Can be exchanged through Strategist Lucien for a set of Shadow Armor suitable to your level. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8959" type="EtcItem" name="Supply Orders">
+		<!-- Call to Arms event item. Can be exchanged through Strategist Lucien for consumables suitable to your level. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8960" type="EtcItem" name="No Grade Shadow Armor Set Box">
+		<!-- If you double-click on it, you can obtain a No Grade Shadow Armor Set. (This item can be used when the weight gauge is below 60% and 20 or more empty slots are available in your inventory.) -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8961" type="EtcItem" name="D-Grade Shadow Armor Set Box">
+		<!-- If you double-click on it, you can obtain a D-Grade Shadow Armor Set. (This item can be used when the weight gauge is below 60% and 20 or more empty slots are available in your inventory.) -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8962" type="EtcItem" name="C-Grade Shadow Armor Set Box">
+		<!-- If you double-click on it, you can obtain a C-Grade Shadow Armor Set. (This item can be used when the weight gauge is below 60% and 20 or more empty slots are available in your inventory.) -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8963" type="EtcItem" name="B-Grade Shadow Armor Set Box">
+		<!-- If you double-click on it, you can obtain a B-Grade Shadow Armor Set. (This item can be used when the weight gauge is below 60% and 20 or more empty slots are available in your inventory.) -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8964" type="EtcItem" name="A-Grade Shadow Armor Set Box">
+		<!-- If you double-click on it, you can obtain a A-Grade Shadow Armor Set. (This item can be used when the weight gauge is below 60% and 20 or more empty slots are available in your inventory.) -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8965" type="EtcItem" name="S-Grade Shadow Armor Set Box">
+		<!-- If you double-click on it, you can obtain an S-Grade Shadow Armor Set. (This item can be used when the weight gauge is below 60% and 20 or more empty slots are available in your inventory.) -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8966" type="EtcItem" name="No Grade Item Set Box (Warrior Use)">
+		<!-- If you double-click on it, you can obtain a Fighter-Use No Grade Item. (This item can be used when the weight gauge is below 80% and 10 or more empty slots are available in your inventory.) -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8967" type="EtcItem" name="D Grade Item Set Box (Warrior Use)">
+		<!-- If you double-click on it, you can obtain a Fighter-Use D-Grade Item. (This item can be used when the weight gauge is below 80% and 10 or more empty slots are available in your inventory.) -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8968" type="EtcItem" name="C Grade Item Set Box (Warrior Use)">
+		<!-- If you double-click on it, you can obtain a Fighter-Use C-Grade Item. (This item can be used when the weight gauge is below 80% and 10 or more empty slots are available in your inventory.) -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8969" type="EtcItem" name="B Grade Item Set Box (Warrior Use)">
+		<!-- If you double-click on it, you can obtain a Fighter-Use B-Grade Item. (This item can be used when the weight gauge is below 80% and 10 or more empty slots are available in your inventory.) -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8970" type="EtcItem" name="A Grade Item Set Box (Warrior Use)">
+		<!-- If you double-click on it, you can obtain a Fighter-Use A-Grade Item. (This item can be used when the weight gauge is below 80% and 10 or more empty slots are available in your inventory.) -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8971" type="EtcItem" name="A, S Grade Item Set Box (Warrior Use)">
+		<!-- If you double-click on it, you can obtain a Fighter-Use A- or S-Grade Item. (This item can be used when the weight gauge is below 80% and 10 or more empty slots are available in your inventory.) -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8972" type="Weapon" name="Shadow Item: Long Spear">
+		<!-- This Shadow Item contains the mirrored power of a Long Spear. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="weight" val="707"/>
+		<set name="soulshots" val="2"/>
+		<set name="spiritshots" val="2"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_dam" val="31"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="pole"/>
+		<set name="critical" val="8"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="21"/>
+		<set name="duration" val="600"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<set val="31" order="0x08" stat="pAtk"/>
+			<set val="21" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<set val="66" order="0x08" stat="pAtkRange"/>
+		</for>
+	</item>
+	<item id="8973" type="Weapon" name="Shadow Item: Falchion">
+		<!-- This Shadow Item contains the mirrored power of a Falchion. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="weight" val="510"/>
+		<set name="soulshots" val="2"/>
+		<set name="spiritshots" val="2"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_dam" val="31"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="sword"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="379"/>
+		<set name="m_dam" val="21"/>
+		<set name="duration" val="600"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<set val="31" order="0x08" stat="pAtk"/>
+			<set val="21" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<add val="0" order="0x10" stat="accCombat"/>
+			<set val="379" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="8974" type="Weapon" name="Shadow Item: Iron Hammer">
+		<!-- This Shadow Item contains the mirrored power of an Iron Hammer. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="weight" val="617"/>
+		<set name="soulshots" val="2"/>
+		<set name="spiritshots" val="2"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_dam" val="31"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="blunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="379"/>
+		<set name="m_dam" val="21"/>
+		<set name="duration" val="600"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<set val="31" order="0x08" stat="pAtk"/>
+			<set val="21" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="379" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="8975" type="Weapon" name="Shadow Item: Voodoo Doll">
+		<!-- This Shadow Item contains the mirrored power of a Voodoo Doll. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="weight" val="210"/>
+		<set name="soulshots" val="2"/>
+		<set name="spiritshots" val="2"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_dam" val="25"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="etc"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="379"/>
+		<set name="m_dam" val="28"/>
+		<set name="duration" val="600"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<set val="25" order="0x08" stat="pAtk"/>
+			<set val="28" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<add val="0" order="0x10" stat="accCombat"/>
+			<set val="379" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="8976" type="Weapon" name="Shadow Item: Buzdygan">
+		<!-- This Shadow Item contains the mirrored power of a Buzdygan. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="weight" val="600"/>
+		<set name="soulshots" val="2"/>
+		<set name="spiritshots" val="2"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_dam" val="31"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="blunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="379"/>
+		<set name="m_dam" val="21"/>
+		<set name="duration" val="600"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<set val="31" order="0x08" stat="pAtk"/>
+			<set val="21" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="379" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="8977" type="Weapon" name="Shadow Item: Mage Staff">
+		<!-- This Shadow Item contains the mirrored power of a Mage Staff. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="weight" val="350"/>
+		<set name="soulshots" val="2"/>
+		<set name="spiritshots" val="2"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_dam" val="30"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="bigblunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="28"/>
+		<set name="duration" val="600"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<set val="30" order="0x08" stat="pAtk"/>
+			<set val="28" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="8978" type="Weapon" name="Shadow Item: Sword Breaker">
+		<!-- This Shadow Item contains the mirrored power of a Sword Breaker. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="weight" val="370"/>
+		<set name="soulshots" val="2"/>
+		<set name="spiritshots" val="2"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_dam" val="27"/>
+		<set name="rnd_dam" val="5"/>
+		<set name="weapon_type" val="dagger"/>
+		<set name="critical" val="12"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="433"/>
+		<set name="m_dam" val="21"/>
+		<set name="duration" val="600"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<set val="27" order="0x08" stat="pAtk"/>
+			<set val="21" order="0x08" stat="mAtk"/>
+			<set val="12" order="0x08" stat="rCrit"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="433" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="8979" type="Weapon" name="Shadow Item: Viper's Fang">
+		<!-- This Shadow Item contains the mirrored power of a Viper's Fang. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="weight" val="520"/>
+		<set name="soulshots" val="2"/>
+		<set name="spiritshots" val="2"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_dam" val="38"/>
+		<set name="rnd_dam" val="5"/>
+		<set name="weapon_type" val="dualfist"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="21"/>
+		<set name="duration" val="600"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<set val="38" order="0x08" stat="pAtk"/>
+			<set val="21" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="8980" type="Weapon" name="Shadow Item: Composition Bow">
+		<!-- This Shadow Item contains the mirrored power of a Composition Bow. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="weight" val="627"/>
+		<set name="soulshots" val="7"/>
+		<set name="spiritshots" val="2"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_dam" val="64"/>
+		<set name="rnd_dam" val="5"/>
+		<set name="weapon_type" val="bow"/>
+		<set name="critical" val="12"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="293"/>
+		<set name="mp_consume" val="3"/>
+		<set name="m_dam" val="21"/>
+		<set name="duration" val="600"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<set val="64" order="0x08" stat="pAtk"/>
+			<set val="21" order="0x08" stat="mAtk"/>
+			<set val="12" order="0x08" stat="rCrit"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="293" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="8981" type="Weapon" name="Shadow Item: Crucifix of Blessing">
+		<!-- This Shadow Item contains the mirrored power of a Crucifix of Blessing. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="weight" val="207"/>
+		<set name="soulshots" val="2"/>
+		<set name="spiritshots" val="2"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_dam" val="25"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="etc"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="379"/>
+		<set name="m_dam" val="28"/>
+		<set name="duration" val="600"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<set val="25" order="0x08" stat="pAtk"/>
+			<set val="28" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<add val="0" order="0x10" stat="accCombat"/>
+			<set val="379" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="8982" type="Weapon" name="Shadow Item: Two Handed Sword">
+		<!-- This Shadow Item contains the mirrored power of a Two Handed Sword. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="730"/>
+		<set name="soulshots" val="2"/>
+		<set name="spiritshots" val="2"/>
+		<set name="crystal_type" val="d"/>
+		<set name="p_dam" val="78"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="bigsword"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="39"/>
+		<set name="duration" val="600"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<set val="78" order="0x08" stat="pAtk"/>
+			<set val="39" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<add val="0" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="8983" type="Weapon" name="Shadow Item: Crimson Sword">
+		<!-- This Shadow Item contains the mirrored power of a Crimson Sword. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="500"/>
+		<set name="soulshots" val="2"/>
+		<set name="spiritshots" val="2"/>
+		<set name="crystal_type" val="d"/>
+		<set name="p_dam" val="64"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="sword"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="379"/>
+		<set name="m_dam" val="39"/>
+		<set name="duration" val="600"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<set val="64" order="0x08" stat="pAtk"/>
+			<set val="39" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<add val="0" order="0x10" stat="accCombat"/>
+			<set val="379" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="8984" type="Weapon" name="Shadow Item: Spiked Club">
+		<!-- This Shadow Item contains the mirrored power of a Spiked Club. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="590"/>
+		<set name="soulshots" val="2"/>
+		<set name="spiritshots" val="2"/>
+		<set name="crystal_type" val="d"/>
+		<set name="p_dam" val="64"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="blunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="379"/>
+		<set name="m_dam" val="39"/>
+		<set name="duration" val="600"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<set val="64" order="0x08" stat="pAtk"/>
+			<set val="39" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="379" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="8985" type="Weapon" name="Shadow Item: Staff of Magic">
+		<!-- This Shadow Item contains the mirrored power of a Staff of Magic. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="340"/>
+		<set name="soulshots" val="2"/>
+		<set name="spiritshots" val="2"/>
+		<set name="crystal_type" val="d"/>
+		<set name="p_dam" val="62"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="bigblunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="52"/>
+		<set name="duration" val="600"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<set val="62" order="0x08" stat="pAtk"/>
+			<set val="52" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="8986" type="Weapon" name="Shadow Item: Kukuri">
+		<!-- This Shadow Item contains the mirrored power of a Kukuri. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="360"/>
+		<set name="soulshots" val="2"/>
+		<set name="spiritshots" val="2"/>
+		<set name="crystal_type" val="d"/>
+		<set name="p_dam" val="56"/>
+		<set name="rnd_dam" val="5"/>
+		<set name="weapon_type" val="dagger"/>
+		<set name="critical" val="12"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="433"/>
+		<set name="m_dam" val="39"/>
+		<set name="duration" val="600"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<set val="56" order="0x08" stat="pAtk"/>
+			<set val="39" order="0x08" stat="mAtk"/>
+			<set val="12" order="0x08" stat="rCrit"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="433" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="8987" type="Weapon" name="Shadow Item: Dagger of Mana">
+		<!-- This Shadow Item contains the mirrored power of a Dagger of Mana. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="250"/>
+		<set name="soulshots" val="2"/>
+		<set name="spiritshots" val="2"/>
+		<set name="crystal_type" val="d"/>
+		<set name="p_dam" val="45"/>
+		<set name="rnd_dam" val="5"/>
+		<set name="weapon_type" val="dagger"/>
+		<set name="critical" val="12"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="433"/>
+		<set name="m_dam" val="52"/>
+		<set name="duration" val="600"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<set val="45" order="0x08" stat="pAtk"/>
+			<set val="52" order="0x08" stat="mAtk"/>
+			<set val="12" order="0x08" stat="rCrit"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="433" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="8988" type="Weapon" name="Shadow Item: Triple-Edged Jamadhr">
+		<!-- This Shadow Item contains the mirrored power of a Triple-Edged Jamadhr. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="520"/>
+		<set name="soulshots" val="2"/>
+		<set name="spiritshots" val="2"/>
+		<set name="crystal_type" val="d"/>
+		<set name="p_dam" val="78"/>
+		<set name="rnd_dam" val="5"/>
+		<set name="weapon_type" val="dualfist"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="39"/>
+		<set name="duration" val="600"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<set val="78" order="0x08" stat="pAtk"/>
+			<set val="39" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="8989" type="Weapon" name="Shadow Item: Gastraphetes">
+		<!-- This Shadow Item contains the mirrored power of a Gastraphetes. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="620"/>
+		<set name="soulshots" val="8"/>
+		<set name="spiritshots" val="2"/>
+		<set name="crystal_type" val="d"/>
+		<set name="p_dam" val="132"/>
+		<set name="rnd_dam" val="5"/>
+		<set name="weapon_type" val="bow"/>
+		<set name="critical" val="12"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="293"/>
+		<set name="mp_consume" val="4"/>
+		<set name="m_dam" val="39"/>
+		<set name="duration" val="600"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<set val="132" order="0x08" stat="pAtk"/>
+			<set val="39" order="0x08" stat="mAtk"/>
+			<set val="12" order="0x08" stat="rCrit"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="293" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="8990" type="Weapon" name="Shadow Item: War Hammer">
+		<!-- This Shadow Item contains the mirrored power of a War Hammer. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="700"/>
+		<set name="soulshots" val="2"/>
+		<set name="spiritshots" val="2"/>
+		<set name="crystal_type" val="d"/>
+		<set name="p_dam" val="64"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="pole"/>
+		<set name="critical" val="8"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="39"/>
+		<set name="duration" val="600"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<set val="64" order="0x08" stat="pAtk"/>
+			<set val="39" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<set val="66" order="0x08" stat="pAtkRange"/>
+		</for>
+	</item>
+	<item id="8991" type="Weapon" name="Shadow Item: Sword of Delusion">
+		<!-- This Shadow Item contains the mirrored power of a Sword of Delusion. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="470"/>
+		<set name="soulshots" val="3"/>
+		<set name="spiritshots" val="3"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="139"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="sword"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="379"/>
+		<set name="m_dam" val="76"/>
+		<set name="duration" val="600"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<set val="139" order="0x08" stat="pAtk"/>
+			<set val="76" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<add val="0" order="0x10" stat="accCombat"/>
+			<set val="379" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="8992" type="Weapon" name="Shadow Item: Poleaxe">
+		<!-- This Shadow Item contains the mirrored power of a Poleaxe. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="670"/>
+		<set name="soulshots" val="3"/>
+		<set name="spiritshots" val="3"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="139"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="pole"/>
+		<set name="critical" val="8"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="76"/>
+		<set name="duration" val="600"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<set val="139" order="0x08" stat="pAtk"/>
+			<set val="76" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<set val="66" order="0x08" stat="pAtkRange"/>
+		</for>
+	</item>
+	<item id="8993" type="Weapon" name="Shadow Item: Stick of Eternity">
+		<!-- This Shadow Item contains the mirrored power of a Stick of Eternity. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="380"/>
+		<set name="soulshots" val="3"/>
+		<set name="spiritshots" val="3"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="111"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="blunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="379"/>
+		<set name="m_dam" val="101"/>
+		<set name="duration" val="600"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<set val="111" order="0x08" stat="pAtk"/>
+			<set val="101" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="379" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="8994" type="Weapon" name="Shadow Item: Inferno Staff">
+		<!-- This Shadow Item contains the mirrored power of an Inferno Staff. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="340"/>
+		<set name="soulshots" val="3"/>
+		<set name="spiritshots" val="3"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="135"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="bigblunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="101"/>
+		<set name="duration" val="600"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<set val="135" order="0x08" stat="pAtk"/>
+			<set val="101" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="8995" type="Weapon" name="Shadow Item: Pa'agrian Hammer">
+		<!-- This Shadow Item contains the mirrored power of a Pa'agrian Hammer. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="340"/>
+		<set name="soulshots" val="3"/>
+		<set name="spiritshots" val="3"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="135"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="bigblunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="101"/>
+		<set name="duration" val="600"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<set val="135" order="0x08" stat="pAtk"/>
+			<set val="101" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="8996" type="Weapon" name="Shadow Item: Dark Screamer">
+		<!-- This Shadow Item contains the mirrored power of a Dark Screamer. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="340"/>
+		<set name="soulshots" val="3"/>
+		<set name="spiritshots" val="3"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="122"/>
+		<set name="rnd_dam" val="5"/>
+		<set name="weapon_type" val="dagger"/>
+		<set name="critical" val="12"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="433"/>
+		<set name="m_dam" val="76"/>
+		<set name="duration" val="600"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<set val="122" order="0x08" stat="pAtk"/>
+			<set val="76" order="0x08" stat="mAtk"/>
+			<set val="12" order="0x08" stat="rCrit"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="433" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="8997" type="Weapon" name="Shadow Item: Akat Long Bow">
+		<!-- This Shadow Item contains the mirrored power of an Akat Long Bow. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="580"/>
+		<set name="soulshots" val="9"/>
+		<set name="spiritshots" val="3"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="316"/>
+		<set name="rnd_dam" val="5"/>
+		<set name="weapon_type" val="bow"/>
+		<set name="critical" val="12"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="227"/>
+		<set name="mp_consume" val="7"/>
+		<set name="m_dam" val="84"/>
+		<set name="duration" val="600"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<set val="316" order="0x08" stat="pAtk"/>
+			<set val="84" order="0x08" stat="mAtk"/>
+			<set val="12" order="0x08" stat="rCrit"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="227" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="8998" type="Weapon" name="Shadow Item: Pa'agrian Sword">
+		<!-- This Shadow Item contains the mirrored power of a Pa'agrian Sword. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="660"/>
+		<set name="soulshots" val="3"/>
+		<set name="spiritshots" val="3"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="169"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="bigsword"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="76"/>
+		<set name="duration" val="600"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<set val="169" order="0x08" stat="pAtk"/>
+			<set val="76" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<add val="0" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="8999" type="Weapon" name="Shadow Item: Fisted Blade">
+		<!-- This Shadow Item contains the mirrored power of a Fisted Blade. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="500"/>
+		<set name="soulshots" val="3"/>
+		<set name="spiritshots" val="3"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="169"/>
+		<set name="rnd_dam" val="5"/>
+		<set name="weapon_type" val="dualfist"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="76"/>
+		<set name="duration" val="600"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<set val="169" order="0x08" stat="pAtk"/>
+			<set val="76" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+</list>

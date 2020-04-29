@@ -1,0 +1,2023 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="5600" type="Weapon" name="Meteor Shower - Critical Bleed">
+		<!-- <Soul Crystal Enhancement>. During a critical attack, increases probability of drawing target's blood by 42%. Effect 7. Enhances damage to a target during PvP. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1600"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_dam" val="213"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="blunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="379"/>
+		<set name="m_dam" val="107"/>
+		<set name="price" val="18300000"/>
+		<set name="crystal_count" val="1464"/>
+		<set name="onCrit_skill_id" val="3021"/> <!-- Special Ability: Critical Bleed -->
+		<set name="onCrit_skill_lvl" val="5"/>
+		<set name="onCrit_skill_chance" val="35"/>
+		<for>
+			<set val="213" order="0x08" stat="pAtk"/>
+			<set val="107" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="379" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- Enhances damage to target during PvP -->
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg"/>
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg"/>
+		</for>
+	</item>
+	<item id="5601" type="Weapon" name="Meteor Shower - Rsk. Haste">
+		<!-- <Soul Crystal Enhancement>. When HP drops to 60% or below, increases Atk. Spd. by 11%. Enhances damage to a target during PvP. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1600"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_dam" val="213"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="blunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="379"/>
+		<set name="m_dam" val="107"/>
+		<set name="price" val="18300000"/>
+		<set name="crystal_count" val="1464"/>
+		<set name="item_skill_id" val="3056"/> <!-- Special Ability: Rsk. Haste -->
+		<set name="item_skill_lvl" val="2"/>
+		<for>
+			<set val="213" order="0x08" stat="pAtk"/>
+			<set val="107" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="379" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- Enhances damage to target during PvP -->
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg"/>
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg"/>
+			<!-- SA: Rsk. Haste -->
+			<mul order="0x30" stat="pAtkSpd" val="1.11">
+				<and>
+					<player hp="60"/>
+				</and>
+			</mul>
+		</for>
+	</item>
+	<item id="5602" type="Weapon" name="Elysian - Health">
+		<!-- <Soul Crystal Enhancement>. Increases maximum HP by 25%. Enhances damage to a target during PvP. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1580"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_dam" val="232"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="blunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="379"/>
+		<set name="m_dam" val="114"/>
+		<set name="price" val="27000000"/>
+		<set name="crystal_count" val="2160"/>
+		<set name="item_skill_id" val="3013"/> <!-- Special Ability: Health -->
+		<set name="item_skill_lvl" val="3"/>
+		<for>
+			<set val="232" order="0x08" stat="pAtk"/>
+			<set val="114" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="379" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- Enhances damage to target during PvP -->
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg"/>
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg"/>
+		</for>
+	</item>
+	<item id="5603" type="Weapon" name="Elysian - Anger">
+		<!-- <Soul Crystal Enhancement>. Decreases maximum HP by 15% and increases P. Atk. by 32. Enhances damage to a target during PvP. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1580"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_dam" val="232"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="blunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="379"/>
+		<set name="m_dam" val="114"/>
+		<set name="price" val="27000000"/>
+		<set name="crystal_count" val="2160"/>
+		<set name="item_skill_id" val="3057"/> <!-- Special Ability: Anger -->
+		<set name="item_skill_lvl" val="2"/>
+		<for>
+			<set val="232" order="0x08" stat="pAtk"/>
+			<set val="114" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="379" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- Enhances damage to target during PvP -->
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg"/>
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg"/>
+		</for>
+	</item>
+	<item id="5604" type="Weapon" name="Elysian - Critical Drain">
+		<!-- <Soul Crystal Enhancement>. During a critical attack, absorbs 19 HP from target. Enhances damage to a target during PvP. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1580"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_dam" val="232"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="blunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="379"/>
+		<set name="m_dam" val="114"/>
+		<set name="price" val="27000000"/>
+		<set name="crystal_count" val="2160"/>
+		<set name="item_skill_id" val="3072"/> <!-- Special Ability: Empower -->
+		<set name="item_skill_lvl" val="1"/>
+		<for>
+			<set val="232" order="0x08" stat="pAtk"/>
+			<set val="114" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="379" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- Enhances damage to target during PvP -->
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg"/>
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg"/>
+		</for>
+	</item>
+	<item id="5605" type="Weapon" name="Branch of The Mother Tree - Conversion">
+		<!-- <Soul Crystal Enhancement>. Increases maximum MP by 60% and decreases maximum HP by 40%. Enhances damage to a target during PvP. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="900"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_dam" val="226"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="bigblunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="152"/>
+		<set name="price" val="27000000"/>
+		<set name="crystal_count" val="2160"/>
+		<set name="item_skill_id" val="3048"/> <!-- Special Ability: Conversion -->
+		<set name="item_skill_lvl" val="2"/>
+		<for>
+			<set val="226" order="0x08" stat="pAtk"/>
+			<set val="152" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- We have SA on XML -->
+		</for>
+	</item>
+	<item id="5606" type="Weapon" name="Branch of The Mother Tree - Magic Damage">
+		<!-- <Soul Crystal Enhancement>. Grants a 30% chance to boost damage to Power 8 when using bad magic. Enhances damage to a target during PvP. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="900"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_dam" val="226"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="bigblunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="152"/>
+		<set name="price" val="27000000"/>
+		<set name="crystal_count" val="2160"/>
+		<set name="item_skill_id" val="3552"/> <!-- Special Ability: PvP Damage -->
+		<set name="item_skill_lvl" val="1"/>
+		<for>
+			<set val="226" order="0x08" stat="pAtk"/>
+			<set val="152" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- Enhances damage to target during PvP -->
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg"/>
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg"/>
+		</for>
+	</item>
+	<item id="5607" type="Weapon" name="Branch of The Mother Tree - Acumen">
+		<!-- <Soul Crystal Enhancement>. Increases Casting Spd. by 15%. Enhances damage to a target during PvP. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="900"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_dam" val="226"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="bigblunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="152"/>
+		<set name="price" val="27000000"/>
+		<set name="crystal_count" val="2160"/>
+		<set name="item_skill_id" val="3047"/> <!-- Special Ability: Acumen -->
+		<set name="item_skill_lvl" val="2"/>
+		<for>
+			<set val="226" order="0x08" stat="pAtk"/>
+			<set val="152" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- SA always used in skill add -->
+		</for>
+	</item>
+	<item id="5608" type="Weapon" name="Carnage Bow - Light">
+		<!-- <Soul Crystal Enhancement>. The weight of a weapon will decrease by 30%. Enhances damage to a target during PvP. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="500"/>
+		<set name="soulshots" val="2"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_dam" val="440"/>
+		<set name="rnd_dam" val="5"/>
+		<set name="weapon_type" val="bow"/>
+		<set name="critical" val="12"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="293"/>
+		<set name="mp_consume" val="9"/>
+		<set name="m_dam" val="107"/>
+		<set name="price" val="18300000"/>
+		<set name="crystal_count" val="1464"/>
+		<for>
+			<set val="440" order="0x08" stat="pAtk"/>
+			<set val="107" order="0x08" stat="mAtk"/>
+			<set val="12" order="0x08" stat="rCrit"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="293" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- Enhances damage to target during PvP -->
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg"/>
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg"/>
+		</for>
+	</item>
+	<item id="5609" type="Weapon" name="Carnage Bow - Critical Bleed">
+		<!-- <Soul Crystal Enhancement>. During a critical attack, increases probability of drawing target's blood by 35%. Effect 7. Enhances damage to a target during PvP. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1670"/>
+		<set name="soulshots" val="2"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_dam" val="440"/>
+		<set name="rnd_dam" val="5"/>
+		<set name="weapon_type" val="bow"/>
+		<set name="critical" val="12"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="293"/>
+		<set name="mp_consume" val="9"/>
+		<set name="m_dam" val="107"/>
+		<set name="price" val="18300000"/>
+		<set name="crystal_count" val="1464"/>
+		<set name="onCrit_skill_id" val="3021"/> <!-- Special Ability: Critical Bleed -->
+		<set name="onCrit_skill_lvl" val="5"/>
+		<set name="onCrit_skill_chance" val="35"/>
+		<for>
+			<set val="440" order="0x08" stat="pAtk"/>
+			<set val="107" order="0x08" stat="mAtk"/>
+			<set val="12" order="0x08" stat="rCrit"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="293" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- Enhances damage to target during PvP -->
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg"/>
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg"/>
+		</for>
+	</item>
+	<item id="5610" type="Weapon" name="Carnage Bow - Mana Up">
+		<!-- <Soul Crystal Enhancement>. Increases maximum MP by 30%. Enhances damage to a target during PvP. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1670"/>
+		<set name="soulshots" val="2"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_dam" val="440"/>
+		<set name="rnd_dam" val="5"/>
+		<set name="weapon_type" val="bow"/>
+		<set name="critical" val="12"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="293"/>
+		<set name="mp_consume" val="9"/>
+		<set name="m_dam" val="107"/>
+		<set name="price" val="18300000"/>
+		<set name="crystal_count" val="1464"/>
+		<set name="item_skill_id" val="3014"/> <!-- Special Ability: Mana Up -->
+		<set name="item_skill_lvl" val="2"/>
+		<for>
+			<set val="440" order="0x08" stat="pAtk"/>
+			<set val="107" order="0x08" stat="mAtk"/>
+			<set val="12" order="0x08" stat="rCrit"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="293" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="5611" type="Weapon" name="Soul Bow - Cheap Shot">
+		<!-- <Soul Crystal Enhancement>. During a general attack, 2 MP will be consumed at the probability rate of 38%. Enhances damage to a target during PvP. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1660"/>
+		<set name="soulshots" val="2"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_dam" val="528"/>
+		<set name="rnd_dam" val="5"/>
+		<set name="weapon_type" val="bow"/>
+		<set name="critical" val="12"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="227"/>
+		<set name="mp_consume" val="10"/>
+		<set name="m_dam" val="125"/>
+		<set name="price" val="27000000"/>
+		<set name="crystal_count" val="2160"/>
+		<for>
+			<set val="528" order="0x08" stat="pAtk"/>
+			<set val="125" order="0x08" stat="mAtk"/>
+			<set val="12" order="0x08" stat="rCrit"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="227" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- SA: Cheap Shot -->
+			<set val="2" order="0x08" stat="MpConsume">
+				<and>
+					<game skill="false" chance="38"/>
+				</and>
+			</set>
+			<!-- Enhances damage to target during PvP -->
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg"/>
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg"/>
+		</for>
+	</item>
+	<item id="5612" type="Weapon" name="Soul Bow - Quick Recovery">
+		<!-- <Soul Crystal Enhancement>. Decreases re-use delay by about 15%. Enhances damage to a target during PvP. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1660"/>
+		<set name="soulshots" val="2"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_dam" val="528"/>
+		<set name="rnd_dam" val="5"/>
+		<set name="weapon_type" val="bow"/>
+		<set name="critical" val="12"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="227"/>
+		<set name="mp_consume" val="10"/>
+		<set name="m_dam" val="125"/>
+		<set name="price" val="27000000"/>
+		<set name="crystal_count" val="2160"/>
+		<for>
+			<set val="528" order="0x08" stat="pAtk"/>
+			<set val="125" order="0x08" stat="mAtk"/>
+			<set val="12" order="0x08" stat="rCrit"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="227" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- SA: Quick Recovery -->
+			<mul val="0.85" order="0x30" stat="atkReuse"/>
+			<!-- Enhances damage to target during PvP -->
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg"/>
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg"/>
+		</for>
+	</item>
+	<item id="5613" type="Weapon" name="Soul Bow - Critical Poison">
+		<!-- <Soul Crystal Enhancement>. During a critical attack, poisons a target with a 18% chance of success. Effect 7. Enhances damage to a target during PvP. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1660"/>
+		<set name="soulshots" val="2"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_dam" val="528"/>
+		<set name="rnd_dam" val="5"/>
+		<set name="weapon_type" val="bow"/>
+		<set name="critical" val="12"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="227"/>
+		<set name="mp_consume" val="10"/>
+		<set name="m_dam" val="125"/>
+		<set name="price" val="27000000"/>
+		<set name="crystal_count" val="2160"/>
+		<set name="onCrit_skill_id" val="3024"/> <!-- Special Ability: Critical Poison -->
+		<set name="onCrit_skill_lvl" val="5"/>
+		<set name="onCrit_skill_chance" val="10"/>
+		<for>
+			<set val="528" order="0x08" stat="pAtk"/>
+			<set val="125" order="0x08" stat="mAtk"/>
+			<set val="12" order="0x08" stat="rCrit"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="227" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- Enhances damage to target during PvP -->
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg"/>
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg"/>
+		</for>
+	</item>
+	<item id="5614" type="Weapon" name="Bloody Orchid - Focus">
+		<!-- <Soul Crystal Enhancement>. Increases Critical Attack by 67. Enhances damage to a target during PvP. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="960"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_dam" val="186"/>
+		<set name="rnd_dam" val="5"/>
+		<set name="weapon_type" val="dagger"/>
+		<set name="critical" val="12"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="433"/>
+		<set name="m_dam" val="107"/>
+		<set name="price" val="18300000"/>
+		<set name="crystal_count" val="1464"/>
+		<set name="item_skill_id" val="3051"/> <!-- Special Ability: Focus -->
+		<set name="item_skill_lvl" val="1"/>
+		<for>
+			<set val="186" order="0x08" stat="pAtk"/>
+			<set val="107" order="0x08" stat="mAtk"/>
+			<set val="12" order="0x08" stat="rCrit"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="433" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- Enhances damage to target during PvP -->
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg"/>
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg"/>
+			<!-- SA: Focus -->
+			<add val="61" order="0x40" stat="rCrit"/>
+		</for>
+	</item>
+	<item id="5615" type="Weapon" name="Bloody Orchid - Back Blow">
+		<!-- <Soul Crystal Enhancement>. When attacking a target from behind, increases Critical Attack by 37%. Enhances damage to a target during PvP. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="960"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_dam" val="186"/>
+		<set name="rnd_dam" val="5"/>
+		<set name="weapon_type" val="dagger"/>
+		<set name="critical" val="12"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="433"/>
+		<set name="m_dam" val="107"/>
+		<set name="price" val="18300000"/>
+		<set name="crystal_count" val="1464"/>
+		<set name="item_skill_id" val="3599"/> <!-- Polearm Multi-attack -->
+		<set name="item_skill_lvl" val="1"/>
+		<for>
+			<set val="186" order="0x08" stat="pAtk"/>
+			<set val="107" order="0x08" stat="mAtk"/>
+			<set val="12" order="0x08" stat="rCrit"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="433" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- Enhances damage to target during PvP -->
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg"/>
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg"/>
+		</for>
+	</item>
+	<item id="5616" type="Weapon" name="Bloody Orchid - Critical Bleed">
+		<!-- <Soul Crystal Enhancement>. During a critical attack, increases chance of drawing target's blood by 12%. Effect 7. Enhances damage to a target during PvP. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="960"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_dam" val="186"/>
+		<set name="rnd_dam" val="5"/>
+		<set name="weapon_type" val="dagger"/>
+		<set name="critical" val="12"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="433"/>
+		<set name="m_dam" val="107"/>
+		<set name="price" val="18300000"/>
+		<set name="crystal_count" val="1464"/>
+		<set name="onCrit_skill_id" val="3021"/> <!-- Special Ability: Critical Bleed -->
+		<set name="onCrit_skill_lvl" val="5"/>
+		<set name="onCrit_skill_chance" val="35"/>
+		<for>
+			<set val="186" order="0x08" stat="pAtk"/>
+			<set val="107" order="0x08" stat="mAtk"/>
+			<set val="12" order="0x08" stat="rCrit"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="433" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- Enhances damage to target during PvP -->
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg"/>
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg"/>
+		</for>
+	</item>
+	<item id="5617" type="Weapon" name="Soul Separator - Guidance">
+		<!-- <Soul Crystal Enhancement>. Increases Accuracy by about 4. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="950"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_dam" val="203"/>
+		<set name="rnd_dam" val="5"/>
+		<set name="weapon_type" val="dagger"/>
+		<set name="critical" val="12"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="433"/>
+		<set name="m_dam" val="114"/>
+		<set name="price" val="27000000"/>
+		<set name="crystal_count" val="2160"/>
+		<set name="item_skill_id" val="3064"/> <!-- Special Ability: Guidance -->
+		<set name="item_skill_lvl" val="1"/>
+		<for>
+			<set val="203" order="0x08" stat="pAtk"/>
+			<set val="114" order="0x08" stat="mAtk"/>
+			<set val="12" order="0x08" stat="rCrit"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="433" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- Enhances damage to target during PvP -->
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg"/>
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg"/>
+		</for>
+	</item>
+	<item id="5618" type="Weapon" name="Soul Separator - Critical Damage">
+		<!-- <Soul Crystal Enhancement>. During a critical attack, increases P. Atk. by 200. Enhances damage to a target during PvP. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="950"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_dam" val="203"/>
+		<set name="rnd_dam" val="5"/>
+		<set name="weapon_type" val="dagger"/>
+		<set name="critical" val="12"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="433"/>
+		<set name="m_dam" val="114"/>
+		<set name="price" val="27000000"/>
+		<set name="crystal_count" val="2160"/>
+		<set name="item_skill_id" val="3066"/> <!-- Special Ability: Critical Damage -->
+		<set name="item_skill_lvl" val="2"/>
+		<for>
+			<set val="203" order="0x08" stat="pAtk"/>
+			<set val="114" order="0x08" stat="mAtk"/>
+			<set val="12" order="0x08" stat="rCrit"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="433" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- Enhances damage to target during PvP -->
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg"/>
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg"/>
+			<!-- SA: Critical Damage -->
+			<add val="200" order="0x40" stat="cAtk"/>
+		</for>
+	</item>
+	<item id="5619" type="Weapon" name="Soul Separator - Rsk. Haste">
+		<!-- <Soul Crystal Enhancement>. When HP drops to 60% or below, increases Atk. Spd. by 11%. Enhances damage to a target during PvP. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="950"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_dam" val="203"/>
+		<set name="rnd_dam" val="5"/>
+		<set name="weapon_type" val="dagger"/>
+		<set name="critical" val="12"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="433"/>
+		<set name="m_dam" val="114"/>
+		<set name="price" val="27000000"/>
+		<set name="crystal_count" val="2160"/>
+		<set name="item_skill_id" val="3056"/> <!-- Special Ability: Rsk. Haste -->
+		<set name="item_skill_lvl" val="2"/>
+		<for>
+			<set val="203" order="0x08" stat="pAtk"/>
+			<set val="114" order="0x08" stat="mAtk"/>
+			<set val="12" order="0x08" stat="rCrit"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="433" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- Enhances damage to target during PvP -->
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg"/>
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg"/>
+			<!-- SA: Rsk. Haste -->
+			<mul order="0x30" stat="pAtkSpd" val="1.13">
+				<and>
+					<player hp="60"/>
+				</and>
+			</mul>
+		</for>
+	</item>
+	<item id="5620" type="Weapon" name="Blood Tornado - Haste">
+		<!-- <Soul Crystal Enhancement>. Increases Atk. Spd. by about 6%. Enhances damage to a target during PvP. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1370"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_dam" val="259"/>
+		<set name="rnd_dam" val="5"/>
+		<set name="weapon_type" val="dualfist"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="107"/>
+		<set name="price" val="18300000"/>
+		<set name="crystal_count" val="1464"/>
+		<set name="item_skill_id" val="3068"/> <!-- Special Ability: Haste -->
+		<set name="item_skill_lvl" val="2"/>
+		<for>
+			<set val="259" order="0x08" stat="pAtk"/>
+			<set val="107" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- Enhances damage to target during PvP -->
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg"/>
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg"/>
+			<!-- SA: Haste -->
+			<mul val="1.07" order="0x30" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="5621" type="Weapon" name="Blood Tornado - Focus">
+		<!-- <Soul Crystal Enhancement>. Increases Critical Attack by 61. Enhances damage to a target during PvP. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1370"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_dam" val="259"/>
+		<set name="rnd_dam" val="5"/>
+		<set name="weapon_type" val="dualfist"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="107"/>
+		<set name="price" val="18300000"/>
+		<set name="crystal_count" val="1464"/>
+		<set name="item_skill_id" val="3565"/> <!-- Special Ability: Focus -->
+		<set name="item_skill_lvl" val="1"/>
+		<for>
+			<set val="259" order="0x08" stat="pAtk"/>
+			<set val="107" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- Enhances damage to target during PvP -->
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg"/>
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg"/>
+			<!-- SA: Focus -->
+			<add val="61" order="0x40" stat="rCrit"/>
+		</for>
+	</item>
+	<item id="5622" type="Weapon" name="Blood Tornado - Anger">
+		<!-- <Soul Crystal Enhancement>. Decreases maximum HP by 15% and increases P. Atk. by 38. Enhances damage to a target during PvP. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1370"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_dam" val="259"/>
+		<set name="rnd_dam" val="5"/>
+		<set name="weapon_type" val="dualfist"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="107"/>
+		<set name="price" val="18300000"/>
+		<set name="crystal_count" val="1464"/>
+		<set name="item_skill_id" val="3058"/> <!-- Special Ability: Anger -->
+		<set name="item_skill_lvl" val="1"/>
+		<for>
+			<set val="259" order="0x08" stat="pAtk"/>
+			<set val="107" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- Enhances damage to target during PvP -->
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg"/>
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg"/>
+		</for>
+	</item>
+	<item id="5623" type="Weapon" name="Dragon Grinder - Rsk. Evasion">
+		<!-- <Soul Crystal Enhancement>. When HP drops to 60% or below, increases Evasion by 6. Enhances damage to a target during PvP. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1350"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_dam" val="282"/>
+		<set name="rnd_dam" val="5"/>
+		<set name="weapon_type" val="dualfist"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="114"/>
+		<set name="price" val="27000000"/>
+		<set name="crystal_count" val="2160"/>
+		<set name="item_skill_id" val="3069"/> <!-- Special Ability: Risky Evasion -->
+		<set name="item_skill_lvl" val="1"/>
+		<for>
+			<set val="282" order="0x08" stat="pAtk"/>
+			<set val="114" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- Enhances damage to target during PvP -->
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg"/>
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg"/>
+			<!-- SA: Rsk. Evasion -->
+			<add order="0x40" stat="rEvas" val="9">
+				<and>
+					<player hp="60"/>
+				</and>
+			</add>
+		</for>
+	</item>
+	<item id="5624" type="Weapon" name="Dragon Grinder - Guidance">
+		<!-- <Soul Crystal Enhancement>. Increases Accuracy by about 5. Enhances damage to a target during PvP. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1350"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_dam" val="282"/>
+		<set name="rnd_dam" val="5"/>
+		<set name="weapon_type" val="dualfist"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="114"/>
+		<set name="price" val="27000000"/>
+		<set name="crystal_count" val="2160"/>
+		<set name="item_skill_id" val="3065"/> <!-- Special Ability: Guidance -->
+		<set name="item_skill_lvl" val="1"/>
+		<for>
+			<set val="282" order="0x08" stat="pAtk"/>
+			<set val="114" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- Enhances damage to target during PvP -->
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg"/>
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg"/>
+		</for>
+	</item>
+	<item id="5625" type="Weapon" name="Dragon Grinder - Health">
+		<!-- <Soul Crystal Enhancement>. Increases maximum HP by 25%. Enhances damage to a target during PvP. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1350"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_dam" val="282"/>
+		<set name="rnd_dam" val="5"/>
+		<set name="weapon_type" val="dualfist"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="114"/>
+		<set name="price" val="27000000"/>
+		<set name="crystal_count" val="2160"/>
+		<set name="item_skill_id" val="3013"/> <!-- Special Ability: Health -->
+		<set name="item_skill_lvl" val="3"/>
+		<for>
+			<set val="282" order="0x08" stat="pAtk"/>
+			<set val="114" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- Enhances damage to target during PvP -->
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg"/>
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg"/>
+		</for>
+	</item>
+	<item id="5626" type="Weapon" name="Halberd - Haste">
+		<!-- <Soul Crystal Enhancement>. Increases Atk. Spd. by about 6%. Enhances damage to a target during PvP. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1900"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_dam" val="213"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="pole"/>
+		<set name="critical" val="8"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="107"/>
+		<set name="price" val="18300000"/>
+		<set name="crystal_count" val="1464"/>
+		<set name="item_skill_id" val="3601"/> <!-- Special Ability: Haste -->
+		<set name="item_skill_lvl" val="7"/>
+		<for>
+			<set val="213" order="0x08" stat="pAtk"/>
+			<set val="107" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<set val="66" order="0x08" stat="pAtkRange"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- Enhances damage to target during PvP -->
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg"/>
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg"/>
+			<!-- SA: Haste -->
+			<mul val="1.07" order="0x30" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="5627" type="Weapon" name="Halberd - Critical Stun">
+		<!-- <Soul Crystal Enhancement>. Has a 25% chance to stun during a critical attack. Enhances damage to target during PvP. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1900"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_dam" val="213"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="pole"/>
+		<set name="critical" val="8"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="107"/>
+		<set name="price" val="18300000"/>
+		<set name="crystal_count" val="1464"/>
+		<set name="onCrit_skill_id" val="3070"/> <!-- Special Ability: Critical Stun -->
+		<set name="onCrit_skill_lvl" val="1"/>
+		<set name="onCrit_skill_chance" val="25"/>
+		<for>
+			<set val="213" order="0x08" stat="pAtk"/>
+			<set val="107" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<set val="66" order="0x08" stat="pAtkRange"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- Enhances damage to target during PvP -->
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg"/>
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg"/>
+		</for>
+	</item>
+	<item id="5628" type="Weapon" name="Halberd - Wide Blow">
+		<!-- <Soul Crystal Enhancement>. Broadens the angle of attack. Enhances damage to a target during PvP. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1900"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_dam" val="213"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="pole"/>
+		<set name="critical" val="8"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="107"/>
+		<set name="price" val="18300000"/>
+		<set name="crystal_count" val="1464"/>
+		<set name="item_skill_id" val="3599"/> <!-- Polearm Multi-attack -->
+		<set name="item_skill_lvl" val="1"/>
+		<for>
+			<set val="213" order="0x08" stat="pAtk"/>
+			<set val="107" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<set val="66" order="0x08" stat="pAtkRange"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<!-- Enhances damage to target during PvP -->
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg"/>
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg"/>
+		</for>
+	</item>
+	<item id="5629" type="Weapon" name="Orcish Halberd">
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1880"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_dam" val="219"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="pole"/>
+		<set name="critical" val="8"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="109"/>
+		<set name="price" val="21300000"/>
+		<set name="crystal_count" val="1704"/>
+		<for>
+			<set val="219" order="0x08" stat="pAtk"/>
+			<set val="109" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<set val="66" order="0x08" stat="pAtkRange"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="5630" type="Weapon" name="Orcish Halberd">
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1880"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_dam" val="219"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="pole"/>
+		<set name="critical" val="8"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="109"/>
+		<set name="price" val="21300000"/>
+		<set name="crystal_count" val="1704"/>
+		<for>
+			<set val="219" order="0x08" stat="pAtk"/>
+			<set val="109" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<set val="66" order="0x08" stat="pAtkRange"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="5631" type="Weapon" name="Orcish Halberd">
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1880"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_dam" val="219"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="pole"/>
+		<set name="critical" val="8"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="109"/>
+		<set name="price" val="21300000"/>
+		<set name="crystal_count" val="1704"/>
+		<for>
+			<set val="219" order="0x08" stat="pAtk"/>
+			<set val="109" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<set val="66" order="0x08" stat="pAtkRange"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="5632" type="Weapon" name="Tallum Glaive - Guidance">
+		<!-- <Soul Crystal Enhancement>. Increases Accuracy by about 4. Enhances damage to a target during PvP. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1840"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_dam" val="232"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="pole"/>
+		<set name="critical" val="8"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="114"/>
+		<set name="price" val="27000000"/>
+		<set name="crystal_count" val="2160"/>
+		<set name="item_skill_id" val="3602"/> <!-- Special Ability: Guidance -->
+		<set name="item_skill_lvl" val="8"/>
+		<for>
+			<set val="232" order="0x08" stat="pAtk"/>
+			<set val="114" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<set val="66" order="0x08" stat="pAtkRange"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- Enhances damage to target during PvP -->
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg"/>
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg"/>
+		</for>
+	</item>
+	<item id="5633" type="Weapon" name="Tallum Glaive - Health">
+		<!-- <Soul Crystal Enhancement>. Increases maximum HP by 25%. Enhances damage to a target during PvP. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1840"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_dam" val="232"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="pole"/>
+		<set name="critical" val="8"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="114"/>
+		<set name="price" val="27000000"/>
+		<set name="crystal_count" val="2160"/>
+		<set name="item_skill_id" val="3013"/> <!-- Special Ability: Health -->
+		<set name="item_skill_lvl" val="4"/>
+		<for>
+			<set val="232" order="0x08" stat="pAtk"/>
+			<set val="114" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<set val="66" order="0x08" stat="pAtkRange"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- Enhances damage to target during PvP -->
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg"/>
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg"/>
+		</for>
+	</item>
+	<item id="5634" type="Weapon" name="Tallum Glaive - Wide Blow">
+		<!-- <Soul Crystal Enhancement>. Broadens the angle of attack. Enhances damage to a target during PvP. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1840"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_dam" val="232"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="pole"/>
+		<set name="critical" val="8"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="114"/>
+		<set name="price" val="27000000"/>
+		<set name="crystal_count" val="2160"/>
+		<set name="item_skill_id" val="3599"/> <!-- Polearm Multi-attack -->
+		<set name="item_skill_lvl" val="1"/>
+		<for>
+			<set val="232" order="0x08" stat="pAtk"/>
+			<set val="114" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<set val="66" order="0x08" stat="pAtkRange"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<!-- Enhances damage to target during PvP -->
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg"/>
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg"/>
+		</for>
+	</item>
+	<item id="5635" type="Weapon" name="Tallum Blade - Critical Poison">
+		<!-- <Soul Crystal Enhancement>. During a critical attack, poisons a target with a 10% chance of success. Effect 7. Enhances damage to a target during PvP. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1330"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_dam" val="213"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="sword"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="379"/>
+		<set name="m_dam" val="107"/>
+		<set name="price" val="18300000"/>
+		<set name="crystal_count" val="1464"/>
+		<set name="onCrit_skill_id" val="3024"/> <!-- Special Ability: Critical Poison -->
+		<set name="onCrit_skill_lvl" val="5"/>
+		<set name="onCrit_skill_chance" val="10"/>
+		<for>
+			<set val="213" order="0x08" stat="pAtk"/>
+			<set val="107" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<add val="0" order="0x10" stat="accCombat"/>
+			<set val="379" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- Enhances damage to target during PvP -->
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg"/>
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg"/>
+		</for>
+	</item>
+	<item id="5636" type="Weapon" name="Tallum Blade - Haste">
+		<!-- <Soul Crystal Enhancement>. Increases Atk. Spd. by about 6%. Enhances damage to a target during PvP. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1330"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_dam" val="213"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="sword"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="379"/>
+		<set name="m_dam" val="107"/>
+		<set name="price" val="18300000"/>
+		<set name="crystal_count" val="1464"/>
+		<set name="item_skill_id" val="3068"/> <!-- Special Ability: Haste -->
+		<set name="item_skill_lvl" val="2"/>
+		<for>
+			<set val="213" order="0x08" stat="pAtk"/>
+			<set val="107" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<add val="0" order="0x10" stat="accCombat"/>
+			<set val="379" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- Enhances damage to target during PvP -->
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg"/>
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg"/>
+			<!-- SA: Haste -->
+			<mul val="1.07" order="0x30" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="5637" type="Weapon" name="Tallum Blade - Anger">
+		<!-- <Soul Crystal Enhancement>. Decreases maximum HP by 15% and increases P. Atk. by 31. Enhances damage to a target during PvP. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1330"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_dam" val="213"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="sword"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="379"/>
+		<set name="m_dam" val="107"/>
+		<set name="price" val="18300000"/>
+		<set name="crystal_count" val="1464"/>
+		<set name="item_skill_id" val="3057"/> <!-- Special Ability: Anger -->
+		<set name="item_skill_lvl" val="1"/>
+		<for>
+			<set val="213" order="0x08" stat="pAtk"/>
+			<set val="107" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<add val="0" order="0x10" stat="accCombat"/>
+			<set val="379" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- Enhances damage to target during PvP -->
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg"/>
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg"/>
+		</for>
+	</item>
+	<item id="5638" type="Weapon" name="Elemental Sword - Magic Power">
+		<!-- <Soul Crystal Enhancement>. When using magic, it increases MP Consumption by15% and M. Atk. B increases by 153. Enhances damage to a target during PvP. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="830"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_dam" val="170"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="sword"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="379"/>
+		<set name="m_dam" val="143"/>
+		<set name="price" val="18300000"/>
+		<set name="crystal_count" val="1464"/>
+		<set name="item_skill_id" val="3073"/> <!-- Special Ability: Magic Power -->
+		<set name="item_skill_lvl" val="1"/>
+		<for>
+			<set val="170" order="0x08" stat="pAtk"/>
+			<set val="143" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<add val="0" order="0x10" stat="accCombat"/>
+			<set val="379" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- Enhances damage to target during PvP -->
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg"/>
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg"/>
+		</for>
+	</item>
+	<item id="5639" type="Weapon" name="Elemental Sword - Magic Paralyze">
+		<!-- <Soul Crystal Enhancement>. When using bad magic, paralyzes target with a 5% chance of success. Enhances damage to a target during PvP. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="830"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_dam" val="170"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="sword"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="379"/>
+		<set name="m_dam" val="143"/>
+		<set name="price" val="18300000"/>
+		<set name="crystal_count" val="1464"/>
+		<set name="onCast_skill_id" val="3075"/> <!-- Special Ability: Magic Paralyze -->
+		<set name="onCast_skill_lvl" val="1"/>
+		<set name="onCast_skill_chance" val="10"/>
+		<for>
+			<set val="170" order="0x08" stat="pAtk"/>
+			<set val="143" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<add val="0" order="0x10" stat="accCombat"/>
+			<set val="379" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- Enhances damage to target during PvP -->
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg"/>
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg"/>
+		</for>
+	</item>
+	<item id="5640" type="Weapon" name="Elemental Sword - Empower">
+		<!-- <Soul Crystal Enhancement>. Increases M. Atk. by 30. Enhances damage to a target during PvP. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="830"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_dam" val="170"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="sword"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="379"/>
+		<set name="m_dam" val="143"/>
+		<set name="price" val="18300000"/>
+		<set name="crystal_count" val="1464"/>
+		<set name="item_skill_id" val="3072"/> <!-- Special Ability: Empower -->
+		<set name="item_skill_lvl" val="1"/>
+		<for>
+			<set val="170" order="0x08" stat="pAtk"/>
+			<set val="143" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<add val="0" order="0x10" stat="accCombat"/>
+			<set val="379" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- Enhances damage to target during PvP -->
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg"/>
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg"/>
+			<!-- SA used in skill add -->
+		</for>
+	</item>
+	<item id="5641" type="Weapon" name="Sword of Miracles - Magic Power">
+		<!-- <Soul Crystal Enhancement>. When using magic, it increases MP Consumption by 15% and increases M. Atk. by 167. Enhances damage to a target during PvP. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="840"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_dam" val="186"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="sword"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="379"/>
+		<set name="m_dam" val="152"/>
+		<set name="price" val="27000000"/>
+		<set name="crystal_count" val="2160"/>
+		<set name="item_skill_id" val="3073"/> <!-- Special Ability: Magic Power -->
+		<set name="item_skill_lvl" val="2"/>
+		<for>
+			<set val="186" order="0x08" stat="pAtk"/>
+			<set val="152" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<add val="0" order="0x10" stat="accCombat"/>
+			<set val="379" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- Enhances damage to target during PvP -->
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg"/>
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg"/>
+		</for>
+	</item>
+	<item id="5642" type="Weapon" name="Sword of Miracles - Magic Silence">
+		<!-- <Soul Crystal Enhancement>. When using bad magic against a target, casts Silence upon target with a 10% chance of success. Effect 1. Enhances damage to a target during PvP. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="840"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_dam" val="186"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="sword"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="379"/>
+		<set name="m_dam" val="152"/>
+		<set name="price" val="27000000"/>
+		<set name="crystal_count" val="2160"/>
+		<set name="onCast_skill_id" val="3074"/> <!-- Special Ability: Magic Silence -->
+		<set name="onCast_skill_lvl" val="1"/>
+		<set name="onCast_skill_chance" val="10"/>
+		<for>
+			<set val="186" order="0x08" stat="pAtk"/>
+			<set val="152" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<add val="0" order="0x10" stat="accCombat"/>
+			<set val="379" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- Enhances damage to target during PvP -->
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg"/>
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg"/>
+		</for>
+	</item>
+	<item id="5643" type="Weapon" name="Sword of Miracles - Acumen">
+		<!-- <Soul Crystal Enhancement>. Increases Casting Spd. by 15%. Enhances damage to a target during PvP. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="840"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_dam" val="186"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="sword"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="379"/>
+		<set name="m_dam" val="152"/>
+		<set name="price" val="27000000"/>
+		<set name="crystal_count" val="2160"/>
+		<set name="item_skill_id" val="3047"/> <!-- Special Ability: Acumen -->
+		<set name="item_skill_lvl" val="2"/>
+		<for>
+			<set val="186" order="0x08" stat="pAtk"/>
+			<set val="152" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<add val="0" order="0x10" stat="accCombat"/>
+			<set val="379" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- SA always used in skill add -->
+		</for>
+	</item>
+	<item id="5644" type="Weapon" name="Dragon Slayer - Health">
+		<!-- <Soul Crystal Enhancement>. Increases maximum HP by 25%. Enhances damage to a target during PvP. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1840"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_dam" val="282"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="bigsword"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="114"/>
+		<set name="price" val="27000000"/>
+		<set name="crystal_count" val="2160"/>
+		<set name="item_skill_id" val="3013"/> <!-- Special Ability: Health -->
+		<set name="item_skill_lvl" val="3"/>
+		<for>
+			<set val="282" order="0x08" stat="pAtk"/>
+			<set val="114" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<add val="0" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- Enhances damage to target during PvP -->
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg"/>
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg"/>
+		</for>
+	</item>
+	<item id="5645" type="Weapon" name="Dragon Slayer - Critical Bleed">
+		<!-- <Soul Crystal Enhancement>. During a critical attack, increases probability of drawing target's blood by 24%. Effect 7. Enhances damage to a target during PvP. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1840"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_dam" val="282"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="bigsword"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="114"/>
+		<set name="price" val="27000000"/>
+		<set name="crystal_count" val="2160"/>
+		<set name="onCrit_skill_id" val="3021"/> <!-- Special Ability: Critical Bleed -->
+		<set name="onCrit_skill_lvl" val="5"/>
+		<set name="onCrit_skill_chance" val="24"/>
+		<for>
+			<set val="282" order="0x08" stat="pAtk"/>
+			<set val="114" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<add val="0" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- Enhances damage to target during PvP -->
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg"/>
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg"/>
+		</for>
+	</item>
+	<item id="5646" type="Weapon" name="Dragon Slayer - Critical Drain">
+		<!-- <Soul Crystal Enhancement>. During a critical attack, absorbs 11 HP from target. Enhances damage to a target during PvP. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1840"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_dam" val="282"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="bigsword"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="114"/>
+		<set name="price" val="27000000"/>
+		<set name="crystal_count" val="2160"/>
+		<set name="onCrit_skill_id" val="3022"/> <!-- Special Ability: Critical Drain -->
+		<set name="onCrit_skill_lvl" val="4"/>
+		<set name="onCrit_skill_chance" val="20"/>
+		<for>
+			<set val="282" order="0x08" stat="pAtk"/>
+			<set val="114" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<add val="0" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- Enhances damage to target during PvP -->
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg"/>
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg"/>
+		</for>
+	</item>
+	<item id="5647" type="Weapon" name="Dark Legion's Edge - Critical Damage">
+		<!-- <Soul Crystal Enhancement>. During a critical attack, increases P. Atk. by 326. Enhances damage to a target during PvP. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1320"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_dam" val="232"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="sword"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="379"/>
+		<set name="m_dam" val="114"/>
+		<set name="price" val="27000000"/>
+		<set name="crystal_count" val="2160"/>
+		<set name="item_skill_id" val="3067"/> <!-- Special Ability: Critical Damage -->
+		<set name="item_skill_lvl" val="2"/>
+		<for>
+			<set val="232" order="0x08" stat="pAtk"/>
+			<set val="114" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<add val="0" order="0x10" stat="accCombat"/>
+			<set val="379" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- Enhances damage to target during PvP -->
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg"/>
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg"/>
+			<!-- SA: Critical Damage -->
+			<add val="326" order="0x40" stat="cAtk"/>
+		</for>
+	</item>
+	<item id="5648" type="Weapon" name="Dark Legion's Edge - Health">
+		<!-- <Soul Crystal Enhancement>. Increases maximum HP by 25%. Enhances damage to a target during PvP. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1320"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_dam" val="232"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="sword"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="379"/>
+		<set name="m_dam" val="114"/>
+		<set name="price" val="27000000"/>
+		<set name="crystal_count" val="2160"/>
+		<set name="item_skill_id" val="3013"/> <!-- Special Ability: Health -->
+		<set name="item_skill_lvl" val="3"/>
+		<for>
+			<set val="232" order="0x08" stat="pAtk"/>
+			<set val="114" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<add val="0" order="0x10" stat="accCombat"/>
+			<set val="379" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- Enhances damage to target during PvP -->
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg"/>
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg"/>
+		</for>
+	</item>
+	<item id="5649" type="Weapon" name="Dark Legion's Edge - Rsk. Focus">
+		<!-- <Soul Crystal Enhancement>. When HP drops to 60% or below, increases Critical Attack by 130. Enhances damage to a target during PvP. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1320"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_dam" val="232"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="sword"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="379"/>
+		<set name="m_dam" val="114"/>
+		<set name="price" val="27000000"/>
+		<set name="crystal_count" val="2160"/>
+		<set name="item_skill_id" val="3071"/> <!-- Special Ability: Rsk. Focus -->
+		<set name="item_skill_lvl" val="2"/>
+		<for>
+			<set val="232" order="0x08" stat="pAtk"/>
+			<set val="114" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<add val="0" order="0x10" stat="accCombat"/>
+			<set val="379" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- Enhances damage to target during PvP -->
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg"/>
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg"/>
+			<!-- SA: Rsk. Focus -->
+			<add order="0x40" stat="rCrit" val="99">
+				<and>
+					<player hp="60"/>
+				</and>
+			</add>
+		</for>
+	</item>
+	<item id="5650" type="EtcItem" name="Alternative Dark Coda Seed">
+		<!-- Plant this seed onto a monster in the Gludio area and it will bear the fruit of the Alternative Dark Coda. For best results, a level 5-15 character must plant it on a level 5-15 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="5"/>
+	</item>
+	<item id="5651" type="EtcItem" name="Alternative Red Coda Seed">
+		<!-- Plant this seed onto a monster in the Gludio area and it will bear the fruit of the Alternative Red Coda. For best results, a level 8-18 character must plant it on a level 8-18 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="5"/>
+	</item>
+	<item id="5652" type="EtcItem" name="Alternative Chilly Coda Seed">
+		<!-- Plant this seed onto a monster in the Gludio area and it will bear the fruit of the Alternative Chilly Coda. For best results, a level 11-21 character must plant it on a level 11-21 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="5"/>
+	</item>
+	<item id="5653" type="EtcItem" name="Alternative Blue Coda Seed">
+		<!-- Plant this seed onto a monster in the Gludio area and it will bear the fruit of the Alternative Blue Coda. For best results, a level 14-24 character must plant it on a level 14-24 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="10"/>
+	</item>
+	<item id="5654" type="EtcItem" name="Alternative Golden Coda Seed">
+		<!-- Plant this seed onto a monster in the Gludio area and it will bear the fruit of the Alternative Golden Coda. For best results, a level 17-27 character must plant it on a level 17-27 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="20"/>
+	</item>
+	<item id="5655" type="EtcItem" name="Alternative Lute Coda Seed">
+		<!-- Plant this seed onto a monster in the Gludio area and it will bear the fruit of the Alternative Lute Coda. For best results, a level 20-30 character must plant it on a level 20-30 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="30"/>
+	</item>
+	<item id="5656" type="EtcItem" name="Alternative Desert Coda Seed">
+		<!-- Plant this seed onto a monster in the Gludio area and it will bear the fruit of the Alternative Desert Coda. For best results, a level 23-33 character must plant it on a level 23-33 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="20"/>
+	</item>
+	<item id="5657" type="EtcItem" name="Alternative Blue Cobol Seed">
+		<!-- Plant this seed onto a monster in the Gludio area and it will bear the fruit of the Alternative Blue Coda. For best results, a level 32-42 character must plant it on a level 32-42 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="50"/>
+	</item>
+	<item id="5658" type="EtcItem" name="Alternative Blue Coda Seed">
+		<!-- Plant this seed onto a monster in the Dion area and it will bear the fruit of the Alternative Blue Coda. For best results, a level 14-24 character must plant it on a level 14-24 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="10"/>
+	</item>
+	<item id="5659" type="EtcItem" name="Alternative Golden Coda Seed">
+		<!-- Plant this seed onto a monster in the Dion area and it will bear the fruit of the Alternative Golden Coda. For best results, a level 17-27 character must plant it on a level 17-27 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="20"/>
+	</item>
+	<item id="5660" type="EtcItem" name="Alternative Lute Coda Seed">
+		<!-- Plant this seed onto a monster in the Dion area and it will bear the fruit of the Alternative Lute Coda. For best results, a level 20-23 character must plant it on a level 20-23 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="30"/>
+	</item>
+	<item id="5661" type="EtcItem" name="Alternative Desert Coda Seed">
+		<!-- Plant this seed onto a monster in the Dion area and it will bear the fruit of the Alternative Desert Coda. For best results, a level 23-33 character must plant it on a level 23-33 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="20"/>
+	</item>
+	<item id="5662" type="EtcItem" name="Alternative Red Cobol Seed">
+		<!-- Plant this seed onto a monster in the Dion area and it will bear the fruit of the Alternative Red Cobol. For best results, a level 26-36 character must plant it on a level 26-36 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="20"/>
+	</item>
+	<item id="5663" type="EtcItem" name="Alternative Chilly Cobol Seed">
+		<!-- Plant this seed onto a monster in the Dion area and it will bear the fruit of the Alternative Chilly Cobol. For best results, a level 29-39 character must plant it on a level 29-39 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="25"/>
+	</item>
+	<item id="5664" type="EtcItem" name="Alternative Thorn Cobol Seed">
+		<!-- Plant this seed onto a monster in the Dion area and it will bear the fruit of the Alternative Thorn Cobol. For best results, a level 35-45 character must plant it on a level 35-45 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="50"/>
+	</item>
+	<item id="5665" type="EtcItem" name="Alternative Golden Cobol Seed">
+		<!-- Plant this seed onto a monster in the Dion area and it will bear the fruit of the Alternative Golden Cobol. For best results, a level 38-48 character must plant it on a level 38-48 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="50"/>
+	</item>
+	<item id="5666" type="EtcItem" name="Alternative Great Cobol Seed">
+		<!-- Plant this seed onto a monster in the Dion area and it will bear the fruit of the Alternative Great Cobol. For best results, a level 41-51 character must plant it on a level 41-51 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="40"/>
+	</item>
+	<item id="5667" type="EtcItem" name="Alternative Red Cobol Seed">
+		<!-- Plant this seed onto a monster in the Giran area and it will bear the fruit of the Alternative Red Cobol. For best results, a level 26-36 character must plant it on a level 26-36 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="20"/>
+	</item>
+	<item id="5668" type="EtcItem" name="Alternative Chilly Cobol Seed">
+		<!-- Plant this seed onto a monster in the Giran area and it will bear the fruit of the Alternative Chilly Cobol. For best results, a level 29-39 character must plant it on a level 29-39 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="25"/>
+	</item>
+	<item id="5669" type="EtcItem" name="Alternative Blue Cobol Seed">
+		<!-- Plant this seed onto a monster in the Giran area and it will bear the fruit of the Alternative Blue Cobol. For best results, a level 32-42 character must plant it on a level 32-42 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="50"/>
+	</item>
+	<item id="5670" type="EtcItem" name="Alternative Thorn Cobol Seed">
+		<!-- Plant this seed onto a monster in the Giran area and it will bear the fruit of the Alternative Thorn Cobol. For best results, a level 35-45 character must plant it on a level 35-45 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="50"/>
+	</item>
+	<item id="5671" type="EtcItem" name="Alternative Golden Cobol Seed">
+		<!-- Plant this seed onto a monster in the Giran area and it will bear the fruit of the Alternative Golden Cobol. For best results, a level 38-48 character must plant it on a level 38-48 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="50"/>
+	</item>
+	<item id="5672" type="EtcItem" name="Alternative Great Cobol Seed">
+		<!-- Plant this seed onto a monster in the Giran area and it will bear the fruit of the Alternative Great Cobol. For best results, a level 41-51 character must plant it on a level 41-51 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="40"/>
+	</item>
+	<item id="5673" type="EtcItem" name="Alternative Red Codran Seed">
+		<!-- Plant this seed onto a monster in the Giran area and it will bear the fruit of the Alternative Red Codran. For best results, a level 44-54 character must plant it on a level 44-54 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="40"/>
+	</item>
+	<item id="5674" type="EtcItem" name="Alternative Twin Codran Seed">
+		<!-- Plant this seed onto a monster in the Giran area and it will bear the fruit of the Alternative Twin Codran. For best results, a level 53-63 character must plant it on a level 53-63 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="50"/>
+	</item>
+	<item id="5675" type="EtcItem" name="Alternative Desert Codran Seed">
+		<!-- Plant this seed onto a monster in the Giran area and it will bear the fruit of the Alternative Desert Codran. For best results, a level 59-69 character must plant it on a level 59-69 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="100"/>
+	</item>
+	<item id="5676" type="EtcItem" name="Alternative Dark Coda Seed">
+		<!-- Plant this seed onto a monster in the Oren area and it will bear the fruit of the Alternative Dark Coda. For best results, a level 5-15 character must plant it on a level 5-15 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="5"/>
+	</item>
+	<item id="5677" type="EtcItem" name="Alternative Red Coda Seed">
+		<!-- Plant this seed onto a monster in the Oren area and it will bear the fruit of the Alternative Red Coda. For best results, a level 8-18 character must plant it on a level 8-18 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="5"/>
+	</item>
+	<item id="5678" type="EtcItem" name="Alternative Blue Coda Seed">
+		<!-- Plant this seed onto a monster in the Oren area and it will bear the fruit of the Alternative Blue Coda. For best results, a level 14-24 character must plant it on a level 14-24 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="10"/>
+	</item>
+	<item id="5679" type="EtcItem" name="Alternative Red Cobol Seed">
+		<!-- Plant this seed onto a monster in the Oren area and it will bear the fruit of the Alternative Red Cobol. For best results, a level 26-36 character must plant it on a level 26-36 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="20"/>
+	</item>
+	<item id="5680" type="EtcItem" name="Alternative Chilly Cobol Seed">
+		<!-- Plant this seed onto a monster in the Oren area and it will bear the fruit of the Alternative Chilly Cobol. For best results, a level 29-39 character must plant it on a level 29-39 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="25"/>
+	</item>
+	<item id="5681" type="EtcItem" name="Alternative Blue Cobol Seed">
+		<!-- Plant this seed onto a monster in the Oren area and it will bear the fruit of the Alternative Blue Cobol. For best results, a level 32-42 character must plant it on a level 32-42 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="50"/>
+	</item>
+	<item id="5682" type="EtcItem" name="Alternative Thorn Cobol Seed">
+		<!-- Plant this seed onto a monster in the Oren area and it will bear the fruit of the Alternative Thorn Cobol. For best results, a level 35-45 character must plant it on a level 35-45 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="50"/>
+	</item>
+	<item id="5683" type="EtcItem" name="Alternative Sea Codran Seed">
+		<!-- Plant this seed onto a monster in the Oren area and it will bear the fruit of the Alternative Sea Codran. For best results, a level 45-55 character must plant it on a level 45-55 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="50"/>
+	</item>
+	<item id="5684" type="EtcItem" name="Alternative Chilly Codran Seed">
+		<!-- Plant this seed onto a monster in the Oren area and it will bear the fruit of the Alternative Chilly Codran. For best results, a level 47-57 character must plant it on a level 47-57 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="40"/>
+	</item>
+	<item id="5685" type="EtcItem" name="Alternative Blue Codran Seed">
+		<!-- Plant this seed onto a monster in the Oren area and it will bear the fruit of the Alternative Blue Codran. For best results, a level 50-60 character must plant it on a level 50-60 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="50"/>
+	</item>
+	<item id="5686" type="EtcItem" name="Alternative Twin Codran Seed">
+		<!-- Plant this seed onto a monster in the Oren area and it will bear the fruit of the Alternative Twin Codran. For best results, a level 53-63 character must plant it on a level 53-63 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="50"/>
+	</item>
+	<item id="5687" type="EtcItem" name="Alternative Thorn Cobol Seed">
+		<!-- Plant this seed onto a monster in the Aden area and it will bear the fruit of the Alternative Thorn Cobol. For best results, a level 35-45 character must plant it on a level 35-45 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="50"/>
+	</item>
+	<item id="5688" type="EtcItem" name="Alternative Golden Cobol Seed">
+		<!-- Plant this seed onto a monster in the Aden area and it will bear the fruit of the Alternative Golden Cobol. For best results, a level 38-48 character must plant it on a level 38-48 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="50"/>
+	</item>
+	<item id="5689" type="EtcItem" name="Alternative Great Cobol Seed">
+		<!-- Plant this seed onto a monster in the Aden area and it will bear the fruit of the Alternative Great Cobol. For best results, a level 41-51 character must plant it on a level 41-51 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="40"/>
+	</item>
+	<item id="5690" type="EtcItem" name="Alternative Red Codran Seed">
+		<!-- Plant this seed onto a monster in the Aden area and it will bear the fruit of the Alternative Red Codran. For best results, a level 44-54 character must plant it on a level 44-54 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="40"/>
+	</item>
+	<item id="5691" type="EtcItem" name="Alternative Chilly Codran Seed">
+		<!-- Plant this seed onto a monster in the Aden area and it will bear the fruit of the Alternative Chilly Codran. For best results, a level 47-57 character must plant it on a level 47-57 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="40"/>
+	</item>
+	<item id="5692" type="EtcItem" name="Alternative Blue Codran Seed">
+		<!-- Plant this seed onto a monster in the Aden area and it will bear the fruit of the Alternative Blue Codran. For best results, a level 50-60 character must plant it on a level 50-60 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="50"/>
+	</item>
+	<item id="5693" type="EtcItem" name="Alternative Twin Codran Seed">
+		<!-- Plant this seed onto a monster in the Aden area and it will bear the fruit of the Alternative Twin Codran. For best results, a level 53-63 character must plant it on a level 53-63 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="50"/>
+	</item>
+	<item id="5694" type="EtcItem" name="Alternative Great Codran Seed">
+		<!-- Plant this seed onto a monster in the Aden area and it will bear the fruit of the Alternative Great Codran. For best results, a level 56-66 character must plant it on a level 56-66 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="75"/>
+	</item>
+	<item id="5695" type="EtcItem" name="Alternative Desert Codran Seed">
+		<!-- Plant this seed onto a monster in the Aden area and it will bear the fruit of the Alternative Desert Codran. For best results, a level 59-69 character must plant it on a level 59-69 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="100"/>
+	</item>
+	<item id="5696" type="EtcItem" name="Alternative Chilly Cobol Seed">
+		<!-- Plant this seed onto a monster in the Innadril area and it will bear the fruit of the Alternative Chilly Cobol. For best results, a level 29-39 character must plant it on a level 29-39 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="25"/>
+	</item>
+	<item id="5697" type="EtcItem" name="Alternative Blue Cobol Seed">
+		<!-- Plant this seed onto a monster in the Innadril area and it will bear the fruit of the Alternative Blue Cobol. For best results, a level 32-42 character must plant it on a level 32-42 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="50"/>
+	</item>
+	<item id="5698" type="EtcItem" name="Alternative Thorn Cobol Seed">
+		<!-- Plant this seed onto a monster in the Innadril area and it will bear the fruit of the Alternative Thorn Cobol. For best results, a level 35-45 character must plant it on a level 35-45 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="50"/>
+	</item>
+	<item id="5699" type="EtcItem" name="Alternative Golden Cobol Seed">
+		<!-- Plant this seed onto a monster in the Innadril area and it will bear the fruit of the Alternative Golden Cobol. For best results, a level 38-48 character must plant it on a level 38-48 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="50"/>
+	</item>
+</list>

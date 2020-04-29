@@ -1,0 +1,874 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="1600" type="EtcItem" name="Kasha Bear Claw">
+		<!-- A claw pulled out from a kasha bear after killing it. Collect 5 of these. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1601" type="EtcItem" name="Kasha Blade Spider Talon">
+		<!-- A talon pulled out from a kasha blade spider after killing it. Collect 5 of these. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1602" type="EtcItem" name="Scarlet Salamander Scale">
+		<!-- A scale of a scarlet salamander. Collect 5 of these. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1603" type="EtcItem" name="Fiery Spirit Scroll">
+		<!-- The first scroll containing secret of kabart, the Orcs' traditional martial arts. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1604" type="EtcItem" name="Rosheek's Letter">
+		<!-- A letter written by Khavatari Rosheek. Take this to Gantaki Zu Urutu. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1605" type="EtcItem" name="Gantaki's Letter of Recommendation">
+		<!-- Gantaki's letter of recommendation. Receive the help of Gatekeeper Tamil and take this recommendation to Prefect Kasman in the Village of Gludin. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1606" type="EtcItem" name="Fig">
+		<!-- A fig given by Prefect Kasman. Take this to Khavatari Toruku. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1607" type="EtcItem" name="4th Leather Pouch">
+		<!-- A leather pouch given by Khavatari Toruku. Take this, kill fighters of various races and collect 12 tokens. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1608" type="EtcItem" name="4th Leather Pouch (Full)">
+		<!-- A full pouch of 12 tokens after killing fighters of various races. Take this to Khavatari Toruku. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1609" type="EtcItem" name="Vuku Orc Tusk">
+		<!-- A tusk obtained after killing a vuku Orc. Gather 3 of these. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1610" type="EtcItem" name="Ratman Fang">
+		<!-- A fang from a dead ratman fighter. Gather 3 of these. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1611" type="EtcItem" name="Langk Lizardman Tooth">
+		<!-- A tooth obtained after killing a Langk lizardman. Gather 3 of these. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1612" type="EtcItem" name="Felim Lizardman Tooth">
+		<!-- A tooth obtained after killing the Felim lizardman. Gather 3 of these. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1613" type="EtcItem" name="Iron Will Scroll">
+		<!-- The second scroll that contains secret of the Orcs' traditional martial arts, Kabart. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1614" type="EtcItem" name="Toruku's Letter">
+		<!-- A letter from Khavatari Toruku. Take this to Prefect Kasman. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1615" type="EtcItem" name="Khavatari Totem">
+		<!-- A token given to one who has qualifications to change occupations to Orc Monk. Take this to the high prefect to change your occupation to an Orc Monk. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1616" type="EtcItem" name="Fire Charm">
+		<!-- A charm with inscription of fire mantra. Take this and find the 3 items that Tataru spoke of. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1617" type="EtcItem" name="Kasha Bear Pelt">
+		<!-- A pelt of kasha bear. Take to Tataru along with kasha bladespider husk and fiery egg. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1618" type="EtcItem" name="Kasha Blade Spider Husk">
+		<!-- The husk of a kasha blade spider. Take it to Tataru, along with a kasha bear pelt and a fiery egg. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1619" type="EtcItem" name="1st Fiery Egg">
+		<!-- A spirit egg obtained from a scarlet salamander. Take it to Tataru along with a kasha bear pelt and a kasha bladespider husk. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1620" type="EtcItem" name="Hestui Mask">
+		<!-- A mask in shape of bear. Take this and go to Hestui totem spirit. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1621" type="EtcItem" name="2nd Fiery Egg">
+		<!-- A spirit egg received from a scarlet salamander. Take this to the Hestui totem spirit. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1622" type="EtcItem" name="Totem Spirit Claw">
+		<!-- A claw received from Hestui totem spirit. Take this and go to Tataru. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1623" type="EtcItem" name="Tataru's Letter of Recommendation">
+		<!-- A letter written by Tataru. Take this to Seer Umos in the town of Gludin. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1624" type="EtcItem" name="Flame Charm">
+		<!-- A charm with inscription of flame mantra. Take this and gather grizzly blood and take to Seer Umos. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1625" type="EtcItem" name="Grizzly Blood">
+		<!-- A glass bottle filled with grizzly blood. Gather 3 and take to Seer Umos. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1626" type="EtcItem" name="Blood Cauldron">
+		<!-- A cauldron filled with grizzly blood. Take this to the Duda-Mara totem spirit. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1627" type="EtcItem" name="Spirit Net">
+		<!-- A net made with spirit's spider silk. Use this to capture durka spirit hidden inside poison spiders. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1628" type="EtcItem" name="Bound Durka Spirit">
+		<!-- Durka spirit bound inside spirit net. Take this to the Duda-Mara totem spirit. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1629" type="EtcItem" name="Durka Parasite">
+		<!-- An evil parasite spirit that comes out from spiders contaminated with the evil durka spirit. It is the key for calling upon the evil durka spirit. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1630" type="EtcItem" name="Totem Spirit Blood">
+		<!-- Blood spilt by the Duda-Mara totem spirit. Take this and go to Seer Umos. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1631" type="EtcItem" name="Mask of Medium">
+		<!-- A token that shows one has the qualifications to become an Orc Shaman. Take this to the high prefect, to change your occupation to an Orc Shaman. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1632" type="EtcItem" name="Silvera's Ring">
+		<!-- A ring given to artisan aspirants by Blacksmith Silvera. Strike down the boogle ratman gang and collect their front teeth. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1633" type="EtcItem" name="1st Pass Certificate">
+		<!-- The certificate for passing the 1st artisan test. To take the next test, you must go to Blacksmith Kluto of the village Gludin. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1634" type="EtcItem" name="2nd Pass Certificate">
+		<!-- The certificate for passing the 2nd artisan test. Take this and go to Blacksmith Kluto in Gludin. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1635" type="EtcItem" name="Final Pass Certificate">
+		<!-- The certificate for passing the final Artisan test. Take this to the head blacksmith to change occupations to an Artisan. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1636" type="EtcItem" name="Boogle Ratman Tooth">
+		<!-- The ugly front bucktooth of a boogle ratman. Just looking at it will make you nauseous. Collect 10 of these and take them to Blacksmith Silvera. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1637" type="EtcItem" name="Boogle Ratman Leader's Tooth">
+		<!-- The boogle ratman leader's big tooth. Before its stink makes you pass out, collect 2 of them and take them to Blacksmith Silvera. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1638" type="EtcItem" name="Kluto's Letter">
+		<!-- Blacksmith Kluto's letter. Take to Blacksmith Pinter in the Town of Gludio. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1639" type="EtcItem" name="Footprint of Thief">
+		<!-- Trace left by thieves. Kill Vuku Orc fighters, recover stolen items and take them to Blacksmith Pinter. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1640" type="EtcItem" name="Stolen Secret Box">
+		<!-- A secret box stolen by Vuku orc fighters. The contents of the box are unknown, but anyway, take it to Blacksmith Pinter. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1641" type="EtcItem" name="Secret Box">
+		<!-- A secret box received from Pinter. The contents are unknown, but do not worry and take it to Blacksmith Kluto in the Village of Gludin. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1642" type="EtcItem" name="Ring of Raven">
+		<!-- A mark certifying that one has earned the right to become a Scavenger. If you take it to a Warehouse Chief, you can transfer your class to Scavenger. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1643" type="EtcItem" name="Pippi's Letter of Recommendation">
+		<!-- A letter of introduction written by Collector Pipi. Take this to Trader Mion. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1644" type="EtcItem" name="Raut's Teleport Scroll">
+		<!-- An order sheet given by Warehouse Freightman Raut. Give it to Torai, in the south of Death Pass. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1645" type="EtcItem" name="Succubus Undies">
+		<!-- The underwear of Succubus received from Torai. Take this to Warehouse Freightman Raut of Gludin. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1646" type="EtcItem" name="Mion's Letter">
+		<!-- A letter sent from Trader Mion to her brother. Take this letter and go to Master Toma. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1647" type="EtcItem" name="Bronk's Ingot">
+		<!-- An ingot to be given to Chief Blacksmith Bronk. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1648" type="EtcItem" name="Shari's Axe">
+		<!-- An axe to be given to Trader Shari. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1649" type="EtcItem" name="Zimenf's Potion">
+		<!-- A potion to give to Priest of the Earth Zimenf. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1650" type="EtcItem" name="Bronk's Pay">
+		<!-- Product cost given by Chief Blacksmith Bronk. Take this to Trader Mion. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1651" type="EtcItem" name="Shari's Pay">
+		<!-- Product cost given by Shari. Take this to Trader Mion. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1652" type="EtcItem" name="Zimenf's Pay">
+		<!-- Product cost given by Zimenf. Take this to Trader Mion. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1653" type="EtcItem" name="Bear Picture">
+		<!-- A picture of a bear received by Master Toma. Take this to hunt hunter bears, then the honey bear will appear. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1654" type="EtcItem" name="Tarantula Picture">
+		<!-- A picture of spider received by Master Toma. Use this to hunt tarantulas. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1655" type="EtcItem" name="Honey Jar">
+		<!-- A honey jar taken from a honey bear. Collect 5 and take them to Master Toma. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1656" type="EtcItem" name="Bead">
+		<!-- A bead obtained from tarantula. Gather 20 of these and give to Master Toma. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1657" type="EtcItem" name="Bead Parcel">
+		<!-- A parcel made of beads. Give this to Warehouse Freightman Raut of Gludin. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1658" type="EtcItem" name="Gatekeeper Charm">
+		<!-- Used to teleport from the Orc Village to Gludin. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="10"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="1659" type="EtcItem" name="Gatekeeper Token">
+		<!-- Used to teleport from the Dwarven Village to Gludin. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="10"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="1660" type="Weapon" name="Cursed Maingauche">
+		<!-- Cursed Maingauche. Although its attack power is weak, it gives bleeding effect with a certain rate during critical attacks. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1070"/>
+		<set name="soulshots" val="3"/>
+		<set name="spiritshots" val="3"/>
+		<set name="crystal_type" val="d"/>
+		<set name="p_dam" val="62"/>
+		<set name="rnd_dam" val="5"/>
+		<set name="weapon_type" val="dagger"/>
+		<set name="critical" val="12"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="433"/>
+		<set name="m_dam" val="42"/>
+		<set name="price" val="1400000"/>
+		<set name="crystal_count" val="2545"/>
+		<for>
+			<set val="62" order="0x08" stat="pAtk"/>
+			<set val="42" order="0x08" stat="mAtk"/>
+			<set val="12" order="0x08" stat="rCrit"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="433" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="1661" type="EtcItem" name="Thief Key">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="10"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1000"/>
+	</item>
+	<item id="1662" type="EtcItem" name="Wood">
+		<!-- A material used to make Dwarven items. Can be sold in any shop. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="20"/>
+	</item>
+	<item id="1663" type="EtcItem" name="(Not used) Trunk">
+		<!-- A material used to make Dwarven items. Can be sold in any shop. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="20"/>
+	</item>
+	<item id="1664" type="EtcItem" name="Steel Powder">
+		<!-- A material used to make Dwarven items. Can be sold in any shop. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="80"/>
+	</item>
+	<item id="1665" type="EtcItem" name="World Map">
+		<!-- An ancient, obsolete map. Can be purchased at any shop. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="500"/>
+	</item>
+	<item id="1666" type="EtcItem" name="Recipe: Wooden Arrow">
+		<!-- For Dwarves only. The recipe for a Wooden Arrow. Requires Create Item Level 1. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="600"/>
+	</item>
+	<item id="1667" type="EtcItem" name="Spellbook: Summon Shadow">
+		<!-- Spellbook needed to learn Summon Shadow. Used by Dark Wizards. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="800"/>
+	</item>
+	<item id="1668" type="EtcItem" name="Spellbook: Summon Mew the Cat">
+		<!-- Spellbook needed to learn Summon Mew the Cat. Used by Human Wizards. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1250"/>
+	</item>
+	<item id="1669" type="EtcItem" name="Spellbook: Summon Boxer the Unicorn">
+		<!-- Spellbook needed to learn Summon Boxer the Unicorn. Used by Elven Wizards. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="800"/>
+	</item>
+	<item id="1670" type="EtcItem" name="Spellbook: Summon Mirage the Unicorn">
+		<!-- Spellbook needed to learn Summon Mirage the Unicorn. Used by Elven Wizards. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1250"/>
+	</item>
+	<item id="1671" type="EtcItem" name="Spellbook: Summon Silhouette">
+		<!-- Spellbook needed to learn Summon Silhouette. Used by Dark Wizards. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="800"/>
+	</item>
+	<item id="1672" type="EtcItem" name="__">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="40"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="800"/>
+	</item>
+	<item id="1673" type="EtcItem" name="__">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="40"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="800"/>
+	</item>
+	<item id="1674" type="EtcItem" name="Twig of Treant">
+		<!-- A material used to make Dwarven items. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="80"/>
+	</item>
+	<item id="1675" type="EtcItem" name="Beast Blood">
+		<!-- A material used to make Dwarven items. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="40"/>
+	</item>
+	<item id="1676" type="EtcItem" name="Beast Bone">
+		<!-- A material used to make Dwarven items. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="20"/>
+	</item>
+	<item id="1677" type="EtcItem" name="Hot Oil">
+		<!-- A material used to make Dwarven items. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="40"/>
+	</item>
+	<item id="1678" type="EtcItem" name="(Not used) Thread">
+		<!-- A material used to make Dwarven items. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="10"/>
+	</item>
+	<item id="1679" type="EtcItem" name="Bronze">
+		<!-- A material used to make Dwarven items. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="150"/>
+	</item>
+	<item id="1680" type="EtcItem" name="Fur">
+		<!-- A material used to make Dwarven items. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="40"/>
+	</item>
+	<item id="1681" type="EtcItem" name="Elf Stone">
+		<!-- A material used to make Dwarven items. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1500"/>
+	</item>
+	<item id="1682" type="EtcItem" name="Tear of Holy Spirit">
+		<!-- A material used to make Dwarven items. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1000"/>
+	</item>
+	<item id="1683" type="EtcItem" name="Mithril">
+		<!-- A material used to make Dwarven items. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="400"/>
+	</item>
+	<item id="1684" type="EtcItem" name="Durable Stem">
+		<!-- A material used to make Dwarven items. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="220"/>
+	</item>
+	<item id="1685" type="EtcItem" name="Wooden Frame">
+		<!-- A material used to make Dwarven items. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="2000"/>
+	</item>
+	<item id="1686" type="EtcItem" name="Bark of Treant">
+		<!-- A material used to make Dwarven items. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="480"/>
+	</item>
+	<item id="1687" type="EtcItem" name="(Not used) Coarse Bone Powder">
+		<!-- A material used to make Dwarven items. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="80"/>
+	</item>
+	<item id="1688" type="EtcItem" name="Refined Steel">
+		<!-- A material used to make Dwarven items. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="480"/>
+	</item>
+	<item id="1689" type="EtcItem" name="(Not used) Leather">
+		<!-- A material used to make Dwarven items. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="300"/>
+	</item>
+	<item id="1690" type="EtcItem" name="Bowstring">
+		<!-- A material used to make Dwarven items. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="300"/>
+	</item>
+	<item id="1691" type="EtcItem" name="Steel Frame">
+		<!-- A material used to make Dwarven items. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="4400"/>
+	</item>
+	<item id="1692" type="EtcItem" name="(Not used) Cord">
+		<!-- A material used to make Dwarven items. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="45"/>
+	</item>
+	<item id="1693" type="EtcItem" name="Refined Bronze">
+		<!-- A material used to make Dwarven items. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="890"/>
+	</item>
+	<item id="1694" type="EtcItem" name="Treant Potion">
+		<!-- A material used to make Dwarven items. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="800"/>
+	</item>
+	<item id="1695" type="EtcItem" name="Spell Paper">
+		<!-- A material used to make Dwarven items. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="580"/>
+	</item>
+	<item id="1696" type="EtcItem" name="Flaming Oil">
+		<!-- A material used to make Dwarven items. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="500"/>
+	</item>
+	<item id="1697" type="EtcItem" name="Magic Powder">
+		<!-- A material used to make Dwarven items. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3080"/>
+	</item>
+	<item id="1698" type="EtcItem" name="Refined Mithril">
+		<!-- A material used to make Dwarven items. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="2100"/>
+	</item>
+	<item id="1699" type="EtcItem" name="Fortified Steel">
+		<!-- A material used to make Dwarven items. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1860"/>
+	</item>
+</list>

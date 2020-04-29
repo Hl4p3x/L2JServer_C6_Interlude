@@ -1,0 +1,1031 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="8700" type="EtcItem" name="Recipe: Tiphon's Spear (60%)">
+		<!-- For Dwarves only. Recipe for making Tiphon's Spear. Requires Create Item - Skill Level 8. 60% success rate. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8701" type="EtcItem" name="Recipe: Tiphon's Spear (100%)">
+		<!-- For Dwarves only. Recipe for making Tiphon's Spear. Requires Create Item - Skill Level 8. 100% success rate. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8702" type="EtcItem" name="Recipe: Shyeed's Bow (60%)">
+		<!-- For Dwarves only. Recipe for making Shyeed's Bow. Requires Create Item - Skill Level 8. 60% success rate. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="706000"/>
+	</item>
+	<item id="8703" type="EtcItem" name="Recipe: Shyeed's Bow (100%)">
+		<!-- For Dwarves only. Recipe for making Shyeed's Bow. Requires Create Item - Skill Level 8. 100% success rate. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="706000"/>
+	</item>
+	<item id="8704" type="EtcItem" name="Recipe: Sobekk's Hurricane (60%)">
+		<!-- For Dwarves only. Recipe for making Sobekk's Hurricane. Requires Create Item - Skill Level 8. 60% success rate. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8705" type="EtcItem" name="Recipe: Sobekk's Hurricane (100%)">
+		<!-- For Dwarves only. Recipe for making Sobekk's Hurricane. Requires Create Item - Skill Level 8. 100% success rate. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8706" type="EtcItem" name="Recipe: Themis' Tongue (60%)">
+		<!-- For Dwarves only. Recipe for making Themis' Tongue. Requires Create Item - Skill Level 8. 60% success rate. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8707" type="EtcItem" name="Recipe: Themis' Tongue (100%)">
+		<!-- For Dwarves only. Recipe for making Themis' Tongue. Requires Create Item - Skill Level 8. 100% success rate. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8708" type="EtcItem" name="Recipe: Cabrio's Hand (60%)">
+		<!-- For Dwarves only. Recipe for making Cabrio's Hand. Requires Create Item - Skill Level 8. 60% success rate. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8709" type="EtcItem" name="Recipe: Cabrio's Hand (100%)">
+		<!-- For Dwarves only. Recipe for making Cabrio's Hand. Requires Create Item - Skill Level 8. 100% success rate. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8710" type="EtcItem" name="Recipe: Daimon Crystal (60%)">
+		<!-- For Dwarves only. Recipe for making a Demon's Crystal. Requires Create Item - Skill Level 8. 60% success rate. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8711" type="EtcItem" name="Recipe: Daimon Crystal (100%)">
+		<!-- For Dwarves only. Recipe for making a Daimon Crystal. Requires Create Item - Skill Level 8. 100% success rate. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8712" type="EtcItem" name="Sirra's Blade Edge">
+		<!-- An essential ingredient needed by a Dwarf to make Sirra's Blade. It can be sold at a regular store. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8713" type="EtcItem" name="Sword of Ipos Blade">
+		<!-- An essential ingredient needed by a Dwarf to make the Sword of Ipos. It can be sold at a regular store. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8714" type="EtcItem" name="Barakiel's Axe Piece">
+		<!-- An essential ingredient needed by a Dwarf to make Barakiel's Axe. It can be sold at a regular store. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8715" type="EtcItem" name="Behemoth's Tuning Fork Piece">
+		<!-- An essential ingredient needed by a Dwarf to make Behemoth's Tuning Fork. It can be sold at a regular store. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8716" type="EtcItem" name="Naga Storm Piece">
+		<!-- An essential ingredient needed by a Dwarf to make Naga Storm. It can be sold at a regular store. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8717" type="EtcItem" name="Tiphon's Spear Edge">
+		<!-- An essential ingredient needed by a Dwarf to make Tiphon's Spear. It can be sold at a regular store. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8718" type="EtcItem" name="Shyeed's Bow Shaft">
+		<!-- An essential ingredient needed by a Dwarf to make Shyeed's Bow. It can be sold at a regular store. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8719" type="EtcItem" name="Sobekk's Hurricane Edge">
+		<!-- An essential ingredient needed by a Dwarf to make Sobekk's Hurricane. It can be sold at a regular store. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8720" type="EtcItem" name="Themis' Tongue Piece">
+		<!-- An essential ingredient needed by a Dwarf to make Themis' Tongue. It can be sold at a regular store. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8721" type="EtcItem" name="Cabrio's Hand Head">
+		<!-- An essential ingredient needed by a Dwarf to make Cabrio's Hand. It can be sold at a regular store. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8722" type="EtcItem" name="Daimon Crystal Fragment">
+		<!-- An essential ingredient needed by a Dwarf to make Daimon Crystal. It can be sold at a regular store. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8723" type="EtcItem" name="Life Stone: level 46">
+		<!-- An ordinary mineral that has been petrified by a creature's physical or magical damage. Key component used in weapon Augmentation by characters level 46 and above. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="5000"/>
+	</item>
+	<item id="8724" type="EtcItem" name="Life Stone: level 49">
+		<!-- An ordinary mineral that has been petrified by a creature's physical or magical damage. Key component used in weapon Augmentation by characters level 49 and above. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="6000"/>
+	</item>
+	<item id="8725" type="EtcItem" name="Life Stone: level 52">
+		<!-- An ordinary mineral that has been petrified by a creature's physical or magical damage. Key component used in weapon Augmentation by characters level 52 and above. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="7200"/>
+	</item>
+	<item id="8726" type="EtcItem" name="Life Stone: level 55">
+		<!-- An ordinary mineral that has been petrified by a creature's physical or magical damage. Key component used in weapon Augmentation by characters level 55 and above. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="8640"/>
+	</item>
+	<item id="8727" type="EtcItem" name="Life Stone: level 58">
+		<!-- An ordinary mineral that has been petrified by a creature's physical or magical damage. Key component used in weapon Augmentation by characters level 58 and above. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="10000"/>
+	</item>
+	<item id="8728" type="EtcItem" name="Life Stone: level 61">
+		<!-- An ordinary mineral that has been petrified by a creature's physical or magical damage. Key component used in weapon Augmentation by characters level 61 and above. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="12000"/>
+	</item>
+	<item id="8729" type="EtcItem" name="Life Stone: level 64">
+		<!-- An ordinary mineral that has been petrified by a creature's physical or magical damage. Key component used in weapon Augmentation by characters level 64 and above. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="15000"/>
+	</item>
+	<item id="8730" type="EtcItem" name="Life Stone: level 67">
+		<!-- An ordinary mineral that has been petrified by a creature's physical or magical damage. Key component used in weapon Augmentation by characters level 67 and above. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="18000"/>
+	</item>
+	<item id="8731" type="EtcItem" name="Life Stone: level 70">
+		<!-- An ordinary mineral that has been petrified by a creature's physical or magical damage. Key component used in weapon Augmentation by characters level 70 and above. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="21600"/>
+	</item>
+	<item id="8732" type="EtcItem" name="Life Stone: level 76">
+		<!-- An ordinary mineral that has been petrified by a creature's physical or magical damage. Key component used in weapon Augmentation by characters level 76 and above. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="24000"/>
+	</item>
+	<item id="8733" type="EtcItem" name="Mid-Grade Life Stone: level 46">
+		<!-- A mid-grade mineral that has been petrified by a creature's physical or magical damage. Key component used in weapon Augmentation by characters level 46 and above. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="20000"/>
+	</item>
+	<item id="8734" type="EtcItem" name="Mid-Grade Life Stone: level 49">
+		<!-- A mid-grade mineral that has been petrified by a creature's physical or magical damage. Key component used in weapon Augmentation by characters level 49 and above. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="24000"/>
+	</item>
+	<item id="8735" type="EtcItem" name="Mid-Grade Life Stone: level 52">
+		<!-- A mid-grade mineral that has been petrified by a creature's physical or magical damage. Key component used in weapon Augmentation by characters level 52 and above. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="28800"/>
+	</item>
+	<item id="8736" type="EtcItem" name="Mid-Grade Life Stone: level 55">
+		<!-- A mid-grade mineral that has been petrified by a creature's physical or magical damage. Key component used in weapon Augmentation by characters level 55 and above. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="34560"/>
+	</item>
+	<item id="8737" type="EtcItem" name="Mid-Grade Life Stone: level 58">
+		<!-- A mid-grade mineral that has been petrified by a creature's physical or magical damage. Key component used in weapon Augmentation by characters level 58 and above. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="40000"/>
+	</item>
+	<item id="8738" type="EtcItem" name="Mid-Grade Life Stone: level 61">
+		<!-- A mid-grade mineral that has been petrified by a creature's physical or magical damage. Key component used in weapon Augmentation by characters level 61 and above. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="48000"/>
+	</item>
+	<item id="8739" type="EtcItem" name="Mid-Grade Life Stone: level 64">
+		<!-- A mid-grade mineral that has been petrified by a creature's physical or magical damage. Key component used in weapon Augmentation by characters level 64 and above. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="60000"/>
+	</item>
+	<item id="8740" type="EtcItem" name="Mid-Grade Life Stone: level 67">
+		<!-- A mid-grade mineral that has been petrified by a creature's physical or magical damage. Key component used in weapon Augmentation by characters level 67 and above. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="72000"/>
+	</item>
+	<item id="8741" type="EtcItem" name="Mid-Grade Life Stone: level 70">
+		<!-- A mid-grade mineral that has been petrified by a creature's physical or magical damage. Key component used in weapon Augmentation by characters level 70 and above. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="86400"/>
+	</item>
+	<item id="8742" type="EtcItem" name="Mid-Grade Life Stone: level 76">
+		<!-- A mid-grade mineral that has been petrified by a creature's physical or magical damage. Key component used in weapon Augmentation by characters level 76 and above. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="96000"/>
+	</item>
+	<item id="8743" type="EtcItem" name="High-Grade Life Stone: level 46">
+		<!-- A high-grade mineral that has been petrified by a creature's physical or magical damage. Key component used in weapon Augmentation by characters level 46 and above. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="200000"/>
+	</item>
+	<item id="8744" type="EtcItem" name="High-Grade Life Stone: level 49">
+		<!-- A high-grade mineral that has been petrified by a creature's physical or magical damage. Key component used in weapon Augmentation by characters level 49 and above. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="240000"/>
+	</item>
+	<item id="8745" type="EtcItem" name="High-Grade Life Stone: level 52">
+		<!-- A high-grade mineral that has been petrified by a creature's physical or magical damage. Key component used in weapon Augmentation by characters level 52 and above. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="288000"/>
+	</item>
+	<item id="8746" type="EtcItem" name="High-Grade Life Stone: level 55">
+		<!-- A high-grade mineral that has been petrified by a creature's physical or magical damage. Key component used in weapon Augmentation by characters level 55 and above. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="345600"/>
+	</item>
+	<item id="8747" type="EtcItem" name="High-Grade Life Stone: level 58">
+		<!-- A high-grade mineral that has been petrified by a creature's physical or magical damage. Key component used in weapon Augmentation by characters level 58 and above. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="400000"/>
+	</item>
+	<item id="8748" type="EtcItem" name="High-Grade Life Stone: level 61">
+		<!-- A high-grade mineral that has been petrified by a creature's physical or magical damage. Key component used in weapon Augmentation by characters level 61 and above. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="480000"/>
+	</item>
+	<item id="8749" type="EtcItem" name="High-Grade Life Stone: level 64">
+		<!-- A high-grade mineral that has been petrified by a creature's physical or magical damage. Key component used in weapon Augmentation by characters level 64 and above. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="600000"/>
+	</item>
+	<item id="8750" type="EtcItem" name="High-Grade Life Stone: level 67">
+		<!-- A high-grade mineral that has been petrified by a creature's physical or magical damage. Key component used in weapon Augmentation by characters level 67 and above. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="720000"/>
+	</item>
+	<item id="8751" type="EtcItem" name="High-Grade Life Stone: level 70">
+		<!-- A high-grade mineral that has been petrified by a creature's physical or magical damage. Key component used in weapon Augmentation by characters level 70 and above. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="864000"/>
+	</item>
+	<item id="8752" type="EtcItem" name="High-Grade Life Stone: level 76">
+		<!-- A high-grade mineral that has been petrified by a creature's physical or magical damage. Key component used in weapon Augmentation by characters level 76 and above. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="960000"/>
+	</item>
+	<item id="8753" type="EtcItem" name="Top-Grade Life Stone: level 46">
+		<!-- The highest-grade mineral available that has been petrified by a creature's physical or magical damage. Key component used in weapon Augmentation by characters level 46 and above. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1000000"/>
+	</item>
+	<item id="8754" type="EtcItem" name="Top-Grade Life Stone: level 49">
+		<!-- The highest-grade mineral available that has been petrified by a creature's physical or magical damage. Key component used in weapon Augmentation by characters level 49 and above. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1200000"/>
+	</item>
+	<item id="8755" type="EtcItem" name="Top-Grade Life Stone: level 52">
+		<!-- The highest-grade mineral available that has been petrified by a creature's physical or magical damage. Key component used in weapon Augmentation by characters level 52 and above. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1440000"/>
+	</item>
+	<item id="8756" type="EtcItem" name="Top-Grade Life Stone: level 55">
+		<!-- The highest-grade mineral available that has been petrified by a creature's physical or magical damage. Key component used in weapon Augmentation by characters level 55 and above. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1728000"/>
+	</item>
+	<item id="8757" type="EtcItem" name="Top-Grade Life Stone: level 58">
+		<!-- The highest-grade mineral available that has been petrified by a creature's physical or magical damage. Key component used in weapon Augmentation by characters level 58 and above. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="2000000"/>
+	</item>
+	<item id="8758" type="EtcItem" name="Top-Grade Life Stone: level 61">
+		<!-- The highest-grade mineral available that has been petrified by a creature's physical or magical damage. Key component used in weapon Augmentation by characters level 61 and above. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="2400000"/>
+	</item>
+	<item id="8759" type="EtcItem" name="Top-Grade Life Stone: level 64">
+		<!-- The highest-grade mineral available that has been petrified by a creature's physical or magical damage. Key component used in weapon Augmentation by characters level 64 and above. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3000000"/>
+	</item>
+	<item id="8760" type="EtcItem" name="Top-Grade Life Stone: level 67">
+		<!-- The highest-grade mineral available that has been petrified by a creature's physical or magical damage. Key component used in weapon Augmentation by characters level 67 and above. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3600000"/>
+	</item>
+	<item id="8761" type="EtcItem" name="Top-Grade Life Stone: level 70">
+		<!-- The highest-grade mineral available that has been petrified by a creature's physical or magical damage. Key component used in weapon Augmentation by characters level 70 and above. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="4320000"/>
+	</item>
+	<item id="8762" type="EtcItem" name="Top-Grade Life Stone: level 76">
+		<!-- The highest-grade mineral available that has been petrified by a creature's physical or magical damage. Key component used in weapon Augmentation by characters level 76 and above. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="4800000"/>
+	</item>
+	<item id="8763" type="Weapon" name="Elrokian Trap">
+		<!-- Trap weapon used on the Primeval Isle. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="weight" val="500"/>
+		<set name="crystal_type" val="a"/>
+		<set name="weapon_type" val="blunt"/>
+		<set name="atk_speed" val="379"/>
+		<for>
+			<set val="0" order="0x08" stat="pAtk"/>
+			<set val="0" order="0x08" stat="mAtk"/>
+			<set val="0" order="0x08" stat="rCrit"/>
+			<add val="0" order="0x10" stat="accCombat"/>
+			<set val="379" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="8764" type="EtcItem" name="Trap Stone">
+		<!-- A stone used in the Elrokian Trap. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="500"/>
+	</item>
+	<item id="8765" type="EtcItem" name="Red Gem">
+		<!-- Shiny red gems collected by Warehouse Chief Klump of Aden Castle Town. You can play the card game if you bring Klump more than 50 of these gems. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8766" type="EtcItem" name="Spirit Bead">
+		<!-- Beads collected by Blacksmith Wilbert of Aden Castle Town. You can play the game if you bring him more than 50. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8767" type="EtcItem" name="Tyrannosaurus Claw">
+		<!-- This claw can be obtained by defeating a Tyrannosaurus. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8768" type="EtcItem" name="Diary Fragment">
+		<!-- This is a piece of a missing expedition member's diary. Deliver it to the expedition leader, Captain Marquez. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8769" type="EtcItem" name="Expedition Member's Letter">
+		<!-- This is a letter that a missing expedition member sent to his Elrokian friend Kirikachin. Deliver it to Kirikachin. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8770" type="EtcItem" name="Ornithomimus Claw">
+		<!-- Take this to Asamah, the chief's son. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8771" type="EtcItem" name="Deinonychus Bone">
+		<!-- Take this to Asamah, the chief's son. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8772" type="EtcItem" name="Pachycephalosaurus Skin">
+		<!-- Take this to Asamah, the chief's son. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8773" type="EtcItem" name="Practice Elrokian Trap">
+		<!-- Take this practice trap, which is necessary for learning a special Elrokian tribal skill, to Kirikachin. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8774" type="EtcItem" name="Dinosaur Tissue">
+		<!-- This Dinosaur Tissue is a research ingredient for magicians and Dwarven craftsmen. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8775" type="EtcItem" name="Dinosaur Egg">
+		<!-- This Dinosaur Egg is a research ingredient (along with Dinosaur Tissue) for magicians and Dwarven craftsmen. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8776" type="EtcItem" name="Bones of a Plains Dinosaur">
+		<!-- This is a research ingredient for Shilen's priests and magicians. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8777" type="EtcItem" name="Ancient Creatures and How I Long To Be With Them">
+		<!-- Found in Rune's main library, this book contains information about ancient creatures. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8778" type="EtcItem" name="Mantarasa Egg">
+		<!-- This mysterious item can cure any illness. It can be obtained in the Primeval Isle's Lost Nest. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8779" type="EtcItem" name="Ornithomimus Claw">
+		<!-- This dinosaur claw can be used by the Elrokian Shaman Karakawei to perform a special ritual. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8780" type="EtcItem" name="Deinonychus Bone Fragment">
+		<!-- This dinosaur bone fragment can be used by the Elrokian Shaman Karakawei to perform a special ritual. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8781" type="EtcItem" name="Epitaph of Wisdom">
+		<!-- This epitaph can be obtained from the Chuta Kaimu Pillar of Wisdom in the Lost Nest. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8782" type="EtcItem" name="Gazkh Fragment">
+		<!-- This is a fragment of the axe Gazkh that Shilen gave to the Elrokian warriors long ago. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8783" type="EtcItem" name="Bone Powder">
+		<!-- These ash-like remains of an ancient Elrokian warrior can be obtained after performing a memorial service at the Warrior's Grave. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8784" type="EtcItem" name="Gazkh">
+		<!-- This ancient axe, Gazkh, can be reformed by Shilen's Stone Statue. It is necessary to battle Sailren. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8785" type="EtcItem" name="Dinosaur Fang Necklace">
+		<!-- This necklace is the mark of the ancient Elrokians who raid the wharf. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8786" type="EtcItem" name="Primeval Potion">
+		<!-- Increases resistance to poison and anesthesia. -->
+		<set name="item_type" val="potion"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="5000"/>
+	</item>
+	<item id="8787" type="EtcItem" name="Sprigant's Fruit">
+		<!-- This fruit, dropped by Sprigants, increases resistance to poison and anesthesia. -->
+		<set name="item_type" val="potion"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8788" type="Weapon" name="Sirra's Blade - Haste">
+		<!-- <Soul Crystal Enhancement>. Increases Atk. Spd. by 6%. Increases damage inflicted during PvP. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1300"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_dam" val="251"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="sword"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="379"/>
+		<set name="m_dam" val="121"/>
+		<set name="crystal_count" val="2824"/>
+		<set name="item_skill_id" val="3037"/> <!-- Special Ability: Haste -->
+		<set name="item_skill_lvl" val="6"/>
+		<for>
+			<set val="251" order="0x08" stat="pAtk"/>
+			<set val="121" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<add val="0" order="0x10" stat="accCombat"/>
+			<set val="379" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- Enhances damage to target during PvP -->
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg"/>
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg"/>
+			<!-- SA: Haste -->
+			<mul val="1.06" order="0x30" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="8789" type="Weapon" name="Sirra's Blade - Health">
+		<!-- <Soul Crystal Enhancement>. Increases maximum HP by 25%. Increases damage inflicted during PvP. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1300"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_dam" val="251"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="sword"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="379"/>
+		<set name="m_dam" val="121"/>
+		<set name="crystal_count" val="2824"/>
+		<set name="item_skill_id" val="3013"/> <!-- Special Ability: Health -->
+		<set name="item_skill_lvl" val="4"/>
+		<for>
+			<set val="251" order="0x08" stat="pAtk"/>
+			<set val="121" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<add val="0" order="0x10" stat="accCombat"/>
+			<set val="379" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- Enhances damage to target during PvP -->
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg"/>
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg"/>
+		</for>
+	</item>
+	<item id="8790" type="Weapon" name="Sirra's Blade - Critical Poison">
+		<!-- <Soul Crystal Enhancement>. Increases the possibility that the target will be poisoned by 15% during a regular critical attack. Increases damage inflicted during PvP. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1300"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_dam" val="251"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="sword"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="379"/>
+		<set name="m_dam" val="121"/>
+		<set name="crystal_count" val="2824"/>
+		<set name="onCrit_skill_id" val="3024"/> <!-- Special Ability: Critical Poison -->
+		<set name="onCrit_skill_lvl" val="6"/>
+		<set name="onCrit_skill_chance" val="15"/>
+		<for>
+			<set val="251" order="0x08" stat="pAtk"/>
+			<set val="121" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<add val="0" order="0x10" stat="accCombat"/>
+			<set val="379" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- Enhances damage to target during PvP -->
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg"/>
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg"/>
+		</for>
+	</item>
+	<item id="8791" type="Weapon" name="Sword of Ipos - Focus">
+		<!-- <Soul Crystal Enhancement> Increases Critical by 61. Increases damage inflicted during PvP. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1820"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_dam" val="305"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="bigsword"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="121"/>
+		<set name="crystal_count" val="2824"/>
+		<set name="item_skill_id" val="3050"/> <!-- Special Ability: Focus -->
+		<set name="item_skill_lvl" val="2"/>
+		<for>
+			<set val="305" order="0x08" stat="pAtk"/>
+			<set val="121" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<add val="0" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- Enhances damage to target during PvP -->
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg"/>
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg"/>
+			<!-- SA: Focus -->
+			<add val="61" order="0x40" stat="rCrit"/>
+		</for>
+	</item>
+	<item id="8792" type="Weapon" name="Sword of Ipos - Haste">
+		<!-- <Soul Crystal Enhancement>. Increases Atk. Spd. by 6%. Increases damage inflicted during PvP. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1820"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_dam" val="305"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="bigsword"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="121"/>
+		<set name="crystal_count" val="2824"/>
+		<set name="item_skill_id" val="3037"/> <!-- Special Ability: Haste -->
+		<set name="item_skill_lvl" val="6"/>
+		<for>
+			<set val="305" order="0x08" stat="pAtk"/>
+			<set val="121" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<add val="0" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- Enhances damage to target during PvP -->
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg"/>
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg"/>
+			<!-- SA: Haste -->
+			<mul val="1.06" order="0x30" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="8793" type="Weapon" name="Sword of Ipos - Health">
+		<!-- <Soul Crystal Enhancement>. Increases maximum HP by 25%. Increases damage inflicted during PvP. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1820"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_dam" val="305"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="bigsword"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="121"/>
+		<set name="crystal_count" val="2824"/>
+		<set name="item_skill_id" val="3013"/> <!-- Special Ability: Health -->
+		<set name="item_skill_lvl" val="4"/>
+		<for>
+			<set val="305" order="0x08" stat="pAtk"/>
+			<set val="121" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<add val="0" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- Enhances damage to target during PvP -->
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg"/>
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg"/>
+		</for>
+	</item>
+	<item id="8794" type="Weapon" name="Barakiel's Axe - Health">
+		<!-- <Soul Crystal Enhancement>. Increases maximum HP by 25%. Increases damage inflicted during PvP. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1550"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_dam" val="251"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="blunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="379"/>
+		<set name="m_dam" val="121"/>
+		<set name="crystal_count" val="2824"/>
+		<set name="item_skill_id" val="3013"/> <!-- Special Ability: Health -->
+		<set name="item_skill_lvl" val="4"/>
+		<for>
+			<set val="251" order="0x08" stat="pAtk"/>
+			<set val="121" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="379" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- Enhances damage to target during PvP -->
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg"/>
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg"/>
+		</for>
+	</item>
+	<item id="8795" type="Weapon" name="Barakiel's Axe - Haste">
+		<!-- <Soul Crystal Enhancement>. Increases Atk. Spd. by 6%. Increases damage inflicted during PvP. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1550"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_dam" val="251"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="blunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="379"/>
+		<set name="m_dam" val="121"/>
+		<set name="crystal_count" val="2824"/>
+		<set name="item_skill_id" val="3037"/> <!-- Special Ability: Haste -->
+		<set name="item_skill_lvl" val="6"/>
+		<for>
+			<set val="251" order="0x08" stat="pAtk"/>
+			<set val="121" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="379" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- Enhances damage to target during PvP -->
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg"/>
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg"/>
+			<!-- SA: Haste -->
+			<mul val="1.06" order="0x30" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="8796" type="Weapon" name="Barakiel's Axe - Focus">
+		<!-- <Soul Crystal Enhancement> Increases Critical by 61. Increases damage inflicted during PvP. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1550"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_dam" val="251"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="blunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="379"/>
+		<set name="m_dam" val="121"/>
+		<set name="crystal_count" val="2824"/>
+		<set name="item_skill_id" val="3050"/> <!-- Special Ability: Focus -->
+		<set name="item_skill_lvl" val="2"/>
+		<for>
+			<set val="251" order="0x08" stat="pAtk"/>
+			<set val="121" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="379" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- Enhances damage to target during PvP -->
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg"/>
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg"/>
+			<!-- SA: Focus -->
+			<add val="61" order="0x40" stat="rCrit"/>
+		</for>
+	</item>
+	<item id="8797" type="Weapon" name="Behemoth's Tuning Fork - Focus">
+		<!-- <Soul Crystal Enhancement> Increases Critical by 61. Increases damage inflicted during PvP. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1890"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_dam" val="305"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="bigblunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="121"/>
+		<set name="crystal_count" val="2824"/>
+		<set name="item_skill_id" val="3050"/> <!-- Special Ability: Focus -->
+		<set name="item_skill_lvl" val="2"/>
+		<for>
+			<set val="305" order="0x08" stat="pAtk"/>
+			<set val="121" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- Enhances damage to target during PvP -->
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg"/>
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg"/>
+			<!-- SA: Focus -->
+			<add val="61" order="0x40" stat="rCrit"/>
+		</for>
+	</item>
+	<item id="8798" type="Weapon" name="Behemoth's Tuning Fork - Health">
+		<!-- <Soul Crystal Enhancement>. Increases maximum HP by 25%. Increases damage inflicted during PvP. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1890"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_dam" val="305"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="bigblunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="121"/>
+		<set name="crystal_count" val="2824"/>
+		<set name="item_skill_id" val="3013"/> <!-- Special Ability: Health -->
+		<set name="item_skill_lvl" val="4"/>
+		<for>
+			<set val="305" order="0x08" stat="pAtk"/>
+			<set val="121" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- Enhances damage to target during PvP -->
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg"/>
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg"/>
+		</for>
+	</item>
+	<item id="8799" type="Weapon" name="Behemoth's Tuning Fork - Anger">
+		<!-- <Soul Crystal Enhancement>. Decreases maximum HP by 15% and increases P. Atk. by 32. Enhances damage to target during PvP. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1890"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_dam" val="305"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="bigblunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="121"/>
+		<set name="crystal_count" val="2824"/>
+		<set name="item_skill_id" val="3057"/> <!-- Special Ability: Anger -->
+		<set name="item_skill_lvl" val="1"/>
+		<for>
+			<set val="305" order="0x08" stat="pAtk"/>
+			<set val="121" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- Enhances damage to target during PvP -->
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg"/>
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg"/>
+		</for>
+	</item>
+</list>

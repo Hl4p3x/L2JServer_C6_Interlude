@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- C-Grade Armors -->
+
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/multisell.xsd">
+
+	<!-- Full Plate Heavy Armor -->
+	<item id="1">
+		<ingredient id="57" count="3500000"/>
+		<production id="356" count="1"/>
+		<production id="2414" count="1"/>
+		<production id="2438" count="1"/>
+		<production id="2462" count="1"/>
+		<production id="2497" count="1"/>
+	</item>
+
+	<!-- Theca Leather Light Armor -->
+	<item id="2">
+		<ingredient id="57" count="3500000"/>
+		<production id="400" count="1"/>
+		<production id="420" count="1"/>
+		<production id="2436" count="1"/>
+		<production id="2460" count="1"/>
+		<production id="2414" count="1"/>
+	</item>
+
+	<!-- Plated Leather Light Armor -->
+	<item id="3">
+		<ingredient id="57" count="3500000"/>
+		<production id="398" count="1"/>
+		<production id="418" count="1"/>
+		<production id="2431" count="1"/>
+		<production id="2455" count="1"/>
+		<production id="2414" count="1"/>
+	</item>
+
+	<!-- Karmian Robe Armor -->
+	<item id="4">
+		<ingredient id="57" count="3500000"/>
+		<production id="439" count="1"/>
+		<production id="471" count="1"/>
+		<production id="2430" count="1"/>
+		<production id="2454" count="1"/>
+		<production id="2414" count="1"/>
+	</item>
+
+	<!-- Demon's Robe Armor -->
+	<item id="5">
+		<ingredient id="57" count="3500000"/>
+		<production id="441" count="1"/>
+		<production id="472" count="1"/>
+		<production id="2435" count="1"/>
+		<production id="2459" count="1"/>
+		<production id="2414" count="1"/>
+	</item>
+
+</list>

@@ -1,0 +1,1898 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="9000" type="Weapon" name="Shadow Item: Stormbringer*Stormbringer">
+		<!-- This Shadow Item contains the mirrored power of a Stormbringer*Stormbringer. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="780"/>
+		<set name="soulshots" val="3"/>
+		<set name="spiritshots" val="3"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="175"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="dual"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="78"/>
+		<set name="duration" val="600"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<set val="175" order="0x08" stat="pAtk"/>
+			<set val="78" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<add val="0" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="9001" type="Weapon" name="Shadow Item: Great Sword">
+		<!-- This Shadow Item contains the mirrored power of a Great Sword. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="650"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="b"/>
+		<set name="p_dam" val="213"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="bigsword"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="91"/>
+		<set name="duration" val="600"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<set val="213" order="0x08" stat="pAtk"/>
+			<set val="91" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<add val="0" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="9002" type="Weapon" name="Shadow Item: Heavy War Axe">
+		<!-- This Shadow Item contains the mirrored power of a Heavy War Axe. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="540"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="b"/>
+		<set name="p_dam" val="175"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="blunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="379"/>
+		<set name="m_dam" val="91"/>
+		<set name="duration" val="600"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<set val="175" order="0x08" stat="pAtk"/>
+			<set val="91" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="379" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="9003" type="Weapon" name="Shadow Item: Sprite's Staff">
+		<!-- This Shadow Item contains the mirrored power of a Sprite's Staff. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="320"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="b"/>
+		<set name="p_dam" val="170"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="bigblunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="122"/>
+		<set name="duration" val="600"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<set val="170" order="0x08" stat="pAtk"/>
+			<set val="122" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="9004" type="Weapon" name="Shadow Item: Keshanberk">
+		<!-- This Shadow Item contains the mirrored power of a Keshanberk. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="460"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="b"/>
+		<set name="p_dam" val="175"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="sword"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="379"/>
+		<set name="m_dam" val="91"/>
+		<set name="duration" val="600"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<set val="175" order="0x08" stat="pAtk"/>
+			<set val="91" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<add val="0" order="0x10" stat="accCombat"/>
+			<set val="379" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="9005" type="Weapon" name="Shadow Item: Sword of Valhalla">
+		<!-- This Shadow Item contains the mirrored power of a Sword of Valhalla. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="300"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="b"/>
+		<set name="p_dam" val="140"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="sword"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="379"/>
+		<set name="m_dam" val="122"/>
+		<set name="duration" val="600"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<set val="140" order="0x08" stat="pAtk"/>
+			<set val="122" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<add val="0" order="0x10" stat="accCombat"/>
+			<set val="379" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="9006" type="Weapon" name="Shadow Item: Kris">
+		<!-- This Shadow Item contains the mirrored power of a Kris. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="330"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="b"/>
+		<set name="p_dam" val="153"/>
+		<set name="rnd_dam" val="5"/>
+		<set name="weapon_type" val="dagger"/>
+		<set name="critical" val="12"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="433"/>
+		<set name="m_dam" val="91"/>
+		<set name="duration" val="600"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<set val="153" order="0x08" stat="pAtk"/>
+			<set val="91" order="0x08" stat="mAtk"/>
+			<set val="12" order="0x08" stat="rCrit"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="433" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="9007" type="Weapon" name="Shadow Item: Arthro Nail">
+		<!-- This Shadow Item contains the mirrored power of an Arthro Nail. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="480"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="b"/>
+		<set name="p_dam" val="213"/>
+		<set name="rnd_dam" val="5"/>
+		<set name="weapon_type" val="dualfist"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="91"/>
+		<set name="duration" val="600"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<set val="213" order="0x08" stat="pAtk"/>
+			<set val="91" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="9008" type="Weapon" name="Shadow Item: Dark Elven Long Bow">
+		<!-- This Shadow Item contains the mirrored power of a Dark Elven Long Bow. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="580"/>
+		<set name="soulshots" val="3"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="b"/>
+		<set name="p_dam" val="397"/>
+		<set name="rnd_dam" val="5"/>
+		<set name="weapon_type" val="bow"/>
+		<set name="critical" val="12"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="227"/>
+		<set name="mp_consume" val="8"/>
+		<set name="m_dam" val="100"/>
+		<set name="duration" val="600"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<set val="397" order="0x08" stat="pAtk"/>
+			<set val="100" order="0x08" stat="mAtk"/>
+			<set val="12" order="0x08" stat="rCrit"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="227" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="9009" type="Weapon" name="Shadow Item: Sword of Delusion*Sword of Delusion">
+		<!-- This Shadow Item contains the mirrored power of a Sword of Delusion*Sword of Delusion. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="720"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="b"/>
+		<set name="p_dam" val="213"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="dual"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="91"/>
+		<set name="duration" val="600"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<set val="213" order="0x08" stat="pAtk"/>
+			<set val="91" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<add val="0" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="9010" type="Weapon" name="Shadow Item: Great Axe">
+		<!-- This Shadow Item contains the mirrored power of a Great Axe. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="650"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="b"/>
+		<set name="p_dam" val="175"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="pole"/>
+		<set name="critical" val="8"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="91"/>
+		<set name="duration" val="600"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<set val="175" order="0x08" stat="pAtk"/>
+			<set val="91" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<set val="66" order="0x08" stat="pAtkRange"/>
+		</for>
+	</item>
+	<item id="9011" type="Weapon" name="Shadow Item: Tallum Blade">
+		<!-- This Shadow Item contains the mirrored power of a Tallum Blade. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="450"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_dam" val="213"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="sword"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="379"/>
+		<set name="m_dam" val="107"/>
+		<set name="duration" val="600"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<set val="213" order="0x08" stat="pAtk"/>
+			<set val="107" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<add val="0" order="0x10" stat="accCombat"/>
+			<set val="379" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="9012" type="Weapon" name="Shadow Item: Halberd">
+		<!-- This Shadow Item contains the mirrored power of a Halberd. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="640"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_dam" val="213"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="pole"/>
+		<set name="critical" val="8"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="107"/>
+		<set name="duration" val="600"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<set val="213" order="0x08" stat="pAtk"/>
+			<set val="107" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="9013" type="Weapon" name="Shadow Item: Dasparion's Staff">
+		<!-- This Shadow Item contains the mirrored power of a Dasparion's Staff. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="310"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_dam" val="207"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="bigblunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="143"/>
+		<set name="duration" val="600"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<set val="207" order="0x08" stat="pAtk"/>
+			<set val="143" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="9014" type="Weapon" name="Shadow Item: Bloody Orchid">
+		<!-- This Shadow Item contains the mirrored power of a Bloody Orchid. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="320"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_dam" val="186"/>
+		<set name="rnd_dam" val="5"/>
+		<set name="weapon_type" val="dagger"/>
+		<set name="critical" val="12"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="433"/>
+		<set name="m_dam" val="107"/>
+		<set name="duration" val="600"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<set val="186" order="0x08" stat="pAtk"/>
+			<set val="107" order="0x08" stat="mAtk"/>
+			<set val="12" order="0x08" stat="rCrit"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="433" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="9015" type="Weapon" name="Shadow Item: Blood Tornado">
+		<!-- This Shadow Item contains the mirrored power of a Blood Tornado. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="460"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_dam" val="259"/>
+		<set name="rnd_dam" val="5"/>
+		<set name="weapon_type" val="dualfist"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="107"/>
+		<set name="duration" val="600"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<set val="259" order="0x08" stat="pAtk"/>
+			<set val="107" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="9016" type="Weapon" name="Shadow Item: Carnage Bow">
+		<!-- This Shadow Item contains the mirrored power of a Carnage Bow. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="560"/>
+		<set name="soulshots" val="2"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_dam" val="440"/>
+		<set name="rnd_dam" val="5"/>
+		<set name="weapon_type" val="bow"/>
+		<set name="critical" val="12"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="293"/>
+		<set name="mp_consume" val="9"/>
+		<set name="m_dam" val="107"/>
+		<set name="duration" val="600"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<set val="440" order="0x08" stat="pAtk"/>
+			<set val="107" order="0x08" stat="mAtk"/>
+			<set val="12" order="0x08" stat="rCrit"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="293" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="9017" type="Weapon" name="Shadow Item: Keshanberk*Keshanberk">
+		<!-- This Shadow Item contains the mirrored power of a Keshanberk*Keshanberk. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="700"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_dam" val="259"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="dual"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="107"/>
+		<set name="duration" val="600"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<set val="259" order="0x08" stat="pAtk"/>
+			<set val="107" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<add val="0" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="9018" type="Weapon" name="Shadow Item: Meteor Shower">
+		<!-- This Shadow Item contains the mirrored power of a Meteor Shower. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="540"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_dam" val="213"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="blunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="379"/>
+		<set name="m_dam" val="107"/>
+		<set name="duration" val="600"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<set val="213" order="0x08" stat="pAtk"/>
+			<set val="107" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="379" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="9019" type="Weapon" name="Shadow Item: Inferno Master">
+		<!-- This Shadow Item contains the mirrored power of an Inferno Master. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="640"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_dam" val="259"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="bigsword"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="107"/>
+		<set name="duration" val="600"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<set val="259" order="0x08" stat="pAtk"/>
+			<set val="107" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<add val="0" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="9020" type="Weapon" name="Shadow Item: Keshanberk*Damascus">
+		<!-- This Shadow Item contains the mirrored power of a Keshanberk*Damascus. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="693"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_dam" val="275"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="dual"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="112"/>
+		<set name="duration" val="600"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<set val="275" order="0x08" stat="pAtk"/>
+			<set val="112" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<add val="0" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="9021" type="Weapon" name="Shadow Item: Dragon Slayer">
+		<!-- This Shadow Item contains the mirrored power of a Dragon Slayer. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="613"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_dam" val="282"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="bigsword"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="114"/>
+		<set name="duration" val="600"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<set val="282" order="0x08" stat="pAtk"/>
+			<set val="114" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<add val="0" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="9022" type="Weapon" name="Shadow Item: Sword of Miracles">
+		<!-- This Shadow Item contains the mirrored power of a Sword of Miracles. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="280"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_dam" val="186"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="sword"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="379"/>
+		<set name="m_dam" val="152"/>
+		<set name="duration" val="600"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<set val="186" order="0x08" stat="pAtk"/>
+			<set val="152" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<add val="0" order="0x10" stat="accCombat"/>
+			<set val="379" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="9023" type="Weapon" name="Shadow Item: Elysian">
+		<!-- This Shadow Item contains the mirrored power of an Elysian. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="527"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_dam" val="232"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="blunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="379"/>
+		<set name="m_dam" val="114"/>
+		<set name="duration" val="600"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<set val="232" order="0x08" stat="pAtk"/>
+			<set val="114" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="379" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="9024" type="Weapon" name="Shadow Item: Branch of the Mother Tree">
+		<!-- This Shadow Item contains the mirrored power of a Branch of the Mother Tree. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="300"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_dam" val="226"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="bigblunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="152"/>
+		<set name="duration" val="600"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<set val="226" order="0x08" stat="pAtk"/>
+			<set val="152" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="9025" type="Weapon" name="Shadow Item: Soul Separator">
+		<!-- This Shadow Item contains the mirrored power of a Soul Separator. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="317"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_dam" val="203"/>
+		<set name="rnd_dam" val="5"/>
+		<set name="weapon_type" val="dagger"/>
+		<set name="critical" val="12"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="433"/>
+		<set name="m_dam" val="114"/>
+		<set name="duration" val="600"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<set val="203" order="0x08" stat="pAtk"/>
+			<set val="114" order="0x08" stat="mAtk"/>
+			<set val="12" order="0x08" stat="rCrit"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="433" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="9026" type="Weapon" name="Shadow Item: Dragon Grinder">
+		<!-- This Shadow Item contains the mirrored power of a Dragon Grinder. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="450"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_dam" val="282"/>
+		<set name="rnd_dam" val="5"/>
+		<set name="weapon_type" val="dualfist"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="114"/>
+		<set name="duration" val="600"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<set val="282" order="0x08" stat="pAtk"/>
+			<set val="114" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="9027" type="Weapon" name="Shadow Item: Soul Bow">
+		<!-- This Shadow Item contains the mirrored power of a Soul Bow. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="553"/>
+		<set name="soulshots" val="2"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_dam" val="528"/>
+		<set name="rnd_dam" val="5"/>
+		<set name="weapon_type" val="bow"/>
+		<set name="critical" val="12"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="227"/>
+		<set name="mp_consume" val="10"/>
+		<set name="m_dam" val="125"/>
+		<set name="duration" val="600"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<set val="528" order="0x08" stat="pAtk"/>
+			<set val="125" order="0x08" stat="mAtk"/>
+			<set val="12" order="0x08" stat="rCrit"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="227" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="9028" type="Weapon" name="Shadow Item: Tallum Glaive">
+		<!-- This Shadow Item contains the mirrored power of a Tallum Glaive. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="613"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_dam" val="232"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="pole"/>
+		<set name="critical" val="8"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="114"/>
+		<set name="duration" val="600"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<set val="232" order="0x08" stat="pAtk"/>
+			<set val="114" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<set val="66" order="0x08" stat="pAtkRange"/>
+		</for>
+	</item>
+	<item id="9029" type="Weapon" name="Shadow Item: Dark Legion">
+		<!-- This Shadow Item contains the mirrored power of a Dark Legion. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="440"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_dam" val="232"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="sword"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="379"/>
+		<set name="m_dam" val="114"/>
+		<set name="duration" val="600"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<set val="232" order="0x08" stat="pAtk"/>
+			<set val="114" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<add val="0" order="0x10" stat="accCombat"/>
+			<set val="379" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="9030" type="Armor" name="Shadow Item: Bronze Breastplate">
+		<!-- This Shadow Item contains the mirrored power of a Bronze Breastplate. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="chest"/>
+		<set name="armor_type" val="heavy"/>
+		<set name="weight" val="2973"/>
+		<set name="crystal_type" val="none"/>
+		<set name="duration" val="600"/>
+		<set name="p_def" val="68"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<add val="68" order="0x10" stat="pDef"/>
+		</for>
+	</item>
+	<item id="9031" type="Armor" name="Shadow Item: Bronze Gaiters">
+		<!-- This Shadow Item contains the mirrored power of Bronze Gaiters. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="legs"/>
+		<set name="armor_type" val="heavy"/>
+		<set name="weight" val="1320"/>
+		<set name="crystal_type" val="none"/>
+		<set name="duration" val="600"/>
+		<set name="p_def" val="43"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<add val="43" order="0x10" stat="pDef"/>
+		</for>
+	</item>
+	<item id="9032" type="Armor" name="Shadow Item: Hard Leather Shirt">
+		<!-- This Shadow Item contains the mirrored power of a Hard Leather Shirt. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="chest"/>
+		<set name="armor_type" val="light"/>
+		<set name="weight" val="1573"/>
+		<set name="crystal_type" val="none"/>
+		<set name="duration" val="600"/>
+		<set name="p_def" val="53"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<add val="53" order="0x10" stat="pDef"/>
+		</for>
+	</item>
+	<item id="9033" type="Armor" name="Shadow Item: Hard Leather Gaiters">
+		<!-- This Shadow Item contains the mirrored power of Hard Leather Gaiters. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="legs"/>
+		<set name="armor_type" val="light"/>
+		<set name="weight" val="537"/>
+		<set name="crystal_type" val="none"/>
+		<set name="duration" val="600"/>
+		<set name="p_def" val="33"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<add val="33" order="0x10" stat="pDef"/>
+		</for>
+	</item>
+	<item id="9034" type="Armor" name="Shadow Item: Tunic of Magic">
+		<!-- This Shadow Item contains the mirrored power of a Tunic of Magic. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="chest"/>
+		<set name="armor_type" val="magic"/>
+		<set name="weight" val="693"/>
+		<set name="crystal_type" val="none"/>
+		<set name="duration" val="600"/>
+		<set name="p_def" val="34"/>
+		<set name="mp_bonus" val="86"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<add val="34" order="0x10" stat="pDef"/>
+			<add val="86" order="0x60" stat="maxMp"/>
+		</for>
+	</item>
+	<item id="9035" type="Armor" name="Shadow Item: Stockings of Magic">
+		<!-- This Shadow Item contains the mirrored power of Stockings of Magic. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="legs"/>
+		<set name="armor_type" val="magic"/>
+		<set name="weight" val="343"/>
+		<set name="crystal_type" val="none"/>
+		<set name="duration" val="600"/>
+		<set name="p_def" val="21"/>
+		<set name="mp_bonus" val="54"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<add val="21" order="0x10" stat="pDef"/>
+			<add val="54" order="0x60" stat="maxMp"/>
+		</for>
+	</item>
+	<item id="9036" type="Weapon" name="Shadow Item: Bone Shield">
+		<!-- This Shadow Item contains the mirrored power of a Bone Shield. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="lhand"/>
+		<set name="weight" val="460"/>
+		<set name="crystal_type" val="none"/>
+		<set name="weapon_type" val="none"/>
+		<set name="avoid_modify" val="-8"/>
+		<set name="shield_def" val="90"/>
+		<set name="shield_def_rate" val="20"/>
+		<set name="duration" val="600"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<sub val="8" order="0x10" stat="rEvas"/>
+			<set val="90" order="0x08" stat="sDef"/>
+			<set val="20" order="0x08" stat="rShld"/>
+		</for>
+	</item>
+	<item id="9037" type="Armor" name="Shadow Item: Hard Leather Helmet">
+		<!-- This Shadow Item contains the mirrored power of a Hard Leather Helmet. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="head"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="213"/>
+		<set name="crystal_type" val="none"/>
+		<set name="duration" val="600"/>
+		<set name="p_def" val="26"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<add val="26" order="0x10" stat="pDef"/>
+		</for>
+	</item>
+	<item id="9038" type="Armor" name="Shadow Item: Boots">
+		<!-- This Shadow Item contains the mirrored power of Boots. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="feet"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="437"/>
+		<set name="crystal_type" val="none"/>
+		<set name="duration" val="600"/>
+		<set name="p_def" val="17"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<add val="17" order="0x10" stat="pDef"/>
+		</for>
+	</item>
+	<item id="9039" type="Armor" name="Shadow Item: Bracer">
+		<!-- This Shadow Item contains the mirrored power of a Bracer. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="gloves"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="217"/>
+		<set name="crystal_type" val="none"/>
+		<set name="duration" val="600"/>
+		<set name="p_def" val="17"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<add val="17" order="0x10" stat="pDef"/>
+		</for>
+	</item>
+	<item id="9040" type="Armor" name="Shadow Item: Mithril Breastplate">
+		<!-- This Shadow Item contains the mirrored power of a Mithril Breastplate. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="chest"/>
+		<set name="armor_type" val="heavy"/>
+		<set name="weight" val="2890"/>
+		<set name="crystal_type" val="d"/>
+		<set name="duration" val="600"/>
+		<set name="p_def" val="95"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<add val="95" order="0x10" stat="pDef"/>
+		</for>
+	</item>
+	<item id="9041" type="Armor" name="Shadow Item: Mithril Gaiters">
+		<!-- This Shadow Item contains the mirrored power of Mithril Gaiters. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="legs"/>
+		<set name="armor_type" val="heavy"/>
+		<set name="weight" val="1277"/>
+		<set name="crystal_type" val="d"/>
+		<set name="duration" val="600"/>
+		<set name="p_def" val="61"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<add val="61" order="0x10" stat="pDef"/>
+		</for>
+	</item>
+	<item id="9042" type="Armor" name="Shadow Item: Gauntlet">
+		<!-- This Shadow Item contains the mirrored power of Gauntlets. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="gloves"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="213"/>
+		<set name="crystal_type" val="d"/>
+		<set name="duration" val="600"/>
+		<set name="p_def" val="24"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<add val="24" order="0x10" stat="pDef"/>
+		</for>
+	</item>
+	<item id="9043" type="Armor" name="Shadow Item: Iron Boots">
+		<!-- This Shadow Item contains the mirrored power of Iron Boots. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="feet"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="427"/>
+		<set name="crystal_type" val="d"/>
+		<set name="duration" val="600"/>
+		<set name="p_def" val="24"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<add val="24" order="0x10" stat="pDef"/>
+		</for>
+	</item>
+	<item id="9044" type="Weapon" name="Shadow Item: Hoplon">
+		<!-- This Shadow Item contains the mirrored power of a Hoplon. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="lhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="447"/>
+		<set name="crystal_type" val="d"/>
+		<set name="weapon_type" val="none"/>
+		<set name="avoid_modify" val="-8"/>
+		<set name="shield_def" val="128"/>
+		<set name="shield_def_rate" val="20"/>
+		<set name="duration" val="600"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<sub val="8" order="0x10" stat="rEvas"/>
+			<set val="128" order="0x08" stat="sDef"/>
+			<set val="20" order="0x08" stat="rShld"/>
+		</for>
+	</item>
+	<item id="9045" type="Armor" name="Shadow Item: Reinforced Leather Shirt">
+		<!-- This Shadow Item contains the mirrored power of a Reinforced Leather Shirt. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="chest"/>
+		<set name="armor_type" val="light"/>
+		<set name="weight" val="1523"/>
+		<set name="crystal_type" val="d"/>
+		<set name="duration" val="600"/>
+		<set name="p_def" val="73"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<add val="73" order="0x10" stat="pDef"/>
+		</for>
+	</item>
+	<item id="9046" type="Armor" name="Shadow Item: Reinforced Leather Gaiters">
+		<!-- This Shadow Item contains the mirrored power of Reinforced Leather Gaiters. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="legs"/>
+		<set name="armor_type" val="light"/>
+		<set name="weight" val="523"/>
+		<set name="crystal_type" val="d"/>
+		<set name="duration" val="600"/>
+		<set name="p_def" val="46"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<add val="46" order="0x10" stat="pDef"/>
+		</for>
+	</item>
+	<item id="9047" type="Armor" name="Shadow Item: Reinforced Leather Gloves">
+		<!-- This Shadow Item contains the mirrored power of Reinforced Leather Gloves. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="gloves"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="213"/>
+		<set name="crystal_type" val="d"/>
+		<set name="duration" val="600"/>
+		<set name="p_def" val="24"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<add val="24" order="0x10" stat="pDef"/>
+		</for>
+	</item>
+	<item id="9048" type="Armor" name="Shadow Item: Reinforced Leather Boots">
+		<!-- This Shadow Item contains the mirrored power of Reinforced Leather Boots. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="feet"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="427"/>
+		<set name="crystal_type" val="d"/>
+		<set name="duration" val="600"/>
+		<set name="p_def" val="24"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<add val="24" order="0x10" stat="pDef"/>
+		</for>
+	</item>
+	<item id="9049" type="Armor" name="Shadow Item: Tunic of Knowledge">
+		<!-- This Shadow Item contains the mirrored power of a Tunic of Knowledge. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="chest"/>
+		<set name="armor_type" val="magic"/>
+		<set name="weight" val="673"/>
+		<set name="crystal_type" val="d"/>
+		<set name="duration" val="600"/>
+		<set name="p_def" val="49"/>
+		<set name="mp_bonus" val="147"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<add val="49" order="0x10" stat="pDef"/>
+			<add val="147" order="0x60" stat="maxMp"/>
+		</for>
+	</item>
+	<item id="9050" type="Armor" name="Shadow Item: Stockings of Knowledge">
+		<!-- This Shadow Item contains the mirrored power of Stockings of Knowledge. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="legs"/>
+		<set name="armor_type" val="magic"/>
+		<set name="weight" val="333"/>
+		<set name="crystal_type" val="d"/>
+		<set name="duration" val="600"/>
+		<set name="p_def" val="30"/>
+		<set name="mp_bonus" val="92"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<add val="30" order="0x10" stat="pDef"/>
+			<add val="92" order="0x60" stat="maxMp"/>
+		</for>
+	</item>
+	<item id="9051" type="Armor" name="Shadow Item: Gloves of Knowledge">
+		<!-- This Shadow Item contains the mirrored power of Gloves of Knowledge. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="gloves"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="213"/>
+		<set name="crystal_type" val="d"/>
+		<set name="duration" val="600"/>
+		<set name="p_def" val="24"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<add val="24" order="0x10" stat="pDef"/>
+		</for>
+	</item>
+	<item id="9052" type="Armor" name="Shadow Item: Boots of Knowledge">
+		<!-- This Shadow Item contains the mirrored power of Boots of Knowledge. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="feet"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="423"/>
+		<set name="crystal_type" val="d"/>
+		<set name="duration" val="600"/>
+		<set name="p_def" val="24"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<add val="24" order="0x10" stat="pDef"/>
+		</for>
+	</item>
+	<item id="9053" type="Armor" name="Shadow Item: Helmet">
+		<!-- This Shadow Item contains the mirrored power of a Helmet. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="head"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="213"/>
+		<set name="crystal_type" val="d"/>
+		<set name="duration" val="600"/>
+		<set name="p_def" val="37"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<add val="37" order="0x10" stat="pDef"/>
+		</for>
+	</item>
+	<item id="9054" type="Armor" name="Shadow Item: Composite Armor">
+		<!-- This Shadow Item contains the mirrored power of Composite Armor. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="fullarmor"/>
+		<set name="armor_type" val="heavy"/>
+		<set name="weight" val="3660"/>
+		<set name="crystal_type" val="c"/>
+		<set name="duration" val="600"/>
+		<set name="p_def" val="224"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<add val="224" order="0x10" stat="pDef"/>
+		</for>
+	</item>
+	<item id="9055" type="Armor" name="Shadow Item: Composite Boots">
+		<!-- This Shadow Item contains the mirrored power of Composite Boots. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="feet"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="407"/>
+		<set name="crystal_type" val="c"/>
+		<set name="duration" val="600"/>
+		<set name="p_def" val="36"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<add val="36" order="0x10" stat="pDef"/>
+		</for>
+	</item>
+	<item id="9056" type="Weapon" name="Shadow Item: Composite Shield">
+		<!-- This Shadow Item contains the mirrored power of a Composite Shield. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="lhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="410"/>
+		<set name="crystal_type" val="c"/>
+		<set name="weapon_type" val="none"/>
+		<set name="avoid_modify" val="-8"/>
+		<set name="shield_def" val="190"/>
+		<set name="shield_def_rate" val="20"/>
+		<set name="duration" val="600"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<sub val="8" order="0x10" stat="rEvas"/>
+			<set val="190" order="0x08" stat="sDef"/>
+			<set val="20" order="0x08" stat="rShld"/>
+		</for>
+	</item>
+	<item id="9057" type="Armor" name="Shadow Item: Composite Helmet">
+		<!-- This Shadow Item contains the mirrored power of a Composite Helmet. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="head"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="203"/>
+		<set name="crystal_type" val="c"/>
+		<set name="duration" val="600"/>
+		<set name="p_def" val="54"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<add val="54" order="0x10" stat="pDef"/>
+		</for>
+	</item>
+	<item id="9058" type="Armor" name="Shadow Item: Theca Leather Armor">
+		<!-- This Shadow Item contains the mirrored power of Theca Leather Armor. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="chest"/>
+		<set name="armor_type" val="light"/>
+		<set name="weight" val="1457"/>
+		<set name="crystal_type" val="c"/>
+		<set name="duration" val="600"/>
+		<set name="p_def" val="106"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<add val="106" order="0x10" stat="pDef"/>
+		</for>
+	</item>
+	<item id="9059" type="Armor" name="Shadow Item: Theca Leather Gaiters">
+		<!-- This Shadow Item contains the mirrored power of Theca Leather Gaiters. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="legs"/>
+		<set name="armor_type" val="light"/>
+		<set name="weight" val="510"/>
+		<set name="crystal_type" val="c"/>
+		<set name="duration" val="600"/>
+		<set name="p_def" val="66"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<add val="66" order="0x10" stat="pDef"/>
+		</for>
+	</item>
+	<item id="9060" type="Armor" name="Shadow Item: Theca Leather Boots">
+		<!-- This Shadow Item contains the mirrored power of Theca Leather Boots. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="feet"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="403"/>
+		<set name="crystal_type" val="c"/>
+		<set name="duration" val="600"/>
+		<set name="p_def" val="37"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<add val="37" order="0x10" stat="pDef"/>
+		</for>
+	</item>
+	<item id="9061" type="Armor" name="Shadow Item: Theca Leather Gloves">
+		<!-- This Shadow Item contains the mirrored power of Theca Leather Gloves. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="gloves"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="200"/>
+		<set name="crystal_type" val="c"/>
+		<set name="duration" val="600"/>
+		<set name="p_def" val="37"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<add val="37" order="0x10" stat="pDef"/>
+		</for>
+	</item>
+	<item id="9062" type="Armor" name="Shadow Item: Demon's Tunic">
+		<!-- This Shadow Item contains the mirrored power of a Demon's Tunic. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="chest"/>
+		<set name="armor_type" val="magic"/>
+		<set name="weight" val="663"/>
+		<set name="crystal_type" val="c"/>
+		<set name="duration" val="600"/>
+		<set name="p_def" val="69"/>
+		<set name="mp_bonus" val="284"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<add val="69" order="0x10" stat="pDef"/>
+			<add val="284" order="0x60" stat="maxMp"/>
+		</for>
+	</item>
+	<item id="9063" type="Armor" name="Shadow Item: Demon's Stockings">
+		<!-- This Shadow Item contains the mirrored power of Demon's Stockings. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="legs"/>
+		<set name="armor_type" val="magic"/>
+		<set name="weight" val="327"/>
+		<set name="crystal_type" val="c"/>
+		<set name="duration" val="600"/>
+		<set name="p_def" val="43"/>
+		<set name="mp_bonus" val="177"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<add val="43" order="0x10" stat="pDef"/>
+			<add val="177" order="0x60" stat="maxMp"/>
+		</for>
+	</item>
+	<item id="9064" type="Armor" name="Shadow Item: Demon's Boots">
+		<!-- This Shadow Item contains the mirrored power of Demon's Boots. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="feet"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="407"/>
+		<set name="crystal_type" val="c"/>
+		<set name="duration" val="600"/>
+		<set name="p_def" val="36"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<add val="36" order="0x10" stat="pDef"/>
+		</for>
+	</item>
+	<item id="9065" type="Armor" name="Shadow Item: Demon's Gloves">
+		<!-- This Shadow Item contains the mirrored power of Demon's Gloves. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="gloves"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="203"/>
+		<set name="crystal_type" val="c"/>
+		<set name="duration" val="600"/>
+		<set name="p_def" val="36"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<add val="36" order="0x10" stat="pDef"/>
+		</for>
+	</item>
+	<item id="9066" type="Armor" name="Shadow Item: Shining Circlet">
+		<!-- This Shadow Item contains the mirrored power of a Shining Circlet. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="head"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="200"/>
+		<set name="crystal_type" val="c"/>
+		<set name="duration" val="600"/>
+		<set name="p_def" val="54"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<add val="54" order="0x10" stat="pDef"/>
+		</for>
+	</item>
+	<item id="9067" type="Armor" name="Shadow Item: Zubei's Breastplate">
+		<!-- This Shadow Item contains the mirrored power of a Zubei's Breastplate. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="chest"/>
+		<set name="armor_type" val="heavy"/>
+		<set name="weight" val="2657"/>
+		<set name="crystal_type" val="b"/>
+		<set name="duration" val="600"/>
+		<set name="p_def" val="157"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<add val="157" order="0x10" stat="pDef"/>
+		</for>
+	</item>
+	<item id="9068" type="Armor" name="Shadow Item: Zubei's Gaiters">
+		<!-- This Shadow Item contains the mirrored power of Zubei's Gaiters. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="legs"/>
+		<set name="armor_type" val="heavy"/>
+		<set name="weight" val="1190"/>
+		<set name="crystal_type" val="b"/>
+		<set name="duration" val="600"/>
+		<set name="p_def" val="98"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<add val="98" order="0x10" stat="pDef"/>
+		</for>
+	</item>
+	<item id="9069" type="Armor" name="Shadow Item: Zubei's Helmet">
+		<!-- This Shadow Item contains the mirrored power of a Zubei's Helmet. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="head"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="197"/>
+		<set name="crystal_type" val="b"/>
+		<set name="duration" val="600"/>
+		<set name="p_def" val="62"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<add val="62" order="0x10" stat="pDef"/>
+		</for>
+	</item>
+	<item id="9070" type="Weapon" name="Shadow Item: Zubei's Shield">
+		<!-- This Shadow Item contains the mirrored power of a Zubei's Shield. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="lhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="403"/>
+		<set name="crystal_type" val="b"/>
+		<set name="weapon_type" val="none"/>
+		<set name="avoid_modify" val="-8"/>
+		<set name="shield_def" val="216"/>
+		<set name="shield_def_rate" val="20"/>
+		<set name="duration" val="600"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<sub val="8" order="0x10" stat="rEvas"/>
+			<set val="216" order="0x08" stat="sDef"/>
+			<set val="20" order="0x08" stat="rShld"/>
+		</for>
+	</item>
+	<item id="9071" type="Armor" name="Shadow Item: Zubei's Gauntlet">
+		<!-- This Shadow Item contains the mirrored power of Zubei's Gauntlets. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="gloves"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="197"/>
+		<set name="crystal_type" val="b"/>
+		<set name="duration" val="600"/>
+		<set name="p_def" val="41"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<add val="41" order="0x10" stat="pDef"/>
+		</for>
+	</item>
+	<item id="9072" type="Armor" name="Shadow Item: Zubei's Boots">
+		<!-- This Shadow Item contains the mirrored power of Zubei's Boots. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="feet"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="393"/>
+		<set name="crystal_type" val="b"/>
+		<set name="duration" val="600"/>
+		<set name="p_def" val="41"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<add val="41" order="0x10" stat="pDef"/>
+		</for>
+	</item>
+	<item id="9073" type="Armor" name="Shadow Item: Zubei's Leather Shirt">
+		<!-- This Shadow Item contains the mirrored power of a Zubei's Leather Shirt. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="chest"/>
+		<set name="armor_type" val="light"/>
+		<set name="weight" val="1443"/>
+		<set name="crystal_type" val="b"/>
+		<set name="duration" val="600"/>
+		<set name="p_def" val="117"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<add val="117" order="0x10" stat="pDef"/>
+		</for>
+	</item>
+	<item id="9074" type="Armor" name="Shadow Item: Zubei's Leather Gaiters">
+		<!-- This Shadow Item contains the mirrored power of Zubei's Leather Gaiters. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="legs"/>
+		<set name="armor_type" val="light"/>
+		<set name="weight" val="493"/>
+		<set name="crystal_type" val="b"/>
+		<set name="duration" val="600"/>
+		<set name="p_def" val="73"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<add val="73" order="0x10" stat="pDef"/>
+		</for>
+	</item>
+	<item id="9075" type="Armor" name="Shadow Item: Zubei's Gauntlet">
+		<!-- This Shadow Item contains the mirrored power of Zubei's Gauntlets. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="gloves"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="197"/>
+		<set name="crystal_type" val="b"/>
+		<set name="duration" val="600"/>
+		<set name="p_def" val="41"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<add val="41" order="0x10" stat="pDef"/>
+		</for>
+	</item>
+	<item id="9076" type="Armor" name="Shadow Item: Zubei's Boots">
+		<!-- This Shadow Item contains the mirrored power of Zubei's Boots. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="feet"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="393"/>
+		<set name="crystal_type" val="b"/>
+		<set name="duration" val="600"/>
+		<set name="p_def" val="41"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<add val="41" order="0x10" stat="pDef"/>
+		</for>
+	</item>
+	<item id="9077" type="Armor" name="Shadow Item: Tunic of Zubei">
+		<!-- This Shadow Item contains the mirrored power of a Tunic of Zubei. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="chest"/>
+		<set name="armor_type" val="magic"/>
+		<set name="weight" val="653"/>
+		<set name="crystal_type" val="b"/>
+		<set name="duration" val="600"/>
+		<set name="p_def" val="78"/>
+		<set name="mp_bonus" val="345"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<add val="78" order="0x10" stat="pDef"/>
+			<add val="345" order="0x60" stat="maxMp"/>
+		</for>
+	</item>
+	<item id="9078" type="Armor" name="Shadow Item: Stockings of Zubei">
+		<!-- This Shadow Item contains the mirrored power of Stockings of Zubei. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="legs"/>
+		<set name="armor_type" val="magic"/>
+		<set name="weight" val="313"/>
+		<set name="crystal_type" val="b"/>
+		<set name="duration" val="600"/>
+		<set name="p_def" val="49"/>
+		<set name="mp_bonus" val="216"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<add val="49" order="0x10" stat="pDef"/>
+			<add val="216" order="0x60" stat="maxMp"/>
+		</for>
+	</item>
+	<item id="9079" type="Armor" name="Shadow Item: Zubei's Gauntlet">
+		<!-- This Shadow Item contains the mirrored power of Zubei's Gauntlets. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="gloves"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="197"/>
+		<set name="crystal_type" val="b"/>
+		<set name="duration" val="600"/>
+		<set name="p_def" val="41"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<add val="41" order="0x10" stat="pDef"/>
+		</for>
+	</item>
+	<item id="9080" type="Armor" name="Shadow Item: Zubei's Boots">
+		<!-- This Shadow Item contains the mirrored power of Zubei's Boots. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="feet"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="393"/>
+		<set name="crystal_type" val="b"/>
+		<set name="duration" val="600"/>
+		<set name="p_def" val="41"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<add val="41" order="0x10" stat="pDef"/>
+		</for>
+	</item>
+	<item id="9081" type="Armor" name="Shadow Item: Dark Crystal Breastplate">
+		<!-- This Shadow Item contains the mirrored power of a Dark Crystal Breastplate. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="chest"/>
+		<set name="armor_type" val="heavy"/>
+		<set name="weight" val="2567"/>
+		<set name="crystal_type" val="a"/>
+		<set name="duration" val="600"/>
+		<set name="p_def" val="171"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<add val="171" order="0x10" stat="pDef"/>
+		</for>
+	</item>
+	<item id="9082" type="Armor" name="Shadow Item: Dark Crystal Gaiters">
+		<!-- This Shadow Item contains the mirrored power of Dark Crystal Gaiters. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="legs"/>
+		<set name="armor_type" val="heavy"/>
+		<set name="weight" val="1107"/>
+		<set name="crystal_type" val="a"/>
+		<set name="duration" val="600"/>
+		<set name="p_def" val="107"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<add val="107" order="0x10" stat="pDef"/>
+		</for>
+	</item>
+	<item id="9083" type="Armor" name="Shadow Item: Dark Crystal Helmet">
+		<!-- This Shadow Item contains the mirrored power of a Dark Crystal Helmet. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="head"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="190"/>
+		<set name="crystal_type" val="a"/>
+		<set name="duration" val="600"/>
+		<set name="p_def" val="69"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<add val="69" order="0x10" stat="pDef"/>
+		</for>
+	</item>
+	<item id="9084" type="Weapon" name="Shadow Item: Dark Crystal Shield">
+		<!-- This Shadow Item contains the mirrored power of a Dark Crystal Shield. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="lhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="397"/>
+		<set name="crystal_type" val="a"/>
+		<set name="weapon_type" val="none"/>
+		<set name="avoid_modify" val="-8"/>
+		<set name="shield_def" val="243"/>
+		<set name="shield_def_rate" val="20"/>
+		<set name="duration" val="600"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<sub val="8" order="0x10" stat="rEvas"/>
+			<set val="243" order="0x08" stat="sDef"/>
+			<set val="20" order="0x08" stat="rShld"/>
+		</for>
+	</item>
+	<item id="9085" type="Armor" name="Shadow Item: Dark Crystal Gloves">
+		<!-- This Shadow Item contains the mirrored power of Dark Crystal Gloves. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="gloves"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="193"/>
+		<set name="crystal_type" val="a"/>
+		<set name="duration" val="600"/>
+		<set name="p_def" val="46"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<add val="46" order="0x10" stat="pDef"/>
+		</for>
+	</item>
+	<item id="9086" type="Armor" name="Shadow Item: Dark Crystal Boots">
+		<!-- This Shadow Item contains the mirrored power of Dark Crystal Boots. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="feet"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="370"/>
+		<set name="crystal_type" val="a"/>
+		<set name="duration" val="600"/>
+		<set name="p_def" val="46"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<add val="46" order="0x10" stat="pDef"/>
+		</for>
+	</item>
+	<item id="9087" type="Armor" name="Shadow Item: Dark Crystal Leather Armor">
+		<!-- This Shadow Item contains the mirrored power of Dark Crystal Leather Armor. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="chest"/>
+		<set name="armor_type" val="light"/>
+		<set name="weight" val="1433"/>
+		<set name="crystal_type" val="a"/>
+		<set name="duration" val="600"/>
+		<set name="p_def" val="128"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<add val="128" order="0x10" stat="pDef"/>
+		</for>
+	</item>
+	<item id="9088" type="Armor" name="Shadow Item: Dark Crystal Leggings">
+		<!-- This Shadow Item contains the mirrored power of Dark Crystal Leggings. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="legs"/>
+		<set name="armor_type" val="light"/>
+		<set name="weight" val="493"/>
+		<set name="crystal_type" val="a"/>
+		<set name="duration" val="600"/>
+		<set name="p_def" val="80"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<add val="80" order="0x10" stat="pDef"/>
+		</for>
+	</item>
+	<item id="9089" type="Armor" name="Shadow Item: Dark Crystal Gloves">
+		<!-- This Shadow Item contains the mirrored power of Dark Crystal Gloves. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="gloves"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="193"/>
+		<set name="crystal_type" val="a"/>
+		<set name="duration" val="600"/>
+		<set name="p_def" val="46"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<add val="46" order="0x10" stat="pDef"/>
+		</for>
+	</item>
+	<item id="9090" type="Armor" name="Shadow Item: Dark Crystal Boots">
+		<!-- This Shadow Item contains the mirrored power of Dark Crystal Boots. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="feet"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="370"/>
+		<set name="crystal_type" val="a"/>
+		<set name="duration" val="600"/>
+		<set name="p_def" val="46"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<add val="46" order="0x10" stat="pDef"/>
+		</for>
+	</item>
+	<item id="9091" type="Armor" name="Shadow Item: Dark Crystal Robe">
+		<!-- This Shadow Item contains the mirrored power of a Dark Crystal Robe. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="fullarmor"/>
+		<set name="armor_type" val="magic"/>
+		<set name="weight" val="817"/>
+		<set name="crystal_type" val="a"/>
+		<set name="duration" val="600"/>
+		<set name="p_def" val="139"/>
+		<set name="mp_bonus" val="665"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<add val="139" order="0x10" stat="pDef"/>
+			<add val="665" order="0x60" stat="maxMp"/>
+		</for>
+	</item>
+	<item id="9092" type="Armor" name="Shadow Item: Dark Crystal Gloves">
+		<!-- This Shadow Item contains the mirrored power of Dark Crystal Gloves. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="gloves"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="193"/>
+		<set name="crystal_type" val="a"/>
+		<set name="duration" val="600"/>
+		<set name="p_def" val="46"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<add val="46" order="0x10" stat="pDef"/>
+		</for>
+	</item>
+	<item id="9093" type="Armor" name="Shadow Item: Dark Crystal Boots">
+		<!-- This Shadow Item contains the mirrored power of Dark Crystal Boots. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="feet"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="370"/>
+		<set name="crystal_type" val="a"/>
+		<set name="duration" val="600"/>
+		<set name="p_def" val="46"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<add val="46" order="0x10" stat="pDef"/>
+		</for>
+	</item>
+	<item id="9094" type="Armor" name="Shadow Item: Majestic Plate Armor">
+		<!-- This Shadow Item contains the mirrored power of Majestic Plate Armor. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="fullarmor"/>
+		<set name="armor_type" val="heavy"/>
+		<set name="weight" val="3067"/>
+		<set name="crystal_type" val="a"/>
+		<set name="duration" val="600"/>
+		<set name="p_def" val="293"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<add val="293" order="0x10" stat="pDef"/>
+		</for>
+	</item>
+	<item id="9095" type="Armor" name="Shadow Item: Magestic Circlet">
+		<!-- This Shadow Item contains the mirrored power of a Majestic Circlet. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="head"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="183"/>
+		<set name="crystal_type" val="a"/>
+		<set name="duration" val="600"/>
+		<set name="p_def" val="73"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<add val="73" order="0x10" stat="pDef"/>
+		</for>
+	</item>
+	<item id="9096" type="Armor" name="Shadow Item: Magestic Gauntlet">
+		<!-- This Shadow Item contains the mirrored power of Majestic Gauntlets. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="gloves"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="180"/>
+		<set name="crystal_type" val="a"/>
+		<set name="duration" val="600"/>
+		<set name="p_def" val="49"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<add val="49" order="0x10" stat="pDef"/>
+		</for>
+	</item>
+	<item id="9097" type="Armor" name="Shadow Item: Magestic Boots">
+		<!-- This Shadow Item contains the mirrored power of Majestic Boots. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="feet"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="370"/>
+		<set name="crystal_type" val="a"/>
+		<set name="duration" val="600"/>
+		<set name="p_def" val="49"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<add val="49" order="0x10" stat="pDef"/>
+		</for>
+	</item>
+	<item id="9098" type="Armor" name="Shadow Item: Majestic Leather Armor">
+		<!-- This Shadow Item contains the mirrored power of Majestic Leather Armor. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="fullarmor"/>
+		<set name="armor_type" val="light"/>
+		<set name="weight" val="1783"/>
+		<set name="crystal_type" val="a"/>
+		<set name="duration" val="600"/>
+		<set name="p_def" val="220"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<add val="220" order="0x10" stat="pDef"/>
+		</for>
+	</item>
+	<item id="9099" type="Armor" name="Shadow Item: Magestic Gauntlet">
+		<!-- This Shadow Item contains the mirrored power of Majestic Gauntlets. It cannot be traded, dropped, crystallized, or given other functions. -->
+		<set name="bodypart" val="gloves"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="180"/>
+		<set name="crystal_type" val="a"/>
+		<set name="duration" val="600"/>
+		<set name="p_def" val="49"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<add val="49" order="0x10" stat="pDef"/>
+		</for>
+	</item>
+</list>

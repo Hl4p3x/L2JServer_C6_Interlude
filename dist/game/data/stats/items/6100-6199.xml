@@ -1,0 +1,598 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="6100" type="EtcItem" name="Trash - Trash">
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6101" type="EtcItem" name="Trash - Trash">
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6102" type="EtcItem" name="Trash - Trash">
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6103" type="EtcItem" name="Trash - Trash">
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6104" type="EtcItem" name="Trash - Trash">
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6105" type="EtcItem" name="Greater Mercenary Posting Ticket (Sword/Stationary)">
+		<!-- Innadril/Sword/Stationary. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6106" type="EtcItem" name="Greater Mercenary Posting Ticket (Spear/Stationary)">
+		<!-- Innadril/Spear/Stationary. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6107" type="EtcItem" name="Greater Mercenary Posting Ticket (Bow/Stationary)">
+		<!-- Innadril/Bow/Stationary. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6108" type="EtcItem" name="Greater Mercenary Posting Ticket (Cleric/Stationary)">
+		<!-- Innadril/Cleric/Stationary. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6109" type="EtcItem" name="Greater Mercenary Posting Ticket (Wizard/Stationary)">
+		<!-- Innadril/Wizard/Stationary. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6110" type="EtcItem" name="Greater Mercenary Posting Ticket (Sword/Mobile)">
+		<!-- Innadril/Sword/Mobile. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6111" type="EtcItem" name="Greater Mercenary Posting Ticket (Spear/Mobile)">
+		<!-- Innadril/Spear/Mobile. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6112" type="EtcItem" name="Greater Mercenary Posting Ticket (Bow/Mobile)">
+		<!-- Innadril/Bow/Mobile. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6113" type="EtcItem" name="Greater Mercenary Posting Ticket (Cleric/Mobile)">
+		<!-- Innadril/Cleric/Mobile. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6114" type="EtcItem" name="Greater Mercenary Posting Ticket (Wizard/Mobile)">
+		<!-- Innadril/Wizard/Mobile. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6115" type="EtcItem" name="Dawn Mercenary Posting Ticket (Sword/Stationary)">
+		<!-- Gludio/Sword/Stationary. Can only be used to place a mercenary when the seal of strife is possessed by the Lords of Dawn. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6116" type="EtcItem" name="Dawn Mercenary Posting Ticket (Spear/Stationary)">
+		<!-- Gludio/Spear/Stationary. Can only be used to place a mercenary when the seal of strife is possessed by the Lords of Dawn. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6117" type="EtcItem" name="Dawn Mercenary Posting Ticket (Bow/Stationary)">
+		<!-- Gludio/Bow/Stationary. Can only be used to place a mercenary when the seal of strife is possessed by the Lords of Dawn. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6118" type="EtcItem" name="Dawn Mercenary Posting Ticket (Cleric/Stationary)">
+		<!-- Gludio/Cleric/Stationary. Can only be used to place a mercenary when the seal of strife is possessed by the Lords of Dawn. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6119" type="EtcItem" name="Dawn Mercenary Posting Ticket (Wizard/Stationary)">
+		<!-- Gludio/Wizard/Stationary. Can only be used to place a mercenary when the seal of strife is possessed by the Lords of Dawn. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6120" type="EtcItem" name="Dawn Mercenary Posting Ticket (Sword/Mobile)">
+		<!-- Gludio/Sword/Mobile. Can only be used to place a mercenary when the seal of strife is possessed by the Lords of Dawn. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6121" type="EtcItem" name="Dawn Mercenary Posting Ticket (Spear/Mobile)">
+		<!-- Gludio/Spear/Mobile. Can only be used to place a mercenary when the seal of strife is possessed by the Lords of Dawn. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6122" type="EtcItem" name="Dawn Mercenary Posting Ticket (Bow/Mobile)">
+		<!-- Gludio/Bow/Mobile. Can only be used to place a mercenary when the seal of strife is possessed by the Lords of Dawn. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6123" type="EtcItem" name="Dawn Mercenary Posting Ticket (Cleric/Mobile)">
+		<!-- Gludio/Cleric/Mobile. Can only be used to place a mercenary when the seal of strife is possessed by the Lords of Dawn. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6124" type="EtcItem" name="Dawn Mercenary Posting Ticket (Wizard/Mobile)">
+		<!-- Gludio/Wizard/Mobile. Can only be used to place a mercenary when the seal of strife is possessed by the Lords of Dawn. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6125" type="EtcItem" name="Dawn Mercenary Posting Ticket (Sword/Stationary)">
+		<!-- Dion/Sword/Stationary. Can only be used to place a mercenary when the seal of strife is possessed by the Lords of Dawn. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6126" type="EtcItem" name="Dawn Mercenary Posting Ticket (Spear/Stationary)">
+		<!-- Dion/Spear/Stationary. Can only be used to place a mercenary when the seal of strife is possessed by the Lords of Dawn. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6127" type="EtcItem" name="Dawn Mercenary Posting Ticket (Bow/Stationary)">
+		<!-- Dion/Bow/Stationary. Can only be used to place a mercenary when the seal of strife is possessed by the Lords of Dawn. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6128" type="EtcItem" name="Dawn Mercenary Posting Ticket (Cleric/Stationary)">
+		<!-- Dion/Cleric/Stationary. Can only be used to place a mercenary when the seal of strife is possessed by the Lords of Dawn. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6129" type="EtcItem" name="Dawn Mercenary Posting Ticket (Wizard/Stationary)">
+		<!-- Dion/Wizard/Stationary. Can only be used to place a mercenary when the seal of strife is possessed by the Lords of Dawn. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6130" type="EtcItem" name="Dawn Mercenary Posting Ticket (Sword/Mobile)">
+		<!-- Dion/Sword/Mobile. Can only be used to place a mercenary when the seal of strife is possessed by the Lords of Dawn. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6131" type="EtcItem" name="Dawn Mercenary Posting Ticket (Spear/Mobile)">
+		<!-- Dion/Spear/Mobile. Can only be used to place a mercenary when the seal of strife is possessed by the Lords of Dawn. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6132" type="EtcItem" name="Dawn Mercenary Posting Ticket (Bow/Mobile)">
+		<!-- Dion/Bow/Mobile. Can only be used to place a mercenary when the seal of strife is possessed by the Lords of Dawn. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6133" type="EtcItem" name="Dawn Mercenary Posting Ticket (Cleric/Mobile)">
+		<!-- Dion/Cleric/Mobile. Can only be used to place a mercenary when the seal of strife is possessed by the Lords of Dawn. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6134" type="EtcItem" name="Dawn Mercenary Posting Ticket (Wizard/Mobile)">
+		<!-- Dion/Wizard/Mobile. Can only be used to place a mercenary when the seal of strife is possessed by the Lords of Dawn. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6135" type="EtcItem" name="Dawn Mercenary Posting Ticket (Sword/Stationary)">
+		<!-- Giran/Sword/Stationary. Can only be used to place a mercenary when the seal of strife is possessed by the Lords of Dawn. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6136" type="EtcItem" name="Dawn Mercenary Posting Ticket (Spear/Stationary)">
+		<!-- Giran/Spear/Stationary. Can only be used to place a mercenary when the seal of strife is possessed by the Lords of Dawn. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6137" type="EtcItem" name="Dawn Mercenary Posting Ticket (Bow/Stationary)">
+		<!-- Giran/Bow/Stationary. Can only be used to place a mercenary when the seal of strife is possessed by the Lords of Dawn. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6138" type="EtcItem" name="Dawn Mercenary Posting Ticket (Cleric/Stationary)">
+		<!-- Giran/Cleric/Stationary. Can only be used to place a mercenary when the seal of strife is possessed by the Lords of Dawn. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6139" type="EtcItem" name="Dawn Mercenary Posting Ticket (Wizard/Stationary)">
+		<!-- Giran/Wizard/Stationary. Can only be used to place a mercenary when the seal of strife is possessed by the Lords of Dawn. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6140" type="EtcItem" name="Dawn Mercenary Posting Ticket (Sword/Mobile)">
+		<!-- Giran/Sword/Mobile. Can only be used to place a mercenary when the seal of strife is possessed by the Lords of Dawn. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6141" type="EtcItem" name="Dawn Mercenary Posting Ticket (Spear/Mobile)">
+		<!-- Giran/Spear/Mobile. Can only be used to place a mercenary when the seal of strife is possessed by the Lords of Dawn. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6142" type="EtcItem" name="Dawn Mercenary Posting Ticket (Bow/Mobile)">
+		<!-- Giran/Bow/Mobile. Can only be used to place a mercenary when the seal of strife is possessed by the Lords of Dawn. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6143" type="EtcItem" name="Dawn Mercenary Posting Ticket (Cleric/Mobile)">
+		<!-- Giran/Cleric/Mobile. Can only be used to place a mercenary when the seal of strife is possessed by the Lords of Dawn. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6144" type="EtcItem" name="Dawn Mercenary Posting Ticket (Wizard/Mobile)">
+		<!-- Giran/Wizard/Mobile. Can only be used to place a mercenary when the seal of strife is possessed by the Lords of Dawn. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6145" type="EtcItem" name="Dawn Mercenary Posting Ticket (Sword/Stationary)">
+		<!-- Oren/Sword/Stationary. Can only be used to place a mercenary when the seal of strife is possessed by the Lords of Dawn. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6146" type="EtcItem" name="Dawn Mercenary Posting Ticket (Spear/Stationary)">
+		<!-- Oren/Spear/Stationary. Can only be used to place a mercenary when the seal of strife is possessed by the Lords of Dawn. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6147" type="EtcItem" name="Dawn Mercenary Posting Ticket (Bow/Stationary)">
+		<!-- Oren/Bow/Stationary. Can only be used to place a mercenary when the seal of strife is possessed by the Lords of Dawn. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6148" type="EtcItem" name="Dawn Mercenary Posting Ticket (Cleric/Stationary)">
+		<!-- Oren/Cleric/Stationary. Can only be used to place a mercenary when the seal of strife is possessed by the Lords of Dawn. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6149" type="EtcItem" name="Dawn Mercenary Posting Ticket (Wizard/Stationary)">
+		<!-- Oren/Wizard/Stationary. Can only be used to place a mercenary when the seal of strife is possessed by the Lords of Dawn. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6150" type="EtcItem" name="Dawn Mercenary Posting Ticket (Sword/Mobile)">
+		<!-- Oren/Sword/Mobile. Can only be used to place a mercenary when the seal of strife is possessed by the Lords of Dawn. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6151" type="EtcItem" name="Dawn Mercenary Posting Ticket (Spear/Mobile)">
+		<!-- Oren/Spear/Mobile. Can only be used to place a mercenary when the seal of strife is possessed by the Lords of Dawn. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6152" type="EtcItem" name="Dawn Mercenary Posting Ticket (Bow/Mobile)">
+		<!-- Oren/Bow/Mobile. Can only be used to place a mercenary when the seal of strife is possessed by the Lords of Dawn. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6153" type="EtcItem" name="Dawn Mercenary Posting Ticket (Cleric/Mobile)">
+		<!-- Oren/Cleric/Mobile. Can only be used to place a mercenary when the seal of strife is possessed by the Lords of Dawn. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6154" type="EtcItem" name="Dawn Mercenary Posting Ticket (Wizard/Mobile)">
+		<!-- Oren/Wizard/Mobile. Can only be used to place a mercenary when the seal of strife is possessed by the Lords of Dawn. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6155" type="EtcItem" name="Dawn Mercenary Posting Ticket (Sword/Stationary)">
+		<!-- Aden/Sword/Stationary. Can only be used to place a mercenary when the seal of strife is possessed by the Lords of Dawn. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6156" type="EtcItem" name="Dawn Mercenary Posting Ticket (Spear/Stationary)">
+		<!-- Aden/Spear/Stationary. Can only be used to place a mercenary when the seal of strife is possessed by the Lords of Dawn. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6157" type="EtcItem" name="Dawn Mercenary Posting Ticket (Bow/Stationary)">
+		<!-- Aden/Bow/Stationary. Can only be used to place a mercenary when the seal of strife is possessed by the Lords of Dawn. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6158" type="EtcItem" name="Dawn Mercenary Posting Ticket (Cleric/Stationary)">
+		<!-- Aden/Cleric/Stationary. Can only be used to place a mercenary when the seal of strife is possessed by the Lords of Dawn. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6159" type="EtcItem" name="Dawn Mercenary Posting Ticket (Wizard/Stationary)">
+		<!-- Aden/Wizard/Stationary. Can only be used to place a mercenary when the seal of strife is possessed by the Lords of Dawn. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6160" type="EtcItem" name="Dawn Mercenary Posting Ticket (Sword/Mobile)">
+		<!-- Aden/Sword/Mobile. Can only be used to place a mercenary when the seal of strife is possessed by the Lords of Dawn. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6161" type="EtcItem" name="Dawn Mercenary Posting Ticket (Spear/Mobile)">
+		<!-- Aden/Spear/Mobile. Can only be used to place a mercenary when the seal of strife is possessed by the Lords of Dawn. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6162" type="EtcItem" name="Dawn Mercenary Posting Ticket (Bow/Mobile)">
+		<!-- Aden/Bow/Mobile. Can only be used to place a mercenary when the seal of strife is possessed by the Lords of Dawn. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6163" type="EtcItem" name="Dawn Mercenary Posting Ticket (Cleric/Mobile)">
+		<!-- Aden/Cleric/Mobile. Can only be used to place a mercenary when the seal of strife is possessed by the Lords of Dawn. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6164" type="EtcItem" name="Dawn Mercenary Posting Ticket (Wizard/Mobile)">
+		<!-- Aden/Wizard/Mobile. Can only be used to place a mercenary when the seal of strife is possessed by the Lords of Dawn. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6165" type="EtcItem" name="Dawn Mercenary Posting Ticket (Sword/Stationary)">
+		<!-- Innadril/Sword/Stationary. Can only be used to place a mercenary when the seal of strife is possessed by the Lords of Dawn. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6166" type="EtcItem" name="Dawn Mercenary Posting Ticket (Spear/Stationary)">
+		<!-- Innadril/Spear/Stationary. Can only be used to place a mercenary when the seal of strife is possessed by the Lords of Dawn. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6167" type="EtcItem" name="Dawn Mercenary Posting Ticket (Bow/Stationary)">
+		<!-- Innadril/Bow/Stationary. Can only be used to place a mercenary when the seal of strife is possessed by the Lords of Dawn. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6168" type="EtcItem" name="Dawn Mercenary Posting Ticket (Cleric/Stationary)">
+		<!-- Innadril/Cleric/Stationary. Can only be used to place a mercenary when the seal of strife is possessed by the Lords of Dawn. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6169" type="EtcItem" name="Dawn Mercenary Posting Ticket (Wizard/Stationary)">
+		<!-- Innadril/Wizard/Stationary. Can only be used to place a mercenary when the seal of strife is possessed by the Lords of Dawn. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6170" type="EtcItem" name="Dawn Mercenary Posting Ticket (Sword/Mobile)">
+		<!-- Innadril/Sword/Mobile. Can only be used to place a mercenary when the seal of strife is possessed by the Lords of Dawn. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6171" type="EtcItem" name="Dawn Mercenary Posting Ticket (Spear/Mobile)">
+		<!-- Innadril/Spear/Mobile. Can only be used to place a mercenary when the seal of strife is possessed by the Lords of Dawn. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6172" type="EtcItem" name="Dawn Mercenary Posting Ticket (Bow/Mobile)">
+		<!-- Innadril/Bow/Mobile. Can only be used to place a mercenary when the seal of strife is possessed by the Lords of Dawn. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6173" type="EtcItem" name="Dawn Mercenary Posting Ticket (Cleric/Mobile)">
+		<!-- Innadril/Cleric/Mobile. Can only be used to place a mercenary when the seal of strife is possessed by the Lords of Dawn. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6174" type="EtcItem" name="Dawn Mercenary Posting Ticket (Wizard/Mobile)">
+		<!-- Innadril/Wizard/Mobile. Can only be used to place a mercenary when the seal of strife is possessed by the Lords of Dawn. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6175" type="EtcItem" name="Greater Recruit Posting Ticket (Sword/Stationary)">
+		<!-- Gludio/Sword/Stationary. Can be used to place a mercenary when the seal of strife is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6176" type="EtcItem" name="Greater Recruit Posting Ticket (Spear/Stationary)">
+		<!-- Gludio/Spear/Stationary. Can be used to place a mercenary when the seal of strife is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6177" type="EtcItem" name="Greater Recruit Posting Ticket (Bow/Stationary)">
+		<!-- Gludio/Bow/Stationary. Can be used to place a mercenary when the seal of strife is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6178" type="EtcItem" name="Greater Recruit Posting Ticket (Cleric/Stationary)">
+		<!-- Gludio/Cleric/Stationary. Can be used to place a mercenary when the seal of strife is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6179" type="EtcItem" name="Greater Recruit Posting Ticket (Wizard/Stationary)">
+		<!-- Gludio/Wizard/Stationary. Can be used to place a mercenary when the seal of strife is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6180" type="EtcItem" name="Greater Recruit Posting Ticket (Sword/Mobile)">
+		<!-- Gludio/Sword/Mobile. Can only be used to place a mercenary when the seal of strife is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6181" type="EtcItem" name="Greater Recruit Posting Ticket (Spear/Mobile)">
+		<!-- Gludio/Spear/Mobile. Can only be used to place a mercenary when the seal of strife is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6182" type="EtcItem" name="Greater Recruit Posting Ticket (Bow/Mobile)">
+		<!-- Gludio/Bow/Mobile. Can only be used to place a mercenary when the seal of strife is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6183" type="EtcItem" name="Greater Recruit Posting Ticket (Cleric/Mobile)">
+		<!-- Gludio/Cleric/Mobile. Can only be used to place a mercenary when the seal of strife is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6184" type="EtcItem" name="Greater Recruit Posting Ticket (Wizard/Mobile)">
+		<!-- Gludio/Wizard/Mobile. Can only be used to place a mercenary when the seal of strife is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6185" type="EtcItem" name="Greater Recruit Posting Ticket (Sword/Stationary)">
+		<!-- Dion/Sword/Stationary. Can only be used to place a mercenary when the seal of strife is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6186" type="EtcItem" name="Greater Recruit Posting Ticket (Spear/Stationary)">
+		<!-- Dion/Spear/Stationary. Can only be used to place a mercenary when the seal of strife is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6187" type="EtcItem" name="Greater Recruit Posting Ticket (Bow/Stationary)">
+		<!-- Dion/Bow/Stationary. Can only be used to place a mercenary when the seal of strife is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6188" type="EtcItem" name="Greater Recruit Posting Ticket (Cleric/Stationary)">
+		<!-- Dion/Cleric/Stationary. Can only be used to place a mercenary when the seal of strife is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6189" type="EtcItem" name="Greater Recruit Posting Ticket (Wizard/Stationary)">
+		<!-- Dion/Wizard/Stationary. Can only be used to place a mercenary when the seal of strife is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6190" type="EtcItem" name="Greater Recruit Posting Ticket (Sword/Mobile)">
+		<!-- Dion/Sword/Mobile. Can only be used to place a mercenary when the seal of strife is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6191" type="EtcItem" name="Greater Recruit Posting Ticket (Spear/Mobile)">
+		<!-- Dion/Spear/Mobile. Can only be used to place a mercenary when the seal of strife is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6192" type="EtcItem" name="Greater Recruit Posting Ticket (Bow/Mobile)">
+		<!-- Dion/Bow/Mobile. Can only be used to place a mercenary when the seal of strife is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6193" type="EtcItem" name="Greater Recruit Posting Ticket (Cleric/Mobile)">
+		<!-- Dion/Cleric/Mobile. Can only be used to place a mercenary when the seal of strife is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6194" type="EtcItem" name="Greater Recruit Posting Ticket (Wizard/Mobile)">
+		<!-- Dion/Wizard/Mobile. Can only be used to place a mercenary when the seal of strife is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6195" type="EtcItem" name="Greater Recruit Posting Ticket (Sword/Stationary)">
+		<!-- Giran/Sword/Stationary. Can only be used to place a mercenary when the seal of strife is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6196" type="EtcItem" name="Greater Recruit Posting Ticket (Spear/Stationary)">
+		<!-- Giran/Spear/Stationary. Can only be used to place a mercenary when the seal of strife is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6197" type="EtcItem" name="Greater Recruit Posting Ticket (Bow/Stationary)">
+		<!-- Giran/Bow/Stationary. Can only be used to place a mercenary when the seal of strife is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6198" type="EtcItem" name="Greater Recruit Posting Ticket (Cleric/Stationary)">
+		<!-- Giran/Cleric/Stationary. Can only be used to place a mercenary when the seal of strife is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6199" type="EtcItem" name="Greater Recruit Posting Ticket (Wizard/Stationary)">
+		<!-- Giran/Wizard/Stationary. Can only be used to place a mercenary when the seal of strife is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+</list>

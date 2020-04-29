@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Misc Items -->
+
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/multisell.xsd">
+
+	<!-- Greater CP Potion -->
+	<item id="12">
+		<ingredient id="4037" count="5000"/>
+		<production id="5592" count="150"/>
+	</item>
+
+</list>

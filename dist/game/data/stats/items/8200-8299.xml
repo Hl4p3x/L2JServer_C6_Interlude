@@ -1,0 +1,980 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="8200" type="EtcItem" name="Fisherman's Potion - White">
+		<!-- By lowering one's fishing skill level, this potion allows one to catch a white fish (level 22~24 fish). If one uses a potion that is designed for a higher fishing skill level than one's own, the potion will have no effect. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8201" type="EtcItem" name="Fisherman's Potion - Black">
+		<!-- By lowering one's fishing skill level, this potion allows one to catch a green fish (level 25~27 fish). If one uses a potion that is designed for a higher fishing skill level than one's own, the potion will have no effect. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8202" type="EtcItem" name="Fishing Potion">
+		<!-- Restores a player's fishing mastery level, which was lowered by the Fisherman's Potion, back to the previous level. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8203" type="Weapon" name="Monster Only (Venom Sword)">
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1560"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="none"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="dual"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="325"/>
+		<for>
+			<set val="0" order="0x08" stat="pAtk"/>
+			<set val="0" order="0x08" stat="mAtk"/>
+			<set val="0" order="0x08" stat="rCrit"/>
+			<add val="0" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="8204" type="Weapon" name="Monster Only (Follower of Frintezza Calibur)">
+		<set name="bodypart" val="rhand"/>
+		<set name="weight" val="1560"/>
+		<set name="soulshots" val="2"/>
+		<set name="spiritshots" val="2"/>
+		<set name="crystal_type" val="none"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="sword"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="379"/>
+		<for>
+			<set val="0" order="0x08" stat="pAtk"/>
+			<set val="0" order="0x08" stat="mAtk"/>
+			<set val="0" order="0x08" stat="rCrit"/>
+			<add val="0" order="0x10" stat="accCombat"/>
+			<set val="379" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="8205" type="Weapon" name="Monster Only (Heretic Priest Sickle)">
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1920"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="none"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="pole"/>
+		<set name="critical" val="8"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="325"/>
+		<for>
+			<set val="0" order="0x08" stat="pAtk"/>
+			<set val="0" order="0x08" stat="mAtk"/>
+			<set val="0" order="0x08" stat="rCrit"/>
+			<add val="0" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="8206" type="Weapon" name="Monster Only (Heretic Priest Sword)">
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="2080"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="none"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="dual"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="325"/>
+		<for>
+			<set val="0" order="0x08" stat="pAtk"/>
+			<set val="0" order="0x08" stat="mAtk"/>
+			<set val="0" order="0x08" stat="rCrit"/>
+			<add val="0" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="8207" type="Weapon" name="Monster Only (Heretic Private Axe)">
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1560"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="none"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="dual"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="325"/>
+		<for>
+			<set val="0" order="0x08" stat="pAtk"/>
+			<set val="0" order="0x08" stat="mAtk"/>
+			<set val="0" order="0x08" stat="rCrit"/>
+			<add val="0" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="8208" type="Weapon" name="Monster Only (Heretic Private Staff)">
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1560"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="none"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="pole"/>
+		<set name="critical" val="8"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="325"/>
+		<for>
+			<set val="0" order="0x08" stat="pAtk"/>
+			<set val="0" order="0x08" stat="mAtk"/>
+			<set val="0" order="0x08" stat="rCrit"/>
+			<add val="0" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="8209" type="Weapon" name="Monster Only (Lidia Von Helmann Sword)">
+		<set name="bodypart" val="rhand"/>
+		<set name="weight" val="1560"/>
+		<set name="soulshots" val="2"/>
+		<set name="spiritshots" val="2"/>
+		<set name="crystal_type" val="none"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="sword"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="379"/>
+		<for>
+			<set val="0" order="0x08" stat="pAtk"/>
+			<set val="0" order="0x08" stat="mAtk"/>
+			<set val="0" order="0x08" stat="rCrit"/>
+			<add val="0" order="0x10" stat="accCombat"/>
+			<set val="379" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="8210" type="Weapon" name="Monster Only (Monk Warrior Shield)">
+		<set name="bodypart" val="lhand"/>
+		<set name="weight" val="4800"/>
+		<set name="crystal_type" val="none"/>
+		<set name="weapon_type" val="none"/>
+		<set name="avoid_modify" val="-8"/>
+		<set name="shield_def" val="230"/>
+		<set name="shield_def_rate" val="20"/>
+		<for>
+			<sub val="8" order="0x10" stat="rEvas"/>
+			<set val="230" order="0x08" stat="sDef"/>
+			<set val="20" order="0x08" stat="rShld"/>
+		</for>
+	</item>
+	<item id="8211" type="Weapon" name="Monster Only (Monk Warrior Sword)">
+		<set name="bodypart" val="rhand"/>
+		<set name="weight" val="1560"/>
+		<set name="soulshots" val="2"/>
+		<set name="spiritshots" val="2"/>
+		<set name="crystal_type" val="none"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="sword"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="379"/>
+		<for>
+			<set val="0" order="0x08" stat="pAtk"/>
+			<set val="0" order="0x08" stat="mAtk"/>
+			<set val="0" order="0x08" stat="rCrit"/>
+			<add val="0" order="0x10" stat="accCombat"/>
+			<set val="379" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="8212" type="Weapon" name="Monster Only (Solina Brother Mace)">
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1570"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="none"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="blunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="379"/>
+		<for>
+			<set val="0" order="0x08" stat="pAtk"/>
+			<set val="0" order="0x08" stat="mAtk"/>
+			<set val="0" order="0x08" stat="rCrit"/>
+			<add val="0" order="0x10" stat="accCombat"/>
+			<set val="379" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="8213" type="Weapon" name="Monster Only (Solina Father Mace)">
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1570"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="none"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="blunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="379"/>
+		<for>
+			<set val="0" order="0x08" stat="pAtk"/>
+			<set val="0" order="0x08" stat="mAtk"/>
+			<set val="0" order="0x08" stat="rCrit"/>
+			<add val="0" order="0x10" stat="accCombat"/>
+			<set val="379" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="8214" type="Weapon" name="Monster Only (Solina Priest Pole)">
+		<set name="bodypart" val="lrhand"/>
+		<set name="weight" val="1920"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="none"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="pole"/>
+		<set name="critical" val="8"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="325"/>
+		<for>
+			<set val="0" order="0x08" stat="pAtk"/>
+			<set val="0" order="0x08" stat="mAtk"/>
+			<set val="0" order="0x08" stat="rCrit"/>
+			<set val="66" order="0x08" stat="pAtkRange"/>
+			<add val="0" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="8215" type="Weapon" name="Monster Only (Zombie Enlisted Man Sword)">
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="2090"/>
+		<set name="soulshots" val="3"/>
+		<set name="spiritshots" val="3"/>
+		<set name="crystal_type" val="none"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="bigsword"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="325"/>
+		<for>
+			<set val="0" order="0x08" stat="pAtk"/>
+			<set val="00" order="0x08" stat="mAtk"/>
+			<set val="0" order="0x08" stat="rCrit"/>
+			<add val="0" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="8216" type="Weapon" name="Monster Only (Zombie Enlisted Man Claw)">
+		<set name="bodypart" val="lrhand"/>
+		<set name="weight" val="1350"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="none"/>
+		<set name="rnd_dam" val="5"/>
+		<set name="weapon_type" val="dualfist"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="325"/>
+		<for>
+			<set val="0" order="0x08" stat="pAtk"/>
+			<set val="0" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="8217" type="Weapon" name="Monster Only (Zombie Gateguard Spear)">
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1560"/>
+		<set name="soulshots" val="2"/>
+		<set name="spiritshots" val="2"/>
+		<set name="crystal_type" val="none"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="sword"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="379"/>
+		<for>
+			<set val="0" order="0x08" stat="pAtk"/>
+			<set val="0" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<set val="66" order="0x08" stat="pAtkRange"/>
+			<add val="0" order="0x10" stat="accCombat"/>
+			<set val="379" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="8218" type="Weapon" name="Monster Only (Zombie Laborer Axe)">
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1570"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="none"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="blunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="379"/>
+		<for>
+			<set val="0" order="0x08" stat="pAtk"/>
+			<set val="0" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="379" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="8219" type="Weapon" name="Monster Only (Zombie Laborer Sword)">
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1560"/>
+		<set name="soulshots" val="2"/>
+		<set name="spiritshots" val="2"/>
+		<set name="crystal_type" val="none"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="sword"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="379"/>
+		<for>
+			<set val="0" order="0x08" stat="pAtk"/>
+			<set val="0" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<add val="0" order="0x10" stat="accCombat"/>
+			<set val="379" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="8220" type="Weapon" name="Monster Only (Apostle Grail Bow)">
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1950"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="none"/>
+		<set name="rnd_dam" val="5"/>
+		<set name="weapon_type" val="bow"/>
+		<set name="critical" val="12"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="293"/>
+		<set name="mp_consume" val="1"/>
+		<for>
+			<set val="0" order="0x08" stat="pAtk"/>
+			<set val="0" order="0x08" stat="mAtk"/>
+			<set val="12" order="0x08" stat="rCrit"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="293" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="8221" type="Weapon" name="Monster Only (Apostle Grail Spear)">
+		<set name="bodypart" val="lrhand"/>
+		<set name="weight" val="1920"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="none"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="pole"/>
+		<set name="critical" val="8"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="325"/>
+		<for>
+			<set val="0" order="0x08" stat="pAtk"/>
+			<set val="0" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<set val="66" order="0x08" stat="pAtkRange"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="8222" type="Weapon" name="Monster Only (Follower of Frintezza Tran Calibur)">
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1560"/>
+		<set name="soulshots" val="2"/>
+		<set name="spiritshots" val="2"/>
+		<set name="crystal_type" val="none"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="sword"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="379"/>
+		<for>
+			<set val="0" order="0x08" stat="pAtk"/>
+			<set val="0" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<add val="0" order="0x10" stat="accCombat"/>
+			<set val="379" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="8223" type="EtcItem" name="Seed: Twin Codran">
+		<!-- Plant this seed onto a monster in the Rune area and it will bear the fruit of the Twin Codran. For best results, a level 53-63 character must plant it on a level 53-63 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="50"/>
+	</item>
+	<item id="8224" type="EtcItem" name="Seed: Great Codran">
+		<!-- Plant this seed onto a monster in the Rune area and it will bear the fruit of the Great Codran. For best results, a level 56-66 character must plant it on a level 56-66 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="75"/>
+	</item>
+	<item id="8225" type="EtcItem" name="Seed: Desert Codran">
+		<!-- Plant this seed onto a monster in the Rune area and it will bear the fruit of the Desert Codran. For best results, a level 59-69 character must plant it on a level 59-69 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="100"/>
+	</item>
+	<item id="8226" type="EtcItem" name="Seed: Blue Coba">
+		<!-- Plant this seed onto a monster in the Rune area and it will bear the fruit of the Blue Coba. For best results, a level 62-72 character must plant it on a level 62-72 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="400"/>
+	</item>
+	<item id="8227" type="EtcItem" name="Seed: Red Coba">
+		<!-- Plant this seed onto a monster in the Rune area and it will bear the fruit of the Red Coba. For best results, a level 65-75 character must plant it on a level 65-75 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="500"/>
+	</item>
+	<item id="8228" type="EtcItem" name="Seed: Golden Coba">
+		<!-- Plant this seed onto a monster in the Rune area and it will bear the fruit of the Golden Coba. For best results, a level 68-78 character must plant it on a level 68-78 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="650"/>
+	</item>
+	<item id="8229" type="EtcItem" name="Seed: Desert Coba">
+		<!-- Plant this seed onto a monster in the Rune area and it will bear the fruit of the Desert Coba. For best results, a level 71-81 character must plant it on a level 71-81 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="750"/>
+	</item>
+	<item id="8230" type="EtcItem" name="Seed: Alternative Twin Codran">
+		<!-- Plant this seed onto a monster in the Rune area and it will bear the fruit of the Alternative Twin Codran. For best results, a level 53-63 character must plant it on a level 53-63 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="50"/>
+	</item>
+	<item id="8231" type="EtcItem" name="Seed: Alternative Great Codran">
+		<!-- Plant this seed onto a monster in the Rune area and it will bear the fruit of the Alternative Great Codran. For best results, a level 56-66 character must plant it on a level 56-66 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="75"/>
+	</item>
+	<item id="8232" type="EtcItem" name="Seed: Alternative Desert Codran">
+		<!-- Plant this seed onto a monster in the Rune area and it will bear the fruit of the Alternative Desert Codran. For best results, a level 59-69 character must plant it on a level 59-69 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="100"/>
+	</item>
+	<item id="8233" type="EtcItem" name="Seed: Alternative Blue Coba">
+		<!-- Plant this seed onto a monster in the Rune area and it will bear the fruit of the Alternative Blue Coba. For best results, a level 62-72 character must plant it on a level 62-72 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="400"/>
+	</item>
+	<item id="8234" type="EtcItem" name="Seed: Alternative Red Coba">
+		<!-- Plant this seed onto a monster in the Rune area and it will bear the fruit of the Alternative Red Coba. For best results, a level 65-75 character must plant it on a level 65-75 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="500"/>
+	</item>
+	<item id="8235" type="EtcItem" name="Seed: Alternative Golden Coba">
+		<!-- Plant this seed onto a monster in the Rune area and it will bear the fruit of the Alternative Golden Coba. For best results, a level 68-78 character must plant it on a level 68-78 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="650"/>
+	</item>
+	<item id="8236" type="EtcItem" name="Seed: Alternative Desert Coba">
+		<!-- Plant this seed onto a monster in the Rune area and it will bear the fruit of the Alternative Desert Coba. For best results, a level 71-81 character must plant it on a level 71-81 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="750"/>
+	</item>
+	<item id="8237" type="EtcItem" name="Seed: Dark Coda">
+		<!-- Plant this seed onto a monster in the vicinity of Schuttgart and it will bear the fruit of the Dark Coda. For the best chance of success, it should be planted by a character whose level is between 5-15 onto a monster whose level is between 5-15. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="5"/>
+	</item>
+	<item id="8238" type="EtcItem" name="Seed: Red Coda">
+		<!-- Plant this seed onto a monster in the vicinity of Schuttgart and it will bear the fruit of the Red Coda. For the best chance of success, it should be planted by a character whose level is between 8-18 onto a monster whose level is between 8-18. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="5"/>
+	</item>
+	<item id="8239" type="EtcItem" name="Seed: Chilly Coda">
+		<!-- Plant this seed onto a monster in the Schuttgart area and it will bear the fruit of the Chilly Coda. For best results, a level 11-21 character must plant it on a level 11-21 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="5"/>
+	</item>
+	<item id="8240" type="EtcItem" name="Seed: Blue Coda">
+		<!-- Plant this seed onto a monster in the vicinity of Schuttgart and it will bear the fruit of the Blue Coda. For the best chance of success, it should be planted by a character whose level is between 14-24 onto a monster whose level is between 14-24. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="10"/>
+	</item>
+	<item id="8241" type="EtcItem" name="Seed: Golden Coda">
+		<!-- Plant this seed onto a monster in the vicinity of Schuttgart and it will bear the fruit of the Golden Coda. For the best chance of success, it should be planted by a character whose level is between 17-27 onto a monster whose level is between 17-27. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="20"/>
+	</item>
+	<item id="8242" type="EtcItem" name="Seed: Lute Coda">
+		<!-- Plant this seed onto a monster in the vicinity of Schuttgart and it will bear the fruit of the Lute Coda. For the best chance of success, it should be planted by a character whose level is between 20-30 onto a monster whose level is between 20-30. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="30"/>
+	</item>
+	<item id="8243" type="EtcItem" name="Seed: Desert Coda">
+		<!-- Plant this seed onto a monster in the vicinity of Schuttgart and it will bear the fruit of the Desert Coda. For the best chance of success, it should be planted by a character whose level is between 23-33 onto a monster whose level is between 23-33. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="20"/>
+	</item>
+	<item id="8244" type="EtcItem" name="Seed: Red Cobol">
+		<!-- Plant this seed onto a monster in the Schuttgart area and it will bear the fruit of the Red Cobol. For best results, a level 26-36 character must plant it on a level 26-36 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="20"/>
+	</item>
+	<item id="8245" type="EtcItem" name="Seed: Chilly Cobol">
+		<!-- Plant this seed onto a monster in the Schuttgart area and it will bear the fruit of the Chilly Cobol. For best results, a level 29-39 character must plant it on a level 29-39 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="25"/>
+	</item>
+	<item id="8246" type="EtcItem" name="Seed: Blue Cobol">
+		<!-- Plant this seed onto a monster in the Schuttgart area and it will bear the fruit of the Blue Cobol. For best results, a level 32-42 character must plant it on a level 32-42 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="50"/>
+	</item>
+	<item id="8247" type="EtcItem" name="Seed: Thorn Cobol">
+		<!-- Plant this seed onto a monster in the Schuttgart area and it will bear the fruit of the Thorn Cobol. For best results, a level 35-45 character must plant it on a level 35-45 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="50"/>
+	</item>
+	<item id="8248" type="EtcItem" name="Seed: Golden Cobol">
+		<!-- Plant this seed onto a monster in the Schuttgart area and it will bear the fruit of the Golden Cobol. For best results, a level 38-48 character must plant it on a level 38-48 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="50"/>
+	</item>
+	<item id="8249" type="EtcItem" name="Seed: Great Cobol">
+		<!-- Plant this seed onto a monster in the Schuttgart area and it will bear the fruit of the Great Cobol. For best results, a level 41-51 character must plant it on a level 41-51 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="50"/>
+	</item>
+	<item id="8250" type="EtcItem" name="Seed: Red Codran">
+		<!-- Plant this seed onto a monster in the Schuttgart area and it will bear the fruit of the Red Codran. For best results, a level 44-54 character must plant it on a level 44-54 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="40"/>
+	</item>
+	<item id="8251" type="EtcItem" name="Seed: Sea Codran">
+		<!-- Plant this seed onto a monster in the Schuttgart area and it will bear the fruit of the Sea Codran. For best results, a level 45-55 character must plant it on a level 45-55 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="50"/>
+	</item>
+	<item id="8252" type="EtcItem" name="Seed: Chilly Codran">
+		<!-- Plant this seed onto a monster in the Schuttgart area and it will bear the fruit of the Chilly Codran. For best results, a level 47-57 character must plant it on a level 47-57 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="40"/>
+	</item>
+	<item id="8253" type="EtcItem" name="Seed: Blue Codran">
+		<!-- Plant this seed onto a monster in the Schuttgart area and it will bear the fruit of the Blue Codran. For best results, a level 50-60 character must plant it on a level 50-60 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="50"/>
+	</item>
+	<item id="8254" type="EtcItem" name="Seed: Twin Codran">
+		<!-- Plant this seed onto a monster in the Schuttgart area and it will bear the fruit of the Twin Codran. For best results, a level 53-63 character must plant it on a level 53-63 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="50"/>
+	</item>
+	<item id="8255" type="EtcItem" name="Alternative Dark Coda Seed">
+		<!-- Plant this seed onto a monster in the Schuttgart area and it will bear the fruit of the Alternative Dark Coda. For best results, a level 5-15 character must plant it on a level 5-15 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="5"/>
+	</item>
+	<item id="8256" type="EtcItem" name="Alternative Red Coda Seed">
+		<!-- Plant this seed onto a monster in the Schuttgart area and it will bear the fruit of the Alternative Red Coda. For best results, a level 8-18 character must plant it on a level 8-18 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="5"/>
+	</item>
+	<item id="8257" type="EtcItem" name="Seed: Alternative Chilly Coda">
+		<!-- Plant this seed onto a monster in the Schuttgart area and it will bear the fruit of the Alternative Chilly Coda. For best results, a level 11-21 character must plant it on a level 11-21 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="5"/>
+	</item>
+	<item id="8258" type="EtcItem" name="Alternative Blue Coda Seed">
+		<!-- Plant this seed onto a monster in the Schuttgart area and it will bear the fruit of the Alternative Blue Coda. For best results, a level 14-24 character must plant it on a level 14-24 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="10"/>
+	</item>
+	<item id="8259" type="EtcItem" name="Seed: Alternative Golden Coda">
+		<!-- Plant this seed onto a monster in the Schuttgart area and it will bear the fruit of the Alternative Golden Coda. For best results, a level 17-27 character must plant it on a level 17-27 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="20"/>
+	</item>
+	<item id="8260" type="EtcItem" name="Alternative Lute Coda Seed">
+		<!-- Plant this seed onto a monster in the Schuttgart area and it will bear the fruit of the Alternative Lute Coda. For best results, a level 20-30 character must plant it on a level 20-30 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="30"/>
+	</item>
+	<item id="8261" type="EtcItem" name="Alternative Desert Coda Seed">
+		<!-- Plant this seed onto a monster in the Schuttgart area and it will bear the fruit of the Alternative Desert Coda. For best results, a level 23-33 character must plant it on a level 23-33 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="20"/>
+	</item>
+	<item id="8262" type="EtcItem" name="Seed: Alternative Red Cobol">
+		<!-- Plant this seed onto a monster in the Schuttgart area and it will bear the fruit of the Alternative Red Cobol. For best results, a level 26-36 character must plant it on a level 26-36 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="20"/>
+	</item>
+	<item id="8263" type="EtcItem" name="Seed: Alternative Chilly Cobol">
+		<!-- Plant this seed onto a monster in the Schuttgart area and it will bear the fruit of the Alternative Chilly Cobol. For best results, a level 29-39 character must plant it on a level 29-39 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="25"/>
+	</item>
+	<item id="8264" type="EtcItem" name="Seed: Alternative Blue Cobol">
+		<!-- Plant this seed onto a monster in the Schuttgart area and it will bear the fruit of the Alternative Blue Cobol. For best results, a level 32-42 character must plant it on a level 32-42 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="50"/>
+	</item>
+	<item id="8265" type="EtcItem" name="Alternative Thorn Cobol Seed">
+		<!-- Plant this seed onto a monster in the Schuttgart area and it will bear the fruit of the Alternative Thorn Cobol. For best results, a level 35-45 character must plant it on a level 35-45 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="50"/>
+	</item>
+	<item id="8266" type="EtcItem" name="Seed: Alternative Golden Cobol">
+		<!-- Plant this seed onto a monster in the Schuttgart area and it will bear the fruit of the Alternative Golden Cobol. For best results, a level 38-48 character must plant it on a level 38-48 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="50"/>
+	</item>
+	<item id="8267" type="EtcItem" name="Seed: Alternative Great Cobol">
+		<!-- Plant this seed onto a monster in the Schuttgart area and it will bear the fruit of the Alternative Great Cobol. For best results, a level 41-51 character must plant it on a level 41-51 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="40"/>
+	</item>
+	<item id="8268" type="EtcItem" name="Seed: Alternative Red Codran">
+		<!-- Plant this seed onto a monster in the Schuttgart area and it will bear the fruit of the Alternative Red Codran. For best results, a level 44-54 character must plant it on a level 44-54 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="40"/>
+	</item>
+	<item id="8269" type="EtcItem" name="Seed: Alternative Sea Codran">
+		<!-- Plant this seed onto a monster in the Schuttgart area and it will bear the fruit of the Alternative Sea Codran. For best results, a level 45-55 character must plant it on a level 45-55 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="50"/>
+	</item>
+	<item id="8270" type="EtcItem" name="Seed: Alternative Chilly Codran">
+		<!-- Plant this seed onto a monster in the Schuttgart area and it will bear the fruit of the Alternative Chilly Codran. For best results, a level 47-57 character must plant it on a level 47-57 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="40"/>
+	</item>
+	<item id="8271" type="EtcItem" name="Seed: Alternative Blue Codran">
+		<!-- Plant this seed onto a monster in the Schuttgart area and it will bear the fruit of the Alternative Blue Codran. For best results, a level 50-60 character must plant it on a level 50-60 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="50"/>
+	</item>
+	<item id="8272" type="EtcItem" name="Seed: Alternative Twin Codran">
+		<!-- Plant this seed onto a monster in the Schuttgart area and it will bear the fruit of the Alternative Twin Codran. For best results, a level 53-63 character must plant it on a level 53-63 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="50"/>
+	</item>
+	<item id="8273" type="EtcItem" name="Anteroom Key">
+		<!-- Opens the door to one of the Anterooms within the Pagan Temple. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8274" type="EtcItem" name="Chapel Key">
+		<!-- Opens the door to the chapel in the Pagan Temple. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8275" type="EtcItem" name="Key of Darkness">
+		<!-- The key that opens the Door of Darkness located at the altar within the Pagan Temple. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8276" type="EtcItem" name="Sekina's Scale">
+		<!-- The scale obtained by defeating Sekina, Malruk's Witch. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8277" type="EtcItem" name="Themis' Scale">
+		<!-- Obtain this scale by defeating Palibati Queen Themis. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8278" type="EtcItem" name="Vermilion Shard">
+		<!-- Debris obtained by defeating Vermilion, the Blood Tree. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8279" type="EtcItem" name="Nucleus of Hekaton Prime">
+		<!-- Nucleus obtained by defeating Hekaton Prime -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8280" type="EtcItem" name="Tiphon Shard">
+		<!-- Debris obtained by defeating Tiphon, Gargoyle Lord. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8281" type="EtcItem" name="Glaki's Necleus">
+		<!-- Nucleus obtained by defeating Glaki, the last lesser Giant. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8282" type="EtcItem" name="Rahha's Fang">
+		<!-- Fangs obtained by defeating Rahha. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8283" type="EtcItem" name="Sting of Giant Poison Bee">
+		<!-- Evidence that a monster has been destroyed for the safety of the Strip Mine. Take it to Warehouse Keeper Norman in Gludin Village. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8284" type="EtcItem" name="Cloudy Gem">
+		<!-- Evidence that a monster has been destroyed for the safety of the Strip Mine. Take it to Warehouse Keeper Norman in Gludin Village. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8285" type="EtcItem" name="Talon of Young Araneid">
+		<!-- Evidence that a monster has been destroyed for the safety of the Strip Mine. Take it to Warehouse Keeper Norman in Gludin Village. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8286" type="EtcItem" name="Fairy Breath">
+		<!-- The last breath of the crazy Wind Fairy. Take it to Galatea, Gludin Village's Summoner, for the study of balancing spirit power. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8287" type="EtcItem" name="Starstone">
+		<!-- The Starstone that slipped out of the box. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8288" type="EtcItem" name="Yumi's Letter">
+		<!-- The letter from Yumi to Newyear, the Head Blacksmith. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8289" type="EtcItem" name="Starstone">
+		<!-- The Starstone that Yumi asked you to find and bring back. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8290" type="EtcItem" name="Flower of Pavel">
+		<!-- The strange flower from Atlanta. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8291" type="EtcItem" name="Heart of Atlanta">
+		<!-- The stone found where Atlanta was last seen. It should be given to Wendy. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8292" type="EtcItem" name="Wendy's Necklace">
+		<!-- The necklace that became Wendy's last gift. It's not powerful, but it has great historical significance. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8293" type="EtcItem" name="Trainer License">
+		<!-- Mark needed to participate in a Clan Hall War. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8294" type="EtcItem" name="Recipe: Steel Sword (100%)">
+		<!-- This formula for manufacturing a Steel Sword can only be used by Dwarves and Requires Create Item - Skill Level 2. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="8180"/>
+	</item>
+	<item id="8295" type="EtcItem" name="Recipe: Titan Sword (100%)">
+		<!-- This formula for manufacturing a Titan's Sword can only be used by Dwarves and Requires Create Item - Skill Level 3. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="28000"/>
+	</item>
+	<item id="8296" type="EtcItem" name="Recipe: Pa'agrian Sword (100%)">
+		<!-- This formula for manufacturing a Titan's Sword can only be used by Dwarves and Requires Create Item - Skill Level 5. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="86000"/>
+	</item>
+	<item id="8297" type="EtcItem" name="Recipe: Guardian's Sword (100%)">
+		<!-- This formula for manufacturing a Guardian Sword can only be used by Dwarves and Requires Create Item - Skill Level 7. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="262000"/>
+	</item>
+	<item id="8298" type="EtcItem" name="Recipe: Guardian's Sword (60%)">
+		<!-- For Dwarves only. The recipe for Guardian's Sword. Requires Create Item - Skill Level 7. The success rate is 60%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="262000"/>
+	</item>
+	<item id="8299" type="EtcItem" name="Recipe: Infernal Master (100%)">
+		<!-- This formula for manufacturing an Infernal Master can only be used by Dwarves and Requires Create Item - Skill Level 7. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="366000"/>
+	</item>
+</list>

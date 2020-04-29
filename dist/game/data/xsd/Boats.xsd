@@ -1,0 +1,65 @@
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="list">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="path" maxOccurs="unbounded" minOccurs="0">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="point" maxOccurs="unbounded" minOccurs="0">
+								<xs:complexType>
+									<xs:simpleContent>
+										<xs:extension base="xs:string">
+											<xs:attribute type="xs:short" name="speed1" use="required"/>
+											<xs:attribute type="xs:short" name="speed2" use="required"/>
+											<xs:attribute type="xs:int" name="x" use="required"/>
+											<xs:attribute type="xs:int" name="y" use="required"/>
+											<xs:attribute type="xs:short" name="z" use="required"/>
+											<xs:attribute type="xs:int" name="time" use="required"/>
+										</xs:extension>
+									</xs:simpleContent>
+								</xs:complexType>
+							</xs:element>
+						</xs:sequence>
+						<xs:attribute type="xs:byte" name="id" use="required"/>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="boat" maxOccurs="unbounded" minOccurs="0">
+					<xs:complexType>
+						<xs:simpleContent>
+							<xs:extension base="xs:string">
+								<xs:attribute type="xs:string" name="name" use="required"/>
+								<xs:attribute type="xs:byte" name="id" use="required"/>
+								<xs:attribute type="xs:int" name="spawnX" use="required"/>
+								<xs:attribute type="xs:int" name="spawnY" use="required"/>
+								<xs:attribute type="xs:short" name="spawnZ" use="required"/>
+								<xs:attribute type="xs:int" name="heading" use="required"/>
+								<xs:attribute type="xs:byte" name="pathIdA" use="required"/>
+								<xs:attribute type="xs:short" name="ticketA" use="required"/>
+								<xs:attribute type="xs:int" name="xTeleNoTicketA" use="required"/>
+								<xs:attribute type="xs:int" name="yTeleNoTicketA" use="required"/>
+								<xs:attribute type="xs:short" name="zTeleNoTicketA" use="required"/>
+								<xs:attribute type="xs:string" name="announcerA" use="required"/>
+								<xs:attribute type="xs:string" name="message10A" use="required"/>
+								<xs:attribute type="xs:string" name="message5A" use="required"/>
+								<xs:attribute type="xs:string" name="message1A" use="required"/>
+								<xs:attribute type="xs:string" name="message0A" use="required"/>
+								<xs:attribute type="xs:string" name="messageBeginA" use="required"/>
+								<xs:attribute type="xs:byte" name="pathIdB" use="required"/>
+								<xs:attribute type="xs:short" name="ticketB" use="required"/>
+								<xs:attribute type="xs:int" name="xTeleNoTicketB" use="required"/>
+								<xs:attribute type="xs:int" name="yTeleNoTicketB" use="required"/>
+								<xs:attribute type="xs:short" name="zTeleNoTicketB" use="required"/>
+								<xs:attribute type="xs:string" name="announcerB" use="required"/>
+								<xs:attribute type="xs:string" name="message10B" use="required"/>
+								<xs:attribute type="xs:string" name="message5B" use="required"/>
+								<xs:attribute type="xs:string" name="message1B" use="required"/>
+								<xs:attribute type="xs:string" name="message0B" use="required"/>
+								<xs:attribute type="xs:string" name="messageBeginB" use="required"/>
+							</xs:extension>
+						</xs:simpleContent>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

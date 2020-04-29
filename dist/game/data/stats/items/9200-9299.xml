@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="9200" type="Armor" name="Jester Hat - Firework">
+		<!-- A festive, shadow-type jester hat with 2 points. Uses 2 hair accessory slots. An event hair accessory that grants a magical effect. This item cannot be exchanged, dropped, or sold. -->
+		<set name="bodypart" val="dhair"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="10"/>
+		<set name="crystal_type" val="none"/>
+		<set name="duration" val="300"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<add val="0" order="0x10" stat="pDef"/>
+		</for>
+	</item>
+	<item id="9201" type="Armor" name="Wizard Hat - Firework">
+		<!-- A shadow-type wizard hat with a wide brim and bent tip. Uses 2 hair accessory slots. An event hair accessory that grants a magical effect. This item cannot be exchanged, dropped, or sold. -->
+		<set name="bodypart" val="dhair"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="10"/>
+		<set name="crystal_type" val="none"/>
+		<set name="duration" val="300"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<add val="0" order="0x10" stat="pDef"/>
+		</for>
+	</item>
+	<item id="9202" type="Armor" name="Dapper Hat - Firework">
+		<!-- A shadow-type hair accessory with a visor. Uses 2 hair accessory slots. An event hair accessory that grants a magical effect. This item cannot be exchanged, dropped, or sold. -->
+		<set name="bodypart" val="dhair"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="10"/>
+		<set name="crystal_type" val="none"/>
+		<set name="duration" val="300"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<add val="0" order="0x10" stat="pDef"/>
+		</for>
+	</item>
+	<item id="9203" type="Armor" name="Romantic Chapeau - Firework">
+		<!-- A shadow-type hair accessory adorned with feathers. Uses 2 hair accessory slots. An event hair accessory that grants a magical effect. This item cannot be exchanged, dropped, or sold. -->
+		<set name="bodypart" val="dhair"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="10"/>
+		<set name="crystal_type" val="none"/>
+		<set name="duration" val="300"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<add val="0" order="0x10" stat="pDef"/>
+		</for>
+	</item>
+	<item id="9204" type="Armor" name="Iron Circlet - Firework">
+		<!-- A shadow-type hair accessory made of iron. Uses 2 hair accessory slots. An event hair accessory that grants a magical effect. This item cannot be exchanged, dropped, or sold. -->
+		<set name="bodypart" val="dhair"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="10"/>
+		<set name="crystal_type" val="none"/>
+		<set name="duration" val="300"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<add val="0" order="0x10" stat="pDef"/>
+		</for>
+	</item>
+	<item id="9205" type="EtcItem" name="Alchemist's Chest Key (Event)">
+		<!-- A key to open an Alchemist's Treasure Chest. For use in events only -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="10"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="9206" type="EtcItem" name="Greater Healing Potion (Event)">
+		<!-- A magical potion that quickly restores HP. Its effect lasts for 15 seconds. Designed for use in events only. -->
+		<set name="item_type" val="potion"/>
+		<set name="weight" val="5"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="9207" type="EtcItem" name="Quick Healing Potion (Event)">
+		<!-- A magical potion that quickly restores HP. Its effect is temporary. Designed for use in events only. -->
+		<set name="item_type" val="potion"/>
+		<set name="weight" val="5"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="9208" type="Armor" name="Phantom Mask (Event)">
+		<!-- A feathered hair accessory. This item cannot be exchanged or dropped. -->
+		<set name="bodypart" val="dhair"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="10"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<add val="0" order="0x10" stat="pDef"/>
+		</for>
+	</item>
+</list>

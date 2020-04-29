@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/zones.xsd">
+	<zone type="NoSummonFriendZone" shape="NPoly" minZ="-5383" maxZ="-4883"> <!-- oracle_of_dusk_waitroom -->
+		<node X="-82064" Y="85608" />
+		<node X="-75832" Y="85626" />
+		<node X="-75832" Y="88068" />
+		<node X="-82099" Y="88080" />
+	</zone>
+	<zone type="NoSummonFriendZone" shape="NPoly" minZ="-5118" maxZ="-4618"> <!-- oracle_of_dawn_waitroom -->
+		<node X="-74529" Y="110475" />
+		<node X="-75832" Y="110476" />
+		<node X="-74524" Y="113224" />
+		<node X="-80892" Y="113211" />
+	</zone>
+	<zone type="NoSummonFriendZone" shape="NPoly" minZ="-6949" maxZ="-6449"> <!-- rift_between_worlds_waitroom -->
+		<node X="-115608" Y="-182374" />
+		<node X="-113976" Y="-182380" />
+		<node X="-113990" Y="-177851" />
+		<node X="-115606" Y="-177858" />
+	</zone>
+	<zone type="NoSummonFriendZone" shape="NPoly" minZ="-3668" maxZ="-3168"> <!-- monster_derby_track -->
+		<node X="14566" Y="182997" />
+		<node X="13257" Y="182976" />
+		<node X="13250" Y="184333" />
+		<node X="11629" Y="184316" />
+		<node X="11621" Y="181298" />
+		<node X="14486" Y="181302" />
+	</zone>
+	<zone type="NoSummonFriendZone" shape="NPoly" minZ="-2992" maxZ="-2792"> <!-- gm_prison -->
+		<node X="-116390" Y="-251581" />
+		<node X="-112756" Y="-251617" />
+		<node X="-112720" Y="-248199" />
+		<node X="-116354" Y="-248217" />
+	</zone>
+	<zone type="NoSummonFriendZone" shape="NPoly" minZ="-3753" maxZ="32767"> <!-- boss_area_valakas -->
+		<node X="196710" Y="-130845" />
+		<node X="228895" Y="-130845" />
+		<node X="229126" Y="-96162" />
+		<node X="196478" Y="-98187" />
+	</zone>
+	<zone type="NoSummonFriendZone" shape="NPoly" minZ="-3753" maxZ="32767"> <!-- boss_area_valakas2 -->
+		<node X="183634" Y="-115085" />
+		<node X="183634" Y="-114885" />
+		<node X="184000" Y="-115085" />
+		<node X="184000" Y="-114885" />
+	</zone>
+	<zone type="NoSummonFriendZone" shape="NPoly" minZ="-10736" maxZ="-5736"> <!-- 20_26_basetower_inner_01 -->
+		<node X="12080" Y="274633" />
+		<node X="20523" Y="274633" />
+		<node X="20553" Y="284567" />
+		<node X="11947" Y="284600" />
+	</zone>
+	<zone type="NoSummonFriendZone" shape="NPoly" minZ="-15364" maxZ="-6864"> <!-- 19_26_tower_a_inner_01 -->
+		<node X="-23324" Y="276243" />
+		<node X="-17912" Y="276243" />
+		<node X="-17912" Y="280871" />
+		<node X="-23324" Y="280871" />
+	</zone>
+	<zone type="NoSummonFriendZone" shape="NPoly" minZ="-16148" maxZ="-4648"> <!-- 19_26_tower_b_inner_01 -->
+		<node X="-15081" Y="271397" />
+		<node X="-9858" Y="271401" />
+		<node X="-9809" Y="282115" />
+		<node X="-15085" Y="282131" />
+	</zone>
+	<zone type="NoSummonFriendZone" shape="NPoly" minZ="-10412" maxZ="-5112"> <!-- 20_24_beres_01 -->
+		<node X="11214" Y="205578" />
+		<node X="20607" Y="205578" />
+		<node X="20648" Y="220271" />
+		<node X="11172" Y="220271" />
+	</zone>
+	<zone type="NoSummonFriendZone" shape="NPoly" minZ="-14581" maxZ="-4581"> <!-- 20_21_cruma_tower -->
+		<node X="9951" Y="106537" />
+		<node X="25483" Y="106522" />
+		<node X="25456" Y="121770" />
+		<node X="9991" Y="121797" />
+	</zone>
+	<zone type="NoSummonFriendZone" shape="NPoly" minZ="-8800" maxZ="200"> <!-- 25_15_godard15_nocall -->
+		<node X="164226" Y="-94258" />
+		<node X="171998" Y="-94378" />
+		<node X="171845" Y="-84191" />
+		<node X="164030" Y="-83790" />
+	</zone>
+	<zone type="NoSummonFriendZone" shape="NPoly" minZ="-8800" maxZ="200"> <!-- 25_15_godard14_nocall -->
+		<node X="176475" Y="-90312" />
+		<node X="192224" Y="-90260" />
+		<node X="192236" Y="-84568" />
+		<node X="180669" Y="-84640" />
+		<node X="180606" Y="-82852" />
+		<node X="176498" Y="-82757" />
+	</zone>
+	<zone type="NoSummonFriendZone" shape="NPoly" minZ="-7318" maxZ="-6718"> <!-- 25_15_godard18_nocall -->
+		<node X="172063" Y="-90095" />
+		<node X="176460" Y="-90057" />
+		<node X="176460" Y="-74019" />
+		<node X="172089" Y="-74076" />
+	</zone>
+</list>

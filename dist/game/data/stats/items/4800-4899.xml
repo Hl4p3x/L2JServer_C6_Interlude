@@ -1,0 +1,3106 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="4800" type="Weapon" name="Knuckle Duster - Haste">
+		<!-- <Soul Crystal Enhancement>. Increases Atk. Spd. by about 7%. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1490"/>
+		<set name="soulshots" val="2"/>
+		<set name="spiritshots" val="2"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="148"/>
+		<set name="rnd_dam" val="5"/>
+		<set name="weapon_type" val="dualfist"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="68"/>
+		<set name="price" val="2870000"/>
+		<set name="crystal_count" val="1148"/>
+		<set name="item_skill_id" val="3037"/> <!-- Special Ability: Haste -->
+		<set name="item_skill_lvl" val="2"/>
+		<for>
+			<set val="148" order="0x08" stat="pAtk"/>
+			<set val="68" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- SA: Haste -->
+			<mul val="1.07" order="0x30" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="4801" type="Weapon" name="Arthro Nail - Critical Poison">
+		<!-- <Soul Crystal Enhancement>. 7% chance that target will be poisoned during critical attack Effect 6 -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1420"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="b"/>
+		<set name="p_dam" val="213"/>
+		<set name="rnd_dam" val="5"/>
+		<set name="weapon_type" val="dualfist"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="91"/>
+		<set name="price" val="8680000"/>
+		<set name="crystal_count" val="1157"/>
+		<for>
+			<set val="213" order="0x08" stat="pAtk"/>
+			<set val="91" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- Critical Poison -->
+			<skill onCrit="1" id="1168" lvl="5" chance="7"/>
+		</for>
+	</item>
+	<item id="4802" type="Weapon" name="Arthro Nail - Rsk. Evasion">
+		<!-- <Soul Crystal Enhancement>. Increases Evasion by 6 when HP becomes 60% or lower. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1420"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="b"/>
+		<set name="p_dam" val="213"/>
+		<set name="rnd_dam" val="5"/>
+		<set name="weapon_type" val="dualfist"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="91"/>
+		<set name="price" val="8680000"/>
+		<set name="crystal_count" val="1157"/>
+		<set name="item_skill_id" val="3030"/> <!-- Special Ability: Rsk. Evasion -->
+		<set name="item_skill_lvl" val="5"/>
+		<for>
+			<set val="213" order="0x08" stat="pAtk"/>
+			<set val="91" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- SA: Rsk. Evasion -->
+			<add order="0x40" stat="rEvas" val="6">
+				<and>
+					<player hp="60"/>
+				</and>
+			</add>
+		</for>
+	</item>
+	<item id="4803" type="Weapon" name="Arthro Nail - Rsk. Haste">
+		<!-- <Soul Crystal Enhancement>. Increases Atk. Spd. by 10% when HP drops to 60% or lower. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1420"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="b"/>
+		<set name="p_dam" val="213"/>
+		<set name="rnd_dam" val="5"/>
+		<set name="weapon_type" val="dualfist"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="91"/>
+		<set name="price" val="8680000"/>
+		<set name="crystal_count" val="1157"/>
+		<set name="item_skill_id" val="3034"/> <!-- Special Ability: Rsk. Haste -->
+		<set name="item_skill_lvl" val="5"/>
+		<for>
+			<set val="213" order="0x08" stat="pAtk"/>
+			<set val="91" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- SA: Rsk. Haste -->
+			<mul order="0x30" stat="pAtkSpd" val="1.1">
+				<and>
+					<player hp="60"/>
+				</and>
+			</mul>
+		</for>
+	</item>
+	<item id="4804" type="Weapon" name="Bellion Cestus - Critical Drain">
+		<!-- <Soul Crystal Enhancement>. User absorbs 14 HP from target during critical attack. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1390"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="b"/>
+		<set name="p_dam" val="236"/>
+		<set name="rnd_dam" val="5"/>
+		<set name="weapon_type" val="dualfist"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="99"/>
+		<set name="price" val="13100000"/>
+		<set name="crystal_count" val="1746"/>
+		<for>
+			<set val="236" order="0x08" stat="pAtk"/>
+			<set val="99" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- Critical Drain -->
+			<skill onCrit="1" id="3022" lvl="5"/>
+		</for>
+	</item>
+	<item id="4805" type="Weapon" name="Bellion Cestus - Critical Poison">
+		<!-- <Soul Crystal Enhancement>. 6% chance that target will be poisoned during critical attack Effect 7 -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1390"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="b"/>
+		<set name="p_dam" val="236"/>
+		<set name="rnd_dam" val="5"/>
+		<set name="weapon_type" val="dualfist"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="99"/>
+		<set name="price" val="13100000"/>
+		<set name="crystal_count" val="1746"/>
+		<for>
+			<set val="236" order="0x08" stat="pAtk"/>
+			<set val="99" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- Critical Poison -->
+			<skill onCrit="1" id="1168" lvl="7" chance="6"/>
+		</for>
+	</item>
+	<item id="4806" type="Weapon" name="Bellion Cestus - Rsk. Haste">
+		<!-- <Soul Crystal Enhancement>. Increases Atk. Spd. by 9% when HP drops to 60% or lower. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1390"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="b"/>
+		<set name="p_dam" val="236"/>
+		<set name="rnd_dam" val="5"/>
+		<set name="weapon_type" val="dualfist"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="99"/>
+		<set name="price" val="13100000"/>
+		<set name="crystal_count" val="1746"/>
+		<set name="item_skill_id" val="3034"/> <!-- Special Ability: Rsk. Haste -->
+		<set name="item_skill_lvl" val="6"/>
+		<for>
+			<set val="236" order="0x08" stat="pAtk"/>
+			<set val="99" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- SA: Rsk. Haste -->
+			<mul order="0x30" stat="pAtkSpd" val="1.09">
+				<and>
+					<player hp="60"/>
+				</and>
+			</mul>
+		</for>
+	</item>
+	<item id="4807" type="Weapon" name="Blood Tornado - Critical Drain">
+		<!-- <Soul Crystal Enhancement>. Absorbs a target's HP during a critical attack. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1370"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_dam" val="259"/>
+		<set name="rnd_dam" val="5"/>
+		<set name="weapon_type" val="dualfist"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="107"/>
+		<set name="price" val="18300000"/>
+		<set name="crystal_count" val="1464"/>
+		<for>
+			<set val="259" order="0x08" stat="pAtk"/>
+			<set val="107" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- Critical Drain -->
+			<skill onCrit="1" id="3022" lvl="6"/>
+		</for>
+	</item>
+	<item id="4808" type="Weapon" name="Blood Tornado - Rsk. Evasion">
+		<!-- <Soul Crystal Enhancement>. Increases Evasion when HP becomes 60% or lower. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1370"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_dam" val="259"/>
+		<set name="rnd_dam" val="5"/>
+		<set name="weapon_type" val="dualfist"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="107"/>
+		<set name="price" val="18300000"/>
+		<set name="crystal_count" val="1464"/>
+		<set name="item_skill_id" val="3030"/> <!-- Special Ability: Rsk. Evasion -->
+		<set name="item_skill_lvl" val="6"/>
+		<for>
+			<set val="259" order="0x08" stat="pAtk"/>
+			<set val="107" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- SA: Rsk. Evasion -->
+			<add order="0x40" stat="rEvas" val="9">
+				<and>
+					<player hp="60"/>
+				</and>
+			</add>
+		</for>
+	</item>
+	<item id="4809" type="Weapon" name="Blood Tornado - Haste">
+		<!-- <Soul Crystal Enhancement>. Increases Atk. Spd. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1370"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_dam" val="259"/>
+		<set name="rnd_dam" val="5"/>
+		<set name="weapon_type" val="dualfist"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="107"/>
+		<set name="price" val="18300000"/>
+		<set name="crystal_count" val="1464"/>
+		<set name="item_skill_id" val="3037"/> <!-- Special Ability: Haste -->
+		<set name="item_skill_lvl" val="6"/>
+		<for>
+			<set val="259" order="0x08" stat="pAtk"/>
+			<set val="107" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- SA: Haste -->
+			<mul val="1.06" order="0x30" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="4810" type="Weapon" name="Crystallized Ice Bow - Guidance">
+		<!-- <Soul Crystal Enhancement>. Increases Accuracy by 5. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1790"/>
+		<set name="soulshots" val="8"/>
+		<set name="spiritshots" val="2"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="220"/>
+		<set name="rnd_dam" val="5"/>
+		<set name="weapon_type" val="bow"/>
+		<set name="critical" val="12"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="293"/>
+		<set name="mp_consume" val="6"/>
+		<set name="m_dam" val="61"/>
+		<set name="price" val="2290000"/>
+		<set name="crystal_count" val="916"/>
+		<set name="item_skill_id" val="3008"/> <!-- Special Ability: Guidance -->
+		<set name="item_skill_lvl" val="1"/>
+		<for>
+			<set val="220" order="0x08" stat="pAtk"/>
+			<set val="61" order="0x08" stat="mAtk"/>
+			<set val="12" order="0x08" stat="rCrit"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="293" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- SA: Guidance -->
+			<add val="5" order="0x40" stat="accCombat"/>
+		</for>
+	</item>
+	<item id="4811" type="Weapon" name="Crystallized Ice Bow - Evasion">
+		<!-- <Soul Crystal Enhancement>. Increases Evasion by 2. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1790"/>
+		<set name="soulshots" val="8"/>
+		<set name="spiritshots" val="2"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="220"/>
+		<set name="rnd_dam" val="5"/>
+		<set name="weapon_type" val="bow"/>
+		<set name="critical" val="12"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="293"/>
+		<set name="mp_consume" val="6"/>
+		<set name="m_dam" val="61"/>
+		<set name="price" val="2290000"/>
+		<set name="crystal_count" val="916"/>
+		<set name="item_skill_id" val="3009"/> <!-- Special Ability: Evasion -->
+		<set name="item_skill_lvl" val="1"/>
+		<for>
+			<set val="220" order="0x08" stat="pAtk"/>
+			<set val="61" order="0x08" stat="mAtk"/>
+			<set val="12" order="0x08" stat="rCrit"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="293" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- SA: Evasion -->
+			<add val="2" order="0x40" stat="rEvas"/>
+		</for>
+	</item>
+	<item id="4812" type="Weapon" name="Crystallized Ice Bow - Quick Recovery">
+		<!-- <Soul Crystal Enhancement>. Reduces re-use delay by approximately 17%. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1790"/>
+		<set name="soulshots" val="8"/>
+		<set name="spiritshots" val="2"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="220"/>
+		<set name="rnd_dam" val="5"/>
+		<set name="weapon_type" val="bow"/>
+		<set name="critical" val="12"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="293"/>
+		<set name="mp_consume" val="6"/>
+		<set name="m_dam" val="61"/>
+		<set name="price" val="2290000"/>
+		<set name="crystal_count" val="916"/>
+		<for>
+			<set val="220" order="0x08" stat="pAtk"/>
+			<set val="61" order="0x08" stat="mAtk"/>
+			<set val="12" order="0x08" stat="rCrit"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="293" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- SA: Quick Recovery -->
+			<mul val="0.83" order="0x30" stat="atkReuse"/>
+		</for>
+	</item>
+	<item id="4813" type="Weapon" name="Elemental Bow - Guidance">
+		<!-- <Soul Crystal Enhancement>. Increases Accuracy by 5. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1770"/>
+		<set name="soulshots" val="8"/>
+		<set name="spiritshots" val="2"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="277"/>
+		<set name="rnd_dam" val="5"/>
+		<set name="weapon_type" val="bow"/>
+		<set name="critical" val="12"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="227"/>
+		<set name="mp_consume" val="7"/>
+		<set name="m_dam" val="75"/>
+		<set name="price" val="2870000"/>
+		<set name="crystal_count" val="1148"/>
+		<set name="item_skill_id" val="3008"/> <!-- Special Ability: Guidance -->
+		<set name="item_skill_lvl" val="2"/>
+		<for>
+			<set val="277" order="0x08" stat="pAtk"/>
+			<set val="75" order="0x08" stat="mAtk"/>
+			<set val="12" order="0x08" stat="rCrit"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="227" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- SA: Guidance -->
+			<add val="5" order="0x40" stat="accCombat"/>
+		</for>
+	</item>
+	<item id="4814" type="Weapon" name="Elemental Bow - Miser">
+		<!-- <Soul Crystal Enhancement>. There is a 30% rate of probability the number of soulshots consumed is reduced to 7. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1770"/>
+		<set name="soulshots" val="8"/>
+		<set name="spiritshots" val="2"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="277"/>
+		<set name="rnd_dam" val="5"/>
+		<set name="weapon_type" val="bow"/>
+		<set name="critical" val="12"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="227"/>
+		<set name="mp_consume" val="7"/>
+		<set name="m_dam" val="75"/>
+		<set name="price" val="2870000"/>
+		<set name="crystal_count" val="1148"/>
+		<for>
+			<set val="277" order="0x08" stat="pAtk"/>
+			<set val="75" order="0x08" stat="mAtk"/>
+			<set val="12" order="0x08" stat="rCrit"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="227" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!--SA: Miser-->
+			<set val="7" order="0x08" stat="soulShotCount">
+				<and>
+					<game chance="30"/>
+				</and>
+			</set>
+		</for>
+	</item>
+	<item id="4815" type="Weapon" name="Elemental Bow - Quick Recovery">
+		<!-- <Soul Crystal Enhancement>. Reduces re-use delay by approximately 20%. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1770"/>
+		<set name="soulshots" val="8"/>
+		<set name="spiritshots" val="2"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="277"/>
+		<set name="rnd_dam" val="5"/>
+		<set name="weapon_type" val="bow"/>
+		<set name="critical" val="12"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="227"/>
+		<set name="mp_consume" val="7"/>
+		<set name="m_dam" val="75"/>
+		<set name="price" val="2870000"/>
+		<set name="crystal_count" val="1148"/>
+		<for>
+			<set val="277" order="0x08" stat="pAtk"/>
+			<set val="75" order="0x08" stat="mAtk"/>
+			<set val="12" order="0x08" stat="rCrit"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="227" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- SA: Quick Recovery -->
+			<mul val="0.8" order="0x30" stat="atkReuse"/>
+		</for>
+	</item>
+	<item id="4816" type="Weapon" name="Elven Bow of Nobility - Evasion">
+		<!-- <Soul Crystal Enhancement>. Increases Evasion by 2. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1760"/>
+		<set name="soulshots" val="8"/>
+		<set name="spiritshots" val="2"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="252"/>
+		<set name="rnd_dam" val="5"/>
+		<set name="weapon_type" val="bow"/>
+		<set name="critical" val="12"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="293"/>
+		<set name="mp_consume" val="7"/>
+		<set name="m_dam" val="68"/>
+		<set name="price" val="2870000"/>
+		<set name="crystal_count" val="1148"/>
+		<set name="item_skill_id" val="3009"/> <!-- Special Ability: Evasion -->
+		<set name="item_skill_lvl" val="2"/>
+		<for>
+			<set val="252" order="0x08" stat="pAtk"/>
+			<set val="68" order="0x08" stat="mAtk"/>
+			<set val="12" order="0x08" stat="rCrit"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="293" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- SA: Evasion -->
+			<add val="2" order="0x40" stat="rEvas"/>
+		</for>
+	</item>
+	<item id="4817" type="Weapon" name="Elven Bow of Nobility - Miser">
+		<!-- <Soul Crystal Enhancement>. There is a 30% rate of probability the number of soulshots consumed is reduced to 7. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1760"/>
+		<set name="soulshots" val="8"/>
+		<set name="spiritshots" val="2"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="252"/>
+		<set name="rnd_dam" val="5"/>
+		<set name="weapon_type" val="bow"/>
+		<set name="critical" val="12"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="293"/>
+		<set name="mp_consume" val="7"/>
+		<set name="m_dam" val="68"/>
+		<set name="price" val="2870000"/>
+		<set name="crystal_count" val="1148"/>
+		<for>
+			<set val="252" order="0x08" stat="pAtk"/>
+			<set val="68" order="0x08" stat="mAtk"/>
+			<set val="12" order="0x08" stat="rCrit"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="293" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!--SA: Miser-->
+			<set val="7" order="0x08" stat="soulShotCount">
+				<and>
+					<game chance="30"/>
+				</and>
+			</set>
+		</for>
+	</item>
+	<item id="4818" type="Weapon" name="Elven Bow of Nobility - Cheap Shot">
+		<!-- <Soul Crystal Enhancement>. When launching a general attack, there is a 46% probability that MP consumption will be decreased to 2. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1760"/>
+		<set name="soulshots" val="8"/>
+		<set name="spiritshots" val="2"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="252"/>
+		<set name="rnd_dam" val="5"/>
+		<set name="weapon_type" val="bow"/>
+		<set name="critical" val="12"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="293"/>
+		<set name="mp_consume" val="7"/>
+		<set name="m_dam" val="68"/>
+		<set name="price" val="2870000"/>
+		<set name="crystal_count" val="1148"/>
+		<for>
+			<set val="252" order="0x08" stat="pAtk"/>
+			<set val="68" order="0x08" stat="mAtk"/>
+			<set val="12" order="0x08" stat="rCrit"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="293" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- SA: Cheap Shot -->
+			<set val="2" order="0x08" stat="MpConsume">
+				<and>
+					<game skill="false" chance="46"/>
+				</and>
+			</set>
+		</for>
+	</item>
+	<item id="4819" type="Weapon" name="Akat Long Bow - Guidance">
+		<!-- <Soul Crystal Enhancement>. Increases Accuracy by 4. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1740"/>
+		<set name="soulshots" val="9"/>
+		<set name="spiritshots" val="3"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="316"/>
+		<set name="rnd_dam" val="5"/>
+		<set name="weapon_type" val="bow"/>
+		<set name="critical" val="12"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="227"/>
+		<set name="mp_consume" val="7"/>
+		<set name="m_dam" val="84"/>
+		<set name="price" val="4300000"/>
+		<set name="crystal_count" val="1720"/>
+		<set name="item_skill_id" val="3008"/> <!-- Special Ability: Guidance -->
+		<set name="item_skill_lvl" val="3"/>
+		<for>
+			<set val="316" order="0x08" stat="pAtk"/>
+			<set val="84" order="0x08" stat="mAtk"/>
+			<set val="12" order="0x08" stat="rCrit"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="227" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- SA: Guidance -->
+			<add val="4" order="0x40" stat="accCombat"/>
+		</for>
+	</item>
+	<item id="4820" type="Weapon" name="Akat Long Bow - Evasion">
+		<!-- <Soul Crystal Enhancement>. Increases Evasion by 2. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1740"/>
+		<set name="soulshots" val="9"/>
+		<set name="spiritshots" val="3"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="316"/>
+		<set name="rnd_dam" val="5"/>
+		<set name="weapon_type" val="bow"/>
+		<set name="critical" val="12"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="227"/>
+		<set name="mp_consume" val="7"/>
+		<set name="m_dam" val="84"/>
+		<set name="price" val="4300000"/>
+		<set name="crystal_count" val="1720"/>
+		<set name="item_skill_id" val="3009"/> <!-- Special Ability: Evasion -->
+		<set name="item_skill_lvl" val="3"/>
+		<for>
+			<set val="316" order="0x08" stat="pAtk"/>
+			<set val="84" order="0x08" stat="mAtk"/>
+			<set val="12" order="0x08" stat="rCrit"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="227" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- SA: Evasion -->
+			<add val="2" order="0x40" stat="rEvas"/>
+		</for>
+	</item>
+	<item id="4821" type="Weapon" name="Akat Long Bow - Miser">
+		<!-- <Soul Crystal Enhancement>. There is a 30% rate of probability the number of soulshots consumed is reduced to 8. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1740"/>
+		<set name="soulshots" val="9"/>
+		<set name="spiritshots" val="3"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="316"/>
+		<set name="rnd_dam" val="5"/>
+		<set name="weapon_type" val="bow"/>
+		<set name="critical" val="12"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="227"/>
+		<set name="mp_consume" val="7"/>
+		<set name="m_dam" val="84"/>
+		<set name="price" val="4300000"/>
+		<set name="crystal_count" val="1720"/>
+		<for>
+			<set val="316" order="0x08" stat="pAtk"/>
+			<set val="84" order="0x08" stat="mAtk"/>
+			<set val="12" order="0x08" stat="rCrit"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="227" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!--SA: Miser-->
+			<set val="8" order="0x08" stat="soulShotCount">
+				<and>
+					<game chance="30"/>
+				</and>
+			</set>
+		</for>
+	</item>
+	<item id="4822" type="Weapon" name="Eminence Bow - Guidance">
+		<!-- <Soul Crystal Enhancement>. Increases Accuracy by 4. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1720"/>
+		<set name="soulshots" val="10"/>
+		<set name="spiritshots" val="3"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="323"/>
+		<set name="rnd_dam" val="5"/>
+		<set name="weapon_type" val="bow"/>
+		<set name="critical" val="12"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="293"/>
+		<set name="mp_consume" val="8"/>
+		<set name="m_dam" val="83"/>
+		<set name="price" val="6130000"/>
+		<set name="crystal_count" val="2452"/>
+		<set name="item_skill_id" val="3008"/> <!-- Special Ability: Guidance -->
+		<set name="item_skill_lvl" val="4"/>
+		<for>
+			<set val="323" order="0x08" stat="pAtk"/>
+			<set val="83" order="0x08" stat="mAtk"/>
+			<set val="12" order="0x08" stat="rCrit"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="293" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- SA: Guidance -->
+			<add val="4" order="0x40" stat="accCombat"/>
+		</for>
+	</item>
+	<item id="4823" type="Weapon" name="Eminence Bow - Miser">
+		<!-- <Soul Crystal Enhancement>. There is a 30% rate of probability the number of soulshots consumed is reduced to 9. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1720"/>
+		<set name="soulshots" val="10"/>
+		<set name="spiritshots" val="3"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="323"/>
+		<set name="rnd_dam" val="5"/>
+		<set name="weapon_type" val="bow"/>
+		<set name="critical" val="12"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="293"/>
+		<set name="mp_consume" val="8"/>
+		<set name="m_dam" val="83"/>
+		<set name="price" val="6130000"/>
+		<set name="crystal_count" val="2452"/>
+		<for>
+			<set val="323" order="0x08" stat="pAtk"/>
+			<set val="83" order="0x08" stat="mAtk"/>
+			<set val="12" order="0x08" stat="rCrit"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="293" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!--SA: Miser-->
+			<set val="9" order="0x08" stat="soulShotCount">
+				<and>
+					<game chance="30"/>
+				</and>
+			</set>
+		</for>
+	</item>
+	<item id="4824" type="Weapon" name="Eminence Bow - Cheap Shot">
+		<!-- <Soul Crystal Enhancement>. When launching a general attack, there is a 34% probability that MP consumption will be decreased to 1. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1720"/>
+		<set name="soulshots" val="10"/>
+		<set name="spiritshots" val="3"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="323"/>
+		<set name="rnd_dam" val="5"/>
+		<set name="weapon_type" val="bow"/>
+		<set name="critical" val="12"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="293"/>
+		<set name="mp_consume" val="8"/>
+		<set name="m_dam" val="83"/>
+		<set name="price" val="6130000"/>
+		<set name="crystal_count" val="2452"/>
+		<for>
+			<set val="323" order="0x08" stat="pAtk"/>
+			<set val="83" order="0x08" stat="mAtk"/>
+			<set val="12" order="0x08" stat="rCrit"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="293" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- SA: Cheap Shot -->
+			<set val="1" order="0x08" stat="MpConsume">
+				<and>
+					<game skill="false" chance="34"/>
+				</and>
+			</set>
+		</for>
+	</item>
+	<item id="4825" type="Weapon" name="Dark Elven Long Bow - Evasion">
+		<!-- <Soul Crystal Enhancement>. Increases Evasion by 2. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1720"/>
+		<set name="soulshots" val="3"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="b"/>
+		<set name="p_dam" val="397"/>
+		<set name="rnd_dam" val="5"/>
+		<set name="weapon_type" val="bow"/>
+		<set name="critical" val="12"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="227"/>
+		<set name="mp_consume" val="8"/>
+		<set name="m_dam" val="100"/>
+		<set name="price" val="8680000"/>
+		<set name="crystal_count" val="1157"/>
+		<set name="item_skill_id" val="3009"/> <!-- Special Ability: Evasion -->
+		<set name="item_skill_lvl" val="5"/>
+		<for>
+			<set val="397" order="0x08" stat="pAtk"/>
+			<set val="100" order="0x08" stat="mAtk"/>
+			<set val="12" order="0x08" stat="rCrit"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="227" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- SA: Evasion -->
+			<add val="2" order="0x40" stat="rEvas"/>
+		</for>
+	</item>
+	<item id="4826" type="Weapon" name="Dark Elven Long Bow - Critical Bleed">
+		<!-- <Soul Crystal Enhancement>. 30% chance that target will bleed during critical attack. Effect 6. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1720"/>
+		<set name="soulshots" val="3"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="b"/>
+		<set name="p_dam" val="397"/>
+		<set name="rnd_dam" val="5"/>
+		<set name="weapon_type" val="bow"/>
+		<set name="critical" val="12"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="227"/>
+		<set name="mp_consume" val="8"/>
+		<set name="m_dam" val="100"/>
+		<set name="price" val="8680000"/>
+		<set name="crystal_count" val="1157"/>
+		<for>
+			<set val="397" order="0x08" stat="pAtk"/>
+			<set val="100" order="0x08" stat="mAtk"/>
+			<set val="12" order="0x08" stat="rCrit"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="227" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- Critical Bleed -->
+			<skill onCrit="1" id="96" lvl="4" chance="30"/>
+		</for>
+	</item>
+	<item id="4827" type="Weapon" name="Dark Elven Long Bow - Miser">
+		<!-- <Soul Crystal Enhancement>. There is a 30% rate of probability the number of soulshots consumed is reduced to 2. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1720"/>
+		<set name="soulshots" val="3"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="b"/>
+		<set name="p_dam" val="397"/>
+		<set name="rnd_dam" val="5"/>
+		<set name="weapon_type" val="bow"/>
+		<set name="critical" val="12"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="227"/>
+		<set name="mp_consume" val="8"/>
+		<set name="m_dam" val="100"/>
+		<set name="price" val="8680000"/>
+		<set name="crystal_count" val="1157"/>
+		<for>
+			<set val="397" order="0x08" stat="pAtk"/>
+			<set val="100" order="0x08" stat="mAtk"/>
+			<set val="12" order="0x08" stat="rCrit"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="227" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!--SA: Miser-->
+			<set val="2" order="0x08" stat="soulShotCount">
+				<and>
+					<game chance="30"/>
+				</and>
+			</set>
+		</for>
+	</item>
+	<item id="4828" type="Weapon" name="Bow of Peril - Guidance">
+		<!-- <Soul Crystal Enhancement>. Increases Accuracy by 3. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1700"/>
+		<set name="soulshots" val="3"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="b"/>
+		<set name="p_dam" val="400"/>
+		<set name="rnd_dam" val="5"/>
+		<set name="weapon_type" val="bow"/>
+		<set name="critical" val="12"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="293"/>
+		<set name="mp_consume" val="9"/>
+		<set name="m_dam" val="99"/>
+		<set name="price" val="13100000"/>
+		<set name="crystal_count" val="1746"/>
+		<set name="item_skill_id" val="3008"/> <!-- Special Ability: Guidance -->
+		<set name="item_skill_lvl" val="6"/>
+		<for>
+			<set val="400" order="0x08" stat="pAtk"/>
+			<set val="99" order="0x08" stat="mAtk"/>
+			<set val="12" order="0x08" stat="rCrit"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="293" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- SA: Guidance -->
+			<add val="3" order="0x40" stat="accCombat"/>
+		</for>
+	</item>
+	<item id="4829" type="Weapon" name="Bow of Peril - Quick Recovery">
+		<!-- <Soul Crystal Enhancement>. Reduces re-use delay by approximately 13%. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1700"/>
+		<set name="soulshots" val="3"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="b"/>
+		<set name="p_dam" val="400"/>
+		<set name="rnd_dam" val="5"/>
+		<set name="weapon_type" val="bow"/>
+		<set name="critical" val="12"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="293"/>
+		<set name="mp_consume" val="9"/>
+		<set name="m_dam" val="99"/>
+		<set name="price" val="13100000"/>
+		<set name="crystal_count" val="1746"/>
+		<for>
+			<set val="400" order="0x08" stat="pAtk"/>
+			<set val="99" order="0x08" stat="mAtk"/>
+			<set val="12" order="0x08" stat="rCrit"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="293" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- SA: Quick Recovery -->
+			<mul val="0.87" order="0x30" stat="atkReuse"/>
+		</for>
+	</item>
+	<item id="4830" type="Weapon" name="Bow of Peril - Cheap Shot">
+		<!-- <Soul Crystal Enhancement>. When launching a general attack, there is a 42% probability that MP consumption will be decreased to 2. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1700"/>
+		<set name="soulshots" val="3"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="b"/>
+		<set name="p_dam" val="400"/>
+		<set name="rnd_dam" val="5"/>
+		<set name="weapon_type" val="bow"/>
+		<set name="critical" val="12"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="293"/>
+		<set name="mp_consume" val="9"/>
+		<set name="m_dam" val="99"/>
+		<set name="price" val="13100000"/>
+		<set name="crystal_count" val="1746"/>
+		<for>
+			<set val="400" order="0x08" stat="pAtk"/>
+			<set val="99" order="0x08" stat="mAtk"/>
+			<set val="12" order="0x08" stat="rCrit"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="293" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- SA: Cheap Shot -->
+			<set val="2" order="0x08" stat="MpConsume">
+				<and>
+					<game skill="false" chance="42"/>
+				</and>
+			</set>
+		</for>
+	</item>
+	<item id="4831" type="Weapon" name="Carnage Bow - Critical Bleed">
+		<!-- <Soul Crystal Enhancement>. 30% chance that target will bleed during critical attack. Effect 6. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1670"/>
+		<set name="soulshots" val="2"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_dam" val="440"/>
+		<set name="rnd_dam" val="5"/>
+		<set name="weapon_type" val="bow"/>
+		<set name="critical" val="12"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="293"/>
+		<set name="mp_consume" val="9"/>
+		<set name="m_dam" val="107"/>
+		<set name="price" val="18300000"/>
+		<set name="crystal_count" val="1464"/>
+		<for>
+			<set val="440" order="0x08" stat="pAtk"/>
+			<set val="107" order="0x08" stat="mAtk"/>
+			<set val="12" order="0x08" stat="rCrit"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="293" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- Critical Bleed -->
+			<skill onCrit="1" id="96" lvl="4" chance="30"/>
+		</for>
+	</item>
+	<item id="4832" type="Weapon" name="Carnage Bow - Mana Up">
+		<!-- <Soul Crystal Enhancement>. Increases maximum MP by 30% -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1670"/>
+		<set name="soulshots" val="2"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_dam" val="440"/>
+		<set name="rnd_dam" val="5"/>
+		<set name="weapon_type" val="bow"/>
+		<set name="critical" val="12"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="293"/>
+		<set name="mp_consume" val="9"/>
+		<set name="m_dam" val="107"/>
+		<set name="price" val="18300000"/>
+		<set name="crystal_count" val="1464"/>
+		<set name="item_skill_id" val="3014"/> <!-- Special Ability: Mana Up -->
+		<set name="item_skill_lvl" val="1"/>
+		<for>
+			<set val="440" order="0x08" stat="pAtk"/>
+			<set val="107" order="0x08" stat="mAtk"/>
+			<set val="12" order="0x08" stat="rCrit"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="293" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="4833" type="Weapon" name="Carnage Bow - Quick Recovery">
+		<!-- <Soul Crystal Enhancement>. Reduces re-use delay by approximately 10%. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1670"/>
+		<set name="soulshots" val="2"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_dam" val="440"/>
+		<set name="rnd_dam" val="5"/>
+		<set name="weapon_type" val="bow"/>
+		<set name="critical" val="12"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="293"/>
+		<set name="mp_consume" val="9"/>
+		<set name="m_dam" val="107"/>
+		<set name="price" val="18300000"/>
+		<set name="crystal_count" val="1464"/>
+		<for>
+			<set val="440" order="0x08" stat="pAtk"/>
+			<set val="107" order="0x08" stat="mAtk"/>
+			<set val="12" order="0x08" stat="rCrit"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="293" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- SA: Quick Recovery -->
+			<mul val="0.9" order="0x30" stat="atkReuse"/>
+		</for>
+	</item>
+	<item id="4834" type="Weapon" name="Scythe - Anger">
+		<!-- <Soul Crystal Enhancement>. Increases P. Atk. by 20 while reducing maximum HP by 15%. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="2040"/>
+		<set name="soulshots" val="2"/>
+		<set name="spiritshots" val="2"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="107"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="pole"/>
+		<set name="critical" val="8"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="61"/>
+		<set name="price" val="2290000"/>
+		<set name="crystal_count" val="916"/>
+		<set name="item_skill_id" val="3600"/> <!-- Special Ability: Anger -->
+		<set name="item_skill_lvl" val="1"/>
+		<for>
+			<set val="107" order="0x08" stat="pAtk"/>
+			<set val="61" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<set val="66" order="0x08" stat="pAtkRange"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- SA: Anger -->
+			<add val="20" order="0x40" stat="pAtk"/>
+			<mul val="0.85" order="0x30" stat="maxHp"/>
+		</for>
+	</item>
+	<item id="4835" type="Weapon" name="Scythe - Critical Stun">
+		<!-- <Soul Crystal Enhancement>. 18% chance of stun effect during a critical attack. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="2040"/>
+		<set name="soulshots" val="2"/>
+		<set name="spiritshots" val="2"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="107"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="pole"/>
+		<set name="critical" val="8"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="61"/>
+		<set name="price" val="2290000"/>
+		<set name="crystal_count" val="916"/>
+		<for>
+			<set val="107" order="0x08" stat="pAtk"/>
+			<set val="61" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<set val="66" order="0x08" stat="pAtkRange"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- Critical Stun -->
+			<skill onCrit="1" id="3070" lvl="1" chance="18"/>
+		</for>
+	</item>
+	<item id="4836" type="Weapon" name="Scythe - Light">
+		<!-- <Soul Crystal Enhancement>. Reduces a weapon's weight by half. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="610"/>
+		<set name="soulshots" val="2"/>
+		<set name="spiritshots" val="2"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="107"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="pole"/>
+		<set name="critical" val="8"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="61"/>
+		<set name="price" val="2290000"/>
+		<set name="crystal_count" val="916"/>
+		<for>
+			<set val="107" order="0x08" stat="pAtk"/>
+			<set val="61" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<set val="66" order="0x08" stat="pAtkRange"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="4837" type="Weapon" name="Orcish Glaive - Anger">
+		<!-- <Soul Crystal Enhancement>. Increases P. Atk. by 20 while reducing maximum HP by 15%. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="2030"/>
+		<set name="soulshots" val="2"/>
+		<set name="spiritshots" val="2"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="107"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="pole"/>
+		<set name="critical" val="8"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="61"/>
+		<set name="price" val="2290000"/>
+		<set name="crystal_count" val="916"/>
+		<set name="item_skill_id" val="3600"/> <!-- Special Ability: Anger -->
+		<set name="item_skill_lvl" val="1"/>
+		<for>
+			<set val="107" order="0x08" stat="pAtk"/>
+			<set val="61" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<set val="66" order="0x08" stat="pAtkRange"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- SA: Anger -->
+			<add val="20" order="0x40" stat="pAtk"/>
+			<mul val="0.85" order="0x30" stat="maxHp"/>
+		</for>
+	</item>
+	<item id="4838" type="Weapon" name="Orcish Glaive - Critical Stun">
+		<!-- <Soul Crystal Enhancement>. 18% chance of stun effect during a critical attack. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="2030"/>
+		<set name="soulshots" val="2"/>
+		<set name="spiritshots" val="2"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="107"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="pole"/>
+		<set name="critical" val="8"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="61"/>
+		<set name="price" val="2290000"/>
+		<set name="crystal_count" val="916"/>
+		<for>
+			<set val="107" order="0x08" stat="pAtk"/>
+			<set val="61" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<set val="66" order="0x08" stat="pAtkRange"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- Critical Stun -->
+			<skill onCrit="1" id="3070" lvl="1" chance="18"/>
+		</for>
+	</item>
+	<item id="4839" type="Weapon" name="Orcish Glaive - Towering Blow">
+		<!-- <Soul Crystal Enhancement>. Increases the effect area of the weapon. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="2030"/>
+		<set name="soulshots" val="2"/>
+		<set name="spiritshots" val="2"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="107"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="pole"/>
+		<set name="critical" val="8"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="61"/>
+		<set name="price" val="2290000"/>
+		<set name="crystal_count" val="916"/>
+		<set name="item_skill_id" val="3599"/> <!-- Polearm Multi-attack -->
+		<set name="item_skill_lvl" val="1"/>
+		<for>
+			<set val="107" order="0x08" stat="pAtk"/>
+			<set val="61" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<!-- SA: Long Blow -->
+			<set val="80" order="0x08" stat="pAtkRange"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="4840" type="Weapon" name="Body Slasher - Critical Stun">
+		<!-- <Soul Crystal Enhancement>. 18% chance of stun effect during a critical attack. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="2030"/>
+		<set name="soulshots" val="2"/>
+		<set name="spiritshots" val="2"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="107"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="pole"/>
+		<set name="critical" val="8"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="61"/>
+		<set name="price" val="2290000"/>
+		<set name="crystal_count" val="916"/>
+		<for>
+			<set val="107" order="0x08" stat="pAtk"/>
+			<set val="61" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<set val="66" order="0x08" stat="pAtkRange"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- Critical Stun -->
+			<skill onCrit="1" id="3070" lvl="1" chance="18"/>
+		</for>
+	</item>
+	<item id="4841" type="Weapon" name="Body Slasher - Towering Blow">
+		<!-- <Soul Crystal Enhancement>. Increases the effect area of the weapon. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="2030"/>
+		<set name="soulshots" val="2"/>
+		<set name="spiritshots" val="2"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="107"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="pole"/>
+		<set name="critical" val="8"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="61"/>
+		<set name="price" val="2290000"/>
+		<set name="crystal_count" val="916"/>
+		<set name="item_skill_id" val="3599"/> <!-- Polearm Multi-attack -->
+		<set name="item_skill_lvl" val="1"/>
+		<for>
+			<set val="107" order="0x08" stat="pAtk"/>
+			<set val="61" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<!-- SA: Long Blow -->
+			<set val="80" order="0x08" stat="pAtkRange"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="4842" type="Weapon" name="Body Slasher - Wide Blow">
+		<!-- <Soul Crystal Enhancement>. Broadens angle of attack. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="2030"/>
+		<set name="soulshots" val="2"/>
+		<set name="spiritshots" val="2"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="107"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="pole"/>
+		<set name="critical" val="8"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="61"/>
+		<set name="price" val="2290000"/>
+		<set name="crystal_count" val="916"/>
+		<set name="item_skill_id" val="3599"/> <!-- Polearm Multi-attack -->
+		<set name="item_skill_lvl" val="1"/>
+		<for>
+			<set val="107" order="0x08" stat="pAtk"/>
+			<set val="61" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<set val="66" order="0x08" stat="pAtkRange"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<!-- SA: Wide Blow -->
+			<set val="180" order="0x08" stat="pAtkAngle"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="4843" type="Weapon" name="Bec de Corbin - Critical Stun">
+		<!-- <Soul Crystal Enhancement>. 17% chance of stun effect during a critical attack. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="2020"/>
+		<set name="soulshots" val="2"/>
+		<set name="spiritshots" val="2"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="122"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="pole"/>
+		<set name="critical" val="8"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="68"/>
+		<set name="price" val="2870000"/>
+		<set name="crystal_count" val="1148"/>
+		<for>
+			<set val="122" order="0x08" stat="pAtk"/>
+			<set val="68" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<set val="66" order="0x08" stat="pAtkRange"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- Critical Stun -->
+			<skill onCrit="1" id="3070" lvl="1" chance="17"/>
+		</for>
+	</item>
+	<item id="4844" type="Weapon" name="Bec de Corbin - Towering Blow">
+		<!-- <Soul Crystal Enhancement>. Increases the effect area of the weapon. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="2020"/>
+		<set name="soulshots" val="2"/>
+		<set name="spiritshots" val="2"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="122"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="pole"/>
+		<set name="critical" val="8"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="68"/>
+		<set name="price" val="2870000"/>
+		<set name="crystal_count" val="1148"/>
+		<set name="item_skill_id" val="3599"/> <!-- Polearm Multi-attack -->
+		<set name="item_skill_lvl" val="1"/>
+		<for>
+			<set val="122" order="0x08" stat="pAtk"/>
+			<set val="68" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<!-- SA: Long Blow -->
+			<set val="80" order="0x08" stat="pAtkRange"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="4845" type="Weapon" name="Bec de Corbin - Light">
+		<!-- <Soul Crystal Enhancement>. Reduces a weapon's weight by half. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="600"/>
+		<set name="soulshots" val="2"/>
+		<set name="spiritshots" val="2"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="122"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="pole"/>
+		<set name="critical" val="8"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="68"/>
+		<set name="price" val="2870000"/>
+		<set name="crystal_count" val="1148"/>
+		<for>
+			<set val="122" order="0x08" stat="pAtk"/>
+			<set val="68" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<set val="66" order="0x08" stat="pAtkRange"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="4846" type="Weapon" name="Scorpion - Anger">
+		<!-- <Soul Crystal Enhancement>. Increases P. Atk. by 24 while reducing maximum HP by 15%. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1990"/>
+		<set name="soulshots" val="3"/>
+		<set name="spiritshots" val="3"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="144"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="pole"/>
+		<set name="critical" val="8"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="78"/>
+		<set name="price" val="4780000"/>
+		<set name="crystal_count" val="1912"/>
+		<set name="item_skill_id" val="3600"/> <!-- Special Ability: Anger -->
+		<set name="item_skill_lvl" val="3"/>
+		<for>
+			<set val="144" order="0x08" stat="pAtk"/>
+			<set val="78" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<set val="66" order="0x08" stat="pAtkRange"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- SA: Anger -->
+			<add val="24" order="0x40" stat="pAtk"/>
+			<mul val="0.85" order="0x30" stat="maxHp"/>
+		</for>
+	</item>
+	<item id="4847" type="Weapon" name="Scorpion - Critical Stun">
+		<!-- <Soul Crystal Enhancement>. 16% chance of stun effect during a critical attack. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1990"/>
+		<set name="soulshots" val="3"/>
+		<set name="spiritshots" val="3"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="144"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="pole"/>
+		<set name="critical" val="8"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="78"/>
+		<set name="price" val="4780000"/>
+		<set name="crystal_count" val="1912"/>
+		<for>
+			<set val="144" order="0x08" stat="pAtk"/>
+			<set val="78" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<set val="66" order="0x08" stat="pAtkRange"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- Critical Stun -->
+			<skill onCrit="1" id="3070" lvl="1" chance="16"/>
+		</for>
+	</item>
+	<item id="4848" type="Weapon" name="Scorpion - Towering Blow">
+		<!-- <Soul Crystal Enhancement>. Increases the effect area of the weapon. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1990"/>
+		<set name="soulshots" val="3"/>
+		<set name="spiritshots" val="3"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="144"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="pole"/>
+		<set name="critical" val="8"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="78"/>
+		<set name="price" val="4780000"/>
+		<set name="crystal_count" val="1912"/>
+		<set name="item_skill_id" val="3599"/> <!-- Polearm Multi-attack -->
+		<set name="item_skill_lvl" val="1"/>
+		<for>
+			<set val="144" order="0x08" stat="pAtk"/>
+			<set val="78" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<!-- SA: Long Blow -->
+			<set val="80" order="0x08" stat="pAtkRange"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="4849" type="Weapon" name="Widow Maker - Critical Stun">
+		<!-- <Soul Crystal Enhancement>. 16% chance of stun effect during a critical attack. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1980"/>
+		<set name="soulshots" val="3"/>
+		<set name="spiritshots" val="3"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="144"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="pole"/>
+		<set name="critical" val="8"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="78"/>
+		<set name="price" val="4780000"/>
+		<set name="crystal_count" val="1912"/>
+		<for>
+			<set val="144" order="0x08" stat="pAtk"/>
+			<set val="78" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<set val="66" order="0x08" stat="pAtkRange"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- Critical Stun -->
+			<skill onCrit="1" id="3070" lvl="1" chance="16"/>
+		</for>
+	</item>
+	<item id="4850" type="Weapon" name="Widow Maker - Towering Blow">
+		<!-- <Soul Crystal Enhancement>. Increases the effect area of the weapon. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1980"/>
+		<set name="soulshots" val="3"/>
+		<set name="spiritshots" val="3"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="144"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="pole"/>
+		<set name="critical" val="8"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="78"/>
+		<set name="price" val="4780000"/>
+		<set name="crystal_count" val="1912"/>
+		<set name="item_skill_id" val="3599"/> <!-- Polearm Multi-attack -->
+		<set name="item_skill_lvl" val="1"/>
+		<for>
+			<set val="144" order="0x08" stat="pAtk"/>
+			<set val="78" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<!-- SA: Long Blow -->
+			<set val="80" order="0x08" stat="pAtkRange"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="4851" type="Weapon" name="Widow Maker - Wide Blow">
+		<!-- <Soul Crystal Enhancement>. Broadens angle of attack. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1980"/>
+		<set name="soulshots" val="3"/>
+		<set name="spiritshots" val="3"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="144"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="pole"/>
+		<set name="critical" val="8"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="78"/>
+		<set name="price" val="4780000"/>
+		<set name="crystal_count" val="1912"/>
+		<set name="item_skill_id" val="3599"/> <!-- Polearm Multi-attack -->
+		<set name="item_skill_lvl" val="1"/>
+		<for>
+			<set val="144" order="0x08" stat="pAtk"/>
+			<set val="78" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<set val="66" order="0x08" stat="pAtkRange"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<!-- SA: Wide Blow -->
+			<set val="180" order="0x08" stat="pAtkAngle"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="4852" type="Weapon" name="Orcish Poleaxe - Critical Stun">
+		<!-- <Soul Crystal Enhancement>. 15% chance of stun effect during a critical attack. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1950"/>
+		<set name="soulshots" val="3"/>
+		<set name="spiritshots" val="3"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="156"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="pole"/>
+		<set name="critical" val="8"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="83"/>
+		<set name="price" val="6130000"/>
+		<set name="crystal_count" val="2452"/>
+		<for>
+			<set val="156" order="0x08" stat="pAtk"/>
+			<set val="83" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<set val="66" order="0x08" stat="pAtkRange"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- Critical Stun -->
+			<skill onCrit="1" id="3070" lvl="1" chance="15"/>
+		</for>
+	</item>
+	<item id="4853" type="Weapon" name="Orcish Poleaxe - Towering Blow">
+		<!-- <Soul Crystal Enhancement>. Increases the effect area of the weapon. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1950"/>
+		<set name="soulshots" val="3"/>
+		<set name="spiritshots" val="3"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="156"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="pole"/>
+		<set name="critical" val="8"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="83"/>
+		<set name="price" val="6130000"/>
+		<set name="crystal_count" val="2452"/>
+		<set name="item_skill_id" val="3599"/> <!-- Polearm Multi-attack -->
+		<set name="item_skill_lvl" val="1"/>
+		<for>
+			<set val="156" order="0x08" stat="pAtk"/>
+			<set val="83" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<!-- SA: Long Blow -->
+			<set val="80" order="0x08" stat="pAtkRange"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="4854" type="Weapon" name="Orcish Poleaxe - Wide Blow">
+		<!-- <Soul Crystal Enhancement>. Broadens angle of attack. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1950"/>
+		<set name="soulshots" val="3"/>
+		<set name="spiritshots" val="3"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="156"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="pole"/>
+		<set name="critical" val="8"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="83"/>
+		<set name="price" val="6130000"/>
+		<set name="crystal_count" val="2452"/>
+		<set name="item_skill_id" val="3599"/> <!-- Polearm Multi-attack -->
+		<set name="item_skill_lvl" val="1"/>
+		<for>
+			<set val="156" order="0x08" stat="pAtk"/>
+			<set val="83" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<set val="66" order="0x08" stat="pAtkRange"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<!-- SA: Wide Blow -->
+			<set val="180" order="0x08" stat="pAtkAngle"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="4855" type="Weapon" name="Great Axe - Anger">
+		<!-- <Soul Crystal Enhancement>. Increases P. Atk. by 28 while reducing maximum HP by 15%. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1940"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="b"/>
+		<set name="p_dam" val="175"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="pole"/>
+		<set name="critical" val="8"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="91"/>
+		<set name="price" val="8680000"/>
+		<set name="crystal_count" val="1157"/>
+		<set name="item_skill_id" val="3600"/> <!-- Special Ability: Anger -->
+		<set name="item_skill_lvl" val="5"/>
+		<for>
+			<set val="175" order="0x08" stat="pAtk"/>
+			<set val="91" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<set val="66" order="0x08" stat="pAtkRange"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- SA: Anger -->
+			<add val="28" order="0x40" stat="pAtk"/>
+			<mul val="0.85" order="0x30" stat="maxHp"/>
+		</for>
+	</item>
+	<item id="4856" type="Weapon" name="Great Axe - Critical Stun">
+		<!-- <Soul Crystal Enhancement>. 14% chance of stun effect during a critical attack. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1940"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="b"/>
+		<set name="p_dam" val="175"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="pole"/>
+		<set name="critical" val="8"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="91"/>
+		<set name="price" val="8680000"/>
+		<set name="crystal_count" val="1157"/>
+		<for>
+			<set val="175" order="0x08" stat="pAtk"/>
+			<set val="91" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<set val="66" order="0x08" stat="pAtkRange"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- Critical Stun -->
+			<skill onCrit="1" id="3070" lvl="1" chance="14"/>
+		</for>
+	</item>
+	<item id="4857" type="Weapon" name="Great Axe - Light">
+		<!-- <Soul Crystal Enhancement>. Reduces a weapon's weight by half. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="580"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="b"/>
+		<set name="p_dam" val="175"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="pole"/>
+		<set name="critical" val="8"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="91"/>
+		<set name="price" val="8680000"/>
+		<set name="crystal_count" val="1157"/>
+		<for>
+			<set val="175" order="0x08" stat="pAtk"/>
+			<set val="91" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<set val="66" order="0x08" stat="pAtkRange"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="4858" type="Weapon" name="Lance - Anger">
+		<!-- <Soul Crystal Enhancement>. Increases P. Atk. by 30 while reducing maximum HP by 15%. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1920"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="b"/>
+		<set name="p_dam" val="194"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="pole"/>
+		<set name="critical" val="8"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="99"/>
+		<set name="price" val="13100000"/>
+		<set name="crystal_count" val="1746"/>
+		<set name="item_skill_id" val="3600"/> <!-- Special Ability: Anger -->
+		<set name="item_skill_lvl" val="6"/>
+		<for>
+			<set val="194" order="0x08" stat="pAtk"/>
+			<set val="99" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<set val="66" order="0x08" stat="pAtkRange"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- SA: Anger -->
+			<add val="30" order="0x40" stat="pAtk"/>
+			<mul val="0.85" order="0x30" stat="maxHp"/>
+		</for>
+	</item>
+	<item id="4859" type="Weapon" name="Lance - Critical Stun">
+		<!-- <Soul Crystal Enhancement>. 13% chance of stun effect during a critical attack. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1920"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="b"/>
+		<set name="p_dam" val="194"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="pole"/>
+		<set name="critical" val="8"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="99"/>
+		<set name="price" val="13100000"/>
+		<set name="crystal_count" val="1746"/>
+		<for>
+			<set val="194" order="0x08" stat="pAtk"/>
+			<set val="99" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<set val="66" order="0x08" stat="pAtkRange"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- Critical Stun -->
+			<skill onCrit="1" id="3070" lvl="1" chance="13"/>
+		</for>
+	</item>
+	<item id="4860" type="Weapon" name="Lance - Towering Blow">
+		<!-- <Soul Crystal Enhancement>. Increases the effect area of the weapon. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1920"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="b"/>
+		<set name="p_dam" val="194"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="pole"/>
+		<set name="critical" val="8"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="99"/>
+		<set name="price" val="13100000"/>
+		<set name="crystal_count" val="1746"/>
+		<set name="item_skill_id" val="3599"/> <!-- Polearm Multi-attack -->
+		<set name="item_skill_lvl" val="1"/>
+		<for>
+			<set val="194" order="0x08" stat="pAtk"/>
+			<set val="99" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<!-- SA: Long Blow -->
+			<set val="80" order="0x08" stat="pAtkRange"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="4861" type="Weapon" name="Halberd - Critical Stun">
+		<!-- <Soul Crystal Enhancement>. 15% chance of stun effect during a critical attack. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1900"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_dam" val="213"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="pole"/>
+		<set name="critical" val="8"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="107"/>
+		<set name="price" val="18300000"/>
+		<set name="crystal_count" val="1464"/>
+		<for>
+			<set val="213" order="0x08" stat="pAtk"/>
+			<set val="107" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<set val="66" order="0x08" stat="pAtkRange"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- Critical Stun -->
+			<skill onCrit="1" id="3070" lvl="1" chance="15"/>
+		</for>
+	</item>
+	<item id="4862" type="Weapon" name="Halberd - Towering Blow">
+		<!-- <Soul Crystal Enhancement>. Increases the effect area of the weapon. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1900"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_dam" val="213"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="pole"/>
+		<set name="critical" val="8"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="107"/>
+		<set name="price" val="18300000"/>
+		<set name="crystal_count" val="1464"/>
+		<set name="item_skill_id" val="3599"/> <!-- Polearm Multi-attack -->
+		<set name="item_skill_lvl" val="1"/>
+		<for>
+			<set val="213" order="0x08" stat="pAtk"/>
+			<set val="107" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<!-- SA: Long Blow -->
+			<set val="80" order="0x08" stat="pAtkRange"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="4863" type="Weapon" name="Halberd - Wide Blow">
+		<!-- <Soul Crystal Enhancement>. Broadens angle of attack. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1900"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_dam" val="213"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="pole"/>
+		<set name="critical" val="8"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="107"/>
+		<set name="price" val="18300000"/>
+		<set name="crystal_count" val="1464"/>
+		<set name="item_skill_id" val="3599"/> <!-- Polearm Multi-attack -->
+		<set name="item_skill_lvl" val="1"/>
+		<for>
+			<set val="213" order="0x08" stat="pAtk"/>
+			<set val="107" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<set val="66" order="0x08" stat="pAtkRange"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<!-- SA: Wide Blow -->
+			<set val="180" order="0x08" stat="pAtkAngle"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="4864" type="Weapon" name="Heavy Doom Hammer - Magic Regeneration">
+		<!-- <Soul Crystal Enhancement>. Regenerates target's HP with a 30% chance of success when using good magic. Effect 1. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1020"/>
+		<set name="soulshots" val="2"/>
+		<set name="spiritshots" val="2"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="103"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="bigblunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="81"/>
+		<set name="price" val="2290000"/>
+		<set name="crystal_count" val="916"/>
+		<set name="onCast_skill_id" val="1044"/> <!-- Regeneration -->
+		<set name="onCast_skill_lvl" val="1"/>
+		<set name="onCast_skill_chance" val="30"/>
+		<for>
+			<set val="103" order="0x08" stat="pAtk"/>
+			<set val="81" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="4865" type="Weapon" name="Heavy Doom Hammer - Mental Shield">
+		<!-- <Soul Crystal Enhancement>. Casts Mental Shield magic upon the target with a 50% chance of success when using good magic. Effect 2. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1020"/>
+		<set name="soulshots" val="2"/>
+		<set name="spiritshots" val="2"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="103"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="bigblunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="81"/>
+		<set name="price" val="2290000"/>
+		<set name="crystal_count" val="916"/>
+		<set name="onCast_skill_id" val="1035"/> <!-- Mental Shield -->
+		<set name="onCast_skill_lvl" val="2"/>
+		<set name="onCast_skill_chance" val="50"/>
+		<for>
+			<set val="103" order="0x08" stat="pAtk"/>
+			<set val="81" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="4866" type="Weapon" name="Heavy Doom Hammer - Magic Hold">
+		<!-- <Soul Crystal Enhancement>. Casts Dryad Root magic against the target with a 10% chance of success when using bad magic. Effect 1. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1020"/>
+		<set name="soulshots" val="2"/>
+		<set name="spiritshots" val="2"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="103"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="bigblunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="81"/>
+		<set name="price" val="2290000"/>
+		<set name="crystal_count" val="916"/>
+		<set name="onCast_skill_id" val="1201"/> <!-- Dryad Root -->
+		<set name="onCast_skill_lvl" val="23"/>
+		<set name="onCast_skill_chance" val="10"/>
+		<for>
+			<set val="103" order="0x08" stat="pAtk"/>
+			<set val="81" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="4867" type="Weapon" name="Crystal Staff - Rsk. Evasion">
+		<!-- <Soul Crystal Enhancement>. Increases Evasion by 7 when HP becomes 60% or lower. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1020"/>
+		<set name="soulshots" val="2"/>
+		<set name="spiritshots" val="2"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="103"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="bigblunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="81"/>
+		<set name="price" val="2290000"/>
+		<set name="crystal_count" val="916"/>
+		<set name="item_skill_id" val="3031"/> <!-- Special Ability: Rsk. Evasion -->
+		<set name="item_skill_lvl" val="1"/>
+		<for>
+			<set val="103" order="0x08" stat="pAtk"/>
+			<set val="81" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- SA: Rsk. Evasion -->
+			<add order="0x40" stat="rEvas" val="7">
+				<and>
+					<player hp="60"/>
+				</and>
+			</add>
+		</for>
+	</item>
+	<item id="4868" type="Weapon" name="Crystal Staff - Mana Up">
+		<!-- <Soul Crystal Enhancement>. Increases base MP by 30%. This bonus does not apply to MP gained through passive skills. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1020"/>
+		<set name="soulshots" val="2"/>
+		<set name="spiritshots" val="2"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="103"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="bigblunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="81"/>
+		<set name="price" val="2290000"/>
+		<set name="crystal_count" val="916"/>
+		<set name="item_skill_id" val="3014"/> <!-- Special Ability: Mana Up -->
+		<set name="item_skill_lvl" val="1"/>
+		<for>
+			<set val="103" order="0x08" stat="pAtk"/>
+			<set val="81" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="4869" type="Weapon" name="Crystal Staff - Bodily Blessing">
+		<!-- <Soul Crystal Enhancement>. Casts Blessed Body upon the target with a 20% chance of success when using good magic. Effect 2. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1020"/>
+		<set name="soulshots" val="2"/>
+		<set name="spiritshots" val="2"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="103"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="bigblunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="81"/>
+		<set name="price" val="2290000"/>
+		<set name="crystal_count" val="916"/>
+		<for>
+			<set val="103" order="0x08" stat="pAtk"/>
+			<set val="81" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- Bodily Blessing -->
+			<skill onCast="1" id="1045" lvl="2" chance="20"/>
+		</for>
+	</item>
+	<item id="4870" type="Weapon" name="Heavy Doom Axe - Magic Poison">
+		<!-- <Soul Crystal Enhancement>. Casts Curse Poison against the target with a 8% chance of success when using bad magic. Effect 7. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1010"/>
+		<set name="soulshots" val="2"/>
+		<set name="spiritshots" val="2"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="103"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="bigblunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="81"/>
+		<set name="price" val="2290000"/>
+		<set name="crystal_count" val="916"/>
+		<set name="onCast_skill_id" val="1168"/> <!-- Curse: Poison -->
+		<set name="onCast_skill_lvl" val="6"/>
+		<set name="onCast_skill_chance" val="8"/>
+		<for>
+			<set val="103" order="0x08" stat="pAtk"/>
+			<set val="81" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="4871" type="Weapon" name="Heavy Doom Axe - Magic Weakness">
+		<!-- <Soul Crystal Enhancement>. Casts Curse Weakness against the target with a 8% chance of success when using bad magic. Effect 3. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1010"/>
+		<set name="soulshots" val="2"/>
+		<set name="spiritshots" val="2"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="103"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="bigblunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="81"/>
+		<set name="price" val="2290000"/>
+		<set name="crystal_count" val="916"/>
+		<set name="onCast_skill_id" val="1164"/> <!-- Curse: Weakness -->
+		<set name="onCast_skill_lvl" val="6"/>
+		<set name="onCast_skill_chance" val="8"/>
+		<for>
+			<set val="103" order="0x08" stat="pAtk"/>
+			<set val="81" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="4872" type="Weapon" name="Heavy Doom Axe - Magic Chaos">
+		<!-- <Soul Crystal Enhancement>. Casts Curse of Chaos against the target with a 8% chance of success when using bad magic. Effect 3. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1010"/>
+		<set name="soulshots" val="2"/>
+		<set name="spiritshots" val="2"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="103"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="bigblunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="81"/>
+		<set name="price" val="2290000"/>
+		<set name="crystal_count" val="916"/>
+		<set name="onCast_skill_id" val="1222"/> <!-- Curse Chaos -->
+		<set name="onCast_skill_lvl" val="2"/>
+		<set name="onCast_skill_chance" val="8"/>
+		<for>
+			<set val="103" order="0x08" stat="pAtk"/>
+			<set val="81" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="4873" type="Weapon" name="Cursed Staff - Magic Hold">
+		<!-- <Soul Crystal Enhancement>. Casts Dryad Root magic against the target with a 10% chance of success when using bad magic. Effect 1. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1000"/>
+		<set name="soulshots" val="2"/>
+		<set name="spiritshots" val="2"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="119"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="bigblunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="91"/>
+		<set name="price" val="2870000"/>
+		<set name="crystal_count" val="1148"/>
+		<set name="onCast_skill_id" val="1201"/> <!-- Dryad Root -->
+		<set name="onCast_skill_lvl" val="23"/>
+		<set name="onCast_skill_chance" val="10"/>
+		<for>
+			<set val="119" order="0x08" stat="pAtk"/>
+			<set val="91" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="4874" type="Weapon" name="Cursed Staff - Magic Poison">
+		<!-- <Soul Crystal Enhancement>. Casts Curse Poison against the target with a 8% chance of success when using bad magic. Effect 7. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1000"/>
+		<set name="soulshots" val="2"/>
+		<set name="spiritshots" val="2"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="119"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="bigblunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="91"/>
+		<set name="price" val="2870000"/>
+		<set name="crystal_count" val="1148"/>
+		<set name="onCast_skill_id" val="1168"/> <!-- Curse: Poison -->
+		<set name="onCast_skill_lvl" val="6"/>
+		<set name="onCast_skill_chance" val="8"/>
+		<for>
+			<set val="119" order="0x08" stat="pAtk"/>
+			<set val="91" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="4875" type="Weapon" name="Cursed Staff - Magic Weakness">
+		<!-- <Soul Crystal Enhancement>. Casts Curse Weakness against the target with a 8% chance of success when using bad magic. Effect 3. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1000"/>
+		<set name="soulshots" val="2"/>
+		<set name="spiritshots" val="2"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="119"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="bigblunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="91"/>
+		<set name="price" val="2870000"/>
+		<set name="crystal_count" val="1148"/>
+		<set name="onCast_skill_id" val="1164"/> <!-- Curse: Weakness -->
+		<set name="onCast_skill_lvl" val="6"/>
+		<set name="onCast_skill_chance" val="8"/>
+		<for>
+			<set val="119" order="0x08" stat="pAtk"/>
+			<set val="91" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="4876" type="Weapon" name="Paradia Staff - Magic Regeneration">
+		<!-- <Soul Crystal Enhancement>. Casts HP Regeneration magic upon the target with a 30% chance of success when using good magic. Effect 2. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1010"/>
+		<set name="soulshots" val="3"/>
+		<set name="spiritshots" val="3"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="135"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="bigblunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="101"/>
+		<set name="price" val="4300000"/>
+		<set name="crystal_count" val="1720"/>
+		<set name="onCast_skill_id" val="1044"/> <!-- Regeneration -->
+		<set name="onCast_skill_lvl" val="2"/>
+		<set name="onCast_skill_chance" val="30"/>
+		<for>
+			<set val="135" order="0x08" stat="pAtk"/>
+			<set val="101" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="4877" type="Weapon" name="Paradia Staff - Mental Shield">
+		<!-- <Soul Crystal Enhancement>. Casts Mental Shield magic upon the target with a 50% chance of success when using good magic. Effect 3. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1010"/>
+		<set name="soulshots" val="3"/>
+		<set name="spiritshots" val="3"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="135"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="bigblunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="101"/>
+		<set name="price" val="4300000"/>
+		<set name="crystal_count" val="1720"/>
+		<set name="onCast_skill_id" val="1035"/> <!-- Mental Shield -->
+		<set name="onCast_skill_lvl" val="3"/>
+		<set name="onCast_skill_chance" val="50"/>
+		<for>
+			<set val="135" order="0x08" stat="pAtk"/>
+			<set val="101" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="4878" type="Weapon" name="Paradia Staff - Magic Hold">
+		<!-- <Soul Crystal Enhancement>. Casts Dryad Root magic against the target with a 10% chance of success when using bad magic. Effect 1. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1010"/>
+		<set name="soulshots" val="3"/>
+		<set name="spiritshots" val="3"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="135"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="bigblunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="101"/>
+		<set name="price" val="4300000"/>
+		<set name="crystal_count" val="1720"/>
+		<set name="onCast_skill_id" val="1201"/> <!-- Dryad Root -->
+		<set name="onCast_skill_lvl" val="23"/>
+		<set name="onCast_skill_chance" val="10"/>
+		<for>
+			<set val="135" order="0x08" stat="pAtk"/>
+			<set val="101" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="4879" type="Weapon" name="Pa'agrian Hammer - Rsk. Evasion">
+		<!-- <Soul Crystal Enhancement>. Increases Evasion by 6 when HP becomes 60% or lower. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1010"/>
+		<set name="soulshots" val="3"/>
+		<set name="spiritshots" val="3"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="135"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="bigblunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="101"/>
+		<set name="price" val="4300000"/>
+		<set name="crystal_count" val="1720"/>
+		<set name="item_skill_id" val="3031"/> <!-- Special Ability: Rsk. Evasion -->
+		<set name="item_skill_lvl" val="3"/>
+		<for>
+			<set val="135" order="0x08" stat="pAtk"/>
+			<set val="101" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- SA: Rsk. Evasion -->
+			<add order="0x40" stat="rEvas" val="6">
+				<and>
+					<player hp="60"/>
+				</and>
+			</add>
+		</for>
+	</item>
+	<item id="4880" type="Weapon" name="Pa'agrian Hammer - Magic Poison">
+		<!-- <Soul Crystal Enhancement>. Casts Curse Poison against the target with a 7% chance of success when using bad magic. Effect 7. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1010"/>
+		<set name="soulshots" val="3"/>
+		<set name="spiritshots" val="3"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="135"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="bigblunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="101"/>
+		<set name="price" val="4300000"/>
+		<set name="crystal_count" val="1720"/>
+		<set name="onCast_skill_id" val="1168"/> <!-- Curse: Poison -->
+		<set name="onCast_skill_lvl" val="6"/>
+		<set name="onCast_skill_chance" val="7"/>
+		<for>
+			<set val="135" order="0x08" stat="pAtk"/>
+			<set val="101" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="4881" type="Weapon" name="Pa'agrian Hammer - Magic Weakness">
+		<!-- <Soul Crystal Enhancement>. Casts Curse Weakness against the target with a 7% chance of success when using bad magic. Effect 3. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1010"/>
+		<set name="soulshots" val="3"/>
+		<set name="spiritshots" val="3"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="135"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="bigblunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="101"/>
+		<set name="price" val="4300000"/>
+		<set name="crystal_count" val="1720"/>
+		<set name="onCast_skill_id" val="1164"/> <!-- Curse: Weakness -->
+		<set name="onCast_skill_lvl" val="6"/>
+		<set name="onCast_skill_chance" val="7"/>
+		<for>
+			<set val="135" order="0x08" stat="pAtk"/>
+			<set val="101" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="4882" type="Weapon" name="Sage's Staff - Magic Hold">
+		<!-- <Soul Crystal Enhancement>. Casts Dryad Root magic against the target with a 10% chance of success when using bad magic. Effect 1. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1000"/>
+		<set name="soulshots" val="3"/>
+		<set name="spiritshots" val="3"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="135"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="bigblunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="101"/>
+		<set name="price" val="4300000"/>
+		<set name="crystal_count" val="1720"/>
+		<set name="onCast_skill_id" val="1201"/> <!-- Dryad Root -->
+		<set name="onCast_skill_lvl" val="23"/>
+		<set name="onCast_skill_chance" val="10"/>
+		<for>
+			<set val="135" order="0x08" stat="pAtk"/>
+			<set val="101" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="4883" type="Weapon" name="Sage's Staff - Magic Poison">
+		<!-- <Soul Crystal Enhancement>. Casts Curse Poison against the target with a 7% chance of success when using bad magic. Effect 7. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1000"/>
+		<set name="soulshots" val="3"/>
+		<set name="spiritshots" val="3"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="135"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="bigblunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="101"/>
+		<set name="price" val="4300000"/>
+		<set name="crystal_count" val="1720"/>
+		<set name="onCast_skill_id" val="1168"/> <!-- Curse: Poison -->
+		<set name="onCast_skill_lvl" val="6"/>
+		<set name="onCast_skill_chance" val="7"/>
+		<for>
+			<set val="135" order="0x08" stat="pAtk"/>
+			<set val="101" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="4884" type="Weapon" name="Sage's Staff - Magic Weakness">
+		<!-- <Soul Crystal Enhancement>. Casts Curse Weakness against the target with a 7% chance of success when using bad magic. Effect 3. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1000"/>
+		<set name="soulshots" val="3"/>
+		<set name="spiritshots" val="3"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="135"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="bigblunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="101"/>
+		<set name="price" val="4300000"/>
+		<set name="crystal_count" val="1720"/>
+		<set name="onCast_skill_id" val="1164"/> <!-- Curse: Weakness -->
+		<set name="onCast_skill_lvl" val="6"/>
+		<set name="onCast_skill_chance" val="7"/>
+		<for>
+			<set val="135" order="0x08" stat="pAtk"/>
+			<set val="101" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="4885" type="Weapon" name="Pa'agrian Axe - Mana Up">
+		<!-- <Soul Crystal Enhancement>. Increases maximum MP by 30% -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="990"/>
+		<set name="soulshots" val="3"/>
+		<set name="spiritshots" val="3"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="141"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="bigblunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="104"/>
+		<set name="price" val="4780000"/>
+		<set name="crystal_count" val="1912"/>
+		<set name="item_skill_id" val="3014"/> <!-- Special Ability: Mana Up -->
+		<set name="item_skill_lvl" val="1"/>
+		<for>
+			<set val="141" order="0x08" stat="pAtk"/>
+			<set val="104" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="4886" type="Weapon" name="Pa'agrian Axe - Magic Weakness">
+		<!-- <Soul Crystal Enhancement>. Casts Curse Weakness against the target with a 7% chance of success when using bad magic. Effect 3. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="990"/>
+		<set name="soulshots" val="3"/>
+		<set name="spiritshots" val="3"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="141"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="bigblunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="104"/>
+		<set name="price" val="4780000"/>
+		<set name="crystal_count" val="1912"/>
+		<set name="onCast_skill_id" val="1164"/> <!-- Curse: Weakness -->
+		<set name="onCast_skill_lvl" val="6"/>
+		<set name="onCast_skill_chance" val="7"/>
+		<for>
+			<set val="141" order="0x08" stat="pAtk"/>
+			<set val="104" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="4887" type="Weapon" name="Pa'agrian Axe - Magic Chaos">
+		<!-- <Soul Crystal Enhancement>. Casts Curse of Chaos against the target with a 7% chance of success when using bad magic. Effect 3. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="990"/>
+		<set name="soulshots" val="3"/>
+		<set name="spiritshots" val="3"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="141"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="bigblunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="104"/>
+		<set name="price" val="4780000"/>
+		<set name="crystal_count" val="1912"/>
+		<set name="onCast_skill_id" val="1222"/> <!-- Curse Chaos -->
+		<set name="onCast_skill_lvl" val="2"/>
+		<set name="onCast_skill_chance" val="7"/>
+		<for>
+			<set val="141" order="0x08" stat="pAtk"/>
+			<set val="104" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="4888" type="Weapon" name="Deadman's Staff - Magic Regeneration">
+		<!-- <Soul Crystal Enhancement>. Regenerates target's HP with a 30% chance of success when using good magic. Effect 2. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1010"/>
+		<set name="soulshots" val="3"/>
+		<set name="spiritshots" val="3"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="152"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="bigblunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="111"/>
+		<set name="price" val="6130000"/>
+		<set name="crystal_count" val="2452"/>
+		<set name="onCast_skill_id" val="1044"/> <!-- Regeneration -->
+		<set name="onCast_skill_lvl" val="1"/>
+		<set name="onCast_skill_chance" val="30"/>
+		<for>
+			<set val="152" order="0x08" stat="pAtk"/>
+			<set val="111" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="4889" type="Weapon" name="Deadman's Staff - Mental Shield">
+		<!-- <Soul Crystal Enhancement>. Casts Mental Shield magic upon the target with a 50% chance of success when using good magic. Effect 3. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1010"/>
+		<set name="soulshots" val="3"/>
+		<set name="spiritshots" val="3"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="152"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="bigblunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="111"/>
+		<set name="price" val="6130000"/>
+		<set name="crystal_count" val="2452"/>
+		<set name="onCast_skill_id" val="1035"/> <!-- Mental Shield -->
+		<set name="onCast_skill_lvl" val="3"/>
+		<set name="onCast_skill_chance" val="50"/>
+		<for>
+			<set val="152" order="0x08" stat="pAtk"/>
+			<set val="111" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="4890" type="Weapon" name="Deadman's Staff - Magic Hold">
+		<!-- <Soul Crystal Enhancement>. Casts Dryad Root magic against the target with a 10% chance of success when using bad magic. Effect 1. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1010"/>
+		<set name="soulshots" val="3"/>
+		<set name="spiritshots" val="3"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="152"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="bigblunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="111"/>
+		<set name="price" val="6130000"/>
+		<set name="crystal_count" val="2452"/>
+		<set name="onCast_skill_id" val="1201"/> <!-- Dryad Root -->
+		<set name="onCast_skill_lvl" val="23"/>
+		<set name="onCast_skill_chance" val="10"/>
+		<for>
+			<set val="152" order="0x08" stat="pAtk"/>
+			<set val="111" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="4891" type="Weapon" name="Ghoul's Staff - Rsk. Evasion">
+		<!-- <Soul Crystal Enhancement>. Increases Evasion by 6 when HP becomes 60% or lower. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1000"/>
+		<set name="soulshots" val="3"/>
+		<set name="spiritshots" val="3"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="152"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="bigblunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="111"/>
+		<set name="price" val="6130000"/>
+		<set name="crystal_count" val="2452"/>
+		<set name="item_skill_id" val="3031"/> <!-- Special Ability: Rsk. Evasion -->
+		<set name="item_skill_lvl" val="4"/>
+		<for>
+			<set val="152" order="0x08" stat="pAtk"/>
+			<set val="111" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- SA: Rsk. Evasion -->
+			<add order="0x40" stat="rEvas" val="6">
+				<and>
+					<player hp="60"/>
+				</and>
+			</add>
+		</for>
+	</item>
+	<item id="4892" type="Weapon" name="Ghoul's Staff - Mana Up">
+		<!-- <Soul Crystal Enhancement>. Increases maximum MP by 30% -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1000"/>
+		<set name="soulshots" val="3"/>
+		<set name="spiritshots" val="3"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="152"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="bigblunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="111"/>
+		<set name="price" val="6130000"/>
+		<set name="crystal_count" val="2452"/>
+		<set name="item_skill_id" val="3014"/> <!-- Special Ability: Mana Up -->
+		<set name="item_skill_lvl" val="1"/>
+		<for>
+			<set val="152" order="0x08" stat="pAtk"/>
+			<set val="111" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="4893" type="Weapon" name="Ghoul's Staff - Bodily Blessing">
+		<!-- <Soul Crystal Enhancement>. Casts Blessed Body magic upon the target with a 20% chance of success when using good magic. Effect 4. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1000"/>
+		<set name="soulshots" val="3"/>
+		<set name="spiritshots" val="3"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="152"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="bigblunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="111"/>
+		<set name="price" val="6130000"/>
+		<set name="crystal_count" val="2452"/>
+		<for>
+			<set val="152" order="0x08" stat="pAtk"/>
+			<set val="111" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- Bodily Blessing -->
+			<skill onCast="1" id="1045" lvl="4" chance="20"/>
+		</for>
+	</item>
+	<item id="4894" type="Weapon" name="Demon's Staff - Magic Poison">
+		<!-- <Soul Crystal Enhancement>. Casts Curse Poison against the target with a 7% chance of success when using bad magic. Effect 7. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="990"/>
+		<set name="soulshots" val="3"/>
+		<set name="spiritshots" val="3"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="152"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="bigblunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="111"/>
+		<set name="price" val="6130000"/>
+		<set name="crystal_count" val="2452"/>
+		<set name="onCast_skill_id" val="1168"/> <!-- Curse: Poison -->
+		<set name="onCast_skill_lvl" val="6"/>
+		<set name="onCast_skill_chance" val="7"/>
+		<for>
+			<set val="152" order="0x08" stat="pAtk"/>
+			<set val="111" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="4895" type="Weapon" name="Demon's Staff - Magic Weakness">
+		<!-- <Soul Crystal Enhancement>. Casts Curse Weakness against the target with a 7% chance of success when using bad magic. Effect 3. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="990"/>
+		<set name="soulshots" val="3"/>
+		<set name="spiritshots" val="3"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="152"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="bigblunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="111"/>
+		<set name="price" val="6130000"/>
+		<set name="crystal_count" val="2452"/>
+		<set name="onCast_skill_id" val="1164"/> <!-- Curse: Weakness -->
+		<set name="onCast_skill_lvl" val="6"/>
+		<set name="onCast_skill_chance" val="7"/>
+		<for>
+			<set val="152" order="0x08" stat="pAtk"/>
+			<set val="111" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="4896" type="Weapon" name="Demon's Staff - Magic Chaos">
+		<!-- <Soul Crystal Enhancement>. Casts Curse of Chaos against the target with a 7% chance of success when using bad magic. Effect 3. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="990"/>
+		<set name="soulshots" val="3"/>
+		<set name="spiritshots" val="3"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="152"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="bigblunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="111"/>
+		<set name="price" val="6130000"/>
+		<set name="crystal_count" val="2452"/>
+		<set name="onCast_skill_id" val="1222"/> <!-- Curse Chaos -->
+		<set name="onCast_skill_lvl" val="2"/>
+		<set name="onCast_skill_chance" val="7"/>
+		<for>
+			<set val="152" order="0x08" stat="pAtk"/>
+			<set val="111" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="4897" type="Weapon" name="Sprite's Staff - Magic Regeneration">
+		<!-- <Soul Crystal Enhancement>. Casts HP Regeneration magic upon the target with a 30% chance of success when using good magic. Effect 3. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="960"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="b"/>
+		<set name="p_dam" val="170"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="bigblunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="122"/>
+		<set name="price" val="8680000"/>
+		<set name="crystal_count" val="1157"/>
+		<set name="onCast_skill_id" val="1044"/> <!-- Regeneration -->
+		<set name="onCast_skill_lvl" val="3"/>
+		<set name="onCast_skill_chance" val="30"/>
+		<for>
+			<set val="170" order="0x08" stat="pAtk"/>
+			<set val="122" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="4898" type="Weapon" name="Sprite's Staff - Mental Shield">
+		<!-- <Soul Crystal Enhancement>. Casts Mental Shield magic upon the target with a 50% chance of success when using good magic. Effect 4. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="960"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="b"/>
+		<set name="p_dam" val="170"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="bigblunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="122"/>
+		<set name="price" val="8680000"/>
+		<set name="crystal_count" val="1157"/>
+		<set name="onCast_skill_id" val="1035"/> <!-- Mental Shield -->
+		<set name="onCast_skill_lvl" val="4"/>
+		<set name="onCast_skill_chance" val="50"/>
+		<for>
+			<set val="170" order="0x08" stat="pAtk"/>
+			<set val="122" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="4899" type="Weapon" name="Sprite's Staff - Magic Hold">
+		<!-- <Soul Crystal Enhancement>. Casts Dryad Root magic against the target with a 10% chance of success when using bad magic. Effect 1. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="960"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="b"/>
+		<set name="p_dam" val="170"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="bigblunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="122"/>
+		<set name="price" val="8680000"/>
+		<set name="crystal_count" val="1157"/>
+		<set name="onCast_skill_id" val="1201"/> <!-- Dryad Root -->
+		<set name="onCast_skill_lvl" val="23"/>
+		<set name="onCast_skill_chance" val="10"/>
+		<for>
+			<set val="170" order="0x08" stat="pAtk"/>
+			<set val="122" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+</list>

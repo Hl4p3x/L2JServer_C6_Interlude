@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/zones.xsd">
+	<!-- Fortress Zones -->
+	<zone id="21501" type="FortZone" shape="Cuboid" minZ="-3800" maxZ="3200">
+		<!-- Shanty Fortress -->
+		<stat name="fortId" val="101" />
+		<node X="-56256" Y="153728" />
+		<node X="-49536" Y="159424" />
+		<spawn X="-52695" Y="156457" Z="-2053" />
+	</zone>
+	<zone id="21502" type="FortZone" shape="Cuboid" minZ="-3800" maxZ="3200">
+		<!-- Southern Fortress -->
+		<stat name="fortId" val="102" />
+		<node X="-26304" Y="216576" />
+		<node X="-19584" Y="222912" />
+		<spawn X="-22759" Y="219818" Z="-3236" />
+	</zone>
+	<zone id="21503" type="FortZone" shape="Cuboid" minZ="-3800" maxZ="3200">
+		<!-- Hive Fortress -->
+		<stat name="fortId" val="103" />
+		<node X="12544" Y="185856" />
+		<node X="19456" Y="190272" />
+		<spawn X="16625" Y="188108" Z="-2924" />
+	</zone>
+	<zone id="21504" type="FortZone" shape="Cuboid" minZ="-3800" maxZ="3200">
+		<!-- Valley Fortress -->
+		<stat name="fortId" val="104" />
+		<node X="122432" Y="120192" />
+		<node X="129600" Y="126656" />
+		<spawn X="126058" Y="123425" Z="-2585" />
+	</zone>
+	<zone id="21505" type="FortZone" shape="Cuboid" minZ="-3800" maxZ="3200">
+		<!-- Ivory Fortress -->
+		<stat name="fortId" val="105" />
+		<node X="70080" Y="1984" />
+		<node X="74944" Y="6656" />
+		<spawn X="72808" Y="4307" Z="-3045" />
+	</zone>
+	<zone id="21506" type="FortZone" shape="Cuboid" minZ="-3800" maxZ="3200">
+		<!-- Narsell Fortress -->
+		<stat name="fortId" val="106" />
+		<node X="151936" Y="52736" />
+		<node X="157760" Y="58304" />
+		<spawn X="154966" Y="55276" Z="-3254" />
+	</zone>
+	<zone id="21507" type="FortZone" shape="Cuboid" minZ="-3800" maxZ="3200">
+		<!-- Bayou Fortress -->
+		<stat name="fortId" val="107" />
+		<node X="186368" Y="36288" />
+		<node X="192640" Y="42240" />
+		<spawn X="189910" Y="39770" Z="-3410" />
+	</zone>
+	<zone id="21508" type="FortZone" shape="Cuboid" minZ="-3800" maxZ="3200">
+		<!-- White Sands Fortress -->
+		<stat name="fortId" val="108" />
+		<node X="114432" Y="201664" />
+		<node X="122176" Y="208704" />
+		<spawn X="118361" Y="204924" Z="-3333" />
+	</zone>
+	<zone id="21509" type="FortZone" shape="Cuboid" minZ="-3800" maxZ="3200">
+		<!-- Borderland Fortress -->
+		<stat name="fortId" val="109" />
+		<node X="155776" Y="-72896" />
+		<node X="162368" Y="-67776" />
+		<spawn X="159009" Y="-70167" Z="-2864" />
+	</zone>
+	<zone id="21510" type="FortZone" shape="Cuboid" minZ="-3800" maxZ="3200">
+		<!-- Marshland Fortress -->
+		<stat name="fortId" val="110" />
+		<node X="66304" Y="-63872" />
+		<node X="72832" Y="-58688" />
+		<spawn X="69791" Y="-61482" Z="-2786" />
+	</zone>
+	<zone id="21511" type="FortZone" shape="Cuboid" minZ="-3800" maxZ="3200">
+		<!-- Archaic Fortress -->
+		<stat name="fortId" val="111" />
+		<node X="106176" Y="-143616" />
+		<node X="112704" Y="-138752" />
+		<spawn X="109568" Y="-141277" Z="-2957" />
+	</zone>
+	<zone id="21512" type="FortZone" shape="Cuboid" minZ="-3800" maxZ="3200">
+		<!-- Floran Fortress - Border -->
+		<stat name="fortId" val="112" />
+		<node X="1472" Y="145216" />
+		<node X="9728" Y="155136" />
+		<spawn X="5688" Y="149726" Z="-2889" />
+	</zone>
+	<zone id="21513" type="FortZone" shape="Cuboid" minZ="-3800" maxZ="3200">
+		<!-- Cloud Mountain Fortress - Border -->
+		<stat name="fortId" val="113" />
+		<node X="-57408" Y="88704" />
+		<node X="-49408" Y="93824" />
+		<spawn X="-53204" Y="91210" Z="-2821" />
+	</zone>
+	<zone id="21514" type="FortZone" shape="Cuboid" minZ="-3800" maxZ="3200">
+		<!-- Tanor Fortress - Border -->
+		<stat name="fortId" val="114" />
+		<node X="56256" Y="136768" />
+		<node X="64256" Y="142016" />
+		<spawn X="60258" Y="139425" Z="-1754" />
+	</zone>
+	<zone id="21515" type="FortZone" shape="Cuboid" minZ="-3800" maxZ="3200">
+		<!-- Dragonspine Fortress - Border -->
+		<stat name="fortId" val="115" />
+		<node X="8000" Y="92928" />
+		<node X="14976" Y="97408" />
+		<spawn X="11542" Y="95060" Z="-3426" />
+	</zone>
+	<zone id="21516" type="FortZone" shape="Cuboid" minZ="-3800" maxZ="3200">
+		<!-- Antharas Fortress - Border -->
+		<stat name="fortId" val="116" />
+		<node X="75904" Y="86336" />
+		<node X="80448" Y="95488" />
+		<spawn X="79199" Y="91021" Z="-2878" />
+	</zone>
+	<zone id="21517" type="FortZone" shape="Cuboid" minZ="-3800" maxZ="3200">
+		<!-- Western Fortress - Border -->
+		<stat name="fortId" val="117" />
+		<node X="107264" Y="-17664" />
+		<node X="115392" Y="-12544" />
+		<spawn X="111376" Y="-15203" Z="-995" />
+	</zone>
+	<zone id="21518" type="FortZone" shape="Cuboid" minZ="-3800" maxZ="3200">
+		<!-- Hunters Fortress - Border -->
+		<stat name="fortId" val="118" />
+		<node X="121472" Y="92992" />
+		<node X="129088" Y="97792" />
+		<spawn X="125308" Y="95066" Z="-2140" />
+	</zone>
+	<zone id="21519" type="FortZone" shape="Cuboid" minZ="-3800" maxZ="3200">
+		<!-- Aaru Fortress - Border -->
+		<stat name="fortId" val="119" />
+		<node X="69120" Y="182400" />
+		<node X="76672" Y="190784" />
+		<spawn X="73066" Y="185954" Z="-2581" />
+	</zone>
+	<zone id="21520" type="FortZone" shape="Cuboid" minZ="-3800" maxZ="3200">
+		<!-- Demon Fortress - Border -->
+		<stat name="fortId" val="120" />
+		<node X="98432" Y="-56465" />
+		<node X="102912" Y="-52288" />
+		<spawn X="100698" Y="-55334" Z="-645" />
+	</zone>
+	<zone id="21521" type="FortZone" shape="Cuboid" minZ="-3800" maxZ="3200">
+		<!-- Monastic Fortress - Border -->
+		<stat name="fortId" val="121" />
+		<node X="68480" Y="-97536" />
+		<node X="75520" Y="-92224" />
+		<spawn X="72146" Y="-94782" Z="-1428" />
+	</zone>
+</list>

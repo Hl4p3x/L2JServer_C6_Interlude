@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- S-Grade Armors -->
+
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/multisell.xsd">
+
+	<!-- Avadon Shield -->
+	<item id="1">
+		<ingredient id="57" count="2000000"/>
+		<production id="673" count="1"/>
+	</item>
+
+	<!-- Zubei's Shield -->
+	<item id="2">
+		<ingredient id="57" count="2000000"/>
+		<production id="1330" count="1"/>
+	</item>
+
+	<!-- Dark Crystal Shield -->
+	<item id="3">
+		<ingredient id="57" count="5000000"/>
+		<production id="641" count="1"/>
+	</item>
+
+	<!-- Nightmare Shield -->
+	<item id="4">
+		<ingredient id="57" count="5000000"/>
+		<production id="2498" count="1"/>
+	</item>
+
+	<!-- Imperial Crusader Shield -->
+	<item id="5">
+		<ingredient id="57" count="10000000"/>
+		<production id="6377" count="1"/>
+	</item>
+
+</list>

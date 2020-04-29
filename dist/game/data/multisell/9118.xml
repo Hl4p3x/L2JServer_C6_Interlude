@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- S-Grade Armors -->
+
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/multisell.xsd">
+
+	<!-- Draconic Leather Armor -->
+	<item id="1">
+		<ingredient id="57" count="30000000"/>
+		<production id="6379" count="1"/>
+		<production id="6381" count="1"/>
+		<production id="6380" count="1"/>
+		<production id="6382" count="1"/>
+	</item>
+
+	<!-- Imperial Crusader Heavy Armor -->
+	<item id="2">
+		<ingredient id="57" count="40000000"/>
+		<production id="6373" count="1"/>
+		<production id="6374" count="1"/>
+		<production id="6375" count="1"/>
+		<production id="6376" count="1"/>
+		<production id="6377" count="1"/>
+		<production id="6378" count="1"/>
+	</item>
+
+	<!-- Major Arcana Robe Armor -->
+	<item id="3">
+		<ingredient id="57" count="20000000"/>
+		<production id="6383" count="1"/>
+		<production id="6384" count="1"/>
+		<production id="6385" count="1"/>
+		<production id="6386" count="1"/>
+	</item>
+
+	<!-- Draconic Leather Armor -->
+	<item id="4">
+		<ingredient id="57" count="10000000"/>
+		<production id="6379" count="1"/>
+	</item>
+
+	<!-- Draconic Leather Gloves -->
+	<item id="5">
+		<ingredient id="57" count="5000000"/>
+		<production id="6380" count="1"/>
+	</item>
+
+	<!-- Draconic Leather Boots -->
+	<item id="6">
+		<ingredient id="57" count="5000000"/>
+		<production id="6381" count="1"/>
+	</item>
+
+	<!-- Draconic Leather Helmet -->
+	<item id="7">
+		<ingredient id="57" count="5000000"/>
+		<production id="6382" count="1"/>
+	</item>
+
+	<!-- Major Arcana Armor -->
+	<item id="8">
+		<ingredient id="57" count="10000000"/>
+		<production id="6383" count="1"/>
+	</item>
+
+	<!-- Major Arcana Gloves -->
+	<item id="9">
+		<ingredient id="57" count="5000000"/>
+		<production id="6384" count="1"/>
+	</item>
+
+	<!-- Major Arcana Boots -->
+	<item id="10">
+		<ingredient id="57" count="5000000"/>
+		<production id="6385" count="1"/>
+	</item>
+
+	<!-- Major Arcana Helmet -->
+	<item id="11">
+		<ingredient id="57" count="5000000"/>
+		<production id="6386" count="1"/>
+	</item>
+
+	<!-- Imperial Crusader Breastplate -->
+	<item id="12">
+		<ingredient id="57" count="15000000"/>
+		<production id="6373" count="1"/>
+	</item>
+
+	<!-- Imperial Crusader Gaiters -->
+	<item id="13">
+		<ingredient id="57" count="5000000"/>
+		<production id="6374" count="1"/>
+	</item>
+
+	<!-- Imperial Crusader Gauntlets -->
+	<item id="14">
+		<ingredient id="57" count="5000000"/>
+		<production id="6375" count="1"/>
+	</item>
+
+	<!-- Imperial Crusader Boots -->
+	<item id="15">
+		<ingredient id="57" count="5000000"/>
+		<production id="6376" count="1"/>
+	</item>
+
+	<!-- Imperial Crusader Helmet -->
+	<item id="16">
+		<ingredient id="57" count="5000000"/>
+		<production id="6378" count="1"/>
+	</item>
+
+	<!-- Imperial Crusader Shield -->
+	<item id="17">
+		<ingredient id="57" count="5000000"/>
+		<production id="6377" count="1"/>
+	</item>
+
+</list>

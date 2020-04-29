@@ -1,0 +1,904 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="2800" type="EtcItem" name="Jax's Diary">
+		<!-- A diary that bodyguard Jax has given, saying that it will aid in the search for Solt's and Makel's maps. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2801" type="EtcItem" name="1st Torn Map Piece">
+		<!-- A piece of the map that belonged to the former lord's guard Solt. Gather 4 of these. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2802" type="EtcItem" name="2nd Torn Map Piece">
+		<!-- A piece of the map that belonged to the former lord's guard Makel. Gather 4 of these. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2803" type="EtcItem" name="Solt's Map">
+		<!-- A map where the name of the former lord's guard Solt is written. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2804" type="EtcItem" name="Makel's Map">
+		<!-- A map where the name of the former lord's guard Makel is written. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2805" type="EtcItem" name="Combined Map">
+		<!-- Using the map (alt-m), find the hiding place of the lord's gold bar. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2806" type="EtcItem" name="Rusted Key">
+		<!-- A rusty copper key discovered while digging under the tree indicated on the map. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2807" type="EtcItem" name="Gold Bar">
+		<!-- A gold bar stamped with Duke Ashton's seal. Take this to Alex. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2808" type="EtcItem" name="Alex's Recommend">
+		<!-- A recommendation written by Alex. Take this to Master Luther. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2809" type="EtcItem" name="Mark of Searcher">
+		<!-- A mark given to those who have passed the Trial of the Searcher. An occupation change related item. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2810" type="EtcItem" name="Report of Perrin">
+		<!-- Take this report and go seek Perrin in Gludin Harbor. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2811" type="EtcItem" name="Kristina's Letter">
+		<!-- A letter given by Saint Kristina. Deliver this to Master Sorius. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2812" type="EtcItem" name="Picture of Windy">
+		<!-- A picture of Windy. Take this drawing to Windy. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2813" type="EtcItem" name="Golden Statue">
+		<!-- The reward given by the head of the orphanage. Something good happens if this is in possession? -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2814" type="EtcItem" name="Windy's Pebbles">
+		<!-- A pebble that Windy has picked up from the Wastelands. Take this to Gupu, the head of the orphanage near Gludio. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2815" type="EtcItem" name="Order of Sorius">
+		<!-- Take these orders and show them to Daurin, who is located west of the Orc Barracks. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2816" type="EtcItem" name="1st Secret Letter">
+		<!-- The documents of Leto lizardmen. Gather all of the letters and deliver them to Saint Kristina. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2817" type="EtcItem" name="2nd Secret Letter">
+		<!-- The documents of Leto lizardmen. Gather all of the letters and deliver them to Saint Kristina. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2818" type="EtcItem" name="3rd Secret Letter">
+		<!-- The documents of Leto lizardmen. Gather all of the letters and deliver them to Saint Kristina. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2819" type="EtcItem" name="4th Secret Letter">
+		<!-- The documents of Leto lizardmen. Gather all of the letters and deliver them to Saint Kristina. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2820" type="EtcItem" name="Mark of Healer">
+		<!-- A mark given to those who have passed the Test of the Healer. An occupation change related item. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2821" type="EtcItem" name="Mark of Reformer">
+		<!-- A mark given to those who have passed the Trial of the Reformer. An occupation change related item. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2822" type="EtcItem" name="Book of Reform">
+		<!-- A book received from Priestess Pupina. Go to the Execution Grounds and slay the nameless undeads with the power of light. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2823" type="EtcItem" name="Letter of Introduction">
+		<!-- A letter introducing Priestess Pupina. Take this and meet with to Preacher Sla of the Wastelands. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2824" type="EtcItem" name="Sla's Letter">
+		<!-- A letter given by Sla. Take this to Katari, who is near the waterfalls of the Neutral Zone. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2825" type="EtcItem" name="Greetings">
+		<!-- A letter sent by Sla to her disciples. Go to the Orc Village, Dwarven Village, and Talking Island in this order. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2826" type="EtcItem" name="Ol Mahum's Money">
+		<!-- Ol Mahum currency given by the themselves as a reward. For what...? Nobody knows. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2827" type="EtcItem" name="Katari's Letter">
+		<!-- Katari's reply letter to Sla. Collect 3 reply letters from Sla's disciples and deliver them to Sla. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2828" type="EtcItem" name="Nyakuri's Letter">
+		<!-- Nyakuri's reply letter to Sla. Collect 3 reply letters from Sla's disciples and deliver them to Sla. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2829" type="EtcItem" name="Undead List">
+		<!-- Skeleton archer, skeleton lord, skeleton marksman, misery skeleton, silent horror. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2830" type="EtcItem" name="Ramus's Letter">
+		<!-- A reply letter sent by Ramus to Sla. Deliver this to Sla after meeting all of Sla's disciples. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2831" type="EtcItem" name="Ripped Diary">
+		<!-- Diaries containing the final words of young women unfairly killed during the witch hunts of Duke Byron Ashton. Collect 7 of them. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2832" type="EtcItem" name="Huge Nail">
+		<!-- The large nail that was embedded in Aruraune's skull. Take this to Priestess Pupina at Giran Castle Town. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2833" type="EtcItem" name="Letter of Betrayer">
+		<!-- A letter given by an Ol Mahum Betrayer. Take it to Katari in the swamp area of the Dark Forest. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2834" type="EtcItem" name="Bone Fragment">
+		<!-- Bone pieces of a silent horror. Take this, along with the rest of the undead bone fragments, to Ramus. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2835" type="EtcItem" name="Bone Fragment">
+		<!-- A bone fragment of a skeleton lord. Take this, along with the rest of the undead bone fragments, to Ramus. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2836" type="EtcItem" name="Bone Fragment">
+		<!-- A bone fragment of a skeleton marksman. Take this, along with the rest of the undead bone fragments, to Ramus. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2837" type="EtcItem" name="Bone Fragment">
+		<!-- A bone fragment from a misery skeleton. Take it along with other bone fragments of the undead to Ramus. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2838" type="EtcItem" name="Bone Fragment">
+		<!-- A bone fragment of a skeleton archer. Take this, along with the rest of the undead bone fragments, to Ramus. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2839" type="EtcItem" name="Bone Fragment">
+		<!-- A bone fragment of a skeleton. Take this, along with the rest of the undead bone fragments, to Ramus. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2840" type="EtcItem" name="Mark of Magus">
+		<!-- A mark given to those who have passed the Trial of the Magus. An item for occupational change. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2841" type="EtcItem" name="Rukal's Letter">
+		<!-- A letter sent by Bard Rukal to Parina of the Village of Gludin. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2842" type="EtcItem" name="Parina's Letter">
+		<!-- A letter sent by Parina to Elder Casian. The letter makes inquiries regarding the singing flower. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2843" type="EtcItem" name="Lilac Charm">
+		<!-- A protection charm created by Elder Casian. Take this and seek out the 3 types of singing flowers. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2844" type="EtcItem" name="1st Golden Seed">
+		<!-- The seed of the singing flower, which absorbs blood in order to bloom. Gather 3 of these and take them to Bard Rukal. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2845" type="EtcItem" name="2nd Golden Seed">
+		<!-- The seed of the singing flower, which absorbs blood in order to bloom. Gather 3 of these and take them to Bard Rukal. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2846" type="EtcItem" name="3rd Golden Seed">
+		<!-- The seed of the singing flower, which absorbs blood in order to bloom. Gather 3 of these and take them to Bard Rukal. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2847" type="EtcItem" name="Score of Elements">
+		<!-- A music score sheet given by Bard Rukal. Take this and find the 4 elemental tones. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2848" type="EtcItem" name="Dazzling Drop">
+		<!-- A dazzling, tear-shaped jewel. Gather 20 of these and take them to the Water Undine. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2849" type="EtcItem" name="Flame Crystal">
+		<!-- A crystal obtained from the ghost fire. Gather 5 of these and take them to the Flame Salamander. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2850" type="EtcItem" name="Harpy's Feather">
+		<!-- The feather of a slain harpy. Gather 20 of these and take them to the Wind Sylph. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2851" type="EtcItem" name="Wyrm's Wingbone">
+		<!-- The wingbone of a slain wyrm. Gather 10 of these and take them to the Wind Sylph. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2852" type="EtcItem" name="Windsus Mane">
+		<!-- The mane of a slain windsus. Gather 10 of these and take them to the Wind Sylph. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2853" type="EtcItem" name="Enchanted Monster Eye Shell">
+		<!-- The skin of a slain enchanted eye. Gather 10 of these and take them to the Earth Snake. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2854" type="EtcItem" name="Enchanted Stone Golem Powder">
+		<!-- Stone powder obtained after slaying an enchanted stone golem. Gather 10 of these and take them to the Earth Snake. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2855" type="EtcItem" name="Enchanted Iron Golem Scrap">
+		<!-- A fragment of a destroyed enchanted iron golem. Gather 10 of these and take them to the Earth Snake. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2856" type="EtcItem" name="Tone of Water">
+		<!-- One that comprises the beautiful harmony of the 4 elemental tones. Take this to Bard Rukal in the Town of Dion. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2857" type="EtcItem" name="Tone of Fire">
+		<!-- One that comprises the beautiful harmony of the four elemental tones. Take this to Bard Rukal in the Town of Dion. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2858" type="EtcItem" name="Tone of Wind">
+		<!-- One that comprise the beautiful harmony of the four elemental tones. Take this to Bard Rukal in the Town of Dion. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2859" type="EtcItem" name="Tone of Earth">
+		<!-- One that comprise the beautiful harmony of the four elemental tones. Take this to Bard Rukal in the Town of Dion. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2860" type="EtcItem" name="Salamander Charm">
+		<!-- A charm of agreement given by the Flame Salamander. It promises to give the tone of fire in return for 5 flame crystals. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2861" type="EtcItem" name="Sylph Charm">
+		<!-- A charm of agreement given by the Wind Sylph. It promises to give the tone of wind in return for materials gathered from the harpy, wyrm, and windsus. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2862" type="EtcItem" name="Undine Charm">
+		<!-- A charm of agreement given by the Water Undine. It promises to give the tone of water in return for 20 dazzling drops. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2863" type="EtcItem" name="Serpent Charm">
+		<!-- A charm of agreement given by the Earth Snake. It promises to give the tone of earth in return for slaying the enchanted monsters in the surroundings of the Ivory Tower. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2864" type="EtcItem" name="Recommendation of Balanki">
+		<!-- A recommendation given by Silver Scale's Balanki. Gather all 3 recommendations and visit Lockrin of the Iron Gate. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2865" type="EtcItem" name="Recommendation of Filaur">
+		<!-- A recommendation given by Filaur of the Gray Pillar. Gather all 3 recommendations and seek out Lockirin of the Iron Gate. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2866" type="EtcItem" name="Recommendation of Arin">
+		<!-- A recommendation given by Black Anvil's Arin. Gather all 3 recommendations and go to Lockrin of the Iron Gate. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2867" type="EtcItem" name="Mark of Maestro">
+		<!-- A mark given to those who have passed the Trial of the Maestro. An occupation change related item. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2868" type="EtcItem" name="Letter of Solder Detachment">
+		<!-- A letter from Captain Croto that promises to send soldiers. Deliver this to Lockrin of the Iron Gate. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2869" type="EtcItem" name="Paint of Kamuru">
+		<!-- A painting of Kamuru. Go to the Cave of Trials in the orc kingdom to seek him out. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2870" type="EtcItem" name="Necklace of Kamuru">
+		<!-- A necklace worn by Kamuru. Deliver this to Captain Croto. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2871" type="EtcItem" name="Paint of Teleport Device">
+		<!-- A drawing of a teleport device. Recover this device from Master Toma. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2872" type="EtcItem" name="Teleport Device">
+		<!-- A teleport device given by Master Toma. Deliver this to Black Anvil's Arin. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="destroyable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2873" type="EtcItem" name="Architecture of Cruma">
+		<!-- A simple explanation of Cruman architecture. Take this to the research team stationed at the entrance of the Cruma Tower. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2874" type="EtcItem" name="Report of Cruma">
+		<!-- A report recording the results of investigations made by the Cruma reasearch team. Deliver this to Eldar Filaur. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2875" type="EtcItem" name="Ingredients of Antidote">
+		<!-- Gather 10 stinger wasp needles, 10 marsh spider webs, and 10 leech bloods and deliver them to Researcher Lorain. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2876" type="EtcItem" name="Stinger Wasp Needle">
+		<!-- Gather 10 of these and deliver them along with the other ingredients to Researcher Lorain. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2877" type="EtcItem" name="Marsh Spider's Web">
+		<!-- Gather 10 of these and deliver them along with the other ingredients to Researcher Lorain. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2878" type="EtcItem" name="Blood of Leech">
+		<!-- Gather 10 of these and deliver them along with the other ingredients to Researcher Lorain. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2879" type="EtcItem" name="Mark of Warspirit">
+		<!-- A mark given to those who have passed the Test of the War Spirit. An item for occupational change. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2880" type="EtcItem" name="Vendetta Totem">
+		<!-- A totem given to the Orcs who seek to punish betrayers of their race. Take this and hunt the Tamlin Orcs. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2881" type="EtcItem" name="Tamlin Orc Head">
+		<!-- The head of a slain Tamlin Orc. Gather 13 of these and take them to Seer Somak. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2882" type="EtcItem" name="Warspirit Totem">
+		<!-- A totem used in the Ritual of the War Spirit. Take this to Ancestor Martankus in the Cave of Trials. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2883" type="EtcItem" name="Orim's Contract">
+		<!-- I will give you Braki's remains in return for 10 porta eyes, 10 excuro scales and 10 mordeo talons. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2884" type="EtcItem" name="Porta's Eye">
+		<!-- A jewel pried from the porta's eye. Gather 10 of these and take them to Orim of the Shadow. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2885" type="EtcItem" name="Excuro's Scale">
+		<!-- The scales of an excuro. Gather 10 of these and take them to Orim of the Shadow. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2886" type="EtcItem" name="Mordeos Talon">
+		<!-- The talons of a mordeo. Gather 10 of these and take them to Orim of the Shadow. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2887" type="EtcItem" name="Braki's Remains">
+		<!-- The remains of Braki, an ancient Orc hero. Take this, along with the additional 3 remains, to Seer Somak. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2888" type="EtcItem" name="Pekiron's Totem">
+		<!-- A guardian totem received from Seer Pekiron. Take this and go to the Leto lizardman shamans and chiefs to recover Tonar's remains. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2889" type="EtcItem" name="Tonar's Skull">
+		<!-- The skull of Tonar, an ancient Orc hero. Take this, along with the additional 4 remains, to Seer Pekiron. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2890" type="EtcItem" name="Tonar's Rib Bone">
+		<!-- The rib bones of Tonar, an ancient Orc hero. Take this, along with the additional 4 remains, to Seer Pekiron. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2891" type="EtcItem" name="Tonar's Spine">
+		<!-- The spine bones of Tonar, an ancient Orc hero. Take this, along with the additional 4 remains, to Seer Pekiron. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2892" type="EtcItem" name="Tonar's Arm Bone">
+		<!-- The arm bones of Tonar, an ancient Orc hero. Take this, along with the additional 4 remains, to Seer Pekiron. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2893" type="EtcItem" name="Tonar's Thigh Bone">
+		<!-- The thigh bones of Tonar, an ancient Orc hero. Take this, along with the additional 4 remains, to Seer Pekiron. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2894" type="EtcItem" name="Tonar's Remains">
+		<!-- The remains of Tonar, an ancient Orc hero. Take this, along with the other 3 heros' remains, to Seer Somak. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2895" type="EtcItem" name="Manakia's Totem">
+		<!-- A totem received from Seer Manakia. Take this and go to the medusas and Stenoa, the gorgon queen, to recover Hermodt's remains. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2896" type="EtcItem" name="Hermodt's Skull">
+		<!-- The skull of Hermodt, an ancient Orc hero. Take this, along with the additional 4 remains, to Seer Manakia. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2897" type="EtcItem" name="Hermodt's Rib Bone">
+		<!-- The rib bones of Hermodt, an ancient Orc hero. Take this, along with the additional 4 remains, to Seer Manakia. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2898" type="EtcItem" name="Hermodt's Spine">
+		<!-- The spine bones of Hermodt, an ancient Orc hero. Take this, along with the additional 4 remains, to Seer Manakia. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2899" type="EtcItem" name="Hermodt's Arm Bone">
+		<!-- The arm bones of Hermodt, an ancient Orc hero. Take this, along with the additional 4 remains, to Seer Manakia. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+</list>

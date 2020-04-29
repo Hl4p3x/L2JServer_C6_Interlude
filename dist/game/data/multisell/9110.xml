@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- A-Grade Jewels -->
+
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/multisell.xsd">
+
+	<!-- Majestic Necklace -->
+	<item id="1">
+		<ingredient id="57" count="5200000"/>
+		<production id="924" count="1"/>
+	</item>
+
+	<!-- Majestic Earring -->
+	<item id="2">
+		<ingredient id="57" count="4000000"/>
+		<production id="862" count="1"/>
+	</item>
+
+	<!-- Majestic Ring -->
+	<item id="3">
+		<ingredient id="57" count="2600000"/>
+		<production id="893" count="1"/>
+	</item>
+
+	<!-- Phoenix Necklace -->
+	<item id="4">
+		<ingredient id="57" count="3500000"/>
+		<production id="933" count="1"/>
+	</item>
+
+	<!-- Phoenix Earring -->
+	<item id="5">
+		<ingredient id="57" count="2700000"/>
+		<production id="871" count="1"/>
+	</item>
+
+	<!-- Phoenix Ring -->
+	<item id="6">
+		<ingredient id="57" count="1800000"/>
+		<production id="902" count="1"/>
+	</item>
+
+</list>

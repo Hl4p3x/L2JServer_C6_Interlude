@@ -1,0 +1,694 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="8000" type="EtcItem" name="Dawn Mercenary Posting Ticket (Bow/Stationary)">
+		<!-- Rune/Bow/Stationary. The Seal of Strife can only be used to place a mercenary when in the possession of the Lords of Dawn. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8001" type="EtcItem" name="Dawn Mercenary Posting Ticket (Cleric/Stationary)">
+		<!-- Rune/Cleric/Stationary. The Seal of Strife can only be used to place a mercenary when in the possession of the Lords of Dawn. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8002" type="EtcItem" name="Dawn Mercenary Posting Ticket (Wizard/Stationary)">
+		<!-- Rune/Wizard/Stationary. The Seal of Strife can only be used to place a mercenary when in the possession of the Lords of Dawn. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8003" type="EtcItem" name="Dawn Mercenary Posting Ticket (Sword/Mobile)">
+		<!-- Rune/Sword/Mobile. The Seal of Strife can only be used to place a mercenary when in the possession of the Lords of Dawn. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8004" type="EtcItem" name="Dawn Mercenary Posting Ticket (Spear/Mobile)">
+		<!-- Rune/Spear/Mobile. The Seal of Strife can only be used to place a mercenary when in the possession of the Lords of Dawn. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8005" type="EtcItem" name="Dawn Mercenary Posting Ticket (Bow/Mobile)">
+		<!-- Rune/Bow/Mobile. The Seal of Strife can only be used to place a mercenary when in the possession of the Lords of Dawn. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8006" type="EtcItem" name="Dawn Mercenary Posting Ticket (Cleric/Mobile)">
+		<!-- Rune/Cleric/Mobile. The Seal of Strife can only be used to place a mercenary when in the possession of the Lords of Dawn. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8007" type="EtcItem" name="Dawn Mercenary Posting Ticket (Wizard/Mobile)">
+		<!-- Rune/Wizard/Mobile. The Seal of Strife can only be used to place a mercenary when in the possession of the Lords of Dawn. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8008" type="EtcItem" name="Greater Recruit Posting Ticket (Sword/Stationary)">
+		<!-- Rune/Sword/Stationary. The Seal of Strife can only be used to place a mercenary when in the possession of the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8009" type="EtcItem" name="Greater Recruit Posting Ticket (Spear/Stationary)">
+		<!-- Rune/Spear/Stationary. The Seal of Strife can only be used to place a mercenary when in the possession of the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8010" type="EtcItem" name="Greater Recruit Posting Ticket (Bow/Stationary)">
+		<!-- Rune/Bow/Stationary. The Seal of Strife can only be used to place a mercenary when in the possession of the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8011" type="EtcItem" name="Greater Recruit Posting Ticket (Cleric/Stationary)">
+		<!-- Rune/Cleric/Stationary. The Seal of Strife can only be used to place a mercenary when in the possession of the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8012" type="EtcItem" name="Greater Recruit Posting Ticket (Wizard/Stationary)">
+		<!-- Rune/Wizard/Stationary. The Seal of Strife can only be used to place a mercenary when in the possession of the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8013" type="EtcItem" name="Greater Recruit Posting Ticket (Sword/Mobile)">
+		<!-- Rune/Sword/Mobile. The Seal of Strife can only be used to place a mercenary when in the possession of the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8014" type="EtcItem" name="Greater Recruit Posting Ticket (Spear/Mobile)">
+		<!-- Rune/Spear/Mobile. The Seal of Strife can only be used to place a mercenary when in the possession of the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8015" type="EtcItem" name="Greater Recruit Posting Ticket (Bow/Mobile)">
+		<!-- Rune/Bow/Mobile. The Seal of Strife can only be used to place a mercenary when in the possession of the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8016" type="EtcItem" name="Greater Recruit Posting Ticket (Cleric/Mobile)">
+		<!-- Rune/Cleric/Mobile. The Seal of Strife can only be used to place a mercenary when in the possession of the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8017" type="EtcItem" name="Greater Recruit Posting Ticket (Wizard/Mobile)">
+		<!-- Rune/Wizard/Mobile. The Seal of Strife can only be used to place a mercenary when in the possession of the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8018" type="EtcItem" name="Recruit Posting Ticket (Sword/Stationary)">
+		<!-- Rune/Sword/Stationary. The Seal of Strife can only be used to place a mercenary when in the possession of the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8019" type="EtcItem" name="Recruit Posting Ticket (Spear/Stationary)">
+		<!-- Rune/Spear/Stationary. The Seal of Strife can only be used to place a mercenary when in the possession of the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8020" type="EtcItem" name="Recruit Posting Ticket (Bow/Stationary)">
+		<!-- Rune/Bow/Stationary. The Seal of Strife can only be used to place a mercenary when in the possession of the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8021" type="EtcItem" name="Recruit Posting Ticket (Cleric/Stationary)">
+		<!-- Rune/Cleric/Stationary. The Seal of Strife can only be used to place a mercenary when in the possession of the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8022" type="EtcItem" name="Recruit Posting Ticket (Wizard/Stationary)">
+		<!-- Rune/Wizard/Stationary. The Seal of Strife can only be used to place a mercenary when in the possession of the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8023" type="EtcItem" name="Recruit Posting Ticket (Sword/Mobile)">
+		<!-- Rune/Sword/Mobile. The Seal of Strife can only be used to place a mercenary when in the possession of the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8024" type="EtcItem" name="Recruit Posting Ticket (Spear/Mobile)">
+		<!-- Rune/Spear/Mobile. The Seal of Strife can only be used to place a mercenary when in the possession of the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8025" type="EtcItem" name="Recruit Posting Ticket (Bow/Mobile)">
+		<!-- Rune/Bow/Mobile. The Seal of Strife can only be used to place a mercenary when in the possession of the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8026" type="EtcItem" name="Recruit Posting Ticket (Cleric/Mobile)">
+		<!-- Rune/Cleric/Mobile. The Seal of Strife can only be used to place a mercenary when in the possession of the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8027" type="EtcItem" name="Recruit Posting Ticket (Wizard/Mobile)">
+		<!-- Rune/Wizard/Mobile. The Seal of Strife can only be used to place a mercenary when in the possession of the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8028" type="EtcItem" name="Nephilim Warrior Posting Ticket">
+		<!-- Rune/Sword/Mobile. The Seal of Strife can only be used to place a mercenary when in the possession of the Lords of Dawn. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8029" type="EtcItem" name="Nephilim Shaman Posting Ticket">
+		<!-- Rune/Wizard/Mobile. The Seal of Strife can only be used to place a mercenary when in the possession of the Lords of Dawn. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8030" type="EtcItem" name="Hot Spring Nectar">
+		<!-- Used during the Rainbow Springs Clan Hall Battle. This item may be used on the Hot Springs Yeti. It cannot be exchanged or dropped. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="8031" type="EtcItem" name="Hot Spring Mineral Water">
+		<!-- Used during the Rainbow Springs Clan Hall Battle. This item may be used on the Hot Springs Yeti. It cannot be exchanged or dropped. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="8032" type="EtcItem" name="Hot Spring Water">
+		<!-- Used during the Rainbow Springs Clan Hall Battle. This item may be used on the Hot Springs Yeti. It cannot be exchanged or dropped. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="8033" type="EtcItem" name="Hot Spring Sulfur">
+		<!-- Used during the Rainbow Springs Clan Hall Battle. This item may be used on the Hot Springs Yeti. It cannot be exchanged or dropped. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="8034" type="EtcItem" name="Rainbow Springs Clan Hall War Decree">
+		<!-- This ticket allows entry to the Rainbow Springs Clan Hall Battle. It is a reward for fishing in Goddard. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8035" type="EtcItem" name="Hot Spring Letter A">
+		<!-- Combining these texts may grant rewards during the Rainbow Springs Clan Hall Battle. It cannot be exchanged or dropped. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="8036" type="EtcItem" name="Hot Spring Letter B">
+		<!-- Combining these texts may grant rewards during the Rainbow Springs Clan Hall Battle. It cannot be exchanged or dropped. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="8037" type="EtcItem" name="Hot Spring Letter C">
+		<!-- Combining these texts may grant rewards during the Rainbow Springs Clan Hall Battle. It cannot be exchanged or dropped. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="8038" type="EtcItem" name="Hot Spring Letter D">
+		<!-- Combining these texts may grant rewards during the Rainbow Springs Clan Hall Battle. It cannot be exchanged or dropped. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="8039" type="EtcItem" name="Hot Spring Letter E">
+		<!-- Combining these texts may grant rewards during the Rainbow Springs Clan Hall Battle. It cannot be exchanged or dropped. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="8040" type="EtcItem" name="Hot Spring Letter F">
+		<!-- Combining these texts may grant rewards during the Rainbow Springs Clan Hall Battle. It cannot be exchanged or dropped. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="8041" type="EtcItem" name="Hot Spring Letter G">
+		<!-- Combining these texts may grant rewards during the Rainbow Springs Clan Hall Battle. It cannot be exchanged or dropped. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="8042" type="EtcItem" name="Hot Spring Letter H">
+		<!-- Combining these texts may grant rewards during the Rainbow Springs Clan Hall Battle. It cannot be exchanged or dropped. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="8043" type="EtcItem" name="Hot Spring Letter I">
+		<!-- Combining these texts may grant rewards during the Rainbow Springs Clan Hall Battle. It cannot be exchanged or dropped. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="8044" type="EtcItem" name="Hot Spring Letter J">
+		<!-- Combining these texts may grant rewards during the Rainbow Springs Clan Hall Battle. It cannot be exchanged or dropped. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="8045" type="EtcItem" name="Hot Spring Letter K">
+		<!-- Combining these texts may grant rewards during the Rainbow Springs Clan Hall Battle. It cannot be exchanged or dropped. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="8046" type="EtcItem" name="Hot Spring Letter L">
+		<!-- Combining these texts may grant rewards during the Rainbow Springs Clan Hall Battle. It cannot be exchanged or dropped. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="8047" type="EtcItem" name="Hot Spring Letter N">
+		<!-- Combining these texts may grant rewards during the Rainbow Springs Clan Hall Battle. It cannot be exchanged or dropped. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="8048" type="EtcItem" name="Hot Spring Letter O">
+		<!-- Combining these texts may grant rewards during the Rainbow Springs Clan Hall Battle. It cannot be exchanged or dropped. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="8049" type="EtcItem" name="Hot Spring Letter P">
+		<!-- Combining these texts may grant rewards during the Rainbow Springs Clan Hall Battle. It cannot be exchanged or dropped. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="8050" type="EtcItem" name="Hot Spring Letter R">
+		<!-- Combining these texts may grant rewards during the Rainbow Springs Clan Hall Battle. It cannot be exchanged or dropped. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="8051" type="EtcItem" name="Hot Spring Letter S">
+		<!-- Combining these texts may grant rewards during the Rainbow Springs Clan Hall Battle. It cannot be exchanged or dropped. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="8052" type="EtcItem" name="Hot Spring letter T">
+		<!-- Combining these texts may grant rewards during the Rainbow Springs Clan Hall Battle. It cannot be exchanged or dropped. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="8053" type="EtcItem" name="Hot Spring Letter U">
+		<!-- Combining these texts may grant rewards during the Rainbow Springs Clan Hall Battle. It cannot be exchanged or dropped. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="8054" type="EtcItem" name="Hot Spring Letter W">
+		<!-- Combining these texts may grant rewards during the Rainbow Springs Clan Hall Battle. It cannot be exchanged or dropped. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="8055" type="EtcItem" name="Hot Spring Letter Y">
+		<!-- Combining these texts may grant rewards during the Rainbow Springs Clan Hall Battle. It cannot be exchanged or dropped. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="8056" type="EtcItem" name="Key of Splendor Room">
+		<!-- The key to the Splendor Room in the Monastery of Silence. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8057" type="EtcItem" name="Silver Hemocyte">
+		<!-- The Ice Queen's pets' favorite food. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8058" type="EtcItem" name="Lockup Research Report">
+		<!-- Dr. Chaos's research report. It's locked. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8059" type="EtcItem" name="Research Report">
+		<!-- Unlock the padlock to read Dr. Chaos's research report. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8060" type="EtcItem" name="Key of Enigma">
+		<!-- The small journal key that was included with the memo. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8061" type="EtcItem" name="Scribbled Memo">
+		<!-- Dr. Chaos's research report. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8062" type="EtcItem" name="Blood of Maille Lizardman">
+		<!-- Blood obtained by killing Maille Lizardmen. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8063" type="EtcItem" name="Leg of King Araneid">
+		<!-- The legs obtained by defeating King Araneid. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8064" type="EtcItem" name="Visitor's Mark">
+		<!-- Permits entry to the Pagan Temple. Don't lose it! -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="destroyable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="8065" type="EtcItem" name="Faded Visitor's Mark">
+		<!-- This faded mark permits entry to the Pagan Temple. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="destroyable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="8066" type="EtcItem" name="Necromancer's Heart">
+		<!-- Obtain this necromantic heart by slaying Bone Animators, Bone Slayers or Skull Animators. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="destroyable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="8067" type="EtcItem" name="Pagan's Mark">
+		<!-- Permits entry and access to the chapel of the Pagan Temple. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="destroyable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="8068" type="EtcItem" name="Pagan Totem">
+		<!-- The totem obtained by defeating the Pagans. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8069" type="EtcItem" name="Monk's Scripture">
+		<!-- The scripture obtained by defeating the monks within the Monastery of Silence. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8070" type="EtcItem" name="Water Bottle">
+		<!-- The bottle from Gremory. Pour the water into the Holy Grail in the Splendor Room and take it with you. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8071" type="EtcItem" name="Bottle of water from the Holy Grail">
+		<!-- The bottle containing the water from the Holy Grail in the Splendor Room. Take it to Gremory. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8072" type="EtcItem" name="Antelope Skin">
+		<!-- The exceptional hide needed to create the magical scroll. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8073" type="EtcItem" name="Frintezza's Magic Force Field Removal Scroll">
+		<!-- The scroll that permits passage though Frintezza's Magic Force Field. Meet his guide near the Imperial Tomb entrance and he will let you enter the forbidden area. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8074" type="EtcItem" name="Watching Eyes">
+		<!-- This "Wandering Eye" has been harassing the farmers of Floran. Take it to Almankel in Floran Village. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8075" type="EtcItem" name="Roughly Hewn Rock Golem Shard">
+		<!-- This is a fragment from a Roughly Hewn Rock Golem. Take it to Almankel in Floran Village. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8076" type="EtcItem" name="Delu Lizardman's Scale">
+		<!-- This is a scale of the Delu Lizardman that has been harassing the farmers of Floran. Take it to Almankel in Floran Village. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8077" type="EtcItem" name="Silver Ice Crystal">
+		<!-- A crystal obtained from a monster. When processed, it becomes the Black Ice Crystal. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8078" type="EtcItem" name="Black Ice Crystal">
+		<!-- When stuck into a target, the character becomes violent. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8079" type="EtcItem" name="Misa's Letter">
+		<!-- A secret letter from Misa to Rafforty. Don't break the seal! -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8080" type="EtcItem" name="Rafforty's Letter">
+		<!-- A secret letter from Rafforty to Misa. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8081" type="EtcItem" name="Piece of Tablet">
+		<!-- An unknown tablet fragment. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8082" type="EtcItem" name="Report Piece">
+		<!-- A fragment of the report from the stone statue. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8083" type="EtcItem" name="Scout's Memo">
+		<!-- A scribbled note written by a scout searching the nest. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8084" type="EtcItem" name="Crystal of Purity">
+		<!-- This white crystal was expelled by a wild beast whose heart was pure. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8085" type="EtcItem" name="Fang of Stakato">
+		<!-- Fangs gained from killing Stakatos. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8086" type="EtcItem" name="Box Containing the Fire of Holy Spirit">
+		<!-- Box containing the Fire of the Holy Spirit -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8087" type="EtcItem" name="Cursed Doll">
+		<!-- An enchanted doll that has been said to control the evil creatures of the Ragna Orcs. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8088" type="EtcItem" name="Orc Grave Goods">
+		<!-- Remains stolen by graverobbers. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8089" type="EtcItem" name="Cursed Grave Goods">
+		<!-- Items made by angry spirits to use physical force. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8090" type="EtcItem" name="Electric Wave Detector">
+		<!-- This rod lights up in the presence of strong electric waves. It is presently unlit. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8091" type="EtcItem" name="Electric Wave Detector">
+		<!-- This rod lights up in the presence of strong electric waves. It is presently lit. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8092" type="EtcItem" name="Telescope Golem's Corpse">
+		<!-- Metal obtained from hunting the Scout Golem. It may be concealing something. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8093" type="EtcItem" name="Golem's Dispatcher">
+		<!-- Dispatcher obtained from hunting the Telescope Golem. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8094" type="EtcItem" name="Storage Medium">
+		<!-- The storage medium taken from the Golem. It is empty. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8095" type="EtcItem" name="Storage Medium">
+		<!-- The storage medium taken from the Golem. It contains information. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8096" type="EtcItem" name="Ginzu Golem's Black Box">
+		<!-- The analysis device obtained from the Ginzu Golem. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8097" type="EtcItem" name="X-688">
+		<!-- A curious scroll found on Dr. Chaos's bookshelf. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8098" type="EtcItem" name="Supplying Goods for Railroad Worker">
+		<!-- Supplies sent by a Dwarven Elder to a Railroad Worker. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="8099" type="EtcItem" name="Thief Guild's Mark">
+		<!-- An animal's tooth worn by the thieves of the Plunderous Plains. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+</list>

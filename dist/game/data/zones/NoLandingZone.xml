@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/zones.xsd">
+	<!-- No Landing Zones -->
+	<zone type="NoLandingZone" shape="Cylinder" minZ="-10380" maxZ="16407" rad="7000"> <!-- nofly_olympiad_stadium_01 -->
+		<node X="-20873" Y="-21000" />
+	</zone>
+	<zone type="NoLandingZone" shape="Cylinder" minZ="-10380" maxZ="16407" rad="7000"> <!-- nofly_olympiad_stadium_02 -->
+		<node X="-120324" Y="-225077" />
+	</zone>
+	<zone type="NoLandingZone" shape="Cylinder" minZ="-10380" maxZ="16407" rad="7000"> <!-- nofly_olympiad_stadium_03 -->
+		<node X="-102495" Y="-209023" />
+	</zone>
+	<zone type="NoLandingZone" shape="Cylinder" minZ="-10380" maxZ="16407" rad="7000"> <!-- nofly_olympiad_stadium_04 -->
+		<node X="-120156" Y="-207378" />
+	</zone>
+	<zone type="NoLandingZone" shape="Cylinder" minZ="-10380" maxZ="16407" rad="7000"> <!-- nofly_olympiad_stadium_05 -->
+		<node X="-87628" Y="-225021" />
+	</zone>
+	<zone type="NoLandingZone" shape="Cylinder" minZ="-10380" maxZ="16407" rad="7000"> <!-- nofly_olympiad_stadium_06 -->
+		<node X="-81705" Y="-213209" />
+	</zone>
+	<zone type="NoLandingZone" shape="Cylinder" minZ="-10380" maxZ="16407" rad="7000"> <!-- nofly_olympiad_stadium_07 -->
+		<node X="-87593" Y="-207339" />
+	</zone>
+	<zone type="NoLandingZone" shape="Cylinder" minZ="-10380" maxZ="16407" rad="7000"> <!-- nofly_olympiad_stadium_08 -->
+		<node X="-93709" Y="-218304" />
+	</zone>
+	<zone type="NoLandingZone" shape="Cylinder" minZ="-10380" maxZ="16407" rad="7000"> <!-- nofly_olympiad_stadium_09 -->
+		<node X="-77157" Y="-218608" />
+	</zone>
+	<zone type="NoLandingZone" shape="Cylinder" minZ="-10380" maxZ="16407" rad="7000"> <!-- nofly_olympiad_stadium_10 -->
+		<node X="-69682" Y="-209027" />
+	</zone>
+	<zone type="NoLandingZone" shape="Cylinder" minZ="-10380" maxZ="16407" rad="7000"> <!-- nofly_olympiad_stadium_11 -->
+		<node X="-76887" Y="-201256" />
+	</zone>
+	<zone type="NoLandingZone" shape="Cylinder" minZ="-10380" maxZ="16407" rad="7000"> <!-- nofly_olympiad_stadium_12 -->
+		<node X="-109985" Y="-218701" />
+	</zone>
+	<zone type="NoLandingZone" shape="Cylinder" minZ="-10380" maxZ="16407" rad="7000"> <!-- nofly_olympiad_stadium_13 -->
+		<node X="-126367" Y="-218228" />
+	</zone>
+	<zone type="NoLandingZone" shape="Cylinder" minZ="-10380" maxZ="16407" rad="7000"> <!-- nofly_olympiad_stadium_14 -->
+		<node X="-109629" Y="-201292" />
+	</zone>
+	<zone type="NoLandingZone" shape="Cylinder" minZ="-10380" maxZ="16407" rad="7000"> <!-- nofly_olympiad_stadium_15 -->
+		<node X="-87523" Y="-240169" />
+	</zone>
+	<zone type="NoLandingZone" shape="Cylinder" minZ="-10380" maxZ="16407" rad="7000"> <!-- nofly_olympiad_stadium_16 -->
+		<node X="-81748" Y="-245950" />
+	</zone>
+	<zone type="NoLandingZone" shape="Cylinder" minZ="-10380" maxZ="16407" rad="7000"> <!-- nofly_olympiad_stadium_17 -->
+		<node X="-77123" Y="-251473" />
+	</zone>
+	<zone type="NoLandingZone" shape="Cylinder" minZ="-10380" maxZ="16407" rad="7000"> <!-- nofly_olympiad_stadium_18 -->
+		<node X="-69778" Y="-241801" />
+	</zone>
+	<zone type="NoLandingZone" shape="Cylinder" minZ="-10380" maxZ="16407" rad="7000"> <!-- nofly_olympiad_stadium_19 -->
+		<node X="-76754" Y="-234014" />
+	</zone>
+	<zone type="NoLandingZone" shape="Cylinder" minZ="-10380" maxZ="16407" rad="7000"> <!-- nofly_olympiad_stadium_20 -->
+		<node X="-93742" Y="-251032" />
+	</zone>
+	<zone type="NoLandingZone" shape="Cylinder" minZ="-10380" maxZ="16407" rad="7000"> <!-- nofly_olympiad_stadium_21 -->
+		<node X="-87466" Y="-257752" />
+	</zone>
+	<zone type="NoLandingZone" shape="Cylinder" minZ="-10380" maxZ="16407" rad="7000"> <!-- nofly_olympiad_stadium_22 -->
+		<node X="-114413" Y="-213241" />
+	</zone>
+	<zone type="NoLandingZone" shape="NPoly" minZ="-4096" maxZ="-3896"> <!-- boss_area_antaras -->
+		<node X="-58026" Y="-190958" />
+		<node X="-98030" Y="-190958" />
+		<node X="-97263" Y="-35335" />
+		<node X="-5341" Y="-34964" />
+		<node X="-5554" Y="-4207" />
+		<node X="-129444" Y="-4207" />
+	</zone>
+	<zone type="NoLandingZone" shape="NPoly" minZ="-3753" maxZ="16407"> <!-- boss_area_valakas -->
+		<node X="196710" Y="-130845" />
+		<node X="228895" Y="-130845" />
+		<node X="229126" Y="-96162" />
+		<node X="196478" Y="-98187" />
+	</zone>
+	<zone type="NoLandingZone" shape="Cylinder" minZ="-10380" maxZ="16407" rad="10000"> <!-- nofly_TOI -->
+		<node X="115202" Y="16621" />
+	</zone>
+	<zone type="NoLandingZone" shape="NPoly" minZ="-2610" maxZ="16407"> <!-- nofly_Rainbow_Spring -->
+		<node X="147262" Y="-130925" />
+		<node X="159640" Y="-130952" />
+		<node X="159532" Y="-121970" />
+		<node X="147455" Y="-121883" />
+	</zone>
+	<zone type="NoLandingZone" shape="NPoly" minZ="-716" maxZ="16407"> <!-- 24_21_nofly -->
+		<node X="131156" Y="98394" />
+		<node X="163755" Y="98405" />
+		<node X="163747" Y="130995" />
+		<node X="131168" Y="131006" />
+	</zone>
+	<zone type="NoLandingZone" shape="NPoly" minZ="-4044" maxZ="16407"> <!-- 25_21_nofly -->
+		<node X="163907" Y="98398" />
+		<node X="196477" Y="98408" />
+		<node X="196495" Y="130990" />
+		<node X="164032" Y="130993" />
+	</zone>
+	<zone type="NoLandingZone" shape="NPoly" minZ="-15000" maxZ="16407"> <!-- nofly_oren01_mb2220_ugoz01 -->
+		<node X="88417" Y="77085" />
+		<node X="105546" Y="77041" />
+		<node X="105421" Y="92728" />
+		<node X="88481" Y="92787" />
+	</zone>
+</list>

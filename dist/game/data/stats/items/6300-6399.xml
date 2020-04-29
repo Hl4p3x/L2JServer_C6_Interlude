@@ -1,0 +1,1456 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="6300" type="EtcItem" name="Nephilim Shaman Posting Ticket">
+		<!-- Giran/Wizard/Mobile. Can only be used to place a mercenary when the seal of strife is possessed by the Lords of Dawn. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6301" type="EtcItem" name="Nephilim Warrior Posting Ticket">
+		<!-- Oren/Sword/Mobile. Can only be used to place a mercenary when the seal of strife is possessed by the Lords of Dawn. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6302" type="EtcItem" name="Nephilim Shaman Posting Ticket">
+		<!-- Oren/Wizard/Mobile. Can only be used to place a mercenary when the seal of strife is possessed by the Lords of Dawn. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6303" type="EtcItem" name="Nephilim Warrior Posting Ticket">
+		<!-- Aden/Sword/Mobile. Can only be used to place a mercenary when the seal of strife is possessed by the Lords of Dawn. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6304" type="EtcItem" name="Nephilim Shaman Posting Ticket">
+		<!-- Aden/Wizard/Mobile. Can only be used to place a mercenary when the seal of strife is possessed by the Lords of Dawn. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6305" type="EtcItem" name="Nephilim Warrior Posting Ticket">
+		<!-- Innadril/Sword/Mobile. Can only be used to place a mercenary when the seal of strife is possessed by the Lords of Dawn. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6306" type="EtcItem" name="Nephilim Shaman Posting Ticket">
+		<!-- Innadril/Wizard/Mobile. Can only be used to place a mercenary when the seal of strife is possessed by the Lords of Dawn. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6307" type="Weapon" name="Sword of Limit - Guidance">
+		<!-- <Soul Crystal Enhancement>. Increases the accuracy rate to 5. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1400"/>
+		<set name="soulshots" val="3"/>
+		<set name="spiritshots" val="3"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="139"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="sword"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="379"/>
+		<set name="m_dam" val="76"/>
+		<set name="price" val="4300000"/>
+		<set name="crystal_count" val="1720"/>
+		<for>
+			<set val="139" order="0x08" stat="pAtk"/>
+			<set val="76" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<add val="0" order="0x10" stat="accCombat"/>
+			<set val="379" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- SA: Guidance -->
+			<add val="5" order="0x40" stat="accCombat"/>
+		</for>
+	</item>
+	<item id="6308" type="Weapon" name="Sword of Limit - Critical Drain">
+		<!-- <Soul Crystal Enhancement>. Absorbs HP +9 from target during a critical attack. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1400"/>
+		<set name="soulshots" val="3"/>
+		<set name="spiritshots" val="3"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="139"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="sword"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="379"/>
+		<set name="m_dam" val="76"/>
+		<set name="price" val="4300000"/>
+		<set name="crystal_count" val="1720"/>
+		<for>
+			<set val="139" order="0x08" stat="pAtk"/>
+			<set val="76" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<add val="0" order="0x10" stat="accCombat"/>
+			<set val="379" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- Critical Drain -->
+			<skill onCrit="1" id="3022" lvl="2"/>
+		</for>
+	</item>
+	<item id="6309" type="Weapon" name="Sword of Limit - Health">
+		<!-- <Soul Crystal Enhancement>. Increases maximum HP by 25%. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1400"/>
+		<set name="soulshots" val="3"/>
+		<set name="spiritshots" val="3"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="139"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="sword"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="379"/>
+		<set name="m_dam" val="76"/>
+		<set name="price" val="4300000"/>
+		<set name="crystal_count" val="1720"/>
+		<for>
+			<set val="139" order="0x08" stat="pAtk"/>
+			<set val="76" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<add val="0" order="0x10" stat="accCombat"/>
+			<set val="379" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- SA: Health -->
+			<mul val="1.25" order="0x30" stat="maxHp"/>
+		</for>
+	</item>
+	<item id="6310" type="Weapon" name="Sword of Whispering Death - Empower">
+		<!-- <Soul Crystal Enhancement>. Increases M. Atk. by 24. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="920"/>
+		<set name="soulshots" val="3"/>
+		<set name="spiritshots" val="3"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="111"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="sword"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="379"/>
+		<set name="m_dam" val="101"/>
+		<set name="price" val="4300000"/>
+		<set name="crystal_count" val="1720"/>
+		<for>
+			<set val="111" order="0x08" stat="pAtk"/>
+			<set val="101" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<add val="0" order="0x10" stat="accCombat"/>
+			<set val="379" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- SA: Empower -->
+			<add val="24" order="0x40" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="6311" type="Weapon" name="Sword of Whispering Death - Magic Power">
+		<!-- <Soul Crystal Enhancement>. Increases MP consumption by 15% and increases M. Atk. by 99 during magic use. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="920"/>
+		<set name="soulshots" val="3"/>
+		<set name="spiritshots" val="3"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="111"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="sword"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="379"/>
+		<set name="m_dam" val="101"/>
+		<set name="price" val="4300000"/>
+		<set name="crystal_count" val="1720"/>
+		<for>
+			<set val="111" order="0x08" stat="pAtk"/>
+			<set val="101" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<add val="0" order="0x10" stat="accCombat"/>
+			<set val="379" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- SA: Magic Power -->
+			<add val="99" order="0x40" stat="mAtk"/>
+			<mul val="1.15" order="0x30" stat="MpConsume"/>
+		</for>
+	</item>
+	<item id="6312" type="Weapon" name="Sword of Whispering Death - Magic Silence">
+		<!-- <Soul Crystal Enhancement>. Increases the chances of causing Silence by 10% when using Dark Magic. Effect 1. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="920"/>
+		<set name="soulshots" val="3"/>
+		<set name="spiritshots" val="3"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="111"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="sword"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="379"/>
+		<set name="m_dam" val="101"/>
+		<set name="price" val="4300000"/>
+		<set name="crystal_count" val="1720"/>
+		<for>
+			<set val="111" order="0x08" stat="pAtk"/>
+			<set val="101" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<add val="0" order="0x10" stat="accCombat"/>
+			<set val="379" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- Magic Silence -->
+			<skill onCast="1" id="1064" lvl="1" chance="10"/>
+		</for>
+	</item>
+	<item id="6313" type="Weapon" name="Homunkulus's Sword - Acumen">
+		<!-- <Soul Crystal Enhancement>. Increases Casting Spd. by 15%. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="950"/>
+		<set name="soulshots" val="3"/>
+		<set name="spiritshots" val="3"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="111"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="sword"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="379"/>
+		<set name="m_dam" val="101"/>
+		<set name="price" val="4300000"/>
+		<set name="crystal_count" val="1720"/>
+		<set name="item_skill_id" val="3047"/> <!-- Special Ability: Acumen -->
+		<set name="item_skill_lvl" val="1"/>
+		<for>
+			<set val="111" order="0x08" stat="pAtk"/>
+			<set val="101" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<add val="0" order="0x10" stat="accCombat"/>
+			<set val="379" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- SA always used in skill add -->
+		</for>
+	</item>
+	<item id="6314" type="Weapon" name="Homunkulus's Sword - Conversion">
+		<!-- <Soul Crystal Enhancement>. Increases maximum MP by 60% and decreases maximum HP by 40%. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="950"/>
+		<set name="soulshots" val="3"/>
+		<set name="spiritshots" val="3"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="111"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="sword"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="379"/>
+		<set name="m_dam" val="101"/>
+		<set name="price" val="4300000"/>
+		<set name="crystal_count" val="1720"/>
+		<set name="item_skill_id" val="3048"/> <!-- Special Ability: Conversion -->
+		<set name="item_skill_lvl" val="1"/>
+		<for>
+			<set val="111" order="0x08" stat="pAtk"/>
+			<set val="101" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<add val="0" order="0x10" stat="accCombat"/>
+			<set val="379" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- SA: Conversion -->
+			<!-- We have SA on SQL -->
+			<!-- <mul val="0.6" order="0x30" stat="maxHp"/> -->
+			<!-- <mul val="1.6" order="0x30" stat="maxMp"/> -->
+		</for>
+	</item>
+	<item id="6315" type="Weapon" name="Homunkulus's Sword - Magic Paralyze">
+		<!-- <Soul Crystal Enhancement>. Increases the chances of causing paralysis by 5% when using Dark Magic upon a target. Effect 1. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="950"/>
+		<set name="soulshots" val="3"/>
+		<set name="spiritshots" val="3"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="111"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="sword"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="379"/>
+		<set name="m_dam" val="101"/>
+		<set name="price" val="4300000"/>
+		<set name="crystal_count" val="1720"/>
+		<for>
+			<set val="111" order="0x08" stat="pAtk"/>
+			<set val="101" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<add val="0" order="0x10" stat="accCombat"/>
+			<set val="379" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- Magic Paralyze -->
+			<skill onCast="1" id="1170" lvl="1" chance="5"/>
+		</for>
+	</item>
+	<item id="6316" type="EtcItem" name="Food for Wyvern">
+		<!-- When the hunger gauge of a wyvern drops to 55% or below, its food will be consumed automatically. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="300"/>
+	</item>
+	<item id="6317" type="EtcItem" name="Mixing Manual">
+		<!-- A manual received from Magic Trader Wesley, with instructions for using the material mixing urn located in the basement of the Ivory Tower. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="20"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="dropable" val="false"/>
+	</item>
+	<item id="6318" type="EtcItem" name="Blood Fire">
+		<!-- Dark flames from Purgatory. The only way to melt true gold. -->
+		<set name="item_type" val="quest"/>
+		<set name="weight" val="50"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6319" type="EtcItem" name="Mimir's Elixir">
+		<!-- A legendary elixir said to bestow ultimate wisdom. Take it to Magister Ladd. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="6320" type="EtcItem" name="Pure Silver">
+		<!-- An essential ingredient of Mimir's Elixir. Take it to Magister Ladd. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6321" type="EtcItem" name="True Gold">
+		<!-- An essential ingredient of Mimir's Elixir. Take it to Magister Ladd. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="6322" type="EtcItem" name="Sage's Stone">
+		<!-- An essential ingredient of Mimir's Elixir. Take it to Magister Joan. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="6323" type="Armor" name="Sealed Phoenix Necklace">
+		<!-- The seal can be broken with the help of the Blacksmith of Mammon. When the seal is broken, the effects of M. Def+4 and MP+26 are given. -->
+		<set name="bodypart" val="neck"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="150"/>
+		<set name="crystal_type" val="a"/>
+		<set name="m_def" val="76"/>
+		<set name="price" val="1740000"/>
+		<set name="crystal_count" val="139"/>
+		<for>
+			<add val="76" order="0x10" stat="mDef"/>
+			<enchant val="0" order="0x0C" stat="mDef"/>
+		</for>
+	</item>
+	<item id="6324" type="Armor" name="Sealed Phoenix Earring">
+		<!-- The seal can be broken with the help of the Blacksmith of Mammon. When the seal is broken, the effects of M. Def.+3 and MP+20 are given. -->
+		<set name="bodypart" val="rear,lear"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="150"/>
+		<set name="crystal_type" val="a"/>
+		<set name="m_def" val="57"/>
+		<set name="price" val="1310000"/>
+		<set name="crystal_count" val="104"/>
+		<for>
+			<add val="57" order="0x10" stat="mDef"/>
+			<enchant val="0" order="0x0C" stat="mDef"/>
+		</for>
+	</item>
+	<item id="6325" type="Armor" name="Sealed Phoenix Ring">
+		<!-- The seal can be broken with the help of the Blacksmith of Mammon. When the seal is broken, the effects of M. Def.+2 and MP+13 are given. -->
+		<set name="bodypart" val="rfinger,lfinger"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="150"/>
+		<set name="crystal_type" val="a"/>
+		<set name="m_def" val="38"/>
+		<set name="price" val="871000"/>
+		<set name="crystal_count" val="69"/>
+		<for>
+			<add val="38" order="0x10" stat="mDef"/>
+			<enchant val="0" order="0x0C" stat="mDef"/>
+		</for>
+	</item>
+	<item id="6326" type="Armor" name="Sealed Majestic Necklace">
+		<!-- The seal can be broken with the help of the Blacksmith of Mammon. When the seal is broken, the effects of M. Def.+5 and MP+33 are given. -->
+		<set name="bodypart" val="neck"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="150"/>
+		<set name="crystal_type" val="a"/>
+		<set name="m_def" val="80"/>
+		<set name="price" val="2600000"/>
+		<set name="crystal_count" val="208"/>
+		<for>
+			<add val="80" order="0x10" stat="mDef"/>
+			<enchant val="0" order="0x0C" stat="mDef"/>
+		</for>
+	</item>
+	<item id="6327" type="Armor" name="Sealed Majestic Earring">
+		<!-- The seal can be broken with the help of the Blacksmith of Mammon. When the seal is broken, the effects of M. Def.+3 and MP+25 are given. -->
+		<set name="bodypart" val="rear,lear"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="150"/>
+		<set name="crystal_type" val="a"/>
+		<set name="m_def" val="60"/>
+		<set name="price" val="1950000"/>
+		<set name="crystal_count" val="156"/>
+		<for>
+			<add val="60" order="0x10" stat="mDef"/>
+			<enchant val="0" order="0x0C" stat="mDef"/>
+		</for>
+	</item>
+	<item id="6328" type="Armor" name="Sealed Majestic Ring">
+		<!-- The seal can be broken with the help of the Blacksmith of Mammon. When the seal is broken, the effects of M. Def.+2 and MP+17 are given. -->
+		<set name="bodypart" val="rfinger,lfinger"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="150"/>
+		<set name="crystal_type" val="a"/>
+		<set name="m_def" val="40"/>
+		<set name="price" val="1300000"/>
+		<set name="crystal_count" val="104"/>
+		<for>
+			<add val="40" order="0x10" stat="mDef"/>
+			<enchant val="0" order="0x0C" stat="mDef"/>
+		</for>
+	</item>
+	<item id="6329" type="EtcItem" name="Recipe: Sealed Phoenix Necklace(70%)">
+		<!-- For Dwarves only. The recipe for the Sealed Phoenix Necklace. Requires Create Item - Skill Level 7. The success rate is 70%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="34800"/>
+	</item>
+	<item id="6330" type="EtcItem" name="Recipe: Sealed Phoenix Necklace(100%)">
+		<!-- For Dwarves only. The recipe for the Sealed Phoenix Necklace. Requires Create Item - Skill Level 7. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="69600"/>
+	</item>
+	<item id="6331" type="EtcItem" name="Recipe: Sealed Phoenix Earring(70%)">
+		<!-- For Dwarves only. The recipe for the sealed Phoenix Earrings. Requires Create Item - Skill Level 7. The success rate is 70%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="26200"/>
+	</item>
+	<item id="6332" type="EtcItem" name="Recipe: Sealed Phoenix Earring(100%)">
+		<!-- For Dwarves only. The recipe for the sealed Phoenix Earrings. Requires Create Item - Skill Level 7. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="52400"/>
+	</item>
+	<item id="6333" type="EtcItem" name="Recipe: Sealed Phoenix Ring(70%)">
+		<!-- For Dwarves only. The recipe for the Sealed Phoenix Ring. Requires Create Item - Skill Level 7. The success rate is 70%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="17420"/>
+	</item>
+	<item id="6334" type="EtcItem" name="Recipe: Sealed Phoenix Ring(100%)">
+		<!-- For Dwarves only. The recipe for the Sealed Phoenix Ring. Requires Create Item - Skill Level 7. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="34840"/>
+	</item>
+	<item id="6335" type="EtcItem" name="Recipe: Sealed Majestic Necklace(70%)">
+		<!-- For Dwarves only. The recipe for the Sealed Majestic Necklace. Requires Create Item - Skill Level 8. The success rate is 70%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="52000"/>
+	</item>
+	<item id="6336" type="EtcItem" name="Recipe: Sealed Majestic Necklace(100%)">
+		<!-- For Dwarves only. The recipe for the Sealed Majestic Necklace. Requires Create Item - Skill Level 8. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="104000"/>
+	</item>
+	<item id="6337" type="EtcItem" name="Recipe: Sealed Majestic Earring(70%)">
+		<!-- For Dwarves only. The recipe for the Sealed Majestic Earrings. Requires Create Item - Skill Level 8. The success rate is 70%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="39000"/>
+	</item>
+	<item id="6338" type="EtcItem" name="Recipe: Sealed Majestic Earring(100%)">
+		<!-- For Dwarves only. The recipe for the Sealed Majestic Earrings. Requires Create Item - Skill Level 8. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="78000"/>
+	</item>
+	<item id="6339" type="EtcItem" name="Recipe: Sealed Majestic Ring(70%)">
+		<!-- For Dwarves only. The recipe for the Sealed Majestic Ring. Requires Create Item - Skill Level 8. The success rate is 70%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="26000"/>
+	</item>
+	<item id="6340" type="EtcItem" name="Recipe: Sealed Majestic Ring(100%)">
+		<!-- For Dwarves only. The recipe for the Sealed Majestic Ring. Requires Create Item - Skill Level 8. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="52000"/>
+	</item>
+	<item id="6341" type="EtcItem" name="Sealed Phoenix Earring Gemstone">
+		<!-- An essential ingredient needed by a Dwarf to make a Sealed Phoenix Earring. It can be sold at any store. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="7231"/>
+	</item>
+	<item id="6342" type="EtcItem" name="Sealed Majestic Earring Gemstone">
+		<!-- An essential ingredient needed by a Dwarf to make a Sealed Majestic Earring. It can be sold at any store. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="8829"/>
+	</item>
+	<item id="6343" type="EtcItem" name="Sealed Phoenix Necklace Beads">
+		<!-- An essential ingredient needed by a Dwarf to make a Sealed Phoenix Necklace. It can be sold at any store. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="9354"/>
+	</item>
+	<item id="6344" type="EtcItem" name="Sealed Majestic Necklace Beads">
+		<!-- An essential ingredient needed by a Dwarf to make a Sealed Majestic Necklace. It can be sold at any store. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="13643"/>
+	</item>
+	<item id="6345" type="EtcItem" name="Sealed Phoenix Ring Gemstone">
+		<!-- An essential ingredient needed by a Dwarf to make a Sealed Phoenix Ring. It can be sold at any store. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="5228"/>
+	</item>
+	<item id="6346" type="EtcItem" name="Sealed Majestic Ring Gemstone">
+		<!-- An essential ingredient needed by a Dwarf to make a Sealed Majestic Ring. It can be sold at any store. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="6143"/>
+	</item>
+	<item id="6347" type="Weapon" name="Berserker Blade - Focus">
+		<!-- <Soul Crystal Enhancement>. Increases Critical Attack by 73. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1380"/>
+		<set name="soulshots" val="3"/>
+		<set name="spiritshots" val="3"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="190"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="bigsword"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="83"/>
+		<set name="price" val="6130000"/>
+		<set name="crystal_count" val="2452"/>
+		<for>
+			<set val="190" order="0x08" stat="pAtk"/>
+			<set val="83" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<add val="0" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- SA: Focus -->
+			<add val="73" order="0x40" stat="rCrit"/>
+		</for>
+	</item>
+	<item id="6348" type="Weapon" name="Berserker Blade - Critical Damage">
+		<!-- <Soul Crystal Enhancement>. Increases P. Atk. by 270 during a critical attack. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1380"/>
+		<set name="soulshots" val="3"/>
+		<set name="spiritshots" val="3"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="190"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="bigsword"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="83"/>
+		<set name="price" val="6130000"/>
+		<set name="crystal_count" val="2452"/>
+		<for>
+			<set val="190" order="0x08" stat="pAtk"/>
+			<set val="83" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<add val="0" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- SA: Critical Damage -->
+			<add val="270" order="0x40" stat="cAtk"/>
+		</for>
+	</item>
+	<item id="6349" type="Weapon" name="Berserker Blade - Haste">
+		<!-- <Soul Crystal Enhancement>. Increases Atk. Spd. by about 7%. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1380"/>
+		<set name="soulshots" val="3"/>
+		<set name="spiritshots" val="3"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="190"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="bigsword"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="83"/>
+		<set name="price" val="6130000"/>
+		<set name="crystal_count" val="2452"/>
+		<for>
+			<set val="190" order="0x08" stat="pAtk"/>
+			<set val="83" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<add val="0" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- SA: Haste -->
+			<mul val="1.07" order="0x30" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="6350" type="EtcItem" name="Amulet: Pa'agrio's Honor">
+		<!-- Amulet required for the Pa'agrio's Honor spell. Used by Overlords. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="8700"/>
+	</item>
+	<item id="6351" type="EtcItem" name="Amulet: Ritual of Life">
+		<!-- Amulet required for the Ritual of Life spell. Used by Overlords. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="8200"/>
+	</item>
+	<item id="6352" type="EtcItem" name="Spellbook: Prayer">
+		<!-- Spellbook needed to learn Prayer. Used by Bishops. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="8700"/>
+	</item>
+	<item id="6353" type="EtcItem" name="Blue Gemstone">
+		<!-- A gemstone obtained from gremlins. Take it to a newbie helper. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6354" type="Weapon" name="Falchion - for Beginners">
+		<set name="bodypart" val="rhand"/>
+		<set name="weight" val="1530"/>
+		<set name="soulshots" val="2"/>
+		<set name="spiritshots" val="2"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_dam" val="31"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="sword"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="379"/>
+		<set name="m_dam" val="21"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="destroyable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<set val="31" order="0x08" stat="pAtk"/>
+			<set val="21" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<add val="0" order="0x10" stat="accCombat"/>
+			<set val="379" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="6355" type="Weapon" name="Mage Staff - for Beginners">
+		<set name="bodypart" val="lrhand"/>
+		<set name="weight" val="1050"/>
+		<set name="soulshots" val="2"/>
+		<set name="spiritshots" val="2"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_dam" val="30"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="bigblunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="28"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="destroyable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<set val="30" order="0x08" stat="pAtk"/>
+			<set val="28" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="6356" type="Weapon" name="Dark Elven Dagger - Rsk. Haste">
+		<!-- <Soul Crystal Enhancement>. Increases Atk. Spd. by 13% when HP falls below 60%. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1050"/>
+		<set name="soulshots" val="2"/>
+		<set name="spiritshots" val="2"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="94"/>
+		<set name="rnd_dam" val="5"/>
+		<set name="weapon_type" val="dagger"/>
+		<set name="critical" val="12"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="433"/>
+		<set name="m_dam" val="61"/>
+		<set name="price" val="2290000"/>
+		<set name="crystal_count" val="916"/>
+		<for>
+			<set val="94" order="0x08" stat="pAtk"/>
+			<set val="61" order="0x08" stat="mAtk"/>
+			<set val="12" order="0x08" stat="rCrit"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="433" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- SA: Rsk. Haste -->
+			<mul order="0x30" stat="pAtkSpd" val="1.13">
+				<and>
+					<player hp="60"/>
+				</and>
+			</mul>
+		</for>
+	</item>
+	<item id="6357" type="Weapon" name="Stiletto - Rsk. Haste">
+		<!-- <Soul Crystal Enhancement>. Increases Atk. Spd. by 12% when HP falls below 60%. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1030"/>
+		<set name="soulshots" val="2"/>
+		<set name="spiritshots" val="2"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="107"/>
+		<set name="rnd_dam" val="5"/>
+		<set name="weapon_type" val="dagger"/>
+		<set name="critical" val="12"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="433"/>
+		<set name="m_dam" val="68"/>
+		<set name="price" val="2870000"/>
+		<set name="crystal_count" val="1148"/>
+		<for>
+			<set val="107" order="0x08" stat="pAtk"/>
+			<set val="68" order="0x08" stat="mAtk"/>
+			<set val="12" order="0x08" stat="rCrit"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="433" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- SA: Rsk. Haste -->
+			<mul order="0x30" stat="pAtkSpd" val="1.12">
+				<and>
+					<player hp="60"/>
+				</and>
+			</mul>
+		</for>
+	</item>
+	<item id="6358" type="Weapon" name="Crystal Dagger - Critical Damage">
+		<!-- <Soul Crystal Enhancement>. Increases P. Atk. to 140 during a critical attack. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1000"/>
+		<set name="soulshots" val="3"/>
+		<set name="spiritshots" val="3"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="136"/>
+		<set name="rnd_dam" val="5"/>
+		<set name="weapon_type" val="dagger"/>
+		<set name="critical" val="12"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="433"/>
+		<set name="m_dam" val="83"/>
+		<set name="price" val="6130000"/>
+		<set name="crystal_count" val="2452"/>
+		<for>
+			<set val="136" order="0x08" stat="pAtk"/>
+			<set val="83" order="0x08" stat="mAtk"/>
+			<set val="12" order="0x08" stat="rCrit"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="433" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- SA: Critical Damage -->
+			<add val="140" order="0x40" stat="cAtk"/>
+		</for>
+	</item>
+	<item id="6359" type="Weapon" name="Demon Dagger - Critical Damage">
+		<!-- <Soul Crystal Enhancement>. Increases P. Atk. to 160 during a critical attack. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="970"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="b"/>
+		<set name="p_dam" val="170"/>
+		<set name="rnd_dam" val="5"/>
+		<set name="weapon_type" val="dagger"/>
+		<set name="critical" val="12"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="433"/>
+		<set name="m_dam" val="99"/>
+		<set name="price" val="13100000"/>
+		<set name="crystal_count" val="1746"/>
+		<for>
+			<set val="170" order="0x08" stat="pAtk"/>
+			<set val="99" order="0x08" stat="mAtk"/>
+			<set val="12" order="0x08" stat="rCrit"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="433" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- SA: Critical Damage -->
+			<add val="160" order="0x40" stat="cAtk"/>
+		</for>
+	</item>
+	<item id="6360" type="EtcItem" name="Blue Seal Stone">
+		<!-- A fragment of an ancient seal. Collect them all. Valued at 3 Ancient Adena. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="asset"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3"/>
+	</item>
+	<item id="6361" type="EtcItem" name="Green Seal Stone">
+		<!-- A fragment of an ancient seal. Collect them all to break the seal. Valued at 5 Ancient Adena. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="asset"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="5"/>
+	</item>
+	<item id="6362" type="EtcItem" name="Red Seal Stone">
+		<!-- A fragment of an ancient seal. Collect them all to break the seal. Valued at 10 Ancient Adena. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="asset"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="10"/>
+	</item>
+	<item id="6363" type="EtcItem" name="Stolen Infernium Ore">
+		<!-- Infernium ore once owned by the Iron Gate Guild. Take it to Warehouse Keeper Romp of Aden Castle Town to play bingo. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="100"/>
+	</item>
+	<item id="6364" type="Weapon" name="Forgotten Blade">
+		<!-- Bestows one of the following functions: Haste, Health or Focus. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1300"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="s"/>
+		<set name="p_dam" val="281"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="sword"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="379"/>
+		<set name="m_dam" val="132"/>
+		<set name="price" val="48800000"/>
+		<set name="crystal_count" val="2440"/>
+		<for>
+			<set val="281" order="0x08" stat="pAtk"/>
+			<set val="132" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<add val="0" order="0x10" stat="accCombat"/>
+			<set val="379" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="6365" type="Weapon" name="Basalt Battlehammer">
+		<!-- Bestows one of the following functions: HP Drain, Health or HP Regeneration. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1570"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="s"/>
+		<set name="p_dam" val="281"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="blunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="379"/>
+		<set name="m_dam" val="132"/>
+		<set name="price" val="48800000"/>
+		<set name="crystal_count" val="2440"/>
+		<for>
+			<set val="281" order="0x08" stat="pAtk"/>
+			<set val="132" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="379" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="6366" type="Weapon" name="Imperial Staff">
+		<!-- Bestows one of the following functions: Empower, MP Regeneration or Magic Hold. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="910"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="s"/>
+		<set name="p_dam" val="274"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="bigblunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="175"/>
+		<set name="price" val="48800000"/>
+		<set name="crystal_count" val="2440"/>
+		<for>
+			<set val="274" order="0x08" stat="pAtk"/>
+			<set val="175" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="6367" type="Weapon" name="Angel Slayer">
+		<!-- Bestows one of the following functions: Crt. Damage, HP Drain or Haste. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="950"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="s"/>
+		<set name="p_dam" val="246"/>
+		<set name="rnd_dam" val="5"/>
+		<set name="weapon_type" val="dagger"/>
+		<set name="critical" val="12"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="433"/>
+		<set name="m_dam" val="132"/>
+		<set name="price" val="48800000"/>
+		<set name="crystal_count" val="2440"/>
+		<for>
+			<set val="246" order="0x08" stat="pAtk"/>
+			<set val="132" order="0x08" stat="mAtk"/>
+			<set val="12" order="0x08" stat="rCrit"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="433" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="6368" type="Weapon" name="Shining Bow">
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1650"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="s"/>
+		<set name="p_dam" val="581"/>
+		<set name="rnd_dam" val="5"/>
+		<set name="weapon_type" val="bow"/>
+		<set name="critical" val="12"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="293"/>
+		<set name="mp_consume" val="11"/>
+		<set name="m_dam" val="132"/>
+		<set name="price" val="48800000"/>
+		<set name="crystal_count" val="2440"/>
+		<for>
+			<set val="581" order="0x08" stat="pAtk"/>
+			<set val="132" order="0x08" stat="mAtk"/>
+			<set val="12" order="0x08" stat="rCrit"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="293" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="6369" type="Weapon" name="Dragon Hunter Axe">
+		<!-- Bestows one of the following functions: HP Regeneration, Health or HP Drain. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1820"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="s"/>
+		<set name="p_dam" val="342"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="bigblunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="132"/>
+		<set name="price" val="48800000"/>
+		<set name="crystal_count" val="2440"/>
+		<for>
+			<set val="342" order="0x08" stat="pAtk"/>
+			<set val="132" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="6370" type="Weapon" name="Saint Spear">
+		<!-- Bestows one of the following functions: Health, Guidance or Haste. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1800"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="s"/>
+		<set name="p_dam" val="281"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="pole"/>
+		<set name="critical" val="8"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="132"/>
+		<set name="price" val="48800000"/>
+		<set name="crystal_count" val="2440"/>
+		<for>
+			<set val="281" order="0x08" stat="pAtk"/>
+			<set val="132" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<set val="66" order="0x08" stat="pAtkRange"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="6371" type="Weapon" name="Demon Splinter">
+		<!-- Bestows one of the following functions: Focus, Health or Crt. Stun. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1350"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="s"/>
+		<set name="p_dam" val="342"/>
+		<set name="rnd_dam" val="5"/>
+		<set name="weapon_type" val="dualfist"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="132"/>
+		<set name="price" val="48800000"/>
+		<set name="crystal_count" val="2440"/>
+		<for>
+			<set val="342" order="0x08" stat="pAtk"/>
+			<set val="132" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="6372" type="Weapon" name="Heaven's Divider">
+		<!-- Bestows one of the following functions: Haste, Health or Focus. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1380"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="s"/>
+		<set name="p_dam" val="342"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="bigsword"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="132"/>
+		<set name="price" val="48800000"/>
+		<set name="crystal_count" val="2440"/>
+		<for>
+			<set val="342" order="0x08" stat="pAtk"/>
+			<set val="132" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<add val="0" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="6373" type="Armor" name="Imperial Crusader Breastplate">
+		<set name="bodypart" val="chest"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="heavy"/>
+		<set name="weight" val="7620"/>
+		<set name="crystal_type" val="s"/>
+		<set name="p_def" val="205"/>
+		<set name="price" val="14300000"/>
+		<set name="crystal_count" val="715"/>
+		<for>
+			<add val="205" order="0x10" stat="pDef"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="6374" type="Armor" name="Imperial Crusader Gaiters">
+		<set name="bodypart" val="legs"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="heavy"/>
+		<set name="weight" val="3260"/>
+		<set name="crystal_type" val="s"/>
+		<set name="p_def" val="128"/>
+		<set name="price" val="8960000"/>
+		<set name="crystal_count" val="448"/>
+		<for>
+			<add val="128" order="0x10" stat="pDef"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="6375" type="Armor" name="Imperial Crusader Gauntlets">
+		<set name="bodypart" val="gloves"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="540"/>
+		<set name="crystal_type" val="s"/>
+		<set name="p_def" val="55"/>
+		<set name="price" val="3580000"/>
+		<set name="crystal_count" val="179"/>
+		<for>
+			<add val="55" order="0x10" stat="pDef"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="6376" type="Armor" name="Imperial Crusader Boots">
+		<set name="bodypart" val="feet"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="1110"/>
+		<set name="crystal_type" val="s"/>
+		<set name="p_def" val="55"/>
+		<set name="price" val="3580000"/>
+		<set name="crystal_count" val="179"/>
+		<for>
+			<add val="55" order="0x10" stat="pDef"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="6377" type="Weapon" name="Imperial Crusader Shield">
+		<set name="bodypart" val="lhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1170"/>
+		<set name="crystal_type" val="s"/>
+		<set name="weapon_type" val="none"/>
+		<set name="avoid_modify" val="-8"/>
+		<set name="shield_def" val="290"/>
+		<set name="shield_def_rate" val="20"/>
+		<set name="price" val="3760000"/>
+		<set name="crystal_count" val="188"/>
+		<for>
+			<sub val="8" order="0x10" stat="rEvas"/>
+			<set val="290" order="0x08" stat="sDef"/>
+			<set val="20" order="0x08" stat="rShld"/>
+			<enchant val="0" order="0x0C" stat="sDef"/>
+		</for>
+	</item>
+	<item id="6378" type="Armor" name="Imperial Crusader Helmet">
+		<set name="bodypart" val="head"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="550"/>
+		<set name="crystal_type" val="s"/>
+		<set name="p_def" val="83"/>
+		<set name="price" val="5370000"/>
+		<set name="crystal_count" val="268"/>
+		<for>
+			<add val="83" order="0x10" stat="pDef"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="6379" type="Armor" name="Draconic Leather Armor">
+		<!-- Full body armor. -->
+		<set name="bodypart" val="fullarmor"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="light"/>
+		<set name="weight" val="4950"/>
+		<set name="crystal_type" val="s"/>
+		<set name="p_def" val="249"/>
+		<set name="price" val="17400000"/>
+		<set name="crystal_count" val="870"/>
+		<for>
+			<add val="249" order="0x10" stat="pDef"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="6380" type="Armor" name="Draconic Leather Gloves">
+		<set name="bodypart" val="gloves"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="540"/>
+		<set name="crystal_type" val="s"/>
+		<set name="p_def" val="55"/>
+		<set name="price" val="3580000"/>
+		<set name="crystal_count" val="179"/>
+		<for>
+			<add val="55" order="0x10" stat="pDef"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="6381" type="Armor" name="Draconic Leather Boots">
+		<set name="bodypart" val="feet"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="1110"/>
+		<set name="crystal_type" val="s"/>
+		<set name="p_def" val="55"/>
+		<set name="price" val="3580000"/>
+		<set name="crystal_count" val="179"/>
+		<for>
+			<add val="55" order="0x10" stat="pDef"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="6382" type="Armor" name="Draconic Leather Helmet">
+		<set name="bodypart" val="head"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="550"/>
+		<set name="crystal_type" val="s"/>
+		<set name="p_def" val="83"/>
+		<set name="price" val="5370000"/>
+		<set name="crystal_count" val="268"/>
+		<for>
+			<add val="83" order="0x10" stat="pDef"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="6383" type="Armor" name="Major Arcana Robe">
+		<!-- Full body armor. -->
+		<set name="bodypart" val="fullarmor"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="magic"/>
+		<set name="weight" val="2300"/>
+		<set name="crystal_type" val="s"/>
+		<set name="p_def" val="166"/>
+		<set name="mp_bonus" val="866"/>
+		<set name="price" val="17400000"/>
+		<set name="crystal_count" val="870"/>
+		<for>
+			<add val="166" order="0x10" stat="pDef"/>
+			<add val="866" order="0x60" stat="maxMp"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="6384" type="Armor" name="Major Arcana Gloves">
+		<set name="bodypart" val="gloves"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="540"/>
+		<set name="crystal_type" val="s"/>
+		<set name="p_def" val="55"/>
+		<set name="price" val="3580000"/>
+		<set name="crystal_count" val="179"/>
+		<for>
+			<add val="55" order="0x10" stat="pDef"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="6385" type="Armor" name="Major Arcana Boots">
+		<set name="bodypart" val="feet"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="1110"/>
+		<set name="crystal_type" val="s"/>
+		<set name="p_def" val="55"/>
+		<set name="price" val="3580000"/>
+		<set name="crystal_count" val="179"/>
+		<for>
+			<add val="55" order="0x10" stat="pDef"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="6386" type="Armor" name="Major Arcana Circlet">
+		<set name="bodypart" val="head"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="550"/>
+		<set name="crystal_type" val="s"/>
+		<set name="p_def" val="83"/>
+		<set name="price" val="5370000"/>
+		<set name="crystal_count" val="268"/>
+		<for>
+			<add val="83" order="0x10" stat="pDef"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="6387" type="EtcItem" name="Blessed Scroll of Resurrection for Pets">
+		<!-- A magic scroll that resurrects a dead pet and restores its Exp. completely. -->
+		<set name="item_type" val="scroll"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="6000"/>
+	</item>
+	<item id="6388" type="EtcItem" name="Lord of the Manor's Certificate of Approval">
+		<!-- This certificate allows the bearer to join the Lords of Dawn without belonging to a castle-owning clan. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6389" type="EtcItem" name="Squash Seed">
+		<!-- Fall Harvest Event - Double click it and a young squash will appear. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="dropable" val="false"/>
+	</item>
+	<item id="6390" type="EtcItem" name="Large Squash Seed">
+		<!-- Fall Harvest Event - Double click it and a large young squash will appear. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="dropable" val="false"/>
+	</item>
+	<item id="6391" type="EtcItem" name="Pollen">
+		<!-- Fall Harvest Event - Buzz the Cat will give you a squash seed for it, or it may be used to grow a squash. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6392" type="EtcItem" name="Event - Medal">
+		<!-- L2 Medal Collection Event - If you take it to an Event Manager, he will trade it for a prize item of your choice. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6393" type="EtcItem" name="Event - Glittering Medal">
+		<!-- L2 Medal Collection Event - It is used to raise the grade of a collector during the event. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6394" type="Armor" name="Red Party Mask">
+		<!-- A fashion accessory item that allows you to show a unique appearance. -->
+		<set name="bodypart" val="face"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="10"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="500000"/>
+		<for>
+			<add val="0" order="0x10" stat="pDef"/>
+		</for>
+	</item>
+	<item id="6395" type="EtcItem" name="Amulet: Chant of Predator">
+		<!-- Amulet required for the Chant of Predator spell. Used by Warcryers. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="4600"/>
+	</item>
+	<item id="6396" type="EtcItem" name="Amulet: Chant of Eagle">
+		<!-- Amulet required for the Chant of Eagle spell. Used by Warcryers. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="4600"/>
+	</item>
+	<item id="6397" type="EtcItem" name="Amulet: Chant of Vampire">
+		<!-- Amulet required for the Chant of Vampire spell. Used by Warcryers. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3850"/>
+	</item>
+	<item id="6398" type="EtcItem" name="Spellbook: Body of Avatar">
+		<!-- Spellbook needed to learn Body of Avatar. Used by Bishops. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="4600"/>
+	</item>
+	<item id="6399" type="EtcItem" name="Badge of Rabbit">
+		<!-- The badge that indicates that its bearer's event collector grade is "rabbit." Without this badge, one cannot prove one's grade. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+</list>

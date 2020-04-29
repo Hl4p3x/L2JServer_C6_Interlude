@@ -1,0 +1,54 @@
+<html><title>Admin Panel - Game Menu</title><body>
+<center><table width=260><tr>
+<td><button value="Main" action="bypass -h admin_admin" width=65 height=19 back="L2UI_ch3.smallbutton2_over" fore="L2UI_ch3.smallbutton2"></td>
+<td><button value="Game" action="bypass -h admin_admin2" width=65 height=19 back="L2UI_ch3.smallbutton2_over" fore="L2UI_ch3.smallbutton2"></td>
+<td><button value="Effects" action="bypass -h admin_admin3" width=65 height=19 back="L2UI_ch3.smallbutton2_over" fore="L2UI_ch3.smallbutton2"></td>
+<td><button value="Server" action="bypass -h admin_admin4" width=65 height=19 back="L2UI_ch3.smallbutton2_over" fore="L2UI_ch3.smallbutton2"></td>
+</tr></table><br>
+<table width=240><tr>
+<td>QuickBox:</td>
+<td><edit var="menu_command" width=120 height=15></td>
+<td><button value="Help" action="bypass -h admin_help help/game_menu.htm" width=45 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+</tr></table><br><font color="aadd77">Character related</font>
+<table width=240><tr>
+<td><button value="Manage" action="bypass -h admin_char_manage" width=55 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+<td><button value="List" action="bypass -h admin_show_characters 0" width=55 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+<td><button value="Set Name" action="bypass -h admin_setname $menu_command" width=55 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+<td><button value="Set Title" action="bypass -h admin_settitle $menu_command" width=55 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+</tr></table><br>
+<font color="aadd77">Clan related</font>
+<table width=240><tr>
+<td><button value="Create" action="bypass -h admin_pledge create $menu_command" width=55 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+<td><button value="Delete" action="bypass -h admin_pledge dismiss $menu_command" width=55 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+<td><button value="Set Level" action="bypass -h admin_pledge setlevel $menu_command" width=55 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+<td><button value="Reputation" action="bypass -h admin_pledge rep $menu_command" width=55 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+</tr><tr>
+<td><button value="Castles/CH" action="bypass -h admin_siege" width=55 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+<td><button value="Info" action="bypass -h admin_pledge info" width=55 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+<td><button value="Fortress" action="bypass -h admin_fortsiege" width=55 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+</tr> <br> </table>
+<font color="aadd77">Cursed Weapons</font>
+<table width=240><tr>
+<td><button value="Info" action="bypass -h admin_cw_info_menu $menu_command" width=73 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+<td><button value="Add" action="bypass -h admin_cw_add $menu_command" width=73 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+<td><button value="Remove" action="bypass -h admin_cw_remove $menu_command" width=73 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+<td></td>
+</tr></table><br>
+<font color="aadd77">Seven Signs</font>
+<table width=240><tr>
+<td><button value="Blacksmith" action="bypass -h admin_mammon_find 1" width=73 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+<td><button value="Merchant" action="bypass -h admin_mammon_find 2" width=73 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+<td><button value="Respawn" action="bypass -h admin_mammon_respawn" width=73 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+<td></td>
+</tr></table><br>
+<font color="aadd77">Olympiad</font>
+<table width=240><tr>
+<td><center><button value="Save Olympiad" action="bypass -h admin_saveolymp" width=80 height=15 back="sek.cbui94" fore="sek.cbui92"></center></td>
+<td><center><button value="Manual Hero" action="bypass -h admin_manualhero" width=80 height=15 back="sek.cbui94" fore="sek.cbui92"></center></td>
+</tr></table>
+<font color="aadd77">Others</font>
+<table width=240><tr>
+<td><center><button value="Mods Menu" action="bypass -h admin_help mods_menu.htm" width=80 height=15 back="sek.cbui94" fore="sek.cbui92"></center></td>
+</tr></table>
+</center>
+</body></html>

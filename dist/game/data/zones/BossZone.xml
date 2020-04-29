@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/zones.xsd">
+	<!-- Boss zone Four Sepulchers -->
+	<zone id="12002" type="BossZone" shape="Cuboid" minZ="-7350" maxZ="-6841" bossId="-1">
+		<stat name="name" val="Four Sepulcher" />
+		<stat name="Flying" val="false" />
+		<stat name="InvadeTime" val="300000" />
+		<node X="181241" Y="-86443" />
+		<node X="192134" Y="-84575" />
+	</zone>
+	<!-- Boss zone Four Sepulchers -->
+	<zone id="12003" type="BossZone" shape="Cuboid" minZ="-7350" maxZ="-6841" bossId="-1">
+		<stat name="name" val="Four Sepulcher" />
+		<stat name="Flying" val="false" />
+		<stat name="InvadeTime" val="300000" />
+		<node X="179551" Y="-89844" />
+		<node X="190342" Y="-88042" />
+	</zone>
+	<!-- Boss zone Four Sepulchers -->
+	<zone id="12004" type="BossZone" shape="Cuboid" minZ="-7350" maxZ="-6841" bossId="-1">
+		<stat name="name" val="Four Sepulcher" />
+		<stat name="Flying" val="false" />
+		<stat name="InvadeTime" val="300000" />
+		<node X="172354" Y="-86630" />
+		<node X="174073" Y="-75565" />
+	</zone>
+	<!-- Boss zone Four Sepulchers -->
+	<zone id="12005" type="BossZone" shape="Cuboid" minZ="-7350" maxZ="-6841" bossId="-1">
+		<stat name="name" val="Four Sepulcher" />
+		<stat name="Flying" val="false" />
+		<stat name="InvadeTime" val="300000" />
+		<node X="174697" Y="-82707" />
+		<node X="176500" Y="-71885" />
+	</zone>
+	<!-- Boss zone Lair of Antharas -->
+	<zone id="12006" type="BossZone" shape="Cuboid" minZ="-8220" maxZ="-4870" bossId="29019">
+		<stat name="name" val="Lair of Antharas" />
+		<stat name="Flying" val="false" />
+		<stat name="InvadeTime" val="600000" />
+		<node X="173439" Y="110176" />
+		<node X="187346" Y="119469" />
+	</zone>
+	<!-- Boss zone Lair of Baium -->
+	<zone id="12007" type="BossZone" shape="NPoly" minZ="9967" maxZ="16301" bossId="29020">
+		<stat name="name" val="Lair of Baium" />
+		<stat name="Flying" val="false" />
+		<stat name="InvadeTime" val="600000" />
+		<node X="112987" Y="14312" />
+		<node X="112507" Y="14623" />
+		<node X="112129" Y="15551" />
+		<node X="111890" Y="16230" />
+		<node X="112067" Y="16965" />
+		<node X="112496" Y="17482" />
+		<node X="112863" Y="18120" />
+		<node X="113453" Y="18561" />
+		<node X="114135" Y="18590" />
+		<node X="114815" Y="18811" />
+		<node X="115549" Y="18648" />
+		<node X="116074" Y="18205" />
+		<node X="116776" Y="17506" />
+		<node X="117255" Y="17013" />
+		<node X="117371" Y="16298" />
+		<node X="117405" Y="15925" />
+		<node X="117236" Y="15199" />
+		<node X="117158" Y="14895" />
+		<node X="116784" Y="14260" />
+		<node X="116096" Y="13902" />
+		<node X="115159" Y="13507" />
+		<node X="114135" Y="13518" />
+		<node X="113203" Y="13898" />
+	</zone>
+	<!-- Boss zone Lair of Valakas -->
+	<zone id="12008" type="BossZone" shape="Cuboid" minZ="-1735" maxZ="16301" bossId="29028">
+		<stat name="name" val="Lair of Valakas" />
+		<stat name="Flying" val="false" />
+		<stat name="InvadeTime" val="1800000" />
+		<node X="199755" Y="-124724" />
+		<node X="224677" Y="-103211" />
+	</zone>
+	<!-- Boss zone Lair of Lilith -->
+	<zone id="12009" type="BossZone" shape="Cuboid" minZ="-5600" maxZ="-3895" bossId="25283">
+		<stat name="name" val="Lair of Lilith" />
+		<stat name="Flying" val="false" />
+		<stat name="InvadeTime" val="1800000" />
+		<node X="183986" Y="-13716" />
+		<node X="186097" Y="-11532" />
+	</zone>
+	<!-- Boss zone Lair of Anakim -->
+	<zone id="12010" type="BossZone" shape="Cuboid" minZ="-5600" maxZ="-3895" bossId="25286">
+		<stat name="name" val="Lair of Anakim" />
+		<stat name="Flying" val="false" />
+		<stat name="InvadeTime" val="1800000" />
+		<node X="184008" Y="-10681" />
+		<node X="186107" Y="-8589" />
+	</zone>
+	<!-- Boss zone Lair of Zaken -->
+	<zone id="12011" type="BossZone" shape="Cuboid" minZ="-3775" maxZ="-2690" bossId="29022">
+		<stat name="name" val="Lair of Zaken" />
+		<stat name="Flying" val="false" />
+		<stat name="EnabledByDefault" val="false" />
+		<stat name="InvadeTime" val="1800000" />
+		<node X="53182" Y="216945" />
+		<node X="57311" Y="221151" />
+	</zone>
+	<!-- Boss zone SunlightRoom -->
+	<zone id="12012" type="BossZone" shape="Cuboid" minZ="-2900" maxZ="-2690" bossId="-1">
+		<stat name="name" val="Sunlight Room" />
+		<stat name="Flying" val="false" />
+		<stat name="InvadeTime" val="0" />
+		<node X="55794" Y="219633" />
+		<node X="56789" Y="220629" />
+	</zone>
+	<!-- Boss zone Lair of Sailren -->
+	<zone id="12013" type="BossZone" shape="Cuboid" minZ="-2075" maxZ="-1944" bossId="29065">
+		<stat name="name" val="Lair of Sailren" />
+		<stat name="Flying" val="false" />
+		<stat name="InvadeTime" val="0" />
+		<node X="26095" Y="-8084" />
+		<node X="28987" Y="-5295" />
+	</zone>
+	<!-- Boss zone AltarofSacrifice -->
+	<zone id="12014" type="BossZone" shape="Cuboid" minZ="-10730" maxZ="-10290" bossId="-1">
+		<stat name="name" val="Altar of Sacrifice" />
+		<stat name="Flying" val="false" />
+		<stat name="InvadeTime" val="0" />
+		<node X="-18176" Y="-54972" />
+		<node X="-14614" Y="-51620" />
+	</zone>
+	<!-- Boss zone Lair of Ice Fairy Sirra -->
+	<zone id="12015" type="BossZone" shape="NPoly" minZ="-30000" maxZ="30000" bossId="29056">
+		<stat name="name" val="Ice Queen Castle" />
+		<stat name="Flying" val="false" />
+		<stat name="InvadeTime" val="0" />
+		<node X="114473" Y="-125909" />
+		<node X="112930" Y="-128454" />
+		<node X="112531" Y="-128878" />
+		<node X="111686" Y="-129216" />
+		<node X="111139" Y="-129870" />
+		<node X="109445" Y="-130222" />
+		<node X="108833" Y="-130162" />
+		<node X="107534" Y="-129789" />
+		<node X="106529" Y="-130047" />
+		<node X="104340" Y="-129183" />
+		<node X="103691" Y="-128671" />
+		<node X="102912" Y="-128649" />
+		<node X="101967" Y="-128170" />
+		<node X="100645" Y="-126865" />
+		<node X="100164" Y="-125878" />
+		<node X="100430" Y="-125058" />
+		<node X="100997" Y="-124231" />
+		<node X="101570" Y="-123264" />
+		<node X="102569" Y="-122852" />
+		<node X="103934" Y="-123152" />
+		<node X="104984" Y="-123806" />
+		<node X="107116" Y="-124592" />
+		<node X="107995" Y="-124541" />
+		<node X="108432" Y="-124602" />
+		<node X="109241" Y="-124654" />
+		<node X="110081" Y="-124903" />
+		<node X="110600" Y="-125052" />
+		<node X="112720" Y="-125225" />
+	</zone>
+	<!-- Boss zone Frintezza -->
+	<zone id="12016" type="BossZone" shape="Cuboid" minZ="-6130" maxZ="-3000" bossId="29047">
+		<stat name="name" val="Last Imperial Tomb" />
+		<stat name="Flying" val="false" />
+		<stat name="InvadeTime" val="1800000" />
+		<node X="172176" Y="-74106" />
+		<node X="175984" Y="-90033" />
+	</zone>
+	<!-- Boss zone Lair of Orfen -->
+	<zone id="12018" type="BossZone" shape="NPoly" minZ="-5796" maxZ="-3796" bossId="29014">
+		<stat name="name" val="Lair of Orfen" />
+		<stat name="EnabledByDefault" val="false" />
+		<stat name="InvadeTime" val="0" />
+		<node X="43976" Y="24664" />
+		<node X="43284" Y="18952" />
+		<node X="42476" Y="18164" />
+		<node X="42480" Y="16448" />
+		<node X="43084" Y="15944" />
+		<node X="45140" Y="15816" />
+		<node X="48800" Y="15112" />
+		<node X="56556" Y="12040" />
+		<node X="59068" Y="14288" />
+		<node X="61064" Y="18492" />
+		<node X="60380" Y="23672" />
+		<node X="58724" Y="27412" />
+		<node X="55696" Y="28496" />
+		<node X="43976" Y="24664" />
+	</zone>
+	<!-- Boss zone Lair of Ant Queen -->
+	<zone id="12019" type="BossZone" shape="NPoly" minZ="-5947" maxZ="-5547" bossId="29001">
+		<stat name="name" val="Lair of Ant Queen" />
+		<stat name="EnabledByDefault" val="false" />
+		<stat name="InvadeTime" val="0" />
+		<node X="-21490" Y="178613" />
+		<node X="-22258" Y="178961" />
+		<node X="-22890" Y="182205" />
+		<node X="-22770" Y="183129" />
+		<node X="-21594" Y="183945" />
+		<node X="-20570" Y="183381" />
+		<node X="-20310" Y="182673" />
+		<node X="-20762" Y="179129" />
+	</zone>
+</list>

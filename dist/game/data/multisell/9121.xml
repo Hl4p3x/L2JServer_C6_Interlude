@@ -1,0 +1,180 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- C-Grade Weapons -->
+
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/multisell.xsd">
+
+	<!-- Homunkulus's Sword [Acumen] -->
+	<item id="1">
+		<ingredient id="57" count="6000000"/>
+		<production id="6313" count="1"/>
+	</item>
+
+	<!-- Homunkulus's Sword [Conversion] -->
+	<item id="2">
+		<ingredient id="57" count="6000000"/>
+		<production id="6314" count="1"/>
+	</item>
+
+	<!-- Homunkulus's Sowrd [Magic Paralyze] -->
+	<item id="3">
+		<ingredient id="57" count="6000000"/>
+		<production id="6315" count="1"/>
+	</item>
+
+	<!-- Eminence Bow [Guidance] -->
+	<item id="4">
+		<ingredient id="57" count="6000000"/>
+		<production id="4822" count="1"/>
+	</item>
+
+	<!-- Eminence Bow [Miser] -->
+	<item id="5">
+		<ingredient id="57" count="6000000"/>
+		<production id="4823" count="1"/>
+	</item>
+
+	<!-- Eminence Bow [Cheap Shot] -->
+	<item id="6">
+		<ingredient id="57" count="6000000"/>
+		<production id="4824" count="1"/>
+	</item>
+
+	<!-- Crystal Dagger [Critical Damage] -->
+	<item id="7">
+		<ingredient id="57" count="6000000"/>
+		<production id="6358" count="1"/>
+	</item>
+
+	<!-- Crystal Dagger [Critical Bleed] -->
+	<item id="8">
+		<ingredient id="57" count="6000000"/>
+		<production id="4774" count="1"/>
+	</item>
+
+	<!-- Crystal Dagger [Critical Poison] -->
+	<item id="9">
+		<ingredient id="57" count="6000000"/>
+		<production id="4775" count="1"/>
+	</item>
+
+	<!-- Crystal Dagger [Mortal Strike] -->
+	<item id="10">
+		<ingredient id="57" count="6000000"/>
+		<production id="4776" count="1"/>
+	</item>
+
+	<!-- Great Pata [Critical Drain] -->
+	<item id="11">
+		<ingredient id="57" count="6000000"/>
+		<production id="4795" count="1"/>
+	</item>
+
+	<!-- Great Pata [Critical Poison] -->
+	<item id="12">
+		<ingredient id="57" count="6000000"/>
+		<production id="4796" count="1"/>
+	</item>
+
+	<!-- Great Pata [Rsk Haste] -->
+	<item id="13">
+		<ingredient id="57" count="6000000"/>
+		<production id="4797" count="1"/>
+	</item>
+
+	<!-- Yaksa Mace [Anger] -->
+	<item id="14">
+		<ingredient id="57" count="6000000"/>
+		<production id="4744" count="1"/>
+	</item>
+
+	<!-- Yaksa Mace [Health] -->
+	<item id="15">
+		<ingredient id="57" count="6000000"/>
+		<production id="4745" count="1"/>
+	</item>
+
+	<!-- Yaksa Mace [Rsk. Focus] -->
+	<item id="16">
+		<ingredient id="57" count="6000000"/>
+		<production id="4746" count="1"/>
+	</item>
+
+	<!-- Katana*Katana -->
+	<item id="17">
+		<ingredient id="57" count="6000000"/>
+		<production id="2582" count="1"/>
+	</item>
+
+	<!-- Orcish Poleaxe [Critical Stun] -->
+	<item id="18">
+		<ingredient id="57" count="6000000"/>
+		<production id="4852" count="1"/>
+	</item>
+
+	<!-- Orcish Poleaxe [Long Blow] -->
+	<item id="19">
+		<ingredient id="57" count="6000000"/>
+		<production id="4853" count="1"/>
+	</item>
+
+	<!-- Orcish Poleaxe [Wide Blow] -->
+	<item id="20">
+		<ingredient id="57" count="6000000"/>
+		<production id="4854" count="1"/>
+	</item>
+
+	<!-- Berserker Blade [Focus] -->
+	<item id="21">
+		<ingredient id="57" count="6000000"/>
+		<production id="6347" count="1"/>
+	</item>
+
+	<!-- Berserker Blade [Critical Damage] -->
+	<item id="22">
+		<ingredient id="57" count="6000000"/>
+		<production id="6347" count="1"/>
+	</item>
+
+	<!-- Berserker Blade [Haste] -->
+	<item id="23">
+		<ingredient id="57" count="6000000"/>
+		<production id="6347" count="1"/>
+	</item>
+
+	<!-- Deadman's Staff - Magic Regeneration -->
+	<item id="24">
+		<ingredient id="57" count="6000000"/>
+		<production id="4888" count="1"/>
+	</item>
+
+	<!-- Deadman's Staff - Mental Shield -->
+	<item id="25">
+		<ingredient id="57" count="6000000"/>
+		<production id="4889" count="1"/>
+	</item>
+
+	<!-- Deadman's Staff - Deadman's Staff - Magic Hold -->
+	<item id="26">
+		<ingredient id="57" count="6000000"/>
+		<production id="4890" count="1"/>
+	</item>
+	<!-- Cursed Dagger [Crit. Bleed] -->
+	<item id="27">
+		<ingredient id="57" count="6000000"/>
+		<production id="4759" count="1"/>
+	</item>
+
+	<!-- Cursed Dagger [Critical Poison] -->
+	<item id="28">
+		<ingredient id="57" count="6000000"/>
+		<production id="4760" count="1"/>
+	</item>
+
+	<!-- Cursed Dagger [Rsk. Haste] -->
+	<item id="29">
+		<ingredient id="57" count="6000000"/>
+		<production id="4761" count="1"/>
+	</item>
+
+</list>

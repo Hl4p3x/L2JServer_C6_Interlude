@@ -1,0 +1,27 @@
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="list">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="map" maxOccurs="unbounded" minOccurs="0">
+					<xs:complexType>
+						<xs:simpleContent>
+							<xs:extension base="xs:string">
+								<xs:attribute type="xs:byte" name="id" use="required"/>
+								<xs:attribute type="xs:byte" name="region1" use="required"/>
+								<xs:attribute type="xs:byte" name="region2" use="required"/>
+								<xs:attribute type="xs:byte" name="region3" use="required"/>
+								<xs:attribute type="xs:byte" name="region4" use="required"/>
+								<xs:attribute type="xs:byte" name="region5" use="required"/>
+								<xs:attribute type="xs:byte" name="region6" use="required"/>
+								<xs:attribute type="xs:byte" name="region7" use="required"/>
+								<xs:attribute type="xs:byte" name="region8" use="required"/>
+								<xs:attribute type="xs:byte" name="region9" use="required"/>
+								<xs:attribute type="xs:byte" name="region10" use="required"/>
+							</xs:extension>
+						</xs:simpleContent>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

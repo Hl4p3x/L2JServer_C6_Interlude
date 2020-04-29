@@ -1,0 +1,845 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="5800" type="Weapon" name="Nephilim Lord">
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1380"/>
+		<set name="soulshots" val="3"/>
+		<set name="spiritshots" val="3"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="156"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="sword"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="379"/>
+		<set name="m_dam" val="83"/>
+		<set name="price" val="6130000"/>
+		<for>
+			<set val="156" order="0x08" stat="pAtk"/>
+			<set val="83" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<add val="0" order="0x10" stat="accCombat"/>
+			<set val="379" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="5801" type="Weapon" name="Dusk">
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1380"/>
+		<set name="soulshots" val="3"/>
+		<set name="spiritshots" val="3"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="156"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="sword"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="379"/>
+		<set name="m_dam" val="83"/>
+		<set name="price" val="6130000"/>
+		<for>
+			<set val="156" order="0x08" stat="pAtk"/>
+			<set val="83" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<add val="0" order="0x10" stat="accCombat"/>
+			<set val="379" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="5802" type="Weapon" name="Dawn">
+		<set name="bodypart" val="lhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1380"/>
+		<set name="soulshots" val="3"/>
+		<set name="spiritshots" val="3"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="156"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="sword"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="379"/>
+		<set name="m_dam" val="83"/>
+		<set name="price" val="6130000"/>
+		<for>
+			<set val="156" order="0x08" stat="pAtk"/>
+			<set val="83" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<add val="0" order="0x10" stat="accCombat"/>
+			<set val="379" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="5803" type="EtcItem" name="Lucky Charm: D-Grade">
+		<!-- Bestows blessing on its owner such that when the owner dies during a boss/raid war, his/her abilities will not be diminished. This item can only be used on self, by a character whose level is between 20 and 39. -->
+		<set name="item_type" val="scroll"/>
+		<set name="weight" val="10"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="300"/>
+	</item>
+	<item id="5804" type="EtcItem" name="Lucky Charm: C-Grade">
+		<!-- Bestows blessing on its owner such that when the owner dies during a boss/raid war, his/her abilities will not be diminished. This item can only be used on self by a character whose level is between 40 and 51. -->
+		<set name="item_type" val="scroll"/>
+		<set name="weight" val="10"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="660"/>
+	</item>
+	<item id="5805" type="EtcItem" name="Lucky Charm: B-Grade">
+		<!-- Bestows blessing on its owner such that when the owner dies during a boss/raid war, his/her abilities will not be diminished. This item can only be used on self by a character whose level is between 52 and 60. -->
+		<set name="item_type" val="scroll"/>
+		<set name="weight" val="10"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1300"/>
+	</item>
+	<item id="5806" type="EtcItem" name="Lucky Charm: A-Grade">
+		<!-- Bestows blessing on its owner such that when the owner dies during a boss/raid war, his/her abilities will not be diminished. This item can only be used on self by a character whose level is between 61 and 75. -->
+		<set name="item_type" val="scroll"/>
+		<set name="weight" val="10"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="2700"/>
+	</item>
+	<item id="5807" type="EtcItem" name="Lucky Charm: S Grade">
+		<!-- Bestows blessing on its owner such that when the owner dies during a boss/raid war, his/her abilities will not be diminished. This item can only be used on self by a character whose level is 76 or higher. -->
+		<set name="item_type" val="scroll"/>
+		<set name="weight" val="10"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="5000"/>
+	</item>
+	<item id="5808" type="Armor" name="Party Mask">
+		<!-- A fashion item used to display a unique appearance. -->
+		<set name="bodypart" val="face"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="10"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="500000"/>
+	</item>
+	<item id="5809" type="EtcItem" name="Spellbook: Aqua Splash">
+		<!-- Spellbook needed to learn Aqua Splash. Used by Spellsingers. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="6750"/>
+	</item>
+	<item id="5810" type="EtcItem" name="Spellbook: Rain of Fire">
+		<!-- Spellbook needed to learn Rain of Fire. Used by Sorcerers/sses. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="6750"/>
+	</item>
+	<item id="5811" type="EtcItem" name="Spellbook: Mass Slow">
+		<!-- Spellbook needed to learn Mass Slow. Used by Necromancers. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="7700"/>
+	</item>
+	<item id="5812" type="EtcItem" name="Spellbook: Servitor Empowerment">
+		<!-- Spellbook needed to learn Servitor Empowerment. Used by Warlocks, Elemental Summoners and Phantom Summoners. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="5400"/>
+	</item>
+	<item id="5813" type="EtcItem" name="Spellbook: Servitor Cure">
+		<!-- Spellbook needed to learn Servitor Cure. Used by Warlocks, Elemental Summoners and Phantom Summoners. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3200"/>
+	</item>
+	<item id="5814" type="EtcItem" name="Spellbook: Servitor Blessing">
+		<!-- Spellbook needed to learn Servitor Blessing. Used by Warlocks, Elemental Summoners and Phantom Summoners. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="7700"/>
+	</item>
+	<item id="5815" type="EtcItem" name="Spellbook: Wild Magic">
+		<!-- Spellbook needed to learn Wild. Used by Elven Elders and Shillien Elders. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="7700"/>
+	</item>
+	<item id="5816" type="EtcItem" name="Spellbook: Advanced Block">
+		<!-- Spellbook needed to learn Advanced Block. Used by Elven Elders. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="6750"/>
+	</item>
+	<item id="5817" type="Weapon" name="Chrono Campana">
+		<!-- Chronicle III Souvenir!!! -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_dam" val="1"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="pole"/>
+		<set name="critical" val="8"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="1"/>
+		<set name="dropable" val="false"/>
+		<for>
+			<set val="1" order="0x08" stat="pAtk"/>
+			<set val="1" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<set val="66" order="0x08" stat="pAtkRange"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="5818" type="EtcItem" name="Alternative Dark Coda">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="50"/>
+	</item>
+	<item id="5819" type="EtcItem" name="Alternative Red Coda">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="50"/>
+	</item>
+	<item id="5820" type="EtcItem" name="Alternative Chilly Coda">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="50"/>
+	</item>
+	<item id="5821" type="EtcItem" name="Alternative Blue Coda">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="100"/>
+	</item>
+	<item id="5822" type="EtcItem" name="Alternative Golden Coda">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="200"/>
+	</item>
+	<item id="5823" type="EtcItem" name="Alternative Lute Coda">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="300"/>
+	</item>
+	<item id="5824" type="EtcItem" name="Alternative Desert Coda">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="200"/>
+	</item>
+	<item id="5825" type="EtcItem" name="Alternative Red Cobol">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="200"/>
+	</item>
+	<item id="5826" type="EtcItem" name="Alternative Chilly Cobol">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="250"/>
+	</item>
+	<item id="5827" type="EtcItem" name="Alternative Blue Cobol">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="500"/>
+	</item>
+	<item id="5828" type="EtcItem" name="Alternative Thorn Cobol">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="500"/>
+	</item>
+	<item id="5829" type="EtcItem" name="Alternative Golden Cobol">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="500"/>
+	</item>
+	<item id="5830" type="EtcItem" name="Alternative Great Cobol">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="400"/>
+	</item>
+	<item id="5831" type="EtcItem" name="Alternative Red Codran">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="400"/>
+	</item>
+	<item id="5832" type="EtcItem" name="Alternative Sea Codran">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="500"/>
+	</item>
+	<item id="5833" type="EtcItem" name="Alternative Chilly Codran">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="400"/>
+	</item>
+	<item id="5834" type="EtcItem" name="Alternative Blue Codran">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="500"/>
+	</item>
+	<item id="5835" type="EtcItem" name="Alternative Twin Codran">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="500"/>
+	</item>
+	<item id="5836" type="EtcItem" name="Alternative Great Codran">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="750"/>
+	</item>
+	<item id="5837" type="EtcItem" name="Alternative Desert Codran">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1000"/>
+	</item>
+	<item id="5838" type="EtcItem" name="Mature Alternative Dark Coda">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5839" type="EtcItem" name="Mature Alternative Red Coda">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5840" type="EtcItem" name="Mature Alternative Chilly Coda">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5841" type="EtcItem" name="Mature Alternative Blue Coda">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5842" type="EtcItem" name="Mature Alternative Golden Coda">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5843" type="EtcItem" name="Mature Alternative Lute Coda">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5844" type="EtcItem" name="Mature Alternative Desert Coda">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5845" type="EtcItem" name="Mature Alternative Red Cobol">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5846" type="EtcItem" name="Mature Alternative Chilly Cobol">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5847" type="EtcItem" name="Mature Alternative Blue Cobol">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5848" type="EtcItem" name="Mature Alternative Thorn Cobol">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5849" type="EtcItem" name="Mature Alternative Golden Cobol">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5850" type="EtcItem" name="Mature Alternative Great Cobol">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5851" type="EtcItem" name="Mature Alternative Red Codran">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5852" type="EtcItem" name="Mature Alternative Sea Codran">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5853" type="EtcItem" name="Mature Alternative Chilly Codran">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5854" type="EtcItem" name="Mature Alternative Blue Codran">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5855" type="EtcItem" name="Mature Alternative Twin Codran">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5856" type="EtcItem" name="Mature Alternative Great Codran">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5857" type="EtcItem" name="Mature Alternative Desert Codran">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5858" type="EtcItem" name="Blessed Scroll of Escape: Clan Hall">
+		<!-- A magical scroll that transports you to your clan hall. If you don't belong to a clan that possesses a clan hall, this scroll will have no effect. -->
+		<set name="item_type" val="scroll"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="100000"/>
+	</item>
+	<item id="5859" type="EtcItem" name="Blessed Scroll of Escape: Castle">
+		<!-- A magical scroll that transports you to your castle. If you don't belong to a clan that controls a castle, this scroll will have no effect. -->
+		<set name="item_type" val="scroll"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5860" type="EtcItem" name="Lienrik Egg">
+		<!-- Lienrik's egg. It's the item that Pet Manager Rood of Heine asked you to find for him. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="5861" type="EtcItem" name="Lienrik Egg">
+		<!-- Lienrik's shiny red egg. Pet Manager Rood of Heine asked you to find it for him, but...? -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="5862" type="EtcItem" name="Stone of Contract">
+		<!-- In order to obtain the power of darkness, you will first need to secure this item. Take it to Trader Galman in Dragon Valley. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="5863" type="EtcItem" name="Alligator Tooth">
+		<!-- A sharp tooth from an alligator. Take it to Warehouse Freightman Kluck of Heine. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="5864" type="EtcItem" name="Mysterious Map Piece">
+		<!-- A faded piece of paper. Possibly part of a map. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="5865" type="EtcItem" name="Carnivore Spore">
+		<!-- A tissue sample collected from a spore zombie from the Sea of Spores. It is used as research material by Magister Gauen of the Ivory Tower. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="5866" type="EtcItem" name="Herbivorous Spore">
+		<!-- A spore sample collected from a rotting tree from the Sea of Spores. It is used as research material by Magister Gauen of the Ivory Tower. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="5867" type="EtcItem" name="Jade Crystal">
+		<!-- A jade crystal collected from the Enchanted Valley. Take it to Warehouse Freightman Silva of Hunters Village. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="5868" type="EtcItem" name="Snake Scale">
+		<!-- A snake scale from the bodies of Falibati and Trives. Take it to Grand Master Oltlin of Aden Castle Town. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="5869" type="EtcItem" name="Remains of Aden Residents">
+		<!-- Remains of residents of Aden Castle who were killed during the Aden-Elmore war. Collect 60 of them and take them to High Priest Orven. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="5870" type="EtcItem" name="Receipt of Supply">
+		<!-- A document made from collected mysterious document pieces. Take it to Guard Coleman. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="5871" type="EtcItem" name="Suspicious Document Piece">
+		<!-- A piece of document that seems to contain some suspicious contents. If you collect 5 of them, you may be able to decipher the information the document conveys. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="5872" type="EtcItem" name="Supply Items">
+		<!-- Supply items for Taik Orcs. Take it to Guard Coleman and he will give you a reward. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="5873" type="EtcItem" name="Pirate's Treasure Chest">
+		<!-- A treasure chest that was obtained by slaying Zaken's followers. Take it to Warehouse Keeper Randolf of Giran Castle Town. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="5874" type="EtcItem" name="Sairon's Silver Hair">
+		<!-- Sairon's hair. Take it to Magister Dieter of Giran Castle Town. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="5875" type="EtcItem" name="Titan Lamp">
+		<!-- It is called a Titan lamp. It is not lit. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="5876" type="EtcItem" name="Titan Lamp">
+		<!-- It is called a Titan lamp. It is burning dimly. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="5877" type="EtcItem" name="Titan Lamp">
+		<!-- It is called a Titan lamp. It is lit. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="5878" type="EtcItem" name="Titan Lamp">
+		<!-- It is called a Titan lamp. It is lit. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="5879" type="EtcItem" name="Titan Lamp">
+		<!-- It is called a Titan lamp. It is shining brightly. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="5880" type="EtcItem" name="Broken Titan Lamp">
+		<!-- A broken Titan lamp. Take it to Lorain. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="5881" type="EtcItem" name="Blade Stakato Fang">
+		<!-- A fang that was obtained from killing a blade stakato. Take it to Eva's Priestess Restina in Heine. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="5882" type="EtcItem" name="Flare Shard">
+		<!-- A flare shard obtained from the Forgotten Temple. Take it to Magister Nell of Gludin Village. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="5883" type="EtcItem" name="Freezing Shard">
+		<!-- A water shard obtained from the Forgotten Temple. Take it to Magister Nell of Gludin Village. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="5884" type="EtcItem" name="Cave Beast Tooth">
+		<!-- An ingredient used by Orc Shamans during a ritual. Take it to Seer Manakia. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="5885" type="EtcItem" name="Death Wave Light">
+		<!-- An ingredient used by Orc Shamans during their ritual. Take it to Seer Manakia. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="5886" type="EtcItem" name="Sealed Mysterious Stone">
+		<!-- A pebble that radiates a strange aura. It sends out a dim light. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="5887" type="EtcItem" name="Mysterious Stone">
+		<!-- A pebble that radiates a strange aura. It is shining brightly. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="5888" type="EtcItem" name="Karik Horn">
+		<!-- An ingredient used by Orc Shamans during a ritual. Take it to Seer Manakia. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="5889" type="EtcItem" name="Cave Howler Skull">
+		<!-- An ingredient used by Orc Shamans during a ritual. Take it to Seer Manakia. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="5890" type="EtcItem" name="Mysterious Book">
+		<!-- A book obtained from The Giant's Cave. Written in an ancient language, its contents cannot be deciphered. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="5891" type="EtcItem" name="Ancient Language Dictionary: Basic Level">
+		<!-- A simple dictionary published by scholars of ancient times. By using this, you can interpret some of the texts of the Titans. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="5892" type="EtcItem" name="Ancient Language Dictionary: Intermediate Level">
+		<!-- A dictionary published by scholars of ancient times. By using this, you can interpret the entire texts of the Titans. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="5893" type="EtcItem" name="Leaf of Eucalyptus">
+		<!-- One of the ingredients used to make wine. Collect 80 of them and take them to Guard Harlan located in the Town of Dion. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="5894" type="EtcItem" name="Stone of Chill">
+		<!-- A magical stone used by Enku Orc Shamans when they cast ice magic. Collect 100 of these and take them to Guard Harlan located in the Town of Dion. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="5895" type="EtcItem" name="Ritron's Fruit">
+		<!-- A fruit with a tough, hard outer skin and a fragrant smell. Collect 4 of these and take them to Magister Rollant in the Town of Dion. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="5896" type="EtcItem" name="Moon Face Flower">
+		<!-- A flower that is said to bloom only under moonlight. Collect 20 of these and take them to Magister Rollant in the Town of Dion. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="5897" type="EtcItem" name="Leech Fluids">
+		<!-- The bodily fluids of a Leech that can be obtained from the Cruma Marshlands. Collect 10 of these and take them to Magister Rollant in the Town of Dion. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="5898" type="EtcItem" name="Royal Membership">
+		<!-- It's a coin collectors' dream! Take it to Head Blacksmith Vergara. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="5899" type="EtcItem" name="Kail's Coin">
+		<!-- A coin owned by Sorcerer Kail who used to be an aid of Beleth. Take it to Warehouse Keeper Sorint. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+</list>

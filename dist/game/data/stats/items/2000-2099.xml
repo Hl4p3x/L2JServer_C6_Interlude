@@ -1,0 +1,803 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="2000" type="EtcItem" name="Tallum Helm Design">
+		<!-- A key material that Dwarves use to make the Tallum Helm. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="5782"/>
+	</item>
+	<item id="2001" type="EtcItem" name="Helm of Avadon Design">
+		<!-- A key material that Dwarves use to make the Helm of Avadon. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="5782"/>
+	</item>
+	<item id="2002" type="EtcItem" name="Helmet of Pledge Pattern">
+		<!-- A key material that Dwarves use to make the Helmet of Pledge. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="5782"/>
+	</item>
+	<item id="2003" type="EtcItem" name="Gauntlets of Ghost Pattern">
+		<!-- A key material that Dwarves use to make the Gauntlets of Ghost. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3673"/>
+	</item>
+	<item id="2004" type="EtcItem" name="Adamantite Boots Design">
+		<!-- A key material that Dwarves use to make Adamantite Boots. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3673"/>
+	</item>
+	<item id="2005" type="EtcItem" name="Broadsword Blade">
+		<!-- A key material that Dwarves use to make a Broad Sword. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="2800"/>
+	</item>
+	<item id="2006" type="EtcItem" name="Willow Staff Head">
+		<!-- A key material that Dwarves use to make the Willow Staff. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="2800"/>
+	</item>
+	<item id="2007" type="EtcItem" name="Bow Shaft">
+		<!-- A key material that Dwarves use to make a Bow. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="2800"/>
+	</item>
+	<item id="2008" type="EtcItem" name="Cedar Staff Head">
+		<!-- A key material that Dwarves use to make a Cedar Staff. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="5140"/>
+	</item>
+	<item id="2009" type="EtcItem" name="Dirk Blade">
+		<!-- A key material that Dwarves use to make a Dirk. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="5640"/>
+	</item>
+	<item id="2010" type="EtcItem" name="Brandish Blade">
+		<!-- A key material that Dwarves use to make a Brandish. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="5140"/>
+	</item>
+	<item id="2011" type="EtcItem" name="Short Spear Edge">
+		<!-- A key material that Dwarves use to make a Short Spear. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="8767"/>
+	</item>
+	<item id="2012" type="EtcItem" name="Sword of Reflection Blade">
+		<!-- A key material that Dwarves use to make the Sword of Reflection. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="9600"/>
+	</item>
+	<item id="2013" type="EtcItem" name="Forest Bow Shaft">
+		<!-- A key material that Dwarves use to make the Forest Bow. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="9267"/>
+	</item>
+	<item id="2014" type="EtcItem" name="Iron Hammer Head">
+		<!-- A key material that Dwarves use to make the Iron Hammer. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="17400"/>
+	</item>
+	<item id="2015" type="EtcItem" name="Sword Breaker Edge">
+		<!-- A key material that Dwarves use to make the Sword Breaker. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="16400"/>
+	</item>
+	<item id="2016" type="EtcItem" name="Composition Bow Shaft">
+		<!-- A key material that Dwarves use to make the Composition Bow. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="17067"/>
+	</item>
+	<item id="2017" type="EtcItem" name="Saber Blade">
+		<!-- A key material that Dwarves use to make a Saber. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="15050"/>
+	</item>
+	<item id="2018" type="EtcItem" name="Assassin Knife Edge">
+		<!-- A key material that Dwarves use to make the Assassin Knife. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="15050"/>
+	</item>
+	<item id="2019" type="EtcItem" name="Trident Edge">
+		<!-- A key material that Dwarves use to make a Trident. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="9300"/>
+	</item>
+	<item id="2020" type="EtcItem" name="Temptation of Abyss Piece">
+		<!-- A key material that Dwarves use to make the Temptation of Abyss. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="11425"/>
+	</item>
+	<item id="2021" type="EtcItem" name="Spinebone Sword Blade">
+		<!-- A key material that Dwarves use to make the Spinebone Sword. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="15840"/>
+	</item>
+	<item id="2022" type="EtcItem" name="Mace of Judgment Head">
+		<!-- A key material that Dwarves use to make the Mace of Judgment. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="12840"/>
+	</item>
+	<item id="2023" type="EtcItem" name="Conjuror's Staff Head">
+		<!-- A key material that Dwarves use to make the Conjuror's Staff. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="16140"/>
+	</item>
+	<item id="2024" type="EtcItem" name="Elven Bow Shaft">
+		<!-- A key material that Dwarves use to make the Elven Bow. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="14040"/>
+	</item>
+	<item id="2025" type="EtcItem" name="Dwarven Trident Edge">
+		<!-- A key material that Dwarves use to make the Dwarven Trident. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="14440"/>
+	</item>
+	<item id="2026" type="EtcItem" name="Two-Handed Sword Edge">
+		<!-- A key material that Dwarves use to make the Two-handed Sword. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="16617"/>
+	</item>
+	<item id="2027" type="EtcItem" name="Spiked Club Head">
+		<!-- A key material that Dwarves use to make the Spiked Club. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="15267"/>
+	</item>
+	<item id="2028" type="EtcItem" name="Shilen Knife Edge">
+		<!-- A key material that Dwarves use to make the Shilen Knife. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="16833"/>
+	</item>
+	<item id="2029" type="EtcItem" name="Gastraphetes Shaft">
+		<!-- A key material that Dwarves use to make the Gastraphetes. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="16767"/>
+	</item>
+	<item id="2030" type="EtcItem" name="Tome of Blood Page">
+		<!-- A key material that Dwarves use to make the Tome of Blood. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="17100"/>
+	</item>
+	<item id="2031" type="EtcItem" name="Morning Star Head">
+		<!-- A key material that Dwarves use to make the Morning Star. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="19757"/>
+	</item>
+	<item id="2032" type="EtcItem" name="Goat Head Staff Head">
+		<!-- A key material that Dwarves use to make the Goat Head Staff. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="21643"/>
+	</item>
+	<item id="2033" type="EtcItem" name="Winged Spear Blade">
+		<!-- A key material that Dwarves use to make the Winged Spear. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="17929"/>
+	</item>
+	<item id="2034" type="EtcItem" name="Sword of Revolution Blade">
+		<!-- A key material that Dwarves use to make the Sword of Revolution. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="18929"/>
+	</item>
+	<item id="2035" type="EtcItem" name="Tarbar Head">
+		<!-- A key material that Dwarves use to make the Tarbar. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="19757"/>
+	</item>
+	<item id="2036" type="EtcItem" name="Skull Breaker Head">
+		<!-- A key material that Dwarves use to make the Skull Breaker. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="19757"/>
+	</item>
+	<item id="2037" type="EtcItem" name="Heavy Bone Club Head">
+		<!-- A key material that Dwarves use to make the Heavy Bone Club. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="19757"/>
+	</item>
+	<item id="2038" type="EtcItem" name="Maingauche Edge">
+		<!-- A key material that Dwarves use to make the Maingauche. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="18929"/>
+	</item>
+	<item id="2039" type="EtcItem" name="Bich'Hwa Edge">
+		<!-- A key material that Dwarves use to make the Bich'hwa. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="19757"/>
+	</item>
+	<item id="2040" type="EtcItem" name="Strengthened Long Bow Shaft">
+		<!-- A key material that Dwarves use to make the Strengthened Long Bow. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="17286"/>
+	</item>
+	<item id="2041" type="EtcItem" name="War Pick Head">
+		<!-- A key material that Dwarves use to make the War Pick. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="17929"/>
+	</item>
+	<item id="2042" type="EtcItem" name="Crucifix of Blood Piece">
+		<!-- A key material that Dwarves use to make the Crucifix of Blood. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="21643"/>
+	</item>
+	<item id="2043" type="EtcItem" name="Eye of Infinity Stone">
+		<!-- A key material that Dwarves use to make the Eye of Infinity. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="21643"/>
+	</item>
+	<item id="2044" type="EtcItem" name="Cursed Maingauche Edge">
+		<!-- A key material that Dwarves use to make the Cursed Maingauche. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="18929"/>
+	</item>
+	<item id="2045" type="EtcItem" name="Blue Crystal Skull Part">
+		<!-- A key material that Dwarves use to make the Blue Crystal Skull. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="21786"/>
+	</item>
+	<item id="2046" type="EtcItem" name="Demon Fangs Part">
+		<!-- A key material that Dwarves use to make Demon Fangs. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="21786"/>
+	</item>
+	<item id="2047" type="EtcItem" name="Claymore Blade">
+		<!-- A key material that Dwarves use to make the Claymore. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="22750"/>
+	</item>
+	<item id="2048" type="EtcItem" name="Bonebreaker Head">
+		<!-- A key material that Dwarves use to make the Bonebreaker. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="24188"/>
+	</item>
+	<item id="2049" type="EtcItem" name="Atuba Hammer Head">
+		<!-- A key material that Dwarves use to make the Atuba Hammer. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="24188"/>
+	</item>
+	<item id="2050" type="EtcItem" name="Ghost Staff Head">
+		<!-- A key material that Dwarves use to make the Ghost Staff. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="22812"/>
+	</item>
+	<item id="2051" type="EtcItem" name="Staff of Life Shaft">
+		<!-- A key material that Dwarves use to make the Staff of Life. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="22812"/>
+	</item>
+	<item id="2052" type="EtcItem" name="Mithril Dagger Blade">
+		<!-- A key material that Dwarves use to make the Mithril Dagger. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="23062"/>
+	</item>
+	<item id="2053" type="EtcItem" name="Scallop Jamadhr Edge">
+		<!-- A key material that Dwarves use to make the Scallop Jamadhr. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="24188"/>
+	</item>
+	<item id="2054" type="EtcItem" name="Light Crossbow Shaft">
+		<!-- A key material that Dwarves use to make the Light Crossbow. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="23500"/>
+	</item>
+	<item id="2055" type="EtcItem" name="Glaive Edge">
+		<!-- A key material that Dwarves use to make the Glaive. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="24188"/>
+	</item>
+	<item id="2056" type="EtcItem" name="Vajra Wand Frame">
+		<!-- A key material that Dwarves use to make the Vajra Wand. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="22812"/>
+	</item>
+	<item id="2057" type="EtcItem" name="Ancient Reagent Remnant">
+		<!-- A key material that Dwarves use to make Ancient Reagent. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="22812"/>
+	</item>
+	<item id="2058" type="EtcItem" name="Atuba Mace Head">
+		<!-- A key material that Dwarves use to make the Atuba Mace. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="24188"/>
+	</item>
+	<item id="2059" type="EtcItem" name="Flamberge Blade">
+		<!-- A key material that Dwarves use to make the Flamberge. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="24125"/>
+	</item>
+	<item id="2060" type="EtcItem" name="Stormbringer Blade">
+		<!-- A key material that Dwarves use to make the Stormbringer. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="24425"/>
+	</item>
+	<item id="2061" type="EtcItem" name="Big Hammer Head">
+		<!-- A key material that Dwarves use to make the Big Hammer. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="26800"/>
+	</item>
+	<item id="2062" type="EtcItem" name="Scythe Edge">
+		<!-- A key material that Dwarves use to make the Scythe. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="22750"/>
+	</item>
+	<item id="2063" type="EtcItem" name="Battle Axe Head">
+		<!-- A key material that Dwarves use to make the Battle Axe. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="26800"/>
+	</item>
+	<item id="2064" type="EtcItem" name="Silver Axe Head">
+		<!-- A key material that Dwarves use to make the Silver Axe. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="26800"/>
+	</item>
+	<item id="2065" type="EtcItem" name="Skull Graver Head">
+		<!-- A key material that Dwarves use to make the Skull Graver. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="26800"/>
+	</item>
+	<item id="2066" type="EtcItem" name="Heavy Doom Hammer Head">
+		<!-- A key material that Dwarves use to make the Heavy Doom Hammer. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="22750"/>
+	</item>
+	<item id="2067" type="EtcItem" name="Crystal Staff Head">
+		<!-- A key material that Dwarves use to make the Crystal Staff. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="27000"/>
+	</item>
+	<item id="2068" type="EtcItem" name="Stick of Faith Shaft">
+		<!-- A key material that Dwarves use to make the Stick of Faith. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="27000"/>
+	</item>
+	<item id="2069" type="EtcItem" name="Heavy Doom Axe Blade">
+		<!-- A key material that Dwarves use to make the Heavy Doom Axe. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="22750"/>
+	</item>
+	<item id="2070" type="EtcItem" name="Cursed Dagger Blade">
+		<!-- A key material that Dwarves use to make the Cursed Dagger. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="24425"/>
+	</item>
+	<item id="2071" type="EtcItem" name="Wolverine Needle Edge">
+		<!-- A key material that Dwarves use to make the Wolverine Needle. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="24425"/>
+	</item>
+	<item id="2072" type="EtcItem" name="Dark Elven Dagger Edge">
+		<!-- A key material that Dwarves use to make the Dark Elven Dagger. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="24425"/>
+	</item>
+	<item id="2073" type="EtcItem" name="Chakram Edge">
+		<!-- A key material that Dwarves use to make the Chakram. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="26800"/>
+	</item>
+	<item id="2074" type="EtcItem" name="Crystallized Ice Bow Shaft">
+		<!-- A key material that Dwarves use to make the Crystallized Ice Bow. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="26538"/>
+	</item>
+	<item id="2075" type="EtcItem" name="Orcish Glaive Blade">
+		<!-- A key material that Dwarves use to make the Orcish Glaive. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="22750"/>
+	</item>
+	<item id="2076" type="EtcItem" name="Body Slasher Blade">
+		<!-- A key material that Dwarves use to make the Body Slasher. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="22750"/>
+	</item>
+	<item id="2077" type="EtcItem" name="Shamshir Blade">
+		<!-- A key material that Dwarves use to make the Shamshir. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="29556"/>
+	</item>
+	<item id="2078" type="EtcItem" name="Katana Blade">
+		<!-- A key material that Dwarves use to make the Katana. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="29556"/>
+	</item>
+	<item id="2079" type="EtcItem" name="Bec De Corbin Blade">
+		<!-- A key material that Dwarves use to make the Bec de Corbin. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="31667"/>
+	</item>
+	<item id="2080" type="EtcItem" name="Spirit Sword Blade">
+		<!-- A key material that Dwarves use to make the Spirit Sword. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="29556"/>
+	</item>
+	<item id="2081" type="EtcItem" name="Raid Sword Blade">
+		<!-- A key material that Dwarves use to make the Raid Sword. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="29556"/>
+	</item>
+	<item id="2082" type="EtcItem" name="Cursed Staff Head">
+		<!-- A key material that Dwarves use to make the Cursed Staff. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="30911"/>
+	</item>
+	<item id="2083" type="EtcItem" name="Stiletto Edge">
+		<!-- A key material that Dwarves use to make the Stiletto. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="29556"/>
+	</item>
+	<item id="2084" type="EtcItem" name="Soulfire Dirk Blade">
+		<!-- A key material that Dwarves use to make the Soulfire Dirk. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="29556"/>
+	</item>
+	<item id="2085" type="EtcItem" name="Crossbow Shaft">
+		<!-- A key material that Dwarves use to make a Crossbow. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="26189"/>
+	</item>
+	<item id="2086" type="EtcItem" name="Elven Bow of Nobility Shaft">
+		<!-- A key material that Dwarves use to make the Elven Bow of Nobility. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="26189"/>
+	</item>
+	<item id="2087" type="EtcItem" name="Tears of Fairy Drop">
+		<!-- A key material that Dwarves use to make Tears of Fairy. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="30911"/>
+	</item>
+	<item id="2088" type="EtcItem" name="Horn of Glory Fragment">
+		<!-- A key material that Dwarves use to make the Horn of Glory. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="30911"/>
+	</item>
+	<item id="2089" type="EtcItem" name="Caliburs Edge">
+		<!-- A key material that Dwarves use to make the Caliburs. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="37450"/>
+	</item>
+	<item id="2090" type="EtcItem" name="Delusional Blade">
+		<!-- A key material that Dwarves use to make the Sword of Delusion. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="37450"/>
+	</item>
+	<item id="2091" type="EtcItem" name="Tsurugi Blade">
+		<!-- A key material that Dwarves use to make the Tsurugi. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="37450"/>
+	</item>
+	<item id="2092" type="EtcItem" name="Homunkulus's Sword Blade">
+		<!-- A key material that Dwarves use to make Homunkulus's Sword. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="37450"/>
+	</item>
+	<item id="2093" type="EtcItem" name="Poleaxe Blade">
+		<!-- A key material that Dwarves use to make the Poleaxe. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="34200"/>
+	</item>
+	<item id="2094" type="EtcItem" name="Sword of Limit Blade">
+		<!-- A key material that Dwarves use to make the Sword of Limit. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="37450"/>
+	</item>
+	<item id="2095" type="EtcItem" name="Sword of Nightmare Blade">
+		<!-- A key material that Dwarves use to make the Sword of Nightmare. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="37450"/>
+	</item>
+	<item id="2096" type="EtcItem" name="Sword of Whispering Death Blade">
+		<!-- A key material that Dwarves use to make the Sword of Whispering Death. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="37450"/>
+	</item>
+	<item id="2097" type="EtcItem" name="War Axe Blade">
+		<!-- A key material that Dwarves use to make the War Axe. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="37000"/>
+	</item>
+	<item id="2098" type="EtcItem" name="Nirvana Axe Blade">
+		<!-- A key material that Dwarves use to make the Nirvana Axe. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="37000"/>
+	</item>
+	<item id="2099" type="EtcItem" name="Stick of Eternity Shaft">
+		<!-- A key material that Dwarves use to make the Stick of Eternity. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="35900"/>
+	</item>
+</list>

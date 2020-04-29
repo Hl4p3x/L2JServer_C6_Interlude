@@ -1,0 +1,839 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="2900" type="EtcItem" name="Hermodt's Thigh Bone">
+		<!-- The thigh bones of Hermodt, an ancient Orc hero. Take this, along with the additional 4 remains, to Seer Manakia. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2901" type="EtcItem" name="Hermodt's Remains">
+		<!-- The remains of Hermodt, an ancient Orc hero. Take this, along with the other three heros' remains, to Seer Somak. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2902" type="EtcItem" name="Racoy's Totem">
+		<!-- A totem given by Seer Racoy. Take this and go to the Temple of Einhasad in the Town of Gludio to ask about Kiruna. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2903" type="EtcItem" name="Vivyan's Letter">
+		<!-- A letter from Priestess Vivyan. Take this to Trader Sarien of the Southern Wastelands. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2904" type="EtcItem" name="Insect Diagram Book">
+		<!-- An insect encyclopedia that Trader Sarien has given as aid. Take this and hunt noble ants to recover Kiruna's remains. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2905" type="EtcItem" name="Kiruna's Skull">
+		<!-- The skull of Kiruna, an ancient Orc hero. Take this, along with the additional 4 remains, to Seer Racoy. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2906" type="EtcItem" name="Kiruna's Rib Bone">
+		<!-- The rib bones of Kiruna, an ancient Orc hero. Take this, along with the additional 4 remains, to Seer Racoy. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2907" type="EtcItem" name="Kiruna's Spine">
+		<!-- The spine bones of Kiruna, an ancient Orc hero. Take this, along with the additional 4 remains, to Seer Racoy. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2908" type="EtcItem" name="Kiruna's Arm Bone">
+		<!-- The arm bones of Kiruna, an ancient Orc hero. Take this, along with the additional 4 remains, to Seer Racoy. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2909" type="EtcItem" name="Kiruna's Thigh Bone">
+		<!-- The thigh bones of Kiruna, an ancient Orc hero. Take this, along with the additional 4 remains, to Seer Racoy. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2910" type="EtcItem" name="Kiruna's Remains">
+		<!-- The remains of Kiruna, an ancient Orc hero. Take this, along with the other 3 heros' remains, to Seer Somak. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2911" type="EtcItem" name="Braki's Remains">
+		<!-- The remains of the hero, Braki, encased in an urn. Take this to the Ancestor Martankus in the Cave of Trials. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2912" type="EtcItem" name="Tonar's Remains">
+		<!-- The remains of the hero, Tonar, encased in an urn. Take this to the Ancestor Martankus in the Cave of Trials. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2913" type="EtcItem" name="Hermodt's Remains">
+		<!-- The remains of the hero, Hermodt, encased in an urn. Take this to the Ancestor Martankus in the Cave of Trials. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2914" type="EtcItem" name="Kiruna's Remains">
+		<!-- The remains of the hero, Kiruna, encased in an urn. Take this to the Ancestor Martankus in the Cave of Trials. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2915" type="Weapon" name="Old Knight Sword">
+		<!-- Use this sword to deliver the final blow to the spirit of Sir Herod. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="weight" val="3200"/>
+		<set name="soulshots" val="2"/>
+		<set name="spiritshots" val="2"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_dam" val="24"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="sword"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="379"/>
+		<set name="m_dam" val="17"/>
+		<set name="price" val="136000"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="destroyable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<set val="24" order="0x08" stat="pAtk"/>
+			<set val="17" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<add val="0" order="0x10" stat="accCombat"/>
+			<set val="379" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="2916" type="EtcItem" name="Broken Teleport Device">
+		<!-- The teleport device given by Master Toma. Take this back to Master Toma. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="2917" type="EtcItem" name="Ring of Binding Gemstone">
+		<!-- A key material for Dwarves to make a Ring of Binding. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3482"/>
+	</item>
+	<item id="2918" type="EtcItem" name="Mithril Scale Gaiters Material">
+		<!-- A key material for Dwarves to make Mithril Scale Gaiters. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3371"/>
+	</item>
+	<item id="2919" type="EtcItem" name="Brigandine Gaiters Material">
+		<!-- A key material for Dwarves to make Brigandine Gaiters. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3371"/>
+	</item>
+	<item id="2920" type="EtcItem" name="Elven Mithril Tunic Pattern">
+		<!-- A key material for Dwarves to make an Elven Mithril Tunic. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3921"/>
+	</item>
+	<item id="2921" type="EtcItem" name="Elven Mithril Stockings Pattern">
+		<!-- A key material for Dwarves to make Elven Mithril Stockings. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="2518"/>
+	</item>
+	<item id="2922" type="EtcItem" name="Brigandine Helmet Design">
+		<!-- A key material for Dwarves to make a Brigandine Helmet. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="5193"/>
+	</item>
+	<item id="2923" type="EtcItem" name="Manticore Skin Boot Lining">
+		<!-- A key material for Dwarves to make Manticore Skin Boots. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1480"/>
+	</item>
+	<item id="2924" type="EtcItem" name="Brigandine Boots Design">
+		<!-- A key material for Dwarves to make Brigandine Boots. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1480"/>
+	</item>
+	<item id="2925" type="EtcItem" name="Elven Mithril Boots Design">
+		<!-- A key material for Dwarves to make Elven Mithril Boots. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1480"/>
+	</item>
+	<item id="2926" type="EtcItem" name="Manticore Skin Gloves Lining">
+		<!-- A key material for Dwarves to make Manticore Skin Gloves. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1480"/>
+	</item>
+	<item id="2927" type="EtcItem" name="Brigandine Gauntlets Pattern">
+		<!-- A key material for Dwarves to make a Brigandine Gauntlet. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1480"/>
+	</item>
+	<item id="2928" type="EtcItem" name="Elven Mithril Gloves Design">
+		<!-- A key material for Dwarves to make Elven Mithril Gloves. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1480"/>
+	</item>
+	<item id="2929" type="EtcItem" name="Brigandine Shield Fragment">
+		<!-- A key material for Dwarves to make a Brigandine Shield. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1389"/>
+	</item>
+	<item id="2930" type="EtcItem" name="Plate Helmet Design">
+		<!-- A key material for Dwarves to make a Plate Helmet. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="2481"/>
+	</item>
+	<item id="2931" type="EtcItem" name="Salamander Skin Boot Lining">
+		<!-- A key material for Dwarves to make Salamander Skin Boots. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1792"/>
+	</item>
+	<item id="2932" type="EtcItem" name="Plate Boots Design">
+		<!-- A key material for Dwarves to make Plate Boots. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1792"/>
+	</item>
+	<item id="2933" type="EtcItem" name="Sage's Worn Gloves Lining">
+		<!-- A key material for Dwarves to make Sage's Worn Gloves. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1792"/>
+	</item>
+	<item id="2934" type="EtcItem" name="Plate Shield Fragment">
+		<!-- A key material for Dwarves to make a Plate Shield. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1762"/>
+	</item>
+	<item id="2935" type="EtcItem" name="Tempered Mithril Gaiters Fragment">
+		<!-- A key material for Dwarves to make Tempered Mithril Gaiters. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3763"/>
+	</item>
+	<item id="2936" type="EtcItem" name="Chain Hood Pattern">
+		<!-- A key material for Dwarves to make a Chain Hood. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="2725"/>
+	</item>
+	<item id="2937" type="EtcItem" name="Chain Boots Part">
+		<!-- A key material for Dwarves to make Chain Boots. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="2225"/>
+	</item>
+	<item id="2938" type="EtcItem" name="Karmian Boots Fabric">
+		<!-- A key material for Dwarves to make Karmian Boots. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="2225"/>
+	</item>
+	<item id="2939" type="EtcItem" name="Plate Leather Boot Lining">
+		<!-- A key material for Dwarves to make Plated Leather Boots. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="2225"/>
+	</item>
+	<item id="2940" type="EtcItem" name="Dwarven Chain Boots Part">
+		<!-- A key material for Dwarves to make Dwarven Chain Boots. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="2225"/>
+	</item>
+	<item id="2941" type="EtcItem" name="Boots of Seal Pattern">
+		<!-- A key material for Dwarves to make Boots of Seal. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="2225"/>
+	</item>
+	<item id="2942" type="EtcItem" name="Reinforced Mithril Gloves Design">
+		<!-- A key material for Dwarves to make Reinforced Mithril Gloves. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="2225"/>
+	</item>
+	<item id="2943" type="EtcItem" name="Chain Gloves Design">
+		<!-- A key material for Dwarves to make Chain Gloves. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="2225"/>
+	</item>
+	<item id="2944" type="EtcItem" name="Karmian Gloves Fabric">
+		<!-- A key material for Dwarves to make Karmian Gloves. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="2225"/>
+	</item>
+	<item id="2945" type="EtcItem" name="Chain Shield Fragment">
+		<!-- A key material for Dwarves to make a Chain Shield. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="2475"/>
+	</item>
+	<item id="2946" type="EtcItem" name="Plate Leather Gloves Design">
+		<!-- A key material for Dwarves to make Plated Leather Gloves. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3578"/>
+	</item>
+	<item id="2947" type="EtcItem" name="Dwarven Chain Shield Fragment">
+		<!-- A key material for Dwarves to make a Dwarven Chain Shield. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="2800"/>
+	</item>
+	<item id="2948" type="EtcItem" name="Rind Leather Boot Lining">
+		<!-- A key material for Dwarves to make Rind Leather Boots. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="2378"/>
+	</item>
+	<item id="2949" type="EtcItem" name="Dwarven Chain Gloves Design">
+		<!-- A key material for Dwarves to make Dwarven Chain Gloves. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="2378"/>
+	</item>
+	<item id="2950" type="EtcItem" name="Gloves of Seal Pattern">
+		<!-- A key material for Dwarves to make Gloves of Seal. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="2378"/>
+	</item>
+	<item id="2951" type="EtcItem" name="Rind Leather Gloves Design">
+		<!-- A key material for Dwarves to make Rind Leather Gloves. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="2378"/>
+	</item>
+	<item id="2952" type="EtcItem" name="Demon's Boots Fabric">
+		<!-- A key material for Dwarves to make Demon's Boots. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3400"/>
+	</item>
+	<item id="2953" type="EtcItem" name="Demon's Gloves Fabric">
+		<!-- A key material for Dwarves to make Demon's Gloves. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3400"/>
+	</item>
+	<item id="2954" type="EtcItem" name="Theca Leather Boots Texture">
+		<!-- A key material for Dwarves to make Theca Leather Boots. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3160"/>
+	</item>
+	<item id="2955" type="EtcItem" name="Theca Leather Gloves Texture">
+		<!-- A key material for Dwarves to make Theca Leather Gloves. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3160"/>
+	</item>
+	<item id="2956" type="EtcItem" name="Composite Boots Part">
+		<!-- A key material for Dwarves to make Composite Boots. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3400"/>
+	</item>
+	<item id="2957" type="EtcItem" name="Composite Helmet Design">
+		<!-- A key material for Dwarves to make the Composite Helmet. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="4560"/>
+	</item>
+	<item id="2958" type="EtcItem" name="Divine Boots Fabric">
+		<!-- A key material for Dwarves to make Divine Boots. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3673"/>
+	</item>
+	<item id="2959" type="EtcItem" name="Full Plate Helmet Design">
+		<!-- A key material for Dwarves to make the Full Plate Helmet. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="5782"/>
+	</item>
+	<item id="2960" type="EtcItem" name="Drake Leather Boots Design">
+		<!-- A key material for Dwarves to make Drake Leather Boots. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3673"/>
+	</item>
+	<item id="2961" type="EtcItem" name="Full Plate Boots Part">
+		<!-- A key material for Dwarves to make Full Plate Boots. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3673"/>
+	</item>
+	<item id="2962" type="EtcItem" name="Drake Leather Gloves Design">
+		<!-- A key material for Dwarves to make Drake Leather Gloves. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3673"/>
+	</item>
+	<item id="2963" type="EtcItem" name="Full Plate Gauntlets Part">
+		<!-- A key material for Dwarves to make Full Plate Gauntlets. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3673"/>
+	</item>
+	<item id="2964" type="EtcItem" name="Divine Gloves Pattern">
+		<!-- A key material for Dwarves to make Divine Gloves. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3673"/>
+	</item>
+	<item id="2965" type="EtcItem" name="Blessed Gloves Design">
+		<!-- A key material for Dwarves to make Blessed Gloves. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3673"/>
+	</item>
+	<item id="2966" type="EtcItem" name="Full Plate Shield Fragment">
+		<!-- A key material for Dwarves to make a Full Plate Shield. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3655"/>
+	</item>
+	<item id="2967" type="EtcItem" name="Elven Long Sword Blade">
+		<!-- A key material for Dwarves to make an Elven Long Sword. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="23062"/>
+	</item>
+	<item id="2968" type="EtcItem" name="Dwarven Warhammer Head">
+		<!-- A key material for Dwarves to make a Dwarven War Hammer. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="30067"/>
+	</item>
+	<item id="2969" type="EtcItem" name="Yaksa Mace Head">
+		<!-- A key material for Dwarves to make a Yaksa Mace. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="38364"/>
+	</item>
+	<item id="2970" type="EtcItem" name="Recipe: Ring of Binding">
+		<!-- For Dwarves only. The recipe for a Ring of Binding. Requires Create Item - Skill Level 6. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="5640"/>
+	</item>
+	<item id="2971" type="EtcItem" name="Recipe: Mithril Scale Gaiters">
+		<!-- For Dwarves only. The recipe for the Mithril Scale Gaiters. Requires Create Item - Skill Level 3. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3740"/>
+	</item>
+	<item id="2972" type="EtcItem" name="Recipe: Brigandine Gaiters">
+		<!-- For Dwarves only. The recipe for Brigandine Gaiters. Requires Create Item - Skill Level 3. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3740"/>
+	</item>
+	<item id="2973" type="EtcItem" name="Recipe: Elven Mithril Tunic">
+		<!-- For Dwarves only. The recipe for an Elven Mithril Tunic. Requires Create Item - Skill Level 3. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="4480"/>
+	</item>
+	<item id="2974" type="EtcItem" name="Recipe: Elven Mithril Stockings">
+		<!-- For Dwarves only. The recipe for Elven Mithril Stockings. Requires Create Item - Skill Level 3. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="2800"/>
+	</item>
+	<item id="2975" type="EtcItem" name="Recipe: Brigandine Helmet">
+		<!-- For Dwarves only. The recipe for a Brigandine Helmet. Requires Create Item - Skill Level 3. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="2240"/>
+	</item>
+	<item id="2976" type="EtcItem" name="Recipe: Manticore Skin Boots">
+		<!-- For Dwarves only. The recipe for Manticore Leather Boots. Requires Create Item - Skill Level 3. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1494"/>
+	</item>
+	<item id="2977" type="EtcItem" name="Recipe: Brigandine Boots">
+		<!-- For Dwarves only. The recipe for Brigandine Boots. Requires Create Item - Skill Level 3. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1494"/>
+	</item>
+	<item id="2978" type="EtcItem" name="Recipe: Elven Mithril Boots">
+		<!-- For Dwarves only. The recipe for Elven Mithril Boots. Requires Create Item - Skill Level 3. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1494"/>
+	</item>
+	<item id="2979" type="EtcItem" name="Recipe: Manticore Skin Gloves">
+		<!-- For Dwarves only. The recipe for Manticore Leather Gloves. Requires Create Item - Skill Level 3. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1494"/>
+	</item>
+	<item id="2980" type="EtcItem" name="Recipe: Brigandine Gauntlets">
+		<!-- For Dwarves only. The recipe for a Brigandine Gauntlet. Requires Create Item - Skill Level 3 The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1494"/>
+	</item>
+	<item id="2981" type="EtcItem" name="Recipe: Elven Mithril Gloves">
+		<!-- For Dwarves only. The recipe for Elven Mithril Gloves. Requires Create Item - Skill Level 3. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1494"/>
+	</item>
+	<item id="2982" type="EtcItem" name="Recipe: Brigandine Shield">
+		<!-- For Dwarves only. The recipe for a Brigandine Shield. Requires Create Item - Skill Level 3. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1568"/>
+	</item>
+	<item id="2983" type="EtcItem" name="Recipe: Plate Helmet">
+		<!-- For Dwarves only. The recipe for a Plate Helmet. Requires Create Item - Skill Level 4. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="2940"/>
+	</item>
+	<item id="2984" type="EtcItem" name="Recipe: Salamander Skin Boots">
+		<!-- For Dwarves only. The recipe for Salamander Skin Boots. Requires Create Item - Skill Level 4. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1956"/>
+	</item>
+	<item id="2985" type="EtcItem" name="Recipe: Plate Boots">
+		<!-- For Dwarves only. The recipe for Plate Boots. Requires Create Item - Skill Level 4. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1956"/>
+	</item>
+	<item id="2986" type="EtcItem" name="Recipe: Sage's Worn Gloves">
+		<!-- For Dwarves only. The recipe for the Sage's Worn Gloves. Requires Create Item - Skill Level 4. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1956"/>
+	</item>
+	<item id="2987" type="EtcItem" name="Recipe: Plate Shield">
+		<!-- For Dwarves only. The recipe for a Plate Shield. Requires Create Item - Skill Level 4. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="2060"/>
+	</item>
+	<item id="2988" type="EtcItem" name="Recipe: Tempered Mithril Gaiters">
+		<!-- For Dwarves only. The recipe for the Tempered Mithril Gaiters. Requires Create Item - Skill Level 4. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="4740"/>
+	</item>
+	<item id="2989" type="EtcItem" name="Recipe: Chain Hood">
+		<!-- For Dwarves only. The recipe for the Chain Hood. Requires Create Item - Skill Level 4. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3780"/>
+	</item>
+	<item id="2990" type="EtcItem" name="Recipe: Chain Boots">
+		<!-- For Dwarves only. The recipe for the Chain Boots. Requires Create Item - Skill Level 4. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="2520"/>
+	</item>
+	<item id="2991" type="EtcItem" name="Recipe: Karmian Boots">
+		<!-- For Dwarves only. The recipe for Karmian Boots. Requires Create Item - Skill Level 4. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="2520"/>
+	</item>
+	<item id="2992" type="EtcItem" name="Recipe: Plated Leather Boots">
+		<!-- For Dwarves only. The recipe for Plated Leather Boots. Requires Create Item - Skill Level 4. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="2520"/>
+	</item>
+	<item id="2993" type="EtcItem" name="Recipe: Dwarven Chain Boots">
+		<!-- For Dwarves only. The recipe for Dwarven Chain Boots. Requires Create Item - Skill Level 4. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="2520"/>
+	</item>
+	<item id="2994" type="EtcItem" name="Recipe: Boots of Seal">
+		<!-- For Dwarves only. The recipe for Boots of Seal. Requires Create Item - Skill Level 4. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="2520"/>
+	</item>
+	<item id="2995" type="EtcItem" name="Recipe: Reinforced Mithril Gloves">
+		<!-- For Dwarves only. The recipe for Reinforced Mithril Gloves. Requires Create Item - Skill Level 4. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="2520"/>
+	</item>
+	<item id="2996" type="EtcItem" name="Recipe: Chain Gloves">
+		<!-- For Dwarves only. The recipe for Chain Gloves. Requires Create Item - Skill Level 4. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="2520"/>
+	</item>
+	<item id="2997" type="EtcItem" name="Recipe: Karmian Gloves">
+		<!-- For Dwarves only. The recipe for Karmian Gloves. Requires Create Item - Skill Level 4 The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="2520"/>
+	</item>
+	<item id="2998" type="EtcItem" name="Recipe: Chain Shield">
+		<!-- For Dwarves only. The recipe for the Chain Shield. Requires Create Item - Skill Level 4. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="2660"/>
+	</item>
+	<item id="2999" type="EtcItem" name="Recipe: Plated Leather Gloves">
+		<!-- For Dwarves only. The recipe for Plated Leather Gloves. Requires Create Item - Skill Level 5. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="2980"/>
+	</item>
+</list>

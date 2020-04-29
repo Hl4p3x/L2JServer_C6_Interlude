@@ -1,0 +1,1377 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="6500" type="EtcItem" name="Big Blue Treasure Chest">
+		<!-- Double-click to see the change. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="435"/>
+	</item>
+	<item id="6501" type="EtcItem" name="Small Yellow Treasure Chest">
+		<!-- Double-click to see the change. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="452"/>
+	</item>
+	<item id="6502" type="EtcItem" name="Yellow Treasure Chest">
+		<!-- Double-click to see the change. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="568"/>
+	</item>
+	<item id="6503" type="EtcItem" name="Big Yellow Treasure Chest">
+		<!-- Double-click to see the change. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="608"/>
+	</item>
+	<item id="6504" type="EtcItem" name="Small Orange Treasure Chest">
+		<!-- Double-click to see the change. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="649"/>
+	</item>
+	<item id="6505" type="EtcItem" name="Orange Treasure Chest">
+		<!-- Double-click to see the change. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="792"/>
+	</item>
+	<item id="6506" type="EtcItem" name="Big Orange Treasure Chest">
+		<!-- Double-click to see the change. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="858"/>
+	</item>
+	<item id="6507" type="EtcItem" name="Small Purple Treasure Chest">
+		<!-- Double-click to see the change. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="910"/>
+	</item>
+	<item id="6508" type="EtcItem" name="Purple Treasure Chest">
+		<!-- Double-click to see the change. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1090"/>
+	</item>
+	<item id="6509" type="EtcItem" name="Big Purple Treasure Chest">
+		<!-- Double-click to see the change. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1157"/>
+	</item>
+	<item id="6510" type="EtcItem" name="Small Red Treasure Chest">
+		<!-- Double-click to see the change. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1326"/>
+	</item>
+	<item id="6511" type="EtcItem" name="Red Treasure Chest">
+		<!-- Double-click to see the change. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1402"/>
+	</item>
+	<item id="6512" type="EtcItem" name="Big Red Treasure Chest">
+		<!-- Double-click to see the change. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1715"/>
+	</item>
+	<item id="6513" type="EtcItem" name="Small White Treasure Chest">
+		<!-- Double-click to see the change. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1814"/>
+	</item>
+	<item id="6514" type="EtcItem" name="White Treasure Chest">
+		<!-- Double-click to see the change. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1923"/>
+	</item>
+	<item id="6515" type="EtcItem" name="Big White Treasure Chest">
+		<!-- Double-click to see the change. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="2039"/>
+	</item>
+	<item id="6516" type="EtcItem" name="Small Black Treasure Chest">
+		<!-- Double-click to see the change. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="2166"/>
+	</item>
+	<item id="6517" type="EtcItem" name="Black Treasure Chest">
+		<!-- Double-click to see the change. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="2403"/>
+	</item>
+	<item id="6518" type="EtcItem" name="Big Black Treasure Chest">
+		<!-- Double-click to see the change. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="100"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6519" type="EtcItem" name="Green Colored Lure - Low Grade">
+		<!-- A lure used for fishing. The higher the grade of the lure, the less time it will take for a fish to take the bait. This bait is preferred by fast fish. -->
+		<set name="item_type" val="lure"/>
+		<set name="weight" val="5"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="100"/>
+	</item>
+	<item id="6520" type="EtcItem" name="Green Colored Lure">
+		<!-- This fishing lure is preferred by fast fish. -->
+		<set name="item_type" val="lure"/>
+		<set name="weight" val="4"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="120"/>
+	</item>
+	<item id="6521" type="EtcItem" name="Green Colored Lure - High Grade">
+		<!-- A lure used for fishing. The higher the grade of the lure, the less time it will take for a fish to take the bait. This bait is preferred by fast fish. -->
+		<set name="item_type" val="lure"/>
+		<set name="weight" val="3"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="150"/>
+	</item>
+	<item id="6522" type="EtcItem" name="Purple Colored Lure - Low Grade">
+		<!-- A lure used for fishing. The higher the grade of the lure, the less time it will take for a fish to take the bait. This bait is preferred by fat fish. -->
+		<set name="item_type" val="lure"/>
+		<set name="weight" val="5"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="150"/>
+	</item>
+	<item id="6523" type="EtcItem" name="Purple Colored Lure">
+		<!-- This fishing lure is preferred by fat fish. -->
+		<set name="item_type" val="lure"/>
+		<set name="weight" val="4"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="180"/>
+	</item>
+	<item id="6524" type="EtcItem" name="Purple Colored Lure - High Grade">
+		<!-- A lure used for fishing. The higher the grade of the lure, the less time it will take for a fish to take the bait. This bait is preferred by fat fish. -->
+		<set name="item_type" val="lure"/>
+		<set name="weight" val="3"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="200"/>
+	</item>
+	<item id="6525" type="EtcItem" name="Yellow Colored Lure - Low Grade">
+		<!-- A lure used for fishing. The higher the grade of the lure, the less time it will take for a fish to bite the bait. This bait is preferred by ugly fish. -->
+		<set name="item_type" val="lure"/>
+		<set name="weight" val="5"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="120"/>
+	</item>
+	<item id="6526" type="EtcItem" name="Yellow Colored Lure">
+		<!-- This fishing lure is preferred by ugly fish. -->
+		<set name="item_type" val="lure"/>
+		<set name="weight" val="4"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="150"/>
+	</item>
+	<item id="6527" type="EtcItem" name="Yellow Colored Lure - High Grade">
+		<!-- A lure used for fishing. The higher the grade of the lure, the less time it will take for a fish to bite the bait. This bait is preferred by ugly fish. -->
+		<set name="item_type" val="lure"/>
+		<set name="weight" val="3"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="180"/>
+	</item>
+	<item id="6528" type="EtcItem" name="Event bait">
+		<!-- Bait for fishing that increases chance of getting the treasure chest. -->
+		<set name="item_type" val="lure"/>
+		<set name="weight" val="3"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6529" type="Weapon" name="Baby Duck Rod">
+		<!-- Non-grade fishing rod. It can't launch a general attack. Consumes one non-grade Fishing Shot. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="weight" val="1000"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_dam" val="1"/>
+		<set name="rnd_dam" val="1"/>
+		<set name="weapon_type" val="rod"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="1"/>
+		<set name="price" val="30000"/>
+		<for>
+			<set val="1" order="0x08" stat="pAtk"/>
+			<set val="1" order="0x08" stat="mAtk"/>
+			<set val="0" order="0x08" stat="rCrit"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="6530" type="Weapon" name="Albatross Rod">
+		<!-- D-grade fishing rod. It can't launch a general attack. Consumes one D-grade Fishing Shot. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="weight" val="1000"/>
+		<set name="crystal_type" val="d"/>
+		<set name="p_dam" val="1"/>
+		<set name="rnd_dam" val="1"/>
+		<set name="weapon_type" val="rod"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="1"/>
+		<set name="price" val="100000"/>
+		<for>
+			<set val="1" order="0x08" stat="pAtk"/>
+			<set val="1" order="0x08" stat="mAtk"/>
+			<set val="0" order="0x08" stat="rCrit"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="6531" type="Weapon" name="Pelican Rod">
+		<!-- C-grade fishing rod. It can't launch a general attack. Consumes one C-grade Fishing Shot. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="weight" val="1000"/>
+		<set name="crystal_type" val="c"/>
+		<set name="p_dam" val="1"/>
+		<set name="rnd_dam" val="1"/>
+		<set name="weapon_type" val="rod"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="1"/>
+		<set name="price" val="400000"/>
+		<for>
+			<set val="1" order="0x08" stat="pAtk"/>
+			<set val="1" order="0x08" stat="mAtk"/>
+			<set val="0" order="0x08" stat="rCrit"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="6532" type="Weapon" name="KingFisher Rod">
+		<!-- B-grade fishing rod. It can't launch a general attack. Consumes one B-grade Fishing Shot. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="weight" val="1000"/>
+		<set name="crystal_type" val="b"/>
+		<set name="p_dam" val="1"/>
+		<set name="rnd_dam" val="1"/>
+		<set name="weapon_type" val="rod"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="1"/>
+		<set name="price" val="1200000"/>
+		<for>
+			<set val="1" order="0x08" stat="pAtk"/>
+			<set val="1" order="0x08" stat="mAtk"/>
+			<set val="0" order="0x08" stat="rCrit"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="6533" type="Weapon" name="Cygnus Pole">
+		<!-- A-grade fishing rod. It can't launch a general attack. Consumes one A-grade Fishing Shot. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="weight" val="1000"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_dam" val="1"/>
+		<set name="rnd_dam" val="1"/>
+		<set name="weapon_type" val="rod"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="1"/>
+		<set name="price" val="4000000"/>
+		<for>
+			<set val="1" order="0x08" stat="pAtk"/>
+			<set val="1" order="0x08" stat="mAtk"/>
+			<set val="0" order="0x08" stat="rCrit"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="6534" type="Weapon" name="Triton Pole">
+		<!-- S-grade fishing rod. It can't launch a general attack. Consumes one S-grade Fishing Shot. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="weight" val="1000"/>
+		<set name="crystal_type" val="s"/>
+		<set name="p_dam" val="1"/>
+		<set name="rnd_dam" val="1"/>
+		<set name="weapon_type" val="rod"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="1"/>
+		<set name="price" val="10000000"/>
+		<for>
+			<set val="1" order="0x08" stat="pAtk"/>
+			<set val="1" order="0x08" stat="mAtk"/>
+			<set val="0" order="0x08" stat="rCrit"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="6535" type="EtcItem" name="Fishing Shot: non-grade">
+		<!-- Soulshot consumed by a fishing rod like general soulshots. Gives double damage when the pumping or reeling skill is cast. Usable for the non-grade fishing rod. -->
+		<set name="item_type" val="shot"/>
+		<set name="weight" val="3"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3"/>
+	</item>
+	<item id="6536" type="EtcItem" name="Fishing Shot: D-grade">
+		<!-- Soulshot consumed by a fishing rod like general soulshots. Gives double damage when the pumping or reeling skill is cast. Usable for the D-grade fishing rod. -->
+		<set name="item_type" val="shot"/>
+		<set name="weight" val="3"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="d"/>
+		<set name="price" val="5"/>
+	</item>
+	<item id="6537" type="EtcItem" name="Fishing Shot: C-grade">
+		<!-- Soulshot consumed by a fishing rod like general soulshots. Gives double damage when the pumping or reeling skill is cast. Usable for the C-grade fishing rod. -->
+		<set name="item_type" val="shot"/>
+		<set name="weight" val="3"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="c"/>
+		<set name="price" val="7"/>
+	</item>
+	<item id="6538" type="EtcItem" name="Fishing Shot: B-grade">
+		<!-- Soulshot consumed by a fishing rod like general soulshots. Gives double damage when the pumping or reeling skill is cast. Usable for the B-grade fishing rod. -->
+		<set name="item_type" val="shot"/>
+		<set name="weight" val="3"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="b"/>
+		<set name="price" val="25"/>
+	</item>
+	<item id="6539" type="EtcItem" name="Fishing Shot: A-grade">
+		<!-- Soulshot consumed by a fishing rod like general soulshots. Gives double damage when the pumping or reeling skill is cast. Usable for the A-grade fishing rod. -->
+		<set name="item_type" val="shot"/>
+		<set name="weight" val="3"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="a"/>
+		<set name="price" val="40"/>
+	</item>
+	<item id="6540" type="EtcItem" name="Fishing Shot: S-grade">
+		<!-- Soulshot consumed by a fishing rod like general soulshots. Gives double damage when the pumping or reeling skill is cast. Usable for the S-grade fishing rod. -->
+		<set name="item_type" val="shot"/>
+		<set name="weight" val="3"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="s"/>
+		<set name="price" val="50"/>
+	</item>
+	<item id="6541" type="EtcItem" name="Blue Coba">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1250"/>
+	</item>
+	<item id="6542" type="EtcItem" name="Red Coba">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1500"/>
+	</item>
+	<item id="6543" type="EtcItem" name="Gold Coba">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1750"/>
+	</item>
+	<item id="6544" type="EtcItem" name="Desert Coba">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="2000"/>
+	</item>
+	<item id="6545" type="EtcItem" name="Sea Coba">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="2250"/>
+	</item>
+	<item id="6546" type="EtcItem" name="Twin Coba">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="2500"/>
+	</item>
+	<item id="6547" type="EtcItem" name="King Coba">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="2750"/>
+	</item>
+	<item id="6548" type="EtcItem" name="Alternative Blue Coba">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1250"/>
+	</item>
+	<item id="6549" type="EtcItem" name="Alternative Red Coba">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1500"/>
+	</item>
+	<item id="6550" type="EtcItem" name="Alternative Gold Coba">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1750"/>
+	</item>
+	<item id="6551" type="EtcItem" name="Alternative Desert Coba">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="2000"/>
+	</item>
+	<item id="6552" type="EtcItem" name="Alternative Sea Coba">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="2250"/>
+	</item>
+	<item id="6553" type="EtcItem" name="Alternative Twin Coba">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="2500"/>
+	</item>
+	<item id="6554" type="EtcItem" name="Alternative King Coba">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="2750"/>
+	</item>
+	<item id="6555" type="EtcItem" name="Ripe Blue Coba">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6556" type="EtcItem" name="Ripe Red Coba">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6557" type="EtcItem" name="Ripe Gold Coba">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6558" type="EtcItem" name="Ripe Desert Coba">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6559" type="EtcItem" name="Ripe Sea Coba">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6560" type="EtcItem" name="Ripe Twin Coba">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6561" type="EtcItem" name="Ripe King Coba">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6562" type="EtcItem" name="Ripe Alternative Blue Coba">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6563" type="EtcItem" name="Ripe Alternative Red Coba">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6564" type="EtcItem" name="Ripe Alternative Gold Coba">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6565" type="EtcItem" name="Ripe Alternative Desert Coba">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6566" type="EtcItem" name="Ripe Alternative Sea Coba">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6567" type="EtcItem" name="Ripe Alternative Twin Coba">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6568" type="EtcItem" name="Ripe Alternative King Coba">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6569" type="EtcItem" name="Blessed Scroll: Enchant Weapon (Grade A)">
+		<!-- Increases the P.Atk of an A-Grade weapons such as sword/one-handed, blunt/one handed, dagger, spear and etc. type by 4. The P.Atk of sword/two-handed, blunt/two-handed, dual swords, and fists type will increase by 5 and bow type by 8. The M.Atk of all weapons will increase by 3. From +4, the added bonuses for P.Atk/M.Atk are double the above value. When fail on enchanting, item does not get crystallized but it's enchant value will return to 0. -->
+		<set name="item_type" val="scroll"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1750000"/>
+	</item>
+	<item id="6570" type="EtcItem" name="Blessed Scroll: Enchant Armor (Grade A)">
+		<!-- Increases the P. Def. of A-Grade armor or accessories by 1, and from +4, the P. Def will increase by 3. It can be safely enchanted up to +3. One-piece type armor can be safely enchanted up to +4. If one's attempt for enchanting fails, an item will not become crystallized. However, the current enchant value will be set to 0. -->
+		<set name="item_type" val="scroll"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="750000"/>
+	</item>
+	<item id="6571" type="EtcItem" name="Blessed Scroll: Enchant Weapon (Grade B)">
+		<!-- Increases the P.Atk of a B-Grade weapons such as sword/one-handed, blunt/one handed, dagger, spear and etc. type by 3. The P.Atk of sword/two-handed, blunt/two-handed, dual swords, and fists type will increase by 4 and bow type by 6. The M.Atk of all weapons will increase by 3. From +4, the added bonuses for P.Atk/M.Atk are double the above value. When fail on enchanting, item does not get crystallized but it's enchant value will return to 0. -->
+		<set name="item_type" val="scroll"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1250000"/>
+	</item>
+	<item id="6572" type="EtcItem" name="Blessed Scroll: Enchant Armor (Grade B)">
+		<!-- Increases the P. Def. of B-Grade armor or accessories by 1, and from +4, the P. Def will increase by 3. It can be safely enchanted up to +3. One-piece type armor can be safely enchanted up to +4. If one's attempt for enchanting fails, an item will not become crystallized. However, the current enchant value will be set to 0. -->
+		<set name="item_type" val="scroll"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="250000"/>
+	</item>
+	<item id="6573" type="EtcItem" name="Blessed Scroll: Enchant Weapon (Grade C)">
+		<!-- Increases the P.Atk of a C-Grade weapons such as sword/one-handed, blunt/one handed, dagger, spear and etc. type by 3. The P.Atk of sword/two-handed, blunt/two-handed, dual swords, and fists type will increase by 4 and bow type by 6. The M.Atk of all weapons will increase by 3. From +4, the added bonuses for P.Atk/M.Atk are double the above value. When fail on enchanting, item does not get crystallized but it's enchant value will return to 0. -->
+		<set name="item_type" val="scroll"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="250000"/>
+	</item>
+	<item id="6574" type="EtcItem" name="Blessed Scroll: Enchant Armor (Grade C)">
+		<!-- Increases the P. Def. of C-Grade armor or accessories by 1, and from +4, the P. Def will increase by 3. It can be safely enchanted up to +3. One-piece type armor can be safely enchanted up to +4. If one's attempt for enchanting fails, an item will not become crystallized. However, the current enchant value will be set to 0. -->
+		<set name="item_type" val="scroll"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="100000"/>
+	</item>
+	<item id="6575" type="EtcItem" name="Blessed Scroll: Enchant Weapon (Grade D)">
+		<!-- Increases the P.Atk of a D-Grade weapons such as sword/one-handed, blunt/one handed, dagger, spear, sword/two-handed, blunt/two-handed, dual swords, and fists, etc. type will increase by 2 and bow type by 4. The M.Atk of all weapons will increase by 2. From +4, the added bonuses for P.Atk/M.Atk are double the above value. When fail on enchanting, item does not get crystallized but it's enchant value will return to 0. -->
+		<set name="item_type" val="scroll"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="150000"/>
+	</item>
+	<item id="6576" type="EtcItem" name="Blessed Scroll: Enchant Armor (Grade D)">
+		<!-- Increases the P. Def. of D-Grade armor or accessories by 1, and from +4, the P. Def will increase by 3. It can be safely enchanted up to +3. One-piece type armor can be safely enchanted up to +4. If one's attempt for enchanting fails, an item will not become crystallized. However, the current enchant value will be set to 0. -->
+		<set name="item_type" val="scroll"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="50000"/>
+	</item>
+	<item id="6577" type="EtcItem" name="Blessed Scroll: Enchant Weapon (Grade S)">
+		<!-- Increases the P.Atk of a S grade weapons such as sword/one-handed, blunt/one handed, dagger, spear and etc. type by 5. The P.Atk of sword/two-handed, blunt/two-handed, dual swords, and fists type will increase by 6 and bow type by 10. The M.Atk of all weapons will increase by 4. From +4, the added bonuses for P.Atk/M.Atk are double the above value. When fail on enchanting, item does not get crystallized but it's enchant value will return to 0. -->
+		<set name="item_type" val="scroll"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="2250000"/>
+	</item>
+	<item id="6578" type="EtcItem" name="Blessed Scroll: Enchant Armor (Grade S)">
+		<!-- Increases the P. Def. of S Grade armor or accessories by 1, and from +4, the P. Def will increase by 3. It can be safely enchanted up to +3. One-piece type armor can be safely enchanted up to +4. If one's attempt for enchanting fails, an item will not become crystallized. However, the current enchant value will be set to 0. -->
+		<set name="item_type" val="scroll"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1250000"/>
+	</item>
+	<item id="6579" type="Weapon" name="Arcana Mace">
+		<!-- Bestows one of the following functions: Acumen, MP Regeneration or Mana Up. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1300"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="s"/>
+		<set name="p_dam" val="225"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="blunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="379"/>
+		<set name="m_dam" val="175"/>
+		<set name="price" val="48800000"/>
+		<set name="crystal_count" val="2440"/>
+		<for>
+			<set val="225" order="0x08" stat="pAtk"/>
+			<set val="175" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="379" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="6580" type="Weapon" name="Tallum Blade*Dark Legion's Edge">
+		<!-- P.Atk of dual swords will increase more than one-handed type weapon when enchanted. Max HP +15%, Max MP +20%, Max CP +30% when enchanted by 4 or more. Enhances damage to target during PvP. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="2080"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="s"/>
+		<set name="p_dam" val="342"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="dual"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="132"/>
+		<set name="price" val="48800000"/>
+		<set name="crystal_count" val="2440"/>
+		<for>
+			<set val="342" order="0x08" stat="pAtk"/>
+			<set val="132" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<add val="0" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<mul val="1.15" order="0x30" stat="maxHp">
+				<and>
+					<using slotitem="6580;14;4"/>
+				</and>
+			</mul>
+			<mul val="1.2" order="0x30" stat="maxMp">
+				<and>
+					<using slotitem="6580;14;4"/>
+				</and>
+			</mul>
+			<mul val="1.3" order="0x30" stat="maxCp">
+				<and>
+					<using slotitem="6580;14;4"/>
+				</and>
+			</mul>
+			<!-- Enhances damage to target during PvP -->
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg"/>
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg"/>
+		</for>
+	</item>
+	<item id="6581" type="Weapon" name="Forgotten Blade - Haste">
+		<!-- <Soul Crystal Enhancement>. Increases Atk. Spd. by about 7%. Increases damage inflicted during PvP. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1300"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="s"/>
+		<set name="p_dam" val="281"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="sword"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="379"/>
+		<set name="m_dam" val="132"/>
+		<set name="price" val="48800000"/>
+		<set name="crystal_count" val="2440"/>
+		<set name="item_skill_id" val="3037"/> <!-- Special Ability: Haste -->
+		<set name="item_skill_lvl" val="2"/>
+		<for>
+			<set val="281" order="0x08" stat="pAtk"/>
+			<set val="132" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<add val="0" order="0x10" stat="accCombat"/>
+			<set val="379" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- Enhances damage to target during PvP -->
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg"/>
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg"/>
+			<!-- SA: Haste -->
+			<mul val="1.07" order="0x30" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="6582" type="Weapon" name="Forgotten Blade - Health">
+		<!-- <Soul Crystal Enhancement>. Increases maximum HP by 25%. Increases damage inflicted during PvP. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1300"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="s"/>
+		<set name="p_dam" val="281"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="sword"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="379"/>
+		<set name="m_dam" val="132"/>
+		<set name="price" val="48800000"/>
+		<set name="crystal_count" val="2440"/>
+		<set name="item_skill_id" val="3013"/> <!-- Special Ability: Health -->
+		<set name="item_skill_lvl" val="4"/>
+		<for>
+			<set val="281" order="0x08" stat="pAtk"/>
+			<set val="132" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<add val="0" order="0x10" stat="accCombat"/>
+			<set val="379" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- Enhances damage to target during PvP -->
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg"/>
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg"/>
+		</for>
+	</item>
+	<item id="6583" type="Weapon" name="Forgotten Blade - Focus">
+		<!-- <Soul Crystal Enhancement> Increases critical chance by 84. Increases damage inflicted during PvP. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1300"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="s"/>
+		<set name="p_dam" val="281"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="sword"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="379"/>
+		<set name="m_dam" val="132"/>
+		<set name="price" val="48800000"/>
+		<set name="crystal_count" val="2440"/>
+		<set name="item_skill_id" val="3566"/> <!-- Special Ability: Focus -->
+		<set name="item_skill_lvl" val="1"/>
+		<for>
+			<set val="281" order="0x08" stat="pAtk"/>
+			<set val="132" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<add val="0" order="0x10" stat="accCombat"/>
+			<set val="379" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- Enhances damage to target during PvP -->
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg"/>
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg"/>
+			<!-- SA: Focus -->
+			<add val="64" order="0x40" stat="rCrit"/>
+		</for>
+	</item>
+	<item id="6584" type="Weapon" name="Basalt Battlehammer - HP Drain">
+		<!-- <Soul Crystal Enhancement>. Restores 3% of melee damage inflicted upon the enemy to your own HP. Increases damage inflicted during PvP. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1570"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="s"/>
+		<set name="p_dam" val="281"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="blunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="379"/>
+		<set name="m_dam" val="132"/>
+		<set name="price" val="48800000"/>
+		<set name="crystal_count" val="2440"/>
+		<set name="item_skill_id" val="3568"/> <!-- Special Ability: HP Drain -->
+		<set name="item_skill_lvl" val="1"/>
+		<set name="onCrit_skill_id" val="3022"/> <!-- Special Ability: Critical Drain -->
+		<set name="onCrit_skill_lvl" val="7"/>
+		<set name="onCrit_skill_chance" val="20"/>
+		<for>
+			<set val="281" order="0x08" stat="pAtk"/>
+			<set val="132" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="379" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- add absorb hp SA -->
+			<!-- We have SA on SQL -->
+			<!-- <add val="8" order="0x40" stat="absorbDam"/> -->
+			<!-- <mul val="1.05" order="0x30" stat="pvpPhysDmg"/> -->
+			<!-- <mul val="1.05" order="0x30" stat="pvpMagicalDmg"/> -->
+		</for>
+	</item>
+	<item id="6585" type="Weapon" name="Basalt Battlehammer - Health">
+		<!-- <Soul Crystal Enhancement>. Increases maximum HP by 25%. Increases damage inflicted during PvP. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1570"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="s"/>
+		<set name="p_dam" val="281"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="blunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="379"/>
+		<set name="m_dam" val="132"/>
+		<set name="price" val="48800000"/>
+		<set name="crystal_count" val="2440"/>
+		<set name="item_skill_id" val="3013"/> <!-- Special Ability: Health -->
+		<set name="item_skill_lvl" val="1"/>
+		<for>
+			<set val="281" order="0x08" stat="pAtk"/>
+			<set val="132" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="379" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- Enhances damage to target during PvP -->
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg"/>
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg"/>
+		</for>
+	</item>
+	<item id="6586" type="Weapon" name="Basalt Battlehammer - HP Regeneration">
+		<!-- <Soul Crystal Enhancement>. Increases HP regeneration rate. Increases damage inflicted during PvP. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1570"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="s"/>
+		<set name="p_dam" val="281"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="blunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="379"/>
+		<set name="m_dam" val="132"/>
+		<set name="price" val="48800000"/>
+		<set name="crystal_count" val="2440"/>
+		<set name="item_skill_id" val="3569"/> <!-- Special Ability: HP Regeneration -->
+		<set name="item_skill_lvl" val="1"/>
+		<for>
+			<set val="281" order="0x08" stat="pAtk"/>
+			<set val="132" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="379" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- Enhances damage to target during PvP -->
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg"/>
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg"/>
+		</for>
+	</item>
+	<item id="6587" type="Weapon" name="Imperial Staff - Empower">
+		<!-- <Soul Crystal Enhancement>. Increases M. Atk. by 60. Increases damage inflicted during PvP. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="910"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="s"/>
+		<set name="p_dam" val="274"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="bigblunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="175"/>
+		<set name="price" val="48800000"/>
+		<set name="crystal_count" val="2440"/>
+		<set name="item_skill_id" val="3076"/> <!-- Special Ability: Empower -->
+		<set name="item_skill_lvl" val="1"/>
+		<for>
+			<set val="274" order="0x08" stat="pAtk"/>
+			<set val="175" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- Enhances damage to target during PvP -->
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg"/>
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg"/>
+			<!-- SA always used in skill add -->
+		</for>
+	</item>
+	<item id="6588" type="Weapon" name="Imperial Staff - MP Regeneration">
+		<!-- <Soul Crystal Enhancement>. Increases MP regeneration rate. Increases damage inflicted during PvP. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="910"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="s"/>
+		<set name="p_dam" val="274"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="bigblunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="175"/>
+		<set name="price" val="48800000"/>
+		<set name="crystal_count" val="2440"/>
+		<set name="item_skill_id" val="3576"/> <!-- Special Ability: MP Regeneration -->
+		<set name="item_skill_lvl" val="1"/>
+		<for>
+			<set val="274" order="0x08" stat="pAtk"/>
+			<set val="175" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- Enhances damage to target during PvP -->
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg"/>
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg"/>
+		</for>
+	</item>
+	<item id="6589" type="Weapon" name="Imperial Staff - Magic Hold">
+		<!-- <Soul Crystal Enhancement>. Increases the chances of causing Dryad Root by 20% when using dark magic upon a target. Increases damage inflicted during PvP. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="910"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="s"/>
+		<set name="p_dam" val="274"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="bigblunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="175"/>
+		<set name="price" val="48800000"/>
+		<set name="crystal_count" val="2440"/>
+		<set name="onCast_skill_id" val="3577"/> <!-- Special Ability: Magic Hold -->
+		<set name="onCast_skill_lvl" val="1"/>
+		<set name="onCast_skill_chance" val="30"/>
+		<for>
+			<set val="274" order="0x08" stat="pAtk"/>
+			<set val="175" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- Enhances damage to target during PvP -->
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg"/>
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg"/>
+		</for>
+	</item>
+	<item id="6590" type="Weapon" name="Angel Slayer - Crt. Damage">
+		<!-- <Soul Crystal Enhancement>. Increases P. Atk. by 265 during a critical attack. Increases damage inflicted during PvP. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="950"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="s"/>
+		<set name="p_dam" val="246"/>
+		<set name="rnd_dam" val="5"/>
+		<set name="weapon_type" val="dagger"/>
+		<set name="critical" val="12"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="433"/>
+		<set name="m_dam" val="132"/>
+		<set name="price" val="48800000"/>
+		<set name="crystal_count" val="2440"/>
+		<set name="item_skill_id" val="3572"/> <!-- Special Ability: Crt. Damage -->
+		<set name="item_skill_lvl" val="1"/>
+		<for>
+			<set val="246" order="0x08" stat="pAtk"/>
+			<set val="132" order="0x08" stat="mAtk"/>
+			<set val="12" order="0x08" stat="rCrit"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="433" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- Enhances damage to target during PvP -->
+			<!-- We have SA on SQL -->
+			<!-- <mul val="1.05" order="0x30" stat="pvpPhysDmg"/> -->
+			<!-- <mul val="1.05" order="0x30" stat="pvpMagicalDmg"/> -->
+		</for>
+	</item>
+	<item id="6591" type="Weapon" name="Angel Slayer - HP Drain">
+		<!-- <Soul Crystal Enhancement>. Restores 3% of melee damage inflicted upon the enemy to your own HP. Increases damage inflicted during PvP. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="950"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="s"/>
+		<set name="p_dam" val="246"/>
+		<set name="rnd_dam" val="5"/>
+		<set name="weapon_type" val="dagger"/>
+		<set name="critical" val="12"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="433"/>
+		<set name="m_dam" val="132"/>
+		<set name="price" val="48800000"/>
+		<set name="crystal_count" val="2440"/>
+		<set name="item_skill_id" val="3568"/> <!-- Special Ability: HP Drain -->
+		<set name="item_skill_lvl" val="1"/>
+		<set name="onCrit_skill_id" val="3022"/> <!-- Special Ability: Critical Drain -->
+		<set name="onCrit_skill_lvl" val="7"/>
+		<set name="onCrit_skill_chance" val="20"/>
+		<for>
+			<set val="246" order="0x08" stat="pAtk"/>
+			<set val="132" order="0x08" stat="mAtk"/>
+			<set val="12" order="0x08" stat="rCrit"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="433" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- add absorbHP SA -->
+			<!-- We have SA on SQL -->
+			<!-- <add val="8" order="0x40" stat="absorbDam"/> -->
+			<!-- <mul val="1.05" order="0x30" stat="pvpPhysDmg"/> -->
+			<!-- <mul val="1.05" order="0x30" stat="pvpMagicalDmg"/> -->
+		</for>
+	</item>
+	<item id="6592" type="Weapon" name="Angel Slayer - Haste">
+		<!-- <Soul Crystal Enhancement>. Increases Atk. Spd. by about 7%. Increases damage inflicted during PvP. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="950"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="s"/>
+		<set name="p_dam" val="246"/>
+		<set name="rnd_dam" val="5"/>
+		<set name="weapon_type" val="dagger"/>
+		<set name="critical" val="12"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="433"/>
+		<set name="m_dam" val="132"/>
+		<set name="price" val="48800000"/>
+		<set name="crystal_count" val="2440"/>
+		<set name="item_skill_id" val="3037"/> <!-- Special Ability: Haste -->
+		<set name="item_skill_lvl" val="4"/>
+		<for>
+			<set val="246" order="0x08" stat="pAtk"/>
+			<set val="132" order="0x08" stat="mAtk"/>
+			<set val="12" order="0x08" stat="rCrit"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="433" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- Enhances damage to target during PvP -->
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg"/>
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg"/>
+			<!-- SA: Haste -->
+			<mul val="1.07" order="0x30" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="6593" type="Weapon" name="Shining Bow - Cheap Shot">
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1650"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="s"/>
+		<set name="p_dam" val="581"/>
+		<set name="rnd_dam" val="5"/>
+		<set name="weapon_type" val="bow"/>
+		<set name="critical" val="12"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="293"/>
+		<set name="mp_consume" val="11"/>
+		<set name="m_dam" val="132"/>
+		<set name="price" val="48800000"/>
+		<set name="crystal_count" val="2440"/>
+		<for>
+			<set val="581" order="0x08" stat="pAtk"/>
+			<set val="132" order="0x08" stat="mAtk"/>
+			<set val="12" order="0x08" stat="rCrit"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="293" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- SA: Cheap Shot -->
+			<set val="1" order="0x08" stat="MpConsume">
+				<and>
+					<game skill="false" chance="26"/>
+				</and>
+			</set>
+			<!-- Enhances damage to target during PvP -->
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg"/>
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg"/>
+		</for>
+	</item>
+	<item id="6594" type="Weapon" name="Shining Bow - Focus">
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1650"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="s"/>
+		<set name="p_dam" val="581"/>
+		<set name="rnd_dam" val="5"/>
+		<set name="weapon_type" val="bow"/>
+		<set name="critical" val="12"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="293"/>
+		<set name="mp_consume" val="11"/>
+		<set name="m_dam" val="132"/>
+		<set name="price" val="48800000"/>
+		<set name="crystal_count" val="2440"/>
+		<set name="item_skill_id" val="3567"/> <!-- Special Ability: Focus -->
+		<set name="item_skill_lvl" val="2"/>
+		<for>
+			<set val="581" order="0x08" stat="pAtk"/>
+			<set val="132" order="0x08" stat="mAtk"/>
+			<set val="12" order="0x08" stat="rCrit"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="293" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- SA: Focus -->
+			<add val="88" order="0x40" stat="rCrit"/>
+		</for>
+	</item>
+	<item id="6595" type="Weapon" name="Shining Bow - Crt. Slow">
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1650"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="s"/>
+		<set name="p_dam" val="581"/>
+		<set name="rnd_dam" val="5"/>
+		<set name="weapon_type" val="bow"/>
+		<set name="critical" val="12"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="293"/>
+		<set name="mp_consume" val="11"/>
+		<set name="m_dam" val="132"/>
+		<set name="price" val="48800000"/>
+		<set name="crystal_count" val="2440"/>
+		<set name="onCrit_skill_id" val="3574"/> <!-- Special Ability: Crt. Slow -->
+		<set name="onCrit_skill_lvl" val="1"/>
+		<set name="onCrit_skill_chance" val="10"/>
+		<for>
+			<set val="581" order="0x08" stat="pAtk"/>
+			<set val="132" order="0x08" stat="mAtk"/>
+			<set val="12" order="0x08" stat="rCrit"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="293" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="6596" type="Weapon" name="Dragon Hunter Axe - HP Regeneration">
+		<!-- <Soul Crystal Enhancement>. Increases HP regeneration rate. Increases damage inflicted during PvP. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1820"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="s"/>
+		<set name="p_dam" val="342"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="bigblunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="132"/>
+		<set name="price" val="48800000"/>
+		<set name="crystal_count" val="2440"/>
+		<set name="item_skill_id" val="3569"/> <!-- Special Ability: HP Regeneration -->
+		<set name="item_skill_lvl" val="1"/>
+		<for>
+			<set val="342" order="0x08" stat="pAtk"/>
+			<set val="132" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- Enhances damage to target during PvP -->
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg"/>
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg"/>
+		</for>
+	</item>
+	<item id="6597" type="Weapon" name="Dragon Hunter Axe - Health">
+		<!-- <Soul Crystal Enhancement>. Increases maximum HP by 25%. Increases damage inflicted during PvP. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1820"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="s"/>
+		<set name="p_dam" val="342"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="bigblunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="132"/>
+		<set name="price" val="48800000"/>
+		<set name="crystal_count" val="2440"/>
+		<set name="item_skill_id" val="3013"/> <!-- Special Ability: Health -->
+		<set name="item_skill_lvl" val="1"/>
+		<for>
+			<set val="342" order="0x08" stat="pAtk"/>
+			<set val="132" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- Enhances damage to target during PvP -->
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg"/>
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg"/>
+		</for>
+	</item>
+	<item id="6598" type="Weapon" name="Dragon Hunter Axe - HP Drain">
+		<!-- <Soul Crystal Enhancement>. Restores 3% of melee damage inflicted upon the enemy to your own HP. Increases damage inflicted during PvP. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1820"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="s"/>
+		<set name="p_dam" val="342"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="bigblunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="132"/>
+		<set name="price" val="48800000"/>
+		<set name="crystal_count" val="2440"/>
+		<set name="item_skill_id" val="3568"/> <!-- Special Ability: HP Drain -->
+		<set name="item_skill_lvl" val="1"/>
+		<set name="onCrit_skill_id" val="3022"/> <!-- Special Ability: Critical Drain -->
+		<set name="onCrit_skill_lvl" val="7"/>
+		<set name="onCrit_skill_chance" val="20"/>
+		<for>
+			<set val="342" order="0x08" stat="pAtk"/>
+			<set val="132" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- add SA : absorbdmg - vampiric effect dmg -->
+			<!-- We have SA on SQL -->
+			<!-- <add val="8" order="0x40" stat="absorbDam"/> -->
+			<!-- <mul val="1.05" order="0x30" stat="pvpPhysDmg"/> -->
+			<!-- <mul val="1.05" order="0x30" stat="pvpMagicalDmg"/> -->
+		</for>
+	</item>
+	<item id="6599" type="Weapon" name="Saint Spear - Health">
+		<!-- <Soul Crystal Enhancement>. Increases maximum HP by 25%. Increases damage inflicted during PvP. -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1800"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="s"/>
+		<set name="p_dam" val="281"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="pole"/>
+		<set name="critical" val="8"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="132"/>
+		<set name="price" val="48800000"/>
+		<set name="crystal_count" val="2440"/>
+		<set name="item_skill_id" val="3013"/> <!-- Special Ability: Health -->
+		<set name="item_skill_lvl" val="4"/>
+		<for>
+			<set val="281" order="0x08" stat="pAtk"/>
+			<set val="132" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<set val="66" order="0x08" stat="pAtkRange"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+			<!-- Enhances damage to target during PvP -->
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg"/>
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg"/>
+		</for>
+	</item>
+</list>

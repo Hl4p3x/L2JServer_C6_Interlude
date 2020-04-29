@@ -1,0 +1,798 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="2100" type="EtcItem" name="Paradia Staff Head">
+		<!-- A key material that Dwarves use to make the Paradia Staff. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="35900"/>
+	</item>
+	<item id="2101" type="EtcItem" name="Inferno Staff Head">
+		<!-- A key material that Dwarves use to make the Inferno Staff. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="35900"/>
+	</item>
+	<item id="2102" type="EtcItem" name="Pa'agrian Hammer Head">
+		<!-- A key material that Dwarves use to make the Pa'agrian Hammer. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="34200"/>
+	</item>
+	<item id="2103" type="EtcItem" name="Sage's Staff Head">
+		<!-- A key material that Dwarves use to make the Sage's Staff. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="35900"/>
+	</item>
+	<item id="2104" type="EtcItem" name="Club of Nature Head">
+		<!-- A key material that Dwarves use to make the Club of Nature. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="35900"/>
+	</item>
+	<item id="2105" type="EtcItem" name="Mace of The Underworld Head">
+		<!-- A key material that Dwarves use to make the Mace of the Underworld. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="37000"/>
+	</item>
+	<item id="2106" type="EtcItem" name="Grace Dagger Edge">
+		<!-- A key material that Dwarves use to make the Grace Dagger. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="37450"/>
+	</item>
+	<item id="2107" type="EtcItem" name="Dark Screamer Edge">
+		<!-- A key material that Dwarves use to make the Dark Screamer. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="37450"/>
+	</item>
+	<item id="2108" type="EtcItem" name="Fisted Blade Piece">
+		<!-- A key material that Dwarves use to make the Fisted Blade. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="37000"/>
+	</item>
+	<item id="2109" type="EtcItem" name="Akat Longbow Shaft">
+		<!-- A key material that Dwarves use to make the Akat Long Bow. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="41130"/>
+	</item>
+	<item id="2110" type="EtcItem" name="Heathen's Book Page">
+		<!-- A key material that Dwarves use to make the Heathen's Book. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="35900"/>
+	</item>
+	<item id="2111" type="EtcItem" name="Hex Doll Fragment">
+		<!-- A key material that Dwarves use to make a Hex Doll. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="35900"/>
+	</item>
+	<item id="2112" type="EtcItem" name="Pa'agrian Axe Blade">
+		<!-- A key material that Dwarves use to make the Pa'agrian Axe. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="39900"/>
+	</item>
+	<item id="2113" type="EtcItem" name="Scorpion Blade">
+		<!-- A key material that Dwarves use to make the Scorpion. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="39900"/>
+	</item>
+	<item id="2114" type="EtcItem" name="Widowmaker Head">
+		<!-- A key material that Dwarves use to make a Widowmaker. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="39900"/>
+	</item>
+	<item id="2115" type="EtcItem" name="Samurai Longsword Blade">
+		<!-- A key material that Dwarves use to make the Samurai Longsword. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="46636"/>
+	</item>
+	<item id="2116" type="EtcItem" name="Deadman's Staff Head">
+		<!-- A key material that Dwarves use to make the Deadman's Staff. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="43818"/>
+	</item>
+	<item id="2117" type="EtcItem" name="Ghoul's Staff Head">
+		<!-- A key material that Dwarves use to make the Ghoul's Staff. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="43818"/>
+	</item>
+	<item id="2118" type="EtcItem" name="Demon's Staff Head">
+		<!-- A key material that Dwarves use to make the Demon's Staff. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="43818"/>
+	</item>
+	<item id="2119" type="EtcItem" name="Crystal Dagger Blade">
+		<!-- A key material that Dwarves use to make the Crystal Dagger. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="43136"/>
+	</item>
+	<item id="2120" type="EtcItem" name="Great Pata Blade">
+		<!-- A key material that Dwarves use to make the Great Pata. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="45964"/>
+	</item>
+	<item id="2121" type="EtcItem" name="Eminence Bow Shaft">
+		<!-- A key material that Dwarves use to make the Eminence Bow. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="47218"/>
+	</item>
+	<item id="2122" type="EtcItem" name="Orcish Poleaxe Blade">
+		<!-- A key material that Dwarves use to make the Orcish Poleaxe. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="43818"/>
+	</item>
+	<item id="2123" type="EtcItem" name="Candle of Wisdom Model">
+		<!-- A key material that Dwarves use to make the Candle of Wisdom. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="43818"/>
+	</item>
+	<item id="2124" type="EtcItem" name="Blessed Branch Splinter">
+		<!-- A key material that Dwarves use to make the Blessed Branch. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="43818"/>
+	</item>
+	<item id="2125" type="EtcItem" name="Phoenix Feather Piece">
+		<!-- A key material that Dwarves use to make the Phoenix Feather. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="43818"/>
+	</item>
+	<item id="2126" type="EtcItem" name="Cerberus Eye Fragment">
+		<!-- A key material that Dwarves use to make the Cerberus eye. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="43818"/>
+	</item>
+	<item id="2127" type="EtcItem" name="Scroll of Destruction Page">
+		<!-- A key material that Dwarves use to make the Scroll of Destruction. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="43818"/>
+	</item>
+	<item id="2128" type="EtcItem" name="Claws of Black Dragon Piece">
+		<!-- A key material that Dwarves use to make the Claws of Black Dragon. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="43818"/>
+	</item>
+	<item id="2129" type="EtcItem" name="Three Eyed Crow's Feather Piece">
+		<!-- A key material that Dwarves use to make the Three Eyed Crow's Feather. Can be sold in any shop. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="43818"/>
+	</item>
+	<item id="2130" type="EtcItem" name="Gemstone D">
+		<set name="item_type" val="material"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1000"/>
+	</item>
+	<item id="2131" type="EtcItem" name="Gemstone C">
+		<set name="item_type" val="material"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3000"/>
+	</item>
+	<item id="2132" type="EtcItem" name="Gemstone B">
+		<set name="item_type" val="material"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="10000"/>
+	</item>
+	<item id="2133" type="EtcItem" name="Gemstone A">
+		<set name="item_type" val="material"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="30000"/>
+	</item>
+	<item id="2134" type="EtcItem" name="Gemstone S">
+		<set name="item_type" val="material"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="100000"/>
+	</item>
+	<item id="2135" type="EtcItem" name="Recipe: Braided Hemp">
+		<!-- For Dwarves only. The recipe for a Braided Hemp. Requires Create Item - Skill Level 1. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="680"/>
+	</item>
+	<item id="2136" type="EtcItem" name="Recipe: Cokes">
+		<!-- For Dwarves only. The recipe for Cokes. Requires Create Item - Skill Level 1. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="680"/>
+	</item>
+	<item id="2137" type="EtcItem" name="Recipe: Steel">
+		<!-- For Dwarves only. The recipe for Steel. Requires Create Item - Skill Level 1. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="680"/>
+	</item>
+	<item id="2138" type="EtcItem" name="Recipe: Coarse Bone Powder (100%)">
+		<!-- For Dwarves only. The recipe for Coarse Bone Powder. Requires Create Item - Skill Level 1. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="680"/>
+	</item>
+	<item id="2139" type="EtcItem" name="Recipe: Steel Mold">
+		<!-- For Dwarves only. The recipe for a Steel Mold. Requires Create Item - Skill Level 2. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1000"/>
+	</item>
+	<item id="2140" type="EtcItem" name="Recipe: High Grade Suede">
+		<!-- For Dwarves only. The recipe for High Grade Suede. Requires Create Item - Skill Level 2. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1000"/>
+	</item>
+	<item id="2141" type="EtcItem" name="Recipe: Silver Mold">
+		<!-- For Dwarves only. The recipe for a Silver Mold. Requires Create Item - Skill Level 2. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1000"/>
+	</item>
+	<item id="2142" type="EtcItem" name="Recipe: Varnish of Purity">
+		<!-- For Dwarves only. The recipe for Varnish of Purity. Requires Create Item - Skill Level 2. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1000"/>
+	</item>
+	<item id="2143" type="EtcItem" name="Recipe: Synthetic Cokes">
+		<!-- For Dwarves only. The recipe for Synthetic Cokes. Requires Create Item - Skill Level 2. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1000"/>
+	</item>
+	<item id="2144" type="EtcItem" name="Recipe: Compound Braid">
+		<!-- For Dwarves only. The recipe for a Compound Braid. Requires Create Item - Skill Level 2. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1000"/>
+	</item>
+	<item id="2145" type="EtcItem" name="Recipe: Mithril Alloy">
+		<!-- For Dwarves only. The recipe for Mithril Alloy. Requires Create Item - Skill Level 4. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="2800"/>
+	</item>
+	<item id="2146" type="EtcItem" name="Recipe: Artisan's frame">
+		<!-- For Dwarves only. The recipe for an Artisan's frame. Requires Create Item - Skill Level 4. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="2800"/>
+	</item>
+	<item id="2147" type="EtcItem" name="Recipe: Blacksmith's frame">
+		<!-- For Dwarves only. The recipe for a Blacksmith's frame. Requires Create Item - Skill Level 4. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="2800"/>
+	</item>
+	<item id="2148" type="EtcItem" name="Recipe: Crafted Leather">
+		<!-- For Dwarves only. The recipe for Crafted Leather. Requires Create Item - Skill Level 4. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="2800"/>
+	</item>
+	<item id="2149" type="EtcItem" name="Recipe: Metallic Fiber">
+		<!-- For Dwarves only. The recipe for a Metallic Fiber. Requires Create Item - Skill Level 4. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="2800"/>
+	</item>
+	<item id="2150" type="EtcItem" name="Recipe: Blue Diamond Necklace">
+		<!-- For Dwarves only. The recipe for a Blue Diamond Necklace. Requires Create Item - Skill Level 1. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="426"/>
+	</item>
+	<item id="2151" type="EtcItem" name="Recipe: Necklace of Devotion">
+		<!-- For Dwarves only. The recipe for a Necklace of Devotion. Requires Create Item - Skill Level 2. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="718"/>
+	</item>
+	<item id="2152" type="EtcItem" name="Recipe: Enchanted Necklace">
+		<!-- For Dwarves only. The recipe for an Enchanted Necklace. Requires Create Item - Skill Level 2. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1136"/>
+	</item>
+	<item id="2153" type="EtcItem" name="Recipe: Tiger's Eye Earring">
+		<!-- For Dwarves only. The recipe for a Tiger's Eye Earring. Requires Create Item - Skill Level 3. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1286"/>
+	</item>
+	<item id="2154" type="EtcItem" name="Recipe: Elven Earring">
+		<!-- For Dwarves only. The recipe for Elven Earrings. Requires Create Item - Skill Level 3. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1868"/>
+	</item>
+	<item id="2155" type="EtcItem" name="Recipe: Elven Ring">
+		<!-- For Dwarves only. The recipe for an Elven Ring. Requires Create Item - Skill Level 3. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1246"/>
+	</item>
+	<item id="2156" type="EtcItem" name="Recipe: Elven Necklace">
+		<!-- For Dwarves only. The recipe for an Elven Necklace. Requires Create Item - Skill Level 3. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="2500"/>
+	</item>
+	<item id="2157" type="EtcItem" name="Recipe: Omen Beast's Eye Earring">
+		<!-- For Dwarves only. The recipe for an Omen Beast's Eye Earring. Requires Create Item - Skill Level 4. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="2420"/>
+	</item>
+	<item id="2158" type="EtcItem" name="Recipe: Mithril Ring">
+		<!-- For Dwarves only. The recipe for a Mithril Ring. Requires Create Item - Skill Level 4. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1616"/>
+	</item>
+	<item id="2159" type="EtcItem" name="Recipe: Necklace of Darkness">
+		<!-- For Dwarves only. The recipe for a Necklace of Darkness. Requires Create Item - Skill Level 4. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3240"/>
+	</item>
+	<item id="2160" type="EtcItem" name="Recipe: Moonstone Earring">
+		<!-- For Dwarves only. The recipe for Moonstone Earrings. Requires Create Item - Skill Level 4. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3100"/>
+	</item>
+	<item id="2161" type="EtcItem" name="Recipe: Aquastone Ring">
+		<!-- For Dwarves only. The recipe for an Aquastone Ring. Requires Create Item - Skill Level 4. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="2060"/>
+	</item>
+	<item id="2162" type="EtcItem" name="Recipe: Aquastone Necklace">
+		<!-- For Dwarves only. The recipe for an Aquastone Necklace. Requires Create Item - Skill Level 4. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="4140"/>
+	</item>
+	<item id="2163" type="EtcItem" name="Recipe: Earring of Protection">
+		<!-- For Dwarves only. The recipe for Earrings of Protection. Requires Create Item - Skill Level 5. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3920"/>
+	</item>
+	<item id="2164" type="EtcItem" name="Recipe: Ring of Protection">
+		<!-- For Dwarves only. The recipe for a Ring of Protection. Requires Create Item - Skill Level 5. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="2600"/>
+	</item>
+	<item id="2165" type="EtcItem" name="Recipe: Necklace of Protection">
+		<!-- For Dwarves only. The recipe for a Necklace of Protection. Requires Create Item - Skill Level 5. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="5220"/>
+	</item>
+	<item id="2166" type="EtcItem" name="Recipe: Earrings of Binding (100%)">
+		<!-- For Dwarves only. The recipe for Earrings of Binding. Requires Create Item - Skill Level 5. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="5900"/>
+	</item>
+	<item id="2167" type="EtcItem" name="Recipe: Ring of Ages">
+		<!-- For Dwarves only. The recipe for making a Ring of Ages. Requires Create Item - Skill Level 5. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3920"/>
+	</item>
+	<item id="2168" type="EtcItem" name="Recipe: Necklace of Mermaid">
+		<!-- For Dwarves only. The recipe for a Necklace of Mermaid. Requires Create Item - Skill Level 5. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="7860"/>
+	</item>
+	<item id="2169" type="EtcItem" name="Recipe: Necklace of Binding">
+		<!-- For Dwarves only. The recipe for a Necklace of Binding. Requires Create Item - Skill Level 6. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="11300"/>
+	</item>
+	<item id="2170" type="EtcItem" name="Recipe: Nassen's Earring">
+		<!-- For Dwarves only. The recipe for Nassen's earrings. Requires Create Item - Skill Level 6. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="8480"/>
+	</item>
+	<item id="2171" type="EtcItem" name="Recipe: Sage's Ring">
+		<!-- For Dwarves only. The recipe for a Sage's Ring. Requires Create Item - Skill Level 7. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="5640"/>
+	</item>
+	<item id="2172" type="EtcItem" name="Recipe: Sage's Necklace">
+		<!-- For Dwarves only. The recipe for a Sage's Necklace. Requires Create Item - Skill Level 7. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="11300"/>
+	</item>
+	<item id="2173" type="EtcItem" name="Recipe: Hard Leather Shirt">
+		<!-- For Dwarves only. The recipe for a Hard Leather Shirt. Requires Create Item - Skill Level 1. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="738"/>
+	</item>
+	<item id="2174" type="EtcItem" name="Recipe: Hard Leather Gaiters">
+		<!-- For Dwarves only. The recipe for a Hard Leather Gaiters. Requires Create Item - Skill Level 1. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="460"/>
+	</item>
+	<item id="2175" type="EtcItem" name="Recipe: Boots">
+		<!-- For Dwarves only. The recipe for Boots. Requires Create Item - Skill Level 1. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="246"/>
+	</item>
+	<item id="2176" type="EtcItem" name="Recipe: Leather Boots">
+		<!-- For Dwarves only. The recipe for Leather Boots. Requires Create Item - Skill Level 2. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="418"/>
+	</item>
+	<item id="2177" type="EtcItem" name="Recipe: Bone Helmet">
+		<!-- For Dwarves only. The recipe for a Bone Helmet. Requires Create Item - Skill Level 2. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="626"/>
+	</item>
+	<item id="2178" type="EtcItem" name="Recipe: Dark Stockings">
+		<!-- For Dwarves only. The recipe for Dark Stockings. Requires Create Item - Skill Level 2. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1250"/>
+	</item>
+	<item id="2179" type="EtcItem" name="Recipe: Crafted Leather Gloves">
+		<!-- For Dwarves only. The recipe for Crafted Leather Gloves. Requires Create Item - Skill Level 2. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="418"/>
+	</item>
+	<item id="2180" type="EtcItem" name="Recipe: Scale Mail">
+		<!-- For Dwarves only. The recipe for a Scale Mail. Requires Create Item - Skill Level 2. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="2660"/>
+	</item>
+	<item id="2181" type="EtcItem" name="Recipe: White Tunic">
+		<!-- For Dwarves only. The recipe for a White Tunic. Requires Create Item - Skill Level 2. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1998"/>
+	</item>
+	<item id="2182" type="EtcItem" name="Recipe: Scale Gaiters">
+		<!-- For Dwarves only. The recipe for Scale Gaiters. Requires Create Item - Skill Level 2. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1666"/>
+	</item>
+	<item id="2183" type="EtcItem" name="Recipe: Mithril Banded Mail">
+		<!-- For Dwarves only. The recipe for a Mithril Banded Mail. Requires Create Item - Skill Level 3. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3040"/>
+	</item>
+	<item id="2184" type="EtcItem" name="Recipe: Mithril Banded Gaiters">
+		<!-- For Dwarves only. The recipe for Mithril Banded Gaiters. Requires Create Item - Skill Level 3. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1904"/>
+	</item>
+	<item id="2185" type="EtcItem" name="Recipe: Iron Boots">
+		<!-- For Dwarves only. The recipe for Iron Boots. Requires Create Item - Skill Level 3. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1016"/>
+	</item>
+	<item id="2186" type="EtcItem" name="Recipe: Brigandine Tunic">
+		<!-- For Dwarves only. The recipe for Brigandine. Requires Create Item - Skill Level 3. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="5980"/>
+	</item>
+	<item id="2187" type="EtcItem" name="Recipe: Manticore Skin Shirt">
+		<!-- For Dwarves only. The recipe for a Manticore Leather Shirt. Requires Create Item - Skill Level 3. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="4480"/>
+	</item>
+	<item id="2188" type="EtcItem" name="Recipe: Manticore Skin Gaiters">
+		<!-- For Dwarves only. The recipe for Manticore Leather Gaiters. Requires Create Item - Skill Level 3. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="2800"/>
+	</item>
+	<item id="2189" type="EtcItem" name="Recipe: Mithril Tunic">
+		<!-- For Dwarves only. The recipe for a Mithril Tunic. Requires Create Item - Skill Level 3. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="4480"/>
+	</item>
+	<item id="2190" type="EtcItem" name="Recipe: Mithril Stockings">
+		<!-- For Dwarves only. The recipe for Mithril Stockings. Requires Create Item - Skill Level 3. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="2800"/>
+	</item>
+	<item id="2191" type="EtcItem" name="Recipe: RIP Gauntlets">
+		<!-- For Dwarves only. The recipe for RIP Gauntlets. Requires Create Item - Skill Level 3. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1494"/>
+	</item>
+	<item id="2192" type="EtcItem" name="Recipe: Kite Shield">
+		<!-- For Dwarves only. The recipe for a Kite Shield. Requires Create Item - Skill Level 3. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1568"/>
+	</item>
+	<item id="2193" type="EtcItem" name="Recipe: Boots of Power">
+		<!-- For Dwarves only. The recipe for Boots of Power. Requires Create Item - Skill Level 3. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1494"/>
+	</item>
+	<item id="2194" type="EtcItem" name="Recipe: Mithril Gloves">
+		<!-- For Dwarves only. The recipe for Mithril Gloves. Requires Create Item - Skill Level 4. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1956"/>
+	</item>
+	<item id="2195" type="EtcItem" name="Recipe: Half Plate Armor">
+		<!-- For Dwarves only. The recipe for Half Plate. Requires Create Item - Skill Level 4. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="7820"/>
+	</item>
+	<item id="2196" type="EtcItem" name="Recipe: Plate Gaiters">
+		<!-- For Dwarves only. The recipe for Plate Gaiters. Requires Create Item - Skill Level 4. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="4880"/>
+	</item>
+	<item id="2197" type="EtcItem" name="Recipe: Salamander Skin Mail">
+		<!-- For Dwarves only. The recipe for a Salamander Skin Mail. Requires Create Item - Skill Level 4. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="9540"/>
+	</item>
+	<item id="2198" type="EtcItem" name="Recipe: Sage's Rag">
+		<!-- For Dwarves only. The recipe for a Sage's Rag. Requires Create Item - Skill Level 4. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="9540"/>
+	</item>
+	<item id="2199" type="EtcItem" name="Recipe: Karmian Stockings">
+		<!-- For Dwarves only. The recipe for Karmian Stockings. Requires Create Item - Skill Level 4. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="4740"/>
+	</item>
+</list>

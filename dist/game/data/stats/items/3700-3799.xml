@@ -1,0 +1,903 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="3700" type="EtcItem" name="Blood Crystal: Purity 3">
+		<!-- Bloody jewel that contains dreary magical power. Purity 3. The higher the purity of the crystal is, the higher the value. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3701" type="EtcItem" name="Blood Crystal: Purity 4">
+		<!-- Bloody jewel that contains dreary magical power. Purity 4. The higher the purity of the crystal is, the higher the value. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3702" type="EtcItem" name="Blood Crystal: Purity 5">
+		<!-- Bloody jewel that contains dreary magical power. Purity 5. The higher the purity of the crystal is, the higher the value. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3703" type="EtcItem" name="Blood Crystal: Purity 6">
+		<!-- Bloody jewel that contains dreary magical power. Purity 6. The higher the purity of the crystal is, the higher the value. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3704" type="EtcItem" name="Blood Crystal: Purity 7">
+		<!-- Bloody jewel that contains dreary magical power. Purity 7. The higher the purity of the crystal is, the higher the value. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3705" type="EtcItem" name="Blood Crystal: Purity 8">
+		<!-- Bloody jewel that contains dreary magical power. Purity 8. The higher the purity of the crystal is, the higher the value. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3706" type="EtcItem" name="Blood Crystal: Purity 9">
+		<!-- Bloody jewel that contains dreary magical power. Purity 9. The higher the purity of the crystal is, the higher the value. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3707" type="EtcItem" name="Blood Crystal: Purity 10">
+		<!-- Bloody jewel that contains dreary magical power. Purity 10. The higher the purity of the crystal is, the higher the value. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3708" type="EtcItem" name="Blood Crystal: Broken">
+		<!-- Blood crystal broken by magical inequality. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3709" type="EtcItem" name="Guardian Basilisk Scale">
+		<!-- Scale that was peeled off the corpse of guardian basilisk. Collect 40 and take them to Hunter Guild Member Grey. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3710" type="EtcItem" name="Karut Weed">
+		<!-- Blade of grass that Leto lizardman shamans use for medication. Collect 20 and take them to Hunter Guild Member Grey. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3711" type="EtcItem" name="Haka's Head">
+		<!-- Certificate proving that Breka overlord Haka was killed. Take it together with heads of Jaka and Marka to Hunter Guild Member Grey. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3712" type="EtcItem" name="Jakas' Head">
+		<!-- Certificate proving that breka overlord jaka was killed. Take it together with heads of haka and marka to Hunter Guild Member Grey. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3713" type="EtcItem" name="Marka's Head">
+		<!-- Certificate demonstrating that breka overlord marka was killed. Take it together with heads of haka and jaka to Hunter Guild Member Grey. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3714" type="EtcItem" name="Windsus Aleph Skin">
+		<!-- Skin peeled off after killing windsus aleph. Take it to Hunter Guild Member Grey. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3715" type="EtcItem" name="Indigo Runestone">
+		<!-- Runestone obtained from killing manashen or enchanted stone golem. Collect 20 and take them to Hunter Guild Member Grey. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3716" type="EtcItem" name="Sporesea Seed">
+		<!-- Spore that comes out of the body of giant fungus. Collect 30 and take them to Hunter Guild Member Grey. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3717" type="EtcItem" name="Timak Orc Totem">
+		<!-- Small statue that Timak orc fighters carry on their bodies. Collect 20 and take them to Hunter Guild Member Grey. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3718" type="EtcItem" name="Trisalim Silk">
+		<!-- Strong spider web that comes out of the body of trisalim. Collect 20 and take them to Hunter Guild Member Grey. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3719" type="EtcItem" name="Ambrosius Fruit">
+		<!-- Tree fruit obtained from killing valley treants. Collect 30 and take them to Hunter Guild Member Grey. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3720" type="EtcItem" name="Balefire Crystal">
+		<!-- Crystal of ill will obtained from killing tairim. Collect 20 and take them to Hunter Guild Member Grey. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3721" type="EtcItem" name="Imperial Arrowhead">
+		<!-- Arrowhead used by archers of the ancient Elmoreden empire. Collect 20 and take them to Hunter Guild Member Grey. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3722" type="EtcItem" name="Athu's Head">
+		<!-- Certificate proving that talk raider Athu was killed. Collect heads of five raiders and take them to Hunter Guild Member Grey. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3723" type="EtcItem" name="Lanka's Head">
+		<!-- Certificate proving that talk raider Lanka was killed. Collect heads of five raiders and take them to Hunter Guild Member Grey. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3724" type="EtcItem" name="Triska's Head">
+		<!-- Certificate proving that talk raider Triska was killed. Collect heads of five raiders and take them to Hunter Guild Member Grey. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3725" type="EtcItem" name="Motura's Head">
+		<!-- Certificate proving that talk raider Motura was killed. Collect heads of five raiders and take them to Hunter Guild Member Grey. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3726" type="EtcItem" name="Kalath's Head">
+		<!-- Certificate proving that talk raider Kalath was killed. Collect heads of five raiders and take them to Hunter Guild Member Greay. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3727" type="EtcItem" name="1st Circle Request: 1C">
+		<!-- Kill Leto lizardman archer or soldier and get 40 totems of War Hero Kadesh. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3728" type="EtcItem" name="1st Circle Request: 2C">
+		<!-- Kill timak orc warrior or overlord and get 50 timak jade necklaces. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3729" type="EtcItem" name="1st Circle Request: 3C">
+		<!-- Kill enchanted stone golems, collect and bring back 50 of the fragments. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3730" type="EtcItem" name="1st Circle Request: 4C">
+		<!-- Get 30 pieces of giant floating eye. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3731" type="EtcItem" name="1st Circle Request: 5C">
+		<!-- Kill dire wyrms and collect and bring 40 eggs. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3732" type="EtcItem" name="1st Circle Request: 6C">
+		<!-- Collect and bring 100 claws of guardian basilisk. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3733" type="EtcItem" name="1st Circle Request: 7C">
+		<!-- Kill fettered souls and get 50 revenant's chains. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3734" type="EtcItem" name="1st Circle Request: 8C">
+		<!-- Collect and bring 30 tusks of windsus. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3735" type="EtcItem" name="1st Circle Request: 9C">
+		<!-- Collect and bring 100 skulls of grandis. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3736" type="EtcItem" name="1st Circle Request: 10C">
+		<!-- Kill taik orc archer or warrior and collect and bring 50 taik obsidian necklaces. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3737" type="EtcItem" name="1st Circle Request: 11C">
+		<!-- Bring 30 heads of karul bugbear. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3738" type="EtcItem" name="1st Circle Request: 12C">
+		<!-- Kill tamlin orc or tamlin orc archer and collect and bring 40 tamlin ivory amulets. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3739" type="EtcItem" name="1st Circle Request: 1B">
+		<!-- Kill leto chief narak and bring the head. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3740" type="EtcItem" name="1st Circle Request: 2B">
+		<!-- Collect and bring 50 enchanted gargoyle horns. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3741" type="EtcItem" name="1st Circle Request: 3B">
+		<!-- Kill breka orc warrior or shaman and get 50 coiled serpent totems. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3742" type="EtcItem" name="1st Circle Request: 4B">
+		<!-- Kill leto shaman ketz and get demon kadesh totem. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3743" type="EtcItem" name="1st Circle Request: 5B">
+		<!-- Kill timak raider kaikee and bring the head. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3744" type="EtcItem" name="1st Circle Request: 6B">
+		<!-- Get and bring 30 kronbe venom sacs. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3745" type="EtcItem" name="1st Circle Request: 1A">
+		<!-- Kill spore zombie in the Spore Sea and bring 30 amulets of Eva. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3746" type="EtcItem" name="1st Circle Request: 2A">
+		<!-- Kill grandis chief gok magok and bring back the Titan stone tablet. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3747" type="EtcItem" name="1st Circle Request: 3A">
+		<!-- Kill Karul Chief Orooto and bring back the Book of Shunaiman. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3748" type="EtcItem" name="2nd Circle Request: 1C">
+		<!-- Kill rot tree in the Sea of Spores and gather and bring 40 seeds. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3749" type="EtcItem" name="2nd Circle Request 2C">
+		<!-- Gather and bring 40 trisalim venom sacs. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3750" type="EtcItem" name="2nd Circle Request 3C">
+		<!-- Kill taik orc shaman or captain and get 50 taik orc totems. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3751" type="EtcItem" name="2nd Circle Request: 4C">
+		<!-- Kill Harit Lizardman Soldier, Archer and Warrior and collect and bring 40 Harit Barbed Necklaces. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3752" type="EtcItem" name="2nd Circle Request: 5C">
+		<!-- Kill the Harat Ratmen who dwel on the War-Torn Plains and collect 20 coins from the ancient empire and take them to Guild Member Tor. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3753" type="EtcItem" name="2nd Circle Request: 6C">
+		<!-- Bring 30 farcran leathers. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3754" type="EtcItem" name="2nd Circle Request: 7C">
+		<!-- Kill flines in the Enchanted Valley, collect and bring back 40 tempest shards. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3755" type="EtcItem" name="2nd Circle Request: 8C">
+		<!-- Kill lieles in the Enchanted Valley, collect and bring back 40 tsunami shards. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3756" type="EtcItem" name="2nd Circle Request: 9C">
+		<!-- Kill satyr or satyr elder and collect and bring 40 manes that were obtained. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3757" type="EtcItem" name="2nd Circle Request: 10C">
+		<!-- Kill forest runner and collect and bring 40 hamadryadesung shards. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3758" type="EtcItem" name="2nd Circle Request: 11C">
+		<!-- Kill vanor silenos soldier, scout or warrior and collect and bring 30 of their manes. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3759" type="EtcItem" name="2nd Circle Request: 12C">
+		<!-- Kill taik bugbear warriors and collect and bring 30 talk bugbear totems. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3760" type="EtcItem" name="2nd Circle Request: 1B">
+		<!-- Kill timak overlord okun and bring the head. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3761" type="EtcItem" name="2nd Circle Request: 2B">
+		<!-- Kill taik overlord kakran and bring the head. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3762" type="EtcItem" name="2nd Circle Request: 3B">
+		<!-- Destroy mirrors of the Forest of Mirrors and collect and bring 40 narcissus soulstones. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3763" type="EtcItem" name="2nd Circle Request: 4B">
+		<!-- Collect and bring 20 diprive eyes. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3764" type="EtcItem" name="2nd Circle Request: 5B">
+		<!-- Bring 20 unicorn horns. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3765" type="EtcItem" name="2nd Circle Request: 6B">
+		<!-- Kill vanor chief kerunos and remove and bring the mane. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3766" type="EtcItem" name="2nd Circle Request: 1A">
+		<!-- Kill grave wanderers and collect and bring 20 skulls of executed persons. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3767" type="EtcItem" name="2nd Circle Request: 2A">
+		<!-- Kill Harit Chieftain Kubel, recover the bust of King Travis and bring it. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3768" type="EtcItem" name="2nd Circle Request: 3A">
+		<!-- Kill judges of marsh and collect and bring 10 swords of bodyguards of King Cadmus. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3769" type="EtcItem" name="Charm of Kadesh">
+		<!-- Totem obtained from killing Leto lizarman archers or soldiers. Collect 40 and take them to Hunter Guild. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3770" type="EtcItem" name="Timak Jade Necklace">
+		<!-- Necklace obtained from killing Timak orc warrios or warlords. Collect 50 and take them to Hunter Guild. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3771" type="EtcItem" name="Enchanted Golem Shard">
+		<!-- Fragment of destroyed enchanted stone golem. Collect 50 and take them to Hunter Guild. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3772" type="EtcItem" name="Giant Monster Eye Meat">
+		<!-- Piece cut for food from the corpse of a giant monster eye. Collect 30 and take them to Hunter Guild. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3773" type="EtcItem" name="Dire Wyrm Egg">
+		<!-- Egg obtained from female dire wyrm. Collect 40 and take them to Hunter Guild. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3774" type="EtcItem" name="Grd Basilisk Talon">
+		<!-- Claw removed from guardian basilisk corpse. Collect 100 and take them to Guild Member Tor. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3775" type="EtcItem" name="Revenant's Chains">
+		<!-- Chain wrapped around the body of a fettered soul. Collect 50 and take them to Guild Member Tor. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3776" type="EtcItem" name="Windsus Tusk">
+		<!-- Giant tooth of a windsus. Collect 30 and take them to Guild Member Tor. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3777" type="EtcItem" name="Grandis Skull">
+		<!-- Skull obtained from killing grandis. Collect 100 and take them to Guild Member Tor. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3778" type="EtcItem" name="Taik Obsidian Amulet">
+		<!-- Amulet obtained from killing Taik orc archers or warriors. Collect 50 and take them to Guild Member Tor. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3779" type="EtcItem" name="Karul Bugbear Head">
+		<!-- Head cut off after killing Karul bugbears. Collect 30 and take them to Guild Member Tor. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3780" type="EtcItem" name="Tamlin Ivory Charm">
+		<!-- Charm obtained from killing Tamlin orcs or Tamlin orc archers. Collect 40 and take them to Guild Member Tor. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3781" type="EtcItem" name="Fang of Narak">
+		<!-- Certificate of having killed Leto elder Narak. Take it to Guild Member Tor. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3782" type="EtcItem" name="Enchanted Gargoyle Horn">
+		<!-- Horn obtained from destroyed enchanted gargoyle body. Collect 50 and take them to Guild Member Tor. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3783" type="EtcItem" name="Coiled Serpent Totem">
+		<!-- Statue obtained from killing Breka orc warriors or shamen. Collect 50 and take them to Guild Member Tor. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3784" type="EtcItem" name="Totem of Kadesh">
+		<!-- Statue of demon Kadesh obtained from killing Leto shaman Ketz. Take it to Guild Member Tor. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3785" type="EtcItem" name="Kaiki's Head">
+		<!-- Certificate of having killed Timak raider Kaikee. Take it to Guild Member Tor. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3786" type="EtcItem" name="Kronbe Venom Sac">
+		<!-- Venom sac obtained from killing kronbe. Collect 30 and take them to Guild Member Tor. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3787" type="EtcItem" name="Eva's Charm">
+		<!-- Charm carried on the bodies of ancient Elven warriors. Collect 30 and take them to Guild Member Tor. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3788" type="EtcItem" name="Titan's Tablet">
+		<!-- Ancient stone tablet recovered from grandis chief Gok Magok. Take it to Guild Member Tor. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3789" type="EtcItem" name="Book of Shunaiman">
+		<!-- Ancient document recovered from Karul Chief Orooto. Take it to Guild Member Tor. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3790" type="EtcItem" name="Rotting Tree Spores">
+		<!-- Seed collected from rot tree trunks. Collect 40 and take them to Guild Member Tor. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3791" type="EtcItem" name="Trisalim Venom Sac">
+		<!-- Venom sac removed from trisalim corpse. Collect 40 and take them to Guild Member Tor. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3792" type="EtcItem" name="Taik Orc Totem">
+		<!-- Statue obtained from killing Taik orc shamen or captains. Collect 50 and take them to Guild Member Tor. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3793" type="EtcItem" name="Harit Barbed Necklace">
+		<!-- Necklace obtained from killing Harit lizardman soldiers, archers or warriors. Collect 40 and take them to Guild Member Tor. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3794" type="EtcItem" name="Coin of Old Empire">
+		<!-- Coin used during the time of the ancient Elmoreden Empire. Collect 20 and take them to Guild Member Tor. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3795" type="EtcItem" name="Skin of Farcran">
+		<!-- Skin removed after killing farcran. Collect 30 and take them to Guild Member Tor. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3796" type="EtcItem" name="Tempest Shard">
+		<!-- Spirit ore obtained by killing a fline. Collect 40 and take them to Guild Member Tor. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3797" type="EtcItem" name="Tsunami Shard">
+		<!-- Spirit ore obtained by killing a liele. Collect 40 and take them to Guild Member Tor. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3798" type="EtcItem" name="Satyr Mane">
+		<!-- Mane obtained from killing satyr or satyr elders. Collect 40 and take them to Guild Member Tor. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="3799" type="EtcItem" name="Hamadryad Shard">
+		<!-- Runestone obtained from killing forest runner. Collect 40 and take them to Guild Member Tor. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+</list>

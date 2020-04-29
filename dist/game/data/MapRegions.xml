@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- 0 = Talking Island Village -->
+<!-- 1 = Elven Village -->
+<!-- 2 = Dark Elven Village -->
+<!-- 3 = Orc Village -->
+<!-- 4 = Dwarven Village -->
+<!-- 5 = Town of Gludio -->
+<!-- 6 = Gludin Village -->
+<!-- 7 = Town of Dion -->
+<!-- 8 = Town of Giran -->
+<!-- 9 = Town of Oren -->
+<!-- 10 = Town of Aden -->
+<!-- 11 = Hunters Village -->
+<!-- 12 = Giran Harbor -->
+<!-- 13 = Heine -->
+<!-- 14 = Rune Township -->
+<!-- 15 = Town of Goddard -->
+<!-- 16 = Town of Shuttgart -->
+<!-- 17 = Floran Village -->
+<!-- 18 = Primeval Isle -->
+<!-- default = Town of Aden -->
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="xsd/MapRegions.xsd">
+	<map id="0" region1="3" region2="3" region3="3" region4="3" region5="3" region6="4" region7="4" region8="4" region9="4" region10="4" />
+	<map id="1" region1="3" region2="3" region3="3" region4="3" region5="3" region6="4" region7="4" region8="4" region9="4" region10="4" />
+	<map id="2" region1="3" region2="3" region3="7" region4="9" region5="11" region6="4" region7="4" region8="4" region9="4" region10="4" />
+	<map id="3" region1="3" region2="3" region3="3" region4="3" region5="3" region6="4" region7="4" region8="4" region9="4" region10="4" />
+	<map id="4" region1="3" region2="3" region3="3" region4="3" region5="3" region6="4" region7="4" region8="4" region9="4" region10="4" />
+	<map id="5" region1="3" region2="3" region3="3" region4="3" region5="3" region6="16" region7="16" region8="16" region9="15" region10="15" />
+	<map id="6" region1="3" region2="3" region3="3" region4="3" region5="3" region6="16" region7="16" region8="16" region9="15" region10="15" />
+	<map id="7" region1="3" region2="3" region3="3" region4="3" region5="3" region6="14" region7="14" region8="15" region9="15" region10="15" />
+	<map id="8" region1="3" region2="3" region3="3" region4="14" region5="14" region6="14" region7="14" region8="15" region9="15" region10="15" />
+	<map id="9" region1="2" region2="2" region3="2" region4="2" region5="18" region6="2" region7="9" region8="9" region9="10" region10="10" />
+	<map id="10" region1="2" region2="2" region3="2" region4="2" region5="2" region6="9" region7="9" region8="10" region9="10" region10="10" />
+	<map id="11" region1="2" region2="2" region3="2" region4="2" region5="1" region6="1" region7="9" region8="11" region9="10" region10="10" />
+	<map id="12" region1="6" region2="6" region3="2" region4="5" region5="1" region6="1" region7="9" region8="11" region9="11" region10="11" />
+	<map id="13" region1="6" region2="6" region3="5" region4="5" region5="7" region6="7" region7="8" region8="8" region9="8" region10="8" />
+	<map id="14" region1="6" region2="6" region3="6" region4="5" region5="7" region6="7" region7="8" region8="8" region9="8" region10="8" />
+	<map id="15" region1="0" region2="6" region3="6" region4="5" region5="17" region6="12" region7="13" region8="13" region9="13" region10="13" />
+	<map id="16" region1="0" region2="0" region3="6" region4="6" region5="12" region6="12" region7="13" region8="13" region9="13" region10="13" />
+	<map id="17" region1="0" region2="0" region3="0" region4="0" region5="0" region6="0" region7="13" region8="13" region9="13" region10="13" />
+</list>

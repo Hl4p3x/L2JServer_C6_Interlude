@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Custom GM-Shop -->
+<list maintainEnchantment="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/multisell.xsd">
+	<!-- SS/Arrows -->
+	<item id="1">
+		<ingredient id="4037" count="5" enchant="0"/>
+		<production id="4897" count="1" enchant="0"/>
+	</item>
+	<item id="2">
+		<ingredient id="4037" count="5" enchant="0"/>
+		<production id="4898" count="1" enchant="0"/>
+	</item>
+	<item id="3">
+		<ingredient id="4037" count="5" enchant="0"/>
+		<production id="4899" count="1" enchant="0"/>
+	</item>
+	<item id="4">
+		<ingredient id="4037" count="5" enchant="0"/>
+		<production id="4900" count="1" enchant="0"/>
+	</item>
+	<item id="5">
+		<ingredient id="4037" count="5" enchant="0"/>
+		<production id="4901" count="1" enchant="0"/>
+	</item>
+	<item id="6">
+		<ingredient id="4037" count="5" enchant="0"/>
+		<production id="4902" count="1" enchant="0"/>
+	</item>
+</list>

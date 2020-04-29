@@ -1,0 +1,991 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="5300" type="Armor" name="Sealed Boots of The Underworld">
+		<!-- Sealed Boots of The Underworld. Its seal can be broken with the help of the Blacksmith of Mammon. -->
+		<set name="bodypart" val="feet"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="1110"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_def" val="45"/>
+		<set name="price" val="1070000"/>
+		<set name="crystal_count" val="92"/>
+		<for>
+			<add val="45" order="0x10" stat="pDef"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="5301" type="Armor" name="Sealed Tallum Leather Armor">
+		<!-- Sealed Tallum Leather Armor. Its seal can be broken with the help of the Blacksmith of Mammon. -->
+		<set name="bodypart" val="fullarmor"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="light"/>
+		<set name="weight" val="5400"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_def" val="209"/>
+		<set name="price" val="5080000"/>
+		<set name="crystal_count" val="406"/>
+		<for>
+			<add val="209" order="0x10" stat="pDef"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="5302" type="Armor" name="Sealed Gust Bracer">
+		<!-- Sealed Gust Bracer. Its seal can be broken with the help of the Blacksmith of Mammon. -->
+		<set name="bodypart" val="gloves"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="580"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_def" val="45"/>
+		<set name="price" val="1070000"/>
+		<set name="crystal_count" val="92"/>
+		<for>
+			<add val="45" order="0x10" stat="pDef"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="5303" type="Armor" name="Sealed Gust Boots">
+		<!-- Sealed Gust Boots. Its seal can be broken with the help of the Blacksmith of Mammon. -->
+		<set name="bodypart" val="feet"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="1120"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_def" val="45"/>
+		<set name="price" val="1070000"/>
+		<set name="crystal_count" val="92"/>
+		<for>
+			<add val="45" order="0x10" stat="pDef"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="5304" type="Armor" name="Sealed Tallum Tunic">
+		<!-- Sealed Tallum Tunic. Its seal can be broken with the help of the Blacksmith of Mammon. -->
+		<set name="bodypart" val="chest"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="magic"/>
+		<set name="weight" val="1860"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_def" val="86"/>
+		<set name="mp_bonus" val="409"/>
+		<set name="price" val="3470000"/>
+		<set name="crystal_count" val="277"/>
+		<for>
+			<add val="86" order="0x10" stat="pDef"/>
+			<add val="409" order="0x60" stat="maxMp"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="5305" type="Armor" name="Sealed Tallum Stockings">
+		<!-- Sealed Tallum Stockings. Its seal can be broken with the help of the Blacksmith of Mammon. -->
+		<set name="bodypart" val="legs"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="magic"/>
+		<set name="weight" val="920"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_def" val="53"/>
+		<set name="mp_bonus" val="256"/>
+		<set name="price" val="2170000"/>
+		<set name="crystal_count" val="173"/>
+		<for>
+			<add val="53" order="0x10" stat="pDef"/>
+			<add val="256" order="0x60" stat="maxMp"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="5306" type="Armor" name="Sealed Gloves of Black Ore">
+		<!-- Sealed Gloves of Black Ore. Its seal can be broken with the help of the Blacksmith of Mammon. -->
+		<set name="bodypart" val="gloves"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="570"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_def" val="45"/>
+		<set name="price" val="1070000"/>
+		<set name="crystal_count" val="92"/>
+		<for>
+			<add val="45" order="0x10" stat="pDef"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="5307" type="Armor" name="Sealed Red Flame Boots">
+		<!-- Sealed Red Flame Boots. Its seal can be broken with the help of the Blacksmith of Mammon. -->
+		<set name="bodypart" val="feet"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="1120"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_def" val="45"/>
+		<set name="price" val="1070000"/>
+		<set name="crystal_count" val="92"/>
+		<for>
+			<add val="45" order="0x10" stat="pDef"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="5308" type="Armor" name="Sealed Dark Crystal Robe">
+		<!-- Sealed Dark Crystal Robe. Its seal can be broken with the help of the Blacksmith of Mammon. -->
+		<set name="bodypart" val="fullarmor"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="magic"/>
+		<set name="weight" val="2450"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_def" val="139"/>
+		<set name="mp_bonus" val="665"/>
+		<set name="price" val="5080000"/>
+		<set name="crystal_count" val="406"/>
+		<for>
+			<add val="139" order="0x10" stat="pDef"/>
+			<add val="665" order="0x60" stat="maxMp"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="5309" type="Armor" name="Sealed Phoenix Gloves">
+		<!-- Sealed Phoenix Gloves. Its seal can be broken with the help of the Blacksmith of Mammon. -->
+		<set name="bodypart" val="gloves"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="570"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_def" val="45"/>
+		<set name="price" val="1070000"/>
+		<set name="crystal_count" val="92"/>
+		<for>
+			<add val="45" order="0x10" stat="pDef"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="5310" type="Armor" name="Sealed Phoenix Boots">
+		<!-- Sealed Phoenix Boots. Its seal can be broken with the help of the Blacksmith of Mammon. -->
+		<set name="bodypart" val="feet"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="1120"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_def" val="45"/>
+		<set name="price" val="1070000"/>
+		<set name="crystal_count" val="92"/>
+		<for>
+			<add val="45" order="0x10" stat="pDef"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="5311" type="Armor" name="Sealed Armor of Nightmare">
+		<!-- Sealed Armor of Nightmare. Its seal can be broken with the help of the Blacksmith of Mammon. -->
+		<set name="bodypart" val="fullarmor"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="heavy"/>
+		<set name="weight" val="9580"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_def" val="293"/>
+		<set name="price" val="10300000"/>
+		<set name="crystal_count" val="824"/>
+		<for>
+			<add val="293" order="0x10" stat="pDef"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="5312" type="Armor" name="Sealed Helm of Nightmare">
+		<!-- Sealed Helm of Nightmare. Its seal can be broken with the help of the Blacksmith of Mammon. -->
+		<set name="bodypart" val="head"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="560"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_def" val="73"/>
+		<set name="price" val="2640000"/>
+		<set name="crystal_count" val="211"/>
+		<for>
+			<add val="73" order="0x10" stat="pDef"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="5313" type="Armor" name="Sealed Gauntlets of Nightmare">
+		<!-- Sealed Gauntlets of Nightmare. Its seal can be broken with the help of the Blacksmith of Mammon. -->
+		<set name="bodypart" val="gloves"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="550"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_def" val="49"/>
+		<set name="price" val="1760000"/>
+		<set name="crystal_count" val="140"/>
+		<for>
+			<add val="49" order="0x10" stat="pDef"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="5314" type="Armor" name="Sealed Boots of Nightmare">
+		<!-- Sealed Boots of Nightmare. Its seal can be broken with the help of the Blacksmith of Mammon. -->
+		<set name="bodypart" val="feet"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="1110"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_def" val="49"/>
+		<set name="price" val="1760000"/>
+		<set name="crystal_count" val="140"/>
+		<for>
+			<add val="49" order="0x10" stat="pDef"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="5315" type="Weapon" name="Sealed Shield of Nightmare">
+		<!-- Sealed Shield of Nightmare. Its seal can be broken with the help of the Blacksmith of Mammon. -->
+		<set name="bodypart" val="lhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1180"/>
+		<set name="crystal_type" val="a"/>
+		<set name="weapon_type" val="none"/>
+		<set name="avoid_modify" val="-8"/>
+		<set name="shield_def" val="256"/>
+		<set name="shield_def_rate" val="20"/>
+		<set name="price" val="1850000"/>
+		<set name="crystal_count" val="148"/>
+		<for>
+			<sub val="8" order="0x10" stat="rEvas"/>
+			<set val="256" order="0x08" stat="sDef"/>
+			<set val="20" order="0x08" stat="rShld"/>
+			<enchant val="0" order="0x0C" stat="sDef"/>
+		</for>
+	</item>
+	<item id="5316" type="Armor" name="Sealed Majestic Plate Armor">
+		<!-- Sealed Majestic Plate Armor. Its seal can be broken with the help of the Blacksmith of Mammon. -->
+		<set name="bodypart" val="fullarmor"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="heavy"/>
+		<set name="weight" val="9200"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_def" val="293"/>
+		<set name="price" val="10300000"/>
+		<set name="crystal_count" val="824"/>
+		<for>
+			<add val="293" order="0x10" stat="pDef"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="5317" type="Armor" name="Sealed Majestic Circlet">
+		<!-- Sealed Majestic Circlet. Its seal can be broken with the help of the Blacksmith of Mammon. -->
+		<set name="bodypart" val="head"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="550"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_def" val="73"/>
+		<set name="price" val="2640000"/>
+		<set name="crystal_count" val="211"/>
+		<for>
+			<add val="73" order="0x10" stat="pDef"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="5318" type="Armor" name="Sealed Majestic Gauntlets">
+		<!-- Sealed Majestic Gauntlets. Its seal can be broken with the help of the Blacksmith of Mammon. -->
+		<set name="bodypart" val="gloves"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="540"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_def" val="49"/>
+		<set name="price" val="1760000"/>
+		<set name="crystal_count" val="140"/>
+		<for>
+			<add val="49" order="0x10" stat="pDef"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="5319" type="Armor" name="Sealed Majestic Boots">
+		<!-- Sealed Majestic Boots. Its seal can be broken with the help of the Blacksmith of Mammon. -->
+		<set name="bodypart" val="feet"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="1110"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_def" val="49"/>
+		<set name="price" val="1760000"/>
+		<set name="crystal_count" val="140"/>
+		<for>
+			<add val="49" order="0x10" stat="pDef"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="5320" type="Armor" name="Sealed Leather Armor of Nightmare">
+		<!-- Sealed Leather Armor of Nightmare. Its seal can be broken with the help of the Blacksmith of Mammon. -->
+		<set name="bodypart" val="fullarmor"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="light"/>
+		<set name="weight" val="5300"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_def" val="220"/>
+		<set name="price" val="7730000"/>
+		<set name="crystal_count" val="618"/>
+		<for>
+			<add val="220" order="0x10" stat="pDef"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="5321" type="Armor" name="Sealed Dark Legion Gloves">
+		<!-- Sealed Dark Legion Gloves. Its seal can be broken with the help of the Blacksmith of Mammon. -->
+		<set name="bodypart" val="gloves"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="560"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_def" val="48"/>
+		<set name="price" val="1630000"/>
+		<set name="crystal_count" val="140"/>
+		<for>
+			<add val="48" order="0x10" stat="pDef"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="5322" type="Armor" name="Sealed Dark Legion Boots">
+		<!-- Sealed Dark Legion Boots. Its seal can be broken with the help of the Blacksmith of Mammon. -->
+		<set name="bodypart" val="feet"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="1120"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_def" val="48"/>
+		<set name="price" val="1630000"/>
+		<set name="crystal_count" val="140"/>
+		<for>
+			<add val="48" order="0x10" stat="pDef"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="5323" type="Armor" name="Sealed Majestic Leather Armor">
+		<!-- Sealed Majestic Leather Armor. Its seal can be broken with the help of the Blacksmith of Mammon. -->
+		<set name="bodypart" val="fullarmor"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="light"/>
+		<set name="weight" val="5350"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_def" val="220"/>
+		<set name="price" val="7730000"/>
+		<set name="crystal_count" val="618"/>
+		<for>
+			<add val="220" order="0x10" stat="pDef"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="5324" type="Armor" name="Sealed Gloves of Phantom">
+		<!-- Sealed Gloves of Phantom. Its seal can be broken with the help of the Blacksmith of Mammon. -->
+		<set name="bodypart" val="gloves"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="560"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_def" val="48"/>
+		<set name="price" val="1630000"/>
+		<set name="crystal_count" val="140"/>
+		<for>
+			<add val="48" order="0x10" stat="pDef"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="5325" type="Armor" name="Sealed Boots of Phantom">
+		<!-- Sealed Boots of Phantom. Its seal can be broken with the help of the Blacksmith of Mammon. -->
+		<set name="bodypart" val="feet"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="1120"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_def" val="48"/>
+		<set name="price" val="1630000"/>
+		<set name="crystal_count" val="140"/>
+		<for>
+			<add val="48" order="0x10" stat="pDef"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="5326" type="Armor" name="Sealed Nightmare Robe">
+		<!-- Sealed Nightmare Robe. Its seal can be broken with the help of the Blacksmith of Mammon. -->
+		<set name="bodypart" val="fullarmor"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="magic"/>
+		<set name="weight" val="2300"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_def" val="147"/>
+		<set name="mp_bonus" val="718"/>
+		<set name="price" val="7730000"/>
+		<set name="crystal_count" val="618"/>
+		<for>
+			<add val="147" order="0x10" stat="pDef"/>
+			<add val="718" order="0x60" stat="maxMp"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="5327" type="Armor" name="Sealed Cerberus Gloves">
+		<!-- Sealed Cerberus Gloves. Its seal can be broken with the help of the Blacksmith of Mammon. -->
+		<set name="bodypart" val="gloves"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="540"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_def" val="48"/>
+		<set name="price" val="1630000"/>
+		<set name="crystal_count" val="140"/>
+		<for>
+			<add val="48" order="0x10" stat="pDef"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="5328" type="Armor" name="Sealed Cerberus Boots">
+		<!-- Sealed Cerberus Boots. Its seal can be broken with the help of the Blacksmith of Mammon. -->
+		<set name="bodypart" val="feet"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="1120"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_def" val="48"/>
+		<set name="price" val="1630000"/>
+		<set name="crystal_count" val="140"/>
+		<for>
+			<add val="48" order="0x10" stat="pDef"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="5329" type="Armor" name="Sealed Majestic Robe">
+		<!-- Sealed Majestic Robe. Its seal can be broken with the help of the Blacksmith of Mammon. -->
+		<set name="bodypart" val="fullarmor"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="magic"/>
+		<set name="weight" val="2330"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_def" val="147"/>
+		<set name="mp_bonus" val="718"/>
+		<set name="price" val="7730000"/>
+		<set name="crystal_count" val="618"/>
+		<for>
+			<add val="147" order="0x10" stat="pDef"/>
+			<add val="718" order="0x60" stat="maxMp"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="5330" type="Armor" name="Sealed Dasparion's Gloves">
+		<!-- Sealed Dasparion's Gloves. Its seal can be broken with the help of the Blacksmith of Mammon. -->
+		<set name="bodypart" val="gloves"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="550"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_def" val="48"/>
+		<set name="price" val="1630000"/>
+		<set name="crystal_count" val="140"/>
+		<for>
+			<add val="48" order="0x10" stat="pDef"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="5331" type="Armor" name="Sealed Dasparion's Boots">
+		<!-- Sealed Dasparion's Boots. Its seal can be broken with the help of the Blacksmith of Mammon. -->
+		<set name="bodypart" val="feet"/>
+		<set name="crystallizable" val="true"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="1100"/>
+		<set name="crystal_type" val="a"/>
+		<set name="p_def" val="48"/>
+		<set name="price" val="1630000"/>
+		<set name="crystal_count" val="140"/>
+		<for>
+			<add val="48" order="0x10" stat="pDef"/>
+			<enchant val="0" order="0x0C" stat="pDef"/>
+		</for>
+	</item>
+	<item id="5332" type="EtcItem" name="Recipe: Sealed Dark Crystal Leather Armor(60%)">
+		<!-- For Dwarves only. The recipe for the Sealed Dark Crystal Leather Armor. Requires Create Item - Skill Level 7. The success rate is 60%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="69400"/>
+	</item>
+	<item id="5333" type="EtcItem" name="Recipe: Sealed Dark Crystal Leather Armor(100%)">
+		<!-- For Dwarves only. The recipe for the Sealed Dark Crystal Leather Armor. Requires Create Item - Skill Level 7. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5334" type="EtcItem" name="Recipe: Sealed Tallum Leather Armor(60%)">
+		<!-- For Dwarves only. The recipe for the Sealed Tallum Leather Armor. Requires Create Item - Skill Level 7. The success rate is 60%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="101600"/>
+	</item>
+	<item id="5335" type="EtcItem" name="Recipe: Sealed Tallum Leather Armor(100%)">
+		<!-- For Dwarves only. The recipe for the Sealed Tallum Leather Armor. Requires Create Item - Skill Level 7. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5336" type="EtcItem" name="Recipe: Sealed Leather Armor of Nightmare(60%)">
+		<!-- For Dwarves only. The recipe for the Sealed Leather Armor of Nightmare. Requires Create Item - Skill Level 8. The success rate is 60%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="154600"/>
+	</item>
+	<item id="5337" type="EtcItem" name="Recipe: Sealed Leather Armor of Nightmare(100%)">
+		<!-- For Dwarves only. The recipe for the Sealed Leather Armor of Nightmare. Requires Create Item - Skill Level 8. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5338" type="EtcItem" name="Recipe: Sealed Majestic Leather Armor(60%)">
+		<!-- For Dwarves only. The recipe for the Sealed Majestic Leather Armor. Requires Create Item - Skill Level 8. The success rate is 60%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="154600"/>
+	</item>
+	<item id="5339" type="EtcItem" name="Recipe: Sealed Majestic Leather Armor(100%)">
+		<!-- For Dwarves only. The recipe for the Sealed Majestic Leather Armor. Requires Create Item - Skill Level 8. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5340" type="EtcItem" name="Recipe: Sealed Dark Crystal Leggings(60%)">
+		<!-- For Dwarves only. The recipe for the Sealed Dark Crystal Leggings. Requires Create Item - Skill Level 7. The success rate is 60%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="43400"/>
+	</item>
+	<item id="5341" type="EtcItem" name="Recipe: Sealed Dark Crystal Leggings(100%)">
+		<!-- For Dwarves only. The recipe for the Sealed Dark Crystal Leggings. Requires Create Item - Skill Level 7. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5342" type="EtcItem" name="Recipe: Phoenix Earring(70%)">
+		<!-- The recipe used to make a Phoenix Earring. Requires Create Item - Skill Level 7. The success rate is 70%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="20"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5343" type="EtcItem" name="Recipe: Phoenix Earring(100%)">
+		<!-- The recipe used to make a Phoenix Earring. Requires Create Item - Skill Level 7. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="20"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5344" type="EtcItem" name="Recipe: Inferno Earring(70%)">
+		<!-- The recipe used to make an Inferno Earring. Requires Create Item - Skill Level 7. The success rate is 70%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="20"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5345" type="EtcItem" name="Recipe: Inferno Earring(70%)">
+		<!-- The recipe used to make an Inferno Earring. Requires Create Item - Skill Level 7. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="20"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5346" type="EtcItem" name="Recipe: Sealed Tallum Tunic(60%)">
+		<!-- For Dwarves only. The recipe for the Sealed Tallum Tunic. Requires Create Item - Skill Level 7. The success rate is 60%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="69400"/>
+	</item>
+	<item id="5347" type="EtcItem" name="Recipe: Sealed Tallum Tunic(100%)">
+		<!-- For Dwarves only. The recipe for the Sealed Tallum Tunic. Requires Create Item - Skill Level 7. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5348" type="EtcItem" name="Recipe: Sealed Dark Crystal Robe(60%)">
+		<!-- For Dwarves only. The recipe for the Sealed Dark Crystal Robe. Requires Create Item - Skill Level 7. The success rate is 60%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="101600"/>
+	</item>
+	<item id="5349" type="EtcItem" name="Recipe: Sealed Dark Crystal Robe(100%)">
+		<!-- For Dwarves only. The recipe for the Sealed Dark Crystal Robe. Requires Create Item - Skill Level 7. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5350" type="EtcItem" name="Recipe: Sealed Nightmare Robe(60%)">
+		<!-- For Dwarves only. The recipe for the Sealed Nightmare Robe. Requires Create Item - Skill Level 8. The success rate is 60%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="154600"/>
+	</item>
+	<item id="5351" type="EtcItem" name="Recipe: Sealed Nightmare Robe(100%)">
+		<!-- For Dwarves only. The recipe for the Sealed Nightmare Robe. Requires Create Item - Skill Level 8. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5352" type="EtcItem" name="Recipe: Sealed Majestic Robe(60%)">
+		<!-- For Dwarves only. The recipe for the Sealed Majestic Robe. Requires Create Item - Skill Level 8. The success rate is 60%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="154600"/>
+	</item>
+	<item id="5353" type="EtcItem" name="Recipe: Sealed Majestic Robe(100%)">
+		<!-- For Dwarves only. The recipe for the Sealed Majestic Robe. Requires Create Item - Skill Level 8. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5354" type="EtcItem" name="Recipe: Sealed Tallum Stockings(60%)">
+		<!-- For Dwarves only. The recipe for the Sealed Tallum Stockings. Requires Create Item - Skill Level 7. The success rate is 60%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="43400"/>
+	</item>
+	<item id="5355" type="EtcItem" name="Recipe: Sealed Tallum Stockings(100%)">
+		<!-- For Dwarves only. The recipe for the Sealed Tallum Stockings. Requires Create Item - Skill Level 7. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5356" type="EtcItem" name="Recipe: Phoenix Necklace(70%)">
+		<!-- The recipe used to make a Phoenix Necklace. Requires Create Item - Skill Level 7. The success rate is 70%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="20"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5357" type="EtcItem" name="Recipe: Phoenix Necklace(100%)">
+		<!-- The recipe used to make a Phoenix Necklace. Requires Create Item - Skill Level 7. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="20"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5358" type="EtcItem" name="Recipe: Inferno Necklace(70%)">
+		<!-- The recipe used to make an Inferno Necklace. Requires Create Item - Skill Level 8. The success rate is 70%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="20"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5359" type="EtcItem" name="Recipe: Inferno Necklace(100%)">
+		<!-- The recipe used to make an Inferno Necklace. Requires Create Item - Skill Level 8. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="20"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5360" type="EtcItem" name="Recipe: Phoenix Ring(70%)">
+		<!-- The recipe used to make a Phoenix Ring. Requires Create Item - Skill Level 7. The success rate is 70%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="20"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5361" type="EtcItem" name="Recipe: Phoenix Ring(100%)">
+		<!-- The recipe used to make a Phoenix Ring. Requires Create Item - Skill Level 7. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="20"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5362" type="EtcItem" name="Recipe: Inferno Ring(70%)">
+		<!-- The recipe used to make an Inferno Ring. Requires Create Item - Skill Level 8. The success rate is 70%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="20"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5363" type="EtcItem" name="Recipe: Inferno Ring(100%)">
+		<!-- The recipe used to make an Inferno Ring. Requires Create Item - Skill Level 8. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="20"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5364" type="EtcItem" name="Recipe: Sealed Dark Crystal Shield(60%)">
+		<!-- For Dwarves only. The recipe for the Sealed Dark Crystal Shield. Requires Create Item - Skill Level 7. The success rate is 60%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="24400"/>
+	</item>
+	<item id="5365" type="EtcItem" name="Recipe: Sealed Dark Crystal Shield(100%)">
+		<!-- For Dwarves only. The recipe for the Sealed Dark Crystal Shield. Requires Create Item - Skill Level 7. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5366" type="EtcItem" name="Recipe: Sealed Shield of Nightmare(60%)">
+		<!-- For Dwarves only. The recipe for the Sealed Shield of Nightmare. Requires Create Item - Skill Level 8. The success rate is 60%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="37000"/>
+	</item>
+	<item id="5367" type="EtcItem" name="Recipe: Sealed Shield of Nightmare(100%)">
+		<!-- For Dwarves only. The recipe for the Sealed Shield of Nightmare. Requires Create Item - Skill Level 8. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5368" type="EtcItem" name="Recipe: Sealed Dark Crystal Boots(60%)">
+		<!-- For Dwarves only. The recipe for the Sealed Dark Crystal Boots. Requires Create Item - Skill Level 7. The success rate is 60%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="23200"/>
+	</item>
+	<item id="5369" type="EtcItem" name="Recipe: Sealed Dark Crystal Boots(100%)">
+		<!-- For Dwarves only. The recipe for the Sealed Dark Crystal Boots. Requires Create Item - Skill Level 7. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5370" type="EtcItem" name="Recipe: Sealed Tallum Boots(60%)">
+		<!-- For Dwarves only. The recipe for the Sealed Tallum Boots. Requires Create Item - Skill Level 7. The success rate is 60%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="23200"/>
+	</item>
+	<item id="5371" type="EtcItem" name="Recipe: Sealed Tallum Boots(100%)">
+		<!-- For Dwarves only. The recipe for the Sealed Tallum Boots. Requires Create Item - Skill Level 7. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5372" type="EtcItem" name="Recipe: Sealed Boots of The Underworld(60%)">
+		<!-- For Dwarves only. The recipe for the Sealed Boots of the Underworld. Requires Create Item - Skill Level 7. The success rate is 60%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5373" type="EtcItem" name="Recipe: Sealed Boots of The Underworld(100%)">
+		<!-- For Dwarves only. The recipe for the Sealed Boots of the Underworld. Requires Create Item - Skill Level 7. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5374" type="EtcItem" name="Recipe: Sealed Gust Boots(60%)">
+		<!-- For Dwarves only. The recipe for the Sealed Gust Boots. Requires Create Item - Skill Level 7. The success rate is 60%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5375" type="EtcItem" name="Recipe: Sealed Gust Boots(100%)">
+		<!-- For Dwarves only. The recipe for the Sealed Gust Boots. Requires Create Item - Skill Level 7. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5376" type="EtcItem" name="Recipe: Sealed Red Flame Boots(60%)">
+		<!-- For Dwarves only. The recipe for the Sealed Red Flame Boots. Requires Create Item - Skill Level 7. The success rate is 60%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5377" type="EtcItem" name="Recipe: Sealed Red Flame Boots(100%)">
+		<!-- For Dwarves only. The recipe for the Sealed Red Flame Boots. Requires Create Item - Skill Level 7. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5378" type="EtcItem" name="Recipe: Sealed Phoenix Boots(60%)">
+		<!-- For Dwarves only. The recipe for the sealed Phoenix Boots. Requires Create Item - Skill Level 7. The success rate is 60%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5379" type="EtcItem" name="Recipe: Sealed Phoenix Boots(100%)">
+		<!-- For Dwarves only. The recipe for the sealed Phoenix Boots. Requires Create Item - Skill Level 7. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5380" type="EtcItem" name="Recipe: Sealed Boots of Nightmare(60%)">
+		<!-- For Dwarves only. The recipe for the Sealed Boots of Nightmare. Requires Create Item - Skill Level 8. The success rate is 60%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="35200"/>
+	</item>
+	<item id="5381" type="EtcItem" name="Recipe: Sealed Boots of Nightmare(100%)">
+		<!-- For Dwarves only. The recipe for the Sealed Boots of Nightmare. Requires Create Item - Skill Level 8. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5382" type="EtcItem" name="Recipe: Sealed Majestic Boots(60%)">
+		<!-- For Dwarves only. The recipe for the Sealed Majestic Boots. Requires Create Item - Skill Level 8. The success rate is 60%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="35200"/>
+	</item>
+	<item id="5383" type="EtcItem" name="Recipe: Sealed Majestic Boots(100%)">
+		<!-- For Dwarves only. The recipe for the Sealed Majestic Boots. Requires Create Item - Skill Level 8. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5384" type="EtcItem" name="Recipe: Sealed Dark Legion Boots(60%)">
+		<!-- For Dwarves only. The recipe for the Sealed Dark Legion Boots. Requires Create Item - Skill Level 8. The success rate is 60%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5385" type="EtcItem" name="Recipe: Sealed Dark Legion Boots(100%)">
+		<!-- For Dwarves only. The recipe for the Sealed Dark Legion Boots. Requires Create Item - Skill Level 8. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5386" type="EtcItem" name="Recipe: Sealed Boots of Phantom(60%)">
+		<!-- For Dwarves only. The recipe for the Sealed Boots of Phantom. Requires Create Item - Skill Level 8. The success rate is 60%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5387" type="EtcItem" name="Recipe: Sealed Boots of Phantom(100%)">
+		<!-- For Dwarves only. The recipe for the Sealed Boots of Phantom. Requires Create Item - Skill Level 8. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5388" type="EtcItem" name="Recipe: Sealed Cerberus Boots(60%)">
+		<!-- For Dwarves only. The recipe for the sealed Cerberus Boots. Requires Create Item - Skill Level 8. The success rate is 60%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5389" type="EtcItem" name="Recipe: Sealed Cerberus Boots(100%)">
+		<!-- For Dwarves only. The recipe for the sealed Cerberus Boots. Requires Create Item - Skill Level 8. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5390" type="EtcItem" name="Recipe: Sealed Dasparion's Boots Boots(60%)">
+		<!-- For Dwarves only. The recipe for the Sealed Dasparion's Boots. Requires Create Item - Skill Level 8. The success rate is 60%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5391" type="EtcItem" name="Recipe: Sealed Dasparion's Boots Boots(100%)">
+		<!-- For Dwarves only. The recipe for the Sealed Dasparion's Boots. Requires Create Item - Skill Level 8. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5392" type="EtcItem" name="Recipe: Sealed Dark Crystal Gloves(60%)">
+		<!-- For Dwarves only. The recipe for the Sealed Dark Crystal Gloves. Requires Create Item - Skill Level 7. The success rate is 60%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="23200"/>
+	</item>
+	<item id="5393" type="EtcItem" name="Recipe: Sealed Dark Crystal Gloves(100%)">
+		<!-- For Dwarves only. The recipe for the Sealed Dark Crystal Gloves. Requires Create Item - Skill Level 7. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5394" type="EtcItem" name="Recipe: Sealed Tallum Gloves(60%)">
+		<!-- For Dwarves only. The recipe for the Sealed Tallum Gloves. Requires Create Item - Skill Level 7. The success rate is 60%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="23200"/>
+	</item>
+	<item id="5395" type="EtcItem" name="Recipe: Sealed Tallum Gloves(100%)">
+		<!-- For Dwarves only. The recipe for the Sealed Tallum Gloves. Requires Create Item - Skill Level 7. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5396" type="EtcItem" name="Recipe: Sealed Gloves of The Underworld(60%)">
+		<!-- For Dwarves only. The recipe for the sealed Gloves of the Underworld. Requires Create Item - Skill Level 7. The success rate is 60%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5397" type="EtcItem" name="Recipe: Sealed Gloves of The Underworld(100%)">
+		<!-- For Dwarves only. The recipe for the sealed Gloves of the Underworld. Requires Create Item - Skill Level 7. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5398" type="EtcItem" name="Recipe: Sealed Gust Bracer(60%)">
+		<!-- For Dwarves only. The recipe for the Sealed Gust Bracers. Requires Create Item - Skill Level 7. The success rate is 60%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5399" type="EtcItem" name="Recipe: Sealed Gust Bracer(100%)">
+		<!-- For Dwarves only. The recipe for the Sealed Gust Bracers. Requires Create Item - Skill Level 7. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+</list>

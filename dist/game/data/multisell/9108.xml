@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- C-Grade Jewels -->
+
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/multisell.xsd">
+
+	<!-- Blessed Necklace -->
+	<item id="1">
+		<ingredient id="57" count="1200000"/>
+		<production id="919" count="1"/>
+	</item>
+
+	<!-- Blessed Earring -->
+	<item id="2">
+		<ingredient id="57" count="850000"/>
+		<production id="857" count="1"/>
+	</item>
+
+	<!-- Blessed Ring -->
+	<item id="3">
+		<ingredient id="57" count="600000"/>
+		<production id="888" count="1"/>
+	</item>
+
+</list>

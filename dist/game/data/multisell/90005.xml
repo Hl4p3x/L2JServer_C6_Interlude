@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Custom GM-Shop -->
+<list maintainEnchantment="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/multisell.xsd">
+	<!-- Imperial Crusader -->
+	<item id="1">
+		<ingredient id="57" count="30000000"/>
+		<production id="6373" count="1"/>
+		<production id="6374" count="1"/>
+		<production id="6375" count="1"/>
+		<production id="6376" count="1"/>
+		<production id="6378" count="1"/>
+	</item>
+	<!-- Draconic -->
+	<item id="7">
+		<ingredient id="57" count="30000000"/>
+		<production id="6379" count="1"/>
+		<production id="6380" count="1"/>
+		<production id="6381" count="1"/>
+		<production id="6382" count="1"/>
+	</item>
+	<!-- Major -->
+	<item id="12">
+		<ingredient id="57" count="30000000"/>
+		<production id="6383" count="1"/>
+		<production id="6384" count="1"/>
+		<production id="6385" count="1"/>
+		<production id="6386" count="1"/>
+	</item>
+</list>

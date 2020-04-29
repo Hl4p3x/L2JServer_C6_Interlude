@@ -1,0 +1,874 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="7000" type="EtcItem" name="Recipe: Greater Dye of WIT(Wit+3 Int-3) (100%)">
+		<!-- This recipe for Greater Dye of WIT <Wit+3 Int-3> can be used by all races. Requires Create Common Item Skill Level 5. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="18000"/>
+	</item>
+	<item id="7001" type="EtcItem" name="Recipe: Greater Dye of WIT(Wit+3 Men-3) (100%)">
+		<!-- This recipe for Greater Dye of WIT <Wit+3 Men-3> can be used by all races. Requires Create Common Item Skill Level 5. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="18000"/>
+	</item>
+	<item id="7002" type="EtcItem" name="Recipe: Greater Dye of STR (Str+4 Con-4) (100%)">
+		<!-- This recipe for Greater Dye of STR <Str+4 Con-4> can be used by all races. Requires Create Common Item Skill Level 6. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="29000"/>
+	</item>
+	<item id="7003" type="EtcItem" name="Recipe: Greater Dye of STR (Str+4 Dex-4) (100%)">
+		<!-- This recipe for Greater Dye of STR <Str+4 Dex-4> can be used by all races. Requires Create Common Item Skill Level 6. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="29000"/>
+	</item>
+	<item id="7004" type="EtcItem" name="Recipe: Greater Dye of CON (Con+4 Str-4) (100%)">
+		<!-- This recipe for Greater Dye of CON <Con+4 Str-4> can be used by all races. Requires Create Common Item Skill Level 6. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="29000"/>
+	</item>
+	<item id="7005" type="EtcItem" name="Recipe: Greater Dye of CON (Con+4 Dex-4) (100%)">
+		<!-- This recipe for Greater Dye of CON <Con+4 Dex-4> can be used by all races. Requires Create Common Item Skill Level 6. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="29000"/>
+	</item>
+	<item id="7006" type="EtcItem" name="Recipe: Greater Dye of DEX (Dex+4 Str-4) (100%)">
+		<!-- This recipe for Greater Dye of DEX <Dex+4 Str-4> can be used by all races. Requires Create Common Item Skill Level 6. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="29000"/>
+	</item>
+	<item id="7007" type="EtcItem" name="Recipe: Greater Dye of DEX (Dex+4 Con-4) (100%)">
+		<!-- This recipe for Greater Dye of DEX <Dex+4 Con-4> can be used by all races. Requires Create Common Item Skill Level 6. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="29000"/>
+	</item>
+	<item id="7008" type="EtcItem" name="Recipe: Greater Dye of INT (Int+4 Men-4) (100%)">
+		<!-- This recipe for Greater Dye of INT <Int+4 Men-4> can be used by all races. Requires Create Common Item Skill Level 6. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="29000"/>
+	</item>
+	<item id="7009" type="EtcItem" name="Recipe: Greater Dye of INT (Int+4 Wit-4) (100%)">
+		<!-- This recipe for Greater Dye of INT <Int+4 Wit-4> can be used by all races. Requires Create Common Item Skill Level 6. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="29000"/>
+	</item>
+	<item id="7010" type="EtcItem" name="Recipe: Greater Dye of MEN (Men+4 Int-4) (100%)">
+		<!-- This recipe for Greater Dye of MEN <Men+4 Int-4> can be used by all races. Requires Create Common Item Skill Level 6. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="29000"/>
+	</item>
+	<item id="7011" type="EtcItem" name="Recipe: Greater Dye of MEN (Men+4 Wit-4) (100%)">
+		<!-- This recipe for Greater Dye of MEN <Men+4 Wit-4> can be used by all races. Requires Create Common Item Skill Level 6. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="29000"/>
+	</item>
+	<item id="7012" type="EtcItem" name="Recipe: Greater Dye of WIT(Wit+4 Int-4) (100%)">
+		<!-- This recipe for Greater Dye of WIT <Wit+4 Int-4> can be used by all races. Requires Create Common Item Skill Level 6. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="29000"/>
+	</item>
+	<item id="7013" type="EtcItem" name="Recipe: Greater Dye of WIT(Wit+4 Men-4) (100%)">
+		<!-- This recipe for Greater Dye of WIT <Wit+4 Men-4> can be used by all races. Requires Create Common Item Skill Level 6. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="29000"/>
+	</item>
+	<item id="7014" type="Weapon" name="Monster Only (Shield of Dark Dragon)">
+		<set name="bodypart" val="lhand"/>
+		<set name="weight" val="4800"/>
+		<set name="crystal_type" val="none"/>
+		<set name="weapon_type" val="none"/>
+		<set name="avoid_modify" val="-8"/>
+		<set name="shield_def" val="230"/>
+		<set name="shield_def_rate" val="20"/>
+		<set name="price" val="845000"/>
+		<for>
+			<sub val="8" order="0x10" stat="rEvas"/>
+			<set val="230" order="0x08" stat="sDef"/>
+			<set val="20" order="0x08" stat="rShld"/>
+			<enchant val="0" order="0x0C" stat="sDef"/>
+		</for>
+	</item>
+	<item id="7015" type="Weapon" name="Shield of Castle Pledge">
+		<!-- A shield that can only be used by the members of a clan that owns a castle. -->
+		<set name="bodypart" val="lhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="1380"/>
+		<set name="crystal_type" val="none"/>
+		<set name="weapon_type" val="none"/>
+		<set name="avoid_modify" val="-8"/>
+		<set name="shield_def" val="90"/>
+		<set name="shield_def_rate" val="20"/>
+		<set name="price" val="12900"/>
+		<for>
+			<sub val="8" order="0x10" stat="rEvas"/>
+			<set val="90" order="0x08" stat="sDef"/>
+			<set val="20" order="0x08" stat="rShld"/>
+			<enchant val="0" order="0x0C" stat="sDef"/>
+		</for>
+	</item>
+	<item id="7016" type="EtcItem" name="Seed: Blue Cobol">
+		<!-- Plant this seed onto a monster in the Dion area and it will bear the fruit of the Blue Cobol. For best results, a level 32-42 character must plant it on a level 32-42 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="50"/>
+	</item>
+	<item id="7017" type="EtcItem" name="Seed: Blue Codran">
+		<!-- Plant this seed onto a monster in the Gludio area and it will bear the fruit of the Blue Codran. For best results, a level 50-60 character must plant it on a level 50-60 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="50"/>
+	</item>
+	<item id="7018" type="EtcItem" name="Seed: Blue Codran">
+		<!-- Plant this seed onto a monster in the Giran area and it will bear the fruit of the Blue Codran. For best results, a level 50-60 character must plant it on a level 50-60 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="50"/>
+	</item>
+	<item id="7019" type="EtcItem" name="Seed: Chilly Cobol">
+		<!-- Plant this seed onto a monster in the Gludio area and it will bear the fruit of the Chilly Cobol. For best results, a level 29-39 character must plant it on a level 29-39 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="25"/>
+	</item>
+	<item id="7020" type="EtcItem" name="Seed: Chilly Coda">
+		<!-- Plant this seed onto a monster in the Oren area and it will bear the fruit of the Chilly Coda. For best results, a level 11-21 character must plant it on a level 11-21 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="5"/>
+	</item>
+	<item id="7021" type="EtcItem" name="Seed: Chilly Codran">
+		<!-- Plant this seed onto a monster in the Gludio area and it will bear the fruit of the Chilly Codran. For best results, a level 47-57 character must plant it on a level 47-57 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="40"/>
+	</item>
+	<item id="7022" type="EtcItem" name="Seed: Chilly Codran">
+		<!-- Plant this seed onto a monster in the Giran area and it will bear the fruit of the Chilly Codran. For best results, a level 47-57 character must plant it on a level 47-57 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="40"/>
+	</item>
+	<item id="7023" type="EtcItem" name="Seed: Desert Codran">
+		<!-- Plant this seed onto a monster in the Gludio area and it will bear the fruit of the Desert Codran. For best results, a level 59-69 character must plant it on a level 59-69 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="100"/>
+	</item>
+	<item id="7024" type="EtcItem" name="Seed: Desert Codran">
+		<!-- Plant this seed onto a monster in the Goddard area and it will bear the fruit of the Desert Codran. For best results, a level 59-69 character must plant it on a level 59-69 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="100"/>
+	</item>
+	<item id="7025" type="EtcItem" name="Seed: Golden Cobol">
+		<!-- Plant this seed onto a monster in the Oren area and it will bear the fruit of the Golden Cobol. For best results, a level 38-48 character must plant it on a level 38-48 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="50"/>
+	</item>
+	<item id="7026" type="EtcItem" name="Seed: Golden Coda">
+		<!-- Plant this seed onto a monster in the Oren area and it will bear the fruit of the Desert Coda. For best results, a level 17-27 character must plant it on a level 17-27 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="20"/>
+	</item>
+	<item id="7027" type="EtcItem" name="Seed: Great Cobol">
+		<!-- Plant this seed onto a monster in the Oren area and it will bear the fruit of the Great Cobol. For best results, a level 41-51 character must plant it on a level 41-51 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="50"/>
+	</item>
+	<item id="7028" type="EtcItem" name="Seed: Great Codran">
+		<!-- Plant this seed onto a monster in the Gludio area and it will bear the fruit of the Great Codran. For best results, a level 56-66 character must plant it on a level 56-66 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="75"/>
+	</item>
+	<item id="7029" type="EtcItem" name="Seed: Great Codran">
+		<!-- Plant this seed onto a monster in the Giran area and it will bear the fruit of the Great Codran. For best results, a level 56-66 character must plant it on a level 56-66 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="75"/>
+	</item>
+	<item id="7030" type="EtcItem" name="Seed: Alternative Blue Cobol">
+		<!-- Plant this seed onto a monster in the Dion area and it will bear the fruit of the Alternative Blue Cobol. For best results, a level 32-42 character must plant it on a level 32-42 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="50"/>
+	</item>
+	<item id="7031" type="EtcItem" name="Seed: Alternative Blue Codran">
+		<!-- Plant this seed onto a monster in the Gludio area and it will bear the fruit of the Alternative Blue Codran. For best results, a level 50-60 character must plant it on a level 50-60 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="50"/>
+	</item>
+	<item id="7032" type="EtcItem" name="Seed: Alternative Blue Codran">
+		<!-- Plant this seed onto a monster in the Giran area and it will bear the fruit of the Alternative Blue Codran. For best results, a level 50-60 character must plant it on a level 50-60 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="50"/>
+	</item>
+	<item id="7033" type="EtcItem" name="Seed: Alternative Chilly Cobol">
+		<!-- Plant this seed onto a monster in the Gludio area and it will bear the fruit of the Alternative Chilly Cobol. For best results, a level 29-39 character must plant it on a level 29-39 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="25"/>
+	</item>
+	<item id="7034" type="EtcItem" name="Seed: Alternative Chilly Coda">
+		<!-- Plant this seed onto a monster in the Oren area and it will bear the fruit of the Alternative Chilly Coda. For best results, a level 11-21 character must plant it on a level 11-21 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="5"/>
+	</item>
+	<item id="7035" type="EtcItem" name="Seed: Alternative Chilly Codran">
+		<!-- Plant this seed onto a monster in the Gludio area and it will bear the fruit of the Alternative Chilly Codran. For best results, a level 47-57 character must plant it on a level 47-57 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="40"/>
+	</item>
+	<item id="7036" type="EtcItem" name="Seed: Alternative Chilly Codran">
+		<!-- Plant this seed onto a monster in the Giran area and it will bear the fruit of the Alternative Chilly Codran. For best results, a level 47-57 character must plant it on a level 47-57 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="40"/>
+	</item>
+	<item id="7037" type="EtcItem" name="Seed: Alternative Desert Codran">
+		<!-- Plant this seed onto a monster in the Gludio area and it will bear the fruit of the Alternative Desert Codran. For best results, a level 59-69 character must plant it on a level 59-69 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="100"/>
+	</item>
+	<item id="7038" type="EtcItem" name="Seed: Alternative Desert Codran">
+		<!-- Plant this seed onto a monster in the Goddard area and it will bear the fruit of the Alternative Desert Codran. For best results, a level 59-69 character must plant it on a level 59-69 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="100"/>
+	</item>
+	<item id="7039" type="EtcItem" name="Seed: Alternative Golden Cobol">
+		<!-- Plant this seed onto a monster in the Oren area and it will bear the fruit of the Alternative Golden Cobol. For best results, a level 38-48 character must plant it on a level 38-48 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="50"/>
+	</item>
+	<item id="7040" type="EtcItem" name="Seed: Alternative Golden Coda">
+		<!-- Plant this seed onto a monster in the Oren area and it will bear the fruit of the Alternative Golden Coda. For best results, a level 17-27 character must plant it on a level 17-27 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="20"/>
+	</item>
+	<item id="7041" type="EtcItem" name="Seed: Alternative Great Cobol">
+		<!-- Plant this seed onto a monster in the Oren area and it will bear the fruit of the Alternative Great Cobol. For best results, a level 41-51 character must plant it on a level 41-51 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="40"/>
+	</item>
+	<item id="7042" type="EtcItem" name="Seed: Alternative Great Codran">
+		<!-- Plant this seed onto a monster in the Gludio area and it will bear the fruit of the Alternative Great Codran. For best results, a level 56-66 character must plant it on a level 56-66 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="75"/>
+	</item>
+	<item id="7043" type="EtcItem" name="Seed: Alternative Great Codran">
+		<!-- Plant this seed onto a monster in the Giran area and it will bear the fruit of the Alternative Great Codran. For best results, a level 56-66 character must plant it on a level 56-66 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="75"/>
+	</item>
+	<item id="7044" type="EtcItem" name="Seed: Alternative Red Cobol">
+		<!-- Plant this seed onto a monster in the Gludio area and it will bear the fruit of the Alternative Red Cobol. For best results, a level 26-36 character must plant it on a level 26-36 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="20"/>
+	</item>
+	<item id="7045" type="EtcItem" name="Seed: Alternative Red Codran">
+		<!-- Plant this seed onto a monster in the Dion area and it will bear the fruit of the Alternative Red Codran. For best results, a level 44-54 character must plant it on a level 44-54 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="40"/>
+	</item>
+	<item id="7046" type="EtcItem" name="Seed: Alternative Red Codran">
+		<!-- Plant this seed onto a monster in the Oren area and it will bear the fruit of the Alternative Red Codran. For best results, a level 44-54 character must plant it on a level 44-54 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="40"/>
+	</item>
+	<item id="7047" type="EtcItem" name="Seed: Alternative Sea Codran">
+		<!-- Plant this seed onto a monster in the Dion area and it will bear the fruit of the Alternative Sea Codran. For best results, a level 45-55 character must plant it on a level 45-55 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="50"/>
+	</item>
+	<item id="7048" type="EtcItem" name="Seed: Alternative Sea Codran">
+		<!-- Plant this seed onto a monster in the Giran area and it will bear the fruit of the Alternative Sea Codran. For best results, a level 45-55 character must plant it on a level 45-55 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="50"/>
+	</item>
+	<item id="7049" type="EtcItem" name="Seed: Alternative Sea Codran">
+		<!-- Plant this seed onto a monster in the Aden area and it will bear the fruit of the Alternative Sea Codran. For best results, a level 45-55 character must plant it on a level 45-55 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="50"/>
+	</item>
+	<item id="7050" type="EtcItem" name="Seed: Alternative Twin Codran">
+		<!-- Plant this seed onto a monster in the Gludio area and it will bear the fruit of the Alternative Twin Codran. For best results, a level 53-63 character must plant it on a level 53-63 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="50"/>
+	</item>
+	<item id="7051" type="EtcItem" name="Seed: Red Cobol">
+		<!-- Plant this seed onto a monster in the Gludio area and it will bear the fruit of the Red Cobol. For best results, a level 26-36 character must plant it on a level 26-36 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="20"/>
+	</item>
+	<item id="7052" type="EtcItem" name="Seed: Red Codran">
+		<!-- Plant this seed onto a monster in the Dion area and it will bear the fruit of the Red Codran. For best results, a level 44-54 character must plant it on a level 44-54 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="40"/>
+	</item>
+	<item id="7053" type="EtcItem" name="Seed: Red Codran">
+		<!-- Plant this seed onto a monster in the Oren area and it will bear the fruit of the Red Codran. For best results, a level 44-54 character must plant it on a level 44-54 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="40"/>
+	</item>
+	<item id="7054" type="EtcItem" name="Seed: Sea Codran">
+		<!-- Plant this seed onto a monster in the Dion area and it will bear the fruit of the Sea Codran. For best results, a level 44-54 character must plant it on a level 44-54 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="50"/>
+	</item>
+	<item id="7055" type="EtcItem" name="Seed: Sea Codran">
+		<!-- Plant this seed onto a monster in the Giran area and it will bear the fruit of the Sea Codran. For best results, a level 44-54 character must plant it on a level 44-54 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="50"/>
+	</item>
+	<item id="7056" type="EtcItem" name="Seed: Sea Codran">
+		<!-- Plant this seed onto a monster in the Aden area and it will bear the fruit of the Sea Codran. For best results, a level 44-54 character must plant it on a level 44-54 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="50"/>
+	</item>
+	<item id="7057" type="EtcItem" name="Seed: Twin Codran">
+		<!-- Plant this seed onto a monster in the Gludio area and it will bear the fruit of the Twin Codran. For best results, a level 53-63 character must plant it on a level 53-63 monster. -->
+		<set name="item_type" val="seed"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="50"/>
+	</item>
+	<item id="7058" type="Weapon" name="Chrono Darbuka">
+		<!-- Chronicle IV Souvenir!!! -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_dam" val="1"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="bigblunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="1"/>
+		<set name="dropable" val="false"/>
+		<for>
+			<set val="1" order="0x08" stat="pAtk"/>
+			<set val="1" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="7059" type="Armor" name="Golden Festival Mask">
+		<!-- Exclusive item handed out to convention attendees. -->
+		<set name="bodypart" val="face"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="10"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<for>
+			<add val="0" order="0x10" stat="pDef"/>
+		</for>
+	</item>
+	<item id="7060" type="Armor" name="Tateossian Hairband">
+		<!-- Tateossian Hairband -->
+		<set name="bodypart" val="face"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="10"/>
+		<set name="crystal_type" val="none"/>
+		<set name="dropable" val="false"/>
+		<for>
+			<add val="0" order="0x10" stat="pDef"/>
+		</for>
+	</item>
+	<item id="7061" type="EtcItem" name="Echo Crystal - Theme of Birthday">
+		<!-- An echo crystal that plays the theme music of birthday. May only be used once. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="10"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="7062" type="EtcItem" name="Echo Crystal - Theme of Wedding">
+		<!-- An echo crystal that plays the theme music of a wedding. May only be used once. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="10"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="7063" type="EtcItem" name="Map - Forest of the Dead">
+		<!-- A map that was drawn by an old treasure hunter. Double-click to view contents. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="destroyable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7064" type="EtcItem" name="Lidia's Diary">
+		<!-- Personally written by Lidia. Double click to view contents. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="destroyable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7065" type="EtcItem" name="Lidia's Letter">
+		<!-- Letter sent by Lidia. Double click to view contents. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="destroyable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7066" type="EtcItem" name="Contract">
+		<!-- The lost contract. Double click to view contents. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="destroyable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7067" type="EtcItem" name="Special Bait 1">
+		<!-- Special bait used to obtain treasure chest. -->
+		<set name="item_type" val="lure"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="7068" type="EtcItem" name="Special Bait 2">
+		<!-- Special bait used to obtain treasure chest. -->
+		<set name="item_type" val="lure"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="7069" type="EtcItem" name="Special Bait 3">
+		<!-- Special bait used to obtain treasure chest. -->
+		<set name="item_type" val="lure"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="7070" type="EtcItem" name="Special Bait 4">
+		<!-- Special bait used to obtain treasure chest. -->
+		<set name="item_type" val="lure"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="7071" type="EtcItem" name="Special Fish 1">
+		<!-- Treasure chest attained by fishing. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="7072" type="EtcItem" name="Special Fish 2">
+		<!-- Treasure chest attained by fishing. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="7073" type="EtcItem" name="Special Fish 3">
+		<!-- Treasure chest attained by fishing. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="7074" type="EtcItem" name="Special Fish 4">
+		<!-- Treasure chest attained by fishing. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="7075" type="EtcItem" name="Entrance Pass to the Sepulcher">
+		<!-- Pass necessary for entry into the 4th sepulcher at the Imperial Tomb. Ask the Nameless Spirit at the entrance of the 4th sepulcher for directions. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="7076" type="EtcItem" name="Mysterious Cloth">
+		<!-- Premium fabric used in the making of Formal Wear -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="7077" type="EtcItem" name="Jewel Box">
+		<!-- Contains the jewels which will adorn the Formal Wear -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="7078" type="EtcItem" name="Sewing Kit">
+		<!-- Contains the tools necessary to sew (create) Formal Wear -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="7079" type="EtcItem" name="Dimensional Fragment">
+		<!-- Jewel that diffuses the dimension's energy. Required to survive in the Dimensional Rift. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="7080" type="EtcItem" name="Ice Crystal">
+		<!-- Bizarre entity that constantly emits cold air -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7081" type="EtcItem" name="Divine Stone of Wisdom">
+		<!-- Rock fragment emanating a mysterious energy -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="10"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7082" type="EtcItem" name="Guild Report">
+		<!-- Document containing information regarding Demon Allector. Double-click to view contents. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="destroyable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7083" type="EtcItem" name="Guild Report">
+		<!-- Document containing information regarding Demon Allector. Double-click to view contents. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="destroyable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7084" type="EtcItem" name="Guild Report">
+		<!-- Document containing information regarding Demon Allector. Double-click to view contents. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="destroyable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7085" type="EtcItem" name="Guild Report">
+		<!-- Document containing information regarding Great Angel Iconoclasis. Double-click to view contents. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="destroyable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7086" type="EtcItem" name="Guild Report">
+		<!-- Document containing information regarding Great Angel Iconoclasis. Double-click to view contents. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="destroyable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7087" type="EtcItem" name="Tattered Book">
+		<!-- Document containing information regarding demons. Double-click to view contents. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="destroyable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7088" type="EtcItem" name="Tattered Book">
+		<!-- Document containing information regarding demons. Double-click to view contents. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="destroyable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7089" type="EtcItem" name="Tattered Book">
+		<!-- Document containing information regarding demons. Double-click to view contents. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="destroyable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7090" type="EtcItem" name="Tattered Book">
+		<!-- Document containing information regarding demons. Double-click to view contents. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="destroyable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7091" type="EtcItem" name="Guild Report">
+		<!-- Secret document used in the guild. Double-click to view contents. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="destroyable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7092" type="EtcItem" name="Guild Report">
+		<!-- Secret document used in the guild. Double-click to view contents. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="destroyable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7093" type="EtcItem" name="Sculpture of the Fallen Knight">
+		<!-- Contains information regarding Adhil, the fallen knight. Double click to view contents. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="destroyable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7094" type="EtcItem" name="Record of Mother Tree Guardian">
+		<!-- Contains information regarding Guardian of Mother Tree. Double-click to view contents. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="destroyable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7095" type="EtcItem" name="Criticism of Biel's Song">
+		<!-- Contains information regarding Biel. Double-click to view contents. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="destroyable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7096" type="EtcItem" name="The Last Days of Swordsman Iron">
+		<!-- Contains story of Swordsman Iron. Double-click to view contents. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="destroyable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7097" type="EtcItem" name="Contemplation of White Wing Army">
+		<!-- Contains story of White Wing, the army of god. Double-click to view contents. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="destroyable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7098" type="EtcItem" name="Record of Traitor Muhark">
+		<!-- Contains story of Traitor Muhark. Double-click to view contents. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="destroyable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="7099" type="EtcItem" name="Secret Book of Khavatari">
+		<!-- Contains instructions for use of Khavatari's energy, as well as instructions on how to deal with those subdued by his devilishness. Double click to view contents. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="destroyable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+</list>

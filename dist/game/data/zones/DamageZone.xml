@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/zones.xsd">
+	<!-- Damage Zones -->
+	<zone id="71001" type="DamageZone" shape="NPoly" minZ="-496" maxZ="-296"> <!-- aden_damage_1 -->
+		<stat name="castleId" val="5" />
+		<node X="145548" Y="6670" />
+		<node X="145813" Y="6669" />
+		<node X="145813" Y="6803" />
+		<node X="145548" Y="6804" />
+	</zone>
+	<zone id="71002" type="DamageZone" shape="NPoly" minZ="-496" maxZ="-296"> <!-- aden_damage_2 -->
+		<stat name="castleId" val="5" />
+		<node X="145548" Y="6798" />
+		<node X="145813" Y="6797" />
+		<node X="145813" Y="6931" />
+		<node X="145548" Y="6932" />
+	</zone>
+	<zone id="71003" type="DamageZone" shape="NPoly" minZ="-496" maxZ="-296"> <!-- aden_damage_3 -->
+		<stat name="castleId" val="5" />
+		<node X="145548" Y="6926" />
+		<node X="145813" Y="6925" />
+		<node X="145813" Y="7059" />
+		<node X="145548" Y="7060" />
+	</zone>
+	<zone id="71004" type="DamageZone" shape="NPoly" minZ="-528" maxZ="-328"> <!-- aden_damage_4 -->
+		<stat name="castleId" val="5" />
+		<node X="145548" Y="7054" />
+		<node X="145813" Y="7053" />
+		<node X="145813" Y="7187" />
+		<node X="145548" Y="7188" />
+	</zone>
+	<zone id="71005" type="DamageZone" shape="NPoly" minZ="-528" maxZ="-328"> <!-- aden_damage_5 -->
+		<stat name="castleId" val="5" />
+		<node X="149084" Y="6686" />
+		<node X="149349" Y="6685" />
+		<node X="149349" Y="6819" />
+		<node X="149084" Y="6820" />
+	</zone>
+	<zone id="71006" type="DamageZone" shape="NPoly" minZ="-528" maxZ="-328"> <!-- aden_damage_6 -->
+		<stat name="castleId" val="5" />
+		<node X="149084" Y="6814" />
+		<node X="149349" Y="6813" />
+		<node X="149349" Y="6947" />
+		<node X="149084" Y="6948" />
+	</zone>
+	<zone id="71007" type="DamageZone" shape="NPoly" minZ="-528" maxZ="-328"> <!-- aden_damage_7 -->
+		<stat name="castleId" val="5" />
+		<node X="149084" Y="6942" />
+		<node X="149349" Y="6941" />
+		<node X="149349" Y="7075" />
+		<node X="149084" Y="7076" />
+	</zone>
+	<zone id="71008" type="DamageZone" shape="NPoly" minZ="-560" maxZ="-360"> <!-- aden_damage_8 -->
+		<stat name="castleId" val="5" />
+		<node X="149084" Y="7070" />
+		<node X="149349" Y="7069" />
+		<node X="149349" Y="7203" />
+		<node X="149084" Y="7204" />
+	</zone>
+	<zone id="71009" type="DamageZone" shape="NPoly" minZ="-2627" maxZ="-2427"> <!-- gludio_damage_1 -->
+		<stat name="castleId" val="1" />
+		<node X="-18255" Y="110790" />
+		<node X="-17971" Y="110790" />
+		<node X="-17972" Y="111174" />
+		<node X="-18256" Y="111174" />
+	</zone>
+	<zone id="71010" type="DamageZone" shape="NPoly" minZ="-2595" maxZ="-2395"> <!-- gludio_damage_2 -->
+		<stat name="castleId" val="1" />
+		<node X="-19213" Y="107137" />
+		<node X="-18827" Y="107137" />
+		<node X="-18827" Y="107404" />
+		<node X="-19213" Y="107404" />
+	</zone>
+	<zone id="71011" type="DamageZone" shape="NPoly" minZ="-2821" maxZ="30341"> <!-- dion_damage_1 -->
+		<stat name="castleId" val="2" />
+		<node X="22215" Y="158960" />
+		<node X="21931" Y="158960" />
+		<node X="21932" Y="158576" />
+		<node X="22216" Y="158576" />
+	</zone>
+	<zone id="71012" type="DamageZone" shape="NPoly" minZ="-2789" maxZ="30373"> <!-- dion_damage_2 -->
+		<stat name="castleId" val="2" />
+		<node X="23173" Y="162613" />
+		<node X="22787" Y="162613" />
+		<node X="22787" Y="162346" />
+		<node X="23173" Y="162346" />
+	</zone>
+	<zone id="71013" type="DamageZone" shape="NPoly" minZ="-2694" maxZ="13957"> <!-- giran_damage_1 -->
+		<stat name="castleId" val="3" />
+		<node X="115132" Y="144954" />
+		<node X="115132" Y="145238" />
+		<node X="114748" Y="145237" />
+		<node X="114748" Y="144953" />
+	</zone>
+	<zone id="71014" type="DamageZone" shape="NPoly" minZ="-2662" maxZ="13989"> <!-- giran_damage_2 -->
+		<stat name="castleId" val="3" />
+		<node X="118785" Y="143996" />
+		<node X="118785" Y="144382" />
+		<node X="118518" Y="144382" />
+		<node X="118518" Y="143996" />
+	</zone>
+	<zone id="71015" type="DamageZone" shape="NPoly" minZ="-2421" maxZ="13957"> <!-- oren_damage_1 -->
+		<stat name="castleId" val="4" />
+		<node X="81208" Y="37049" />
+		<node X="81208" Y="37333" />
+		<node X="80824" Y="37332" />
+		<node X="80824" Y="37048" />
+	</zone>
+	<zone id="71016" type="DamageZone" shape="NPoly" minZ="-2389" maxZ="13989"> <!-- oren_damage_2 -->
+		<stat name="castleId" val="4" />
+		<node X="84861" Y="36091" />
+		<node X="84861" Y="36477" />
+		<node X="84594" Y="36477" />
+		<node X="84594" Y="36091" />
+	</zone>
+	<zone id="71017" type="DamageZone" shape="NPoly" minZ="-917" maxZ="30341"> <!-- innadrile_damage_1 -->
+		<stat name="castleId" val="6" />
+		<node X="116166" Y="247739" />
+		<node X="115882" Y="247739" />
+		<node X="115883" Y="247355" />
+		<node X="116167" Y="247355" />
+	</zone>
+	<zone id="71018" type="DamageZone" shape="NPoly" minZ="-885" maxZ="30373"> <!-- innadrile_damage_2 -->
+		<stat name="castleId" val="6" />
+		<node X="117124" Y="251392" />
+		<node X="116738" Y="251392" />
+		<node X="116738" Y="251125" />
+		<node X="117124" Y="251125" />
+	</zone>
+	<zone id="71019" type="DamageZone" shape="NPoly" minZ="-1789" maxZ="-1489"> <!-- goddard_damage_1 -->
+		<stat name="castleId" val="7" />
+		<node X="149235" Y="-47768" />
+		<node X="149579" Y="-47608" />
+		<node X="149515" Y="-47472" />
+		<node X="149169" Y="-47634" />
+	</zone>
+	<zone id="71020" type="DamageZone" shape="NPoly" minZ="-1789" maxZ="-1439"> <!-- goddard_damage_2 -->
+		<stat name="castleId" val="7" />
+		<node X="145352" Y="-47607" />
+		<node X="145696" Y="-47768" />
+		<node X="145760" Y="-47633" />
+		<node X="145415" Y="-47471" />
+	</zone>
+	<zone id="71021" type="DamageZone" shape="NPoly" minZ="509" maxZ="809"> <!-- rune_damage_1 -->
+		<stat name="castleId" val="8" />
+		<node X="13785" Y="-47663" />
+		<node X="14046" Y="-47854" />
+		<node X="14203" Y="-47668" />
+		<node X="13916" Y="-47450" />
+	</zone>
+	<zone id="71022" type="DamageZone" shape="NPoly" minZ="518" maxZ="818"> <!-- rune_damage_2 -->
+		<stat name="castleId" val="8" />
+		<node X="13917" Y="-50851" />
+		<node X="14209" Y="-50630" />
+		<node X="14052" Y="-50447" />
+		<node X="13788" Y="-50647" />
+	</zone>
+	<zone id="71023" type="DamageZone" shape="NPoly" minZ="-93" maxZ="207"> <!-- schutt_damage_1 -->
+		<stat name="castleId" val="9" />
+		<node X="75440" Y="-151667" />
+		<node X="75787" Y="-151830" />
+		<node X="75849" Y="-151697" />
+		<node X="75503" Y="-151535" />
+	</zone>
+	<zone id="71024" type="DamageZone" shape="NPoly" minZ="-77" maxZ="223"> <!-- schutt_damage_2 -->
+		<stat name="castleId" val="9" />
+		<node X="79322" Y="-151831" />
+		<node X="79668" Y="-151670" />
+		<node X="79606" Y="-151535" />
+		<node X="79261" Y="-151699" />
+	</zone>
+	<!-- Cruma (Damage Zone) -->
+	<zone type="DamageZone" shape="NPoly" minZ="-6519" maxZ="-6319"> <!-- cruma_boss_damage_zone -->
+		<node X="17869" Y="108566" />
+		<node X="18071" Y="108774" />
+		<node X="18072" Y="109060" />
+		<node X="17865" Y="109265" />
+		<node X="17580" Y="109264" />
+		<node X="17379" Y="109062" />
+		<node X="17379" Y="108774" />
+		<node X="17584" Y="108569" />
+	</zone>
+	<!-- Devil Isle Zones -->
+	<!-- Physical Damage -->
+	<zone type="DamageZone" shape="NPoly" minZ="-4048" maxZ="-3848"> <!-- devil_damage_001 -->
+		<stat name="initialDelay" val="1000" />
+		<stat name="reuse" val="60000" />
+		<node X="51296" Y="205421" />
+		<node X="51788" Y="205266" />
+		<node X="51496" Y="205621" />
+		<node X="51072" Y="205896" />
+	</zone>
+	<zone type="DamageZone" shape="NPoly" minZ="-4032" maxZ="-3732"> <!-- devil_damage_002 -->
+		<stat name="initialDelay" val="1000" />
+		<stat name="reuse" val="60000" />
+		<node X="51820" Y="205340" />
+		<node X="52535" Y="205305" />
+		<node X="52535" Y="205436" />
+		<node X="51705" Y="205528" />
+	</zone>
+	<zone type="DamageZone" shape="NPoly" minZ="-3776" maxZ="-3626"> <!-- devil_damage_003 -->
+		<stat name="initialDelay" val="1000" />
+		<stat name="reuse" val="60000" />
+		<node X="43439" Y="213259" />
+		<node X="43589" Y="213249" />
+		<node X="43750" Y="213760" />
+		<node X="43680" Y="214092" />
+	</zone>
+	<zone type="DamageZone" shape="NPoly" minZ="-3764" maxZ="-3564"> <!-- devil_damage_004 -->
+		<stat name="initialDelay" val="1000" />
+		<stat name="reuse" val="60000" />
+		<node X="42805" Y="214266" />
+		<node X="43627" Y="214195" />
+		<node X="43386" Y="214355" />
+		<node X="42805" Y="214405" />
+	</zone>
+	<zone type="DamageZone" shape="NPoly" minZ="-3856" maxZ="-3656"> <!-- devil_damage_005 -->
+		<stat name="initialDelay" val="1000" />
+		<stat name="reuse" val="60000" />
+		<node X="43511" Y="218426" />
+		<node X="43711" Y="218426" />
+		<node X="43711" Y="218759" />
+		<node X="43511" Y="218759" />
+	</zone>
+	<zone type="DamageZone" shape="NPoly" minZ="-3940" maxZ="-3740"> <!-- devil_damage_006 -->
+		<stat name="initialDelay" val="1000" />
+		<stat name="reuse" val="60000" />
+		<node X="43012" Y="218850" />
+		<node X="43708" Y="218850" />
+		<node X="43719" Y="219260" />
+		<node X="43001" Y="219260" />
+	</zone>
+	<zone type="DamageZone" shape="NPoly" minZ="-3060" maxZ="-2860"> <!-- devil_damage_007 -->
+		<stat name="initialDelay" val="1000" />
+		<stat name="reuse" val="60000" />
+		<node X="50630" Y="211383" />
+		<node X="51129" Y="211383" />
+		<node X="51129" Y="211858" />
+		<node X="50642" Y="211858" />
+	</zone>
+	<zone type="DamageZone" shape="NPoly" minZ="-4008" maxZ="-3608"> <!-- devil_damage_008 -->
+		<stat name="initialDelay" val="1000" />
+		<stat name="reuse" val="60000" />
+		<node X="51820" Y="206520" />
+		<node X="52792" Y="206500" />
+		<node X="52812" Y="207128" />
+		<node X="51844" Y="207060" />
+	</zone>
+	<zone type="DamageZone" shape="NPoly" minZ="-3056" maxZ="-2706"> <!-- devil_damage_009 -->
+		<stat name="initialDelay" val="1000" />
+		<stat name="reuse" val="60000" />
+		<node X="50673" Y="210566" />
+		<node X="51054" Y="210572" />
+		<node X="51054" Y="211317" />
+		<node X="50667" Y="211311" />
+	</zone>
+	<zone type="DamageZone" shape="NPoly" minZ="-2736" maxZ="-2536"> <!-- devil_damage_010 -->
+		<stat name="initialDelay" val="1000" />
+		<stat name="reuse" val="60000" />
+		<node X="50608" Y="209718" />
+		<node X="51145" Y="209718" />
+		<node X="51150" Y="210201" />
+		<node X="50614" Y="210201" />
+	</zone>
+</list>

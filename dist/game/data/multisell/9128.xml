@@ -1,0 +1,151 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- D-Grade Weapons -->
+
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/multisell.xsd">
+
+	<!-- str +1 con-1 -->
+	<item id="1">
+		<ingredient id="57" count="5000000"/>
+		<production id="4553" count="10"/>
+	</item>
+
+	<!-- str+1 dex-1 -->
+	<item id="2">
+		<ingredient id="57" count="5000000"/>
+		<production id="4554" count="10"/>
+	</item>
+
+	<!-- con+1 str-1 -->
+	<item id="3">
+		<ingredient id="57" count="5000000"/>
+		<production id="4555" count="10"/>
+	</item>
+
+	<!-- con+1 dex-1 -->
+	<item id="4">
+		<ingredient id="57" count="5000000"/>
+		<production id="4556" count="10"/>
+	</item>
+
+	<!-- dex+1 str-1 -->
+	<item id="5">
+		<ingredient id="57" count="5000000"/>
+		<production id="4557" count="10"/>
+	</item>
+
+	<!-- dex+1 con-1 -->
+	<item id="6">
+		<ingredient id="57" count="5000000"/>
+		<production id="4558" count="10"/>
+	</item>
+
+	<!-- int+1 men-1 -->
+	<item id="7">
+		<ingredient id="57" count="5000000"/>
+		<production id="4559" count="10"/>
+	</item>
+
+	<!-- int+1 wit-1 -->
+	<item id="8">
+		<ingredient id="57" count="5000000"/>
+		<production id="4560" count="10"/>
+	</item>
+
+	<!-- men+1 int-1 -->
+	<item id="9">
+		<ingredient id="57" count="5000000"/>
+		<production id="4561" count="10"/>
+	</item>
+
+	<!-- men+1 wit-1 -->
+	<item id="10">
+		<ingredient id="57" count="5000000"/>
+		<production id="4562" count="10"/>
+	</item>
+
+	<!-- wit+1 int-1 -->
+	<item id="11">
+		<ingredient id="57" count="5000000"/>
+		<production id="4563" count="10"/>
+	</item>
+
+	<!-- wit+1 men-1 -->
+	<item id="12">
+		<ingredient id="57" count="5000000"/>
+		<production id="4564" count="10"/>
+	</item>
+
+	<!-- con+4 str-4 -->
+	<item id="13">
+		<ingredient id="57" count="5000000"/>
+		<production id="4613" count="10"/>
+	</item>
+
+	<!-- con+4 dex-4 -->
+	<item id="14">
+		<ingredient id="57" count="5000000"/>
+		<production id="4614" count="10"/>
+	</item>
+
+	<!-- con+4 str-4 -->
+	<item id="15">
+		<ingredient id="57" count="5000000"/>
+		<production id="4615" count="10"/>
+	</item>
+
+	<!-- con+4 dex-4 -->
+	<item id="16">
+		<ingredient id="57" count="5000000"/>
+		<production id="4616" count="10"/>
+	</item>
+
+	<!-- dex+4 str-4 -->
+	<item id="17">
+		<ingredient id="57" count="5000000"/>
+		<production id="4617" count="10"/>
+	</item>
+
+	<!-- dex+4 con-4 -->
+	<item id="18">
+		<ingredient id="57" count="5000000"/>
+		<production id="4618" count="10"/>
+	</item>
+
+	<!-- int+4 men-4 -->
+	<item id="19">
+		<ingredient id="57" count="5000000"/>
+		<production id="4619" count="10"/>
+	</item>
+
+	<!-- int+4 wit-4 -->
+	<item id="20">
+		<ingredient id="57" count="5000000"/>
+		<production id="4620" count="10"/>
+	</item>
+
+	<!-- men+4 int-4 -->
+	<item id="21">
+		<ingredient id="57" count="5000000"/>
+		<production id="4621" count="10"/>
+	</item>
+
+	<!-- men+4 wit-4 -->
+	<item id="22">
+		<ingredient id="57" count="5000000"/>
+		<production id="4622" count="10"/>
+	</item>
+
+	<!-- wit+4 int-4 -->
+	<item id="23">
+		<ingredient id="57" count="5000000"/>
+		<production id="4623" count="10"/>
+	</item>
+
+	<!-- wit+4 men-4 -->
+	<item id="24">
+		<ingredient id="57" count="5000000"/>
+		<production id="4624" count="10"/>
+	</item>
+
+</list>

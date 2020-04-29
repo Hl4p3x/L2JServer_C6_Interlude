@@ -1,0 +1,169 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- B-Grade Weapons -->
+
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/multisell.xsd">
+
+	<!-- Sword of Damascus [Focus] -->
+	<item id="1">
+		<ingredient id="57" count="15000000"/>
+		<production id="4717" count="1"/>
+	</item>
+
+	<!-- Sword of Damascus [Critical Damage] -->
+	<item id="2">
+		<ingredient id="57" count="15000000"/>
+		<production id="4718" count="1"/>
+	</item>
+
+	<!-- Sword of Damascus [Haste] -->
+	<item id="3">
+		<ingredient id="57" count="15000000"/>
+		<production id="4719" count="1"/>
+	</item>
+
+	<!-- Bow of Peril [Guidance] -->
+	<item id="4">
+		<ingredient id="57" count="15000000"/>
+		<production id="4828" count="1"/>
+	</item>
+
+	<!-- Bow of Peril [Quick Recovery] -->
+	<item id="5">
+		<ingredient id="57" count="15000000"/>
+		<production id="4829" count="1"/>
+	</item>
+
+	<!-- Bow of Peril [Cheap Shot] -->
+	<item id="6">
+		<ingredient id="57" count="15000000"/>
+		<production id="4830" count="1"/>
+	</item>
+
+	<!-- Kris [Evasion] -->
+	<item id="8">
+		<ingredient id="57" count="15000000"/>
+		<production id="4777" count="1"/>
+	</item>
+
+	<!-- Kris [Focus] -->
+	<item id="9">
+		<ingredient id="57" count="15000000"/>
+		<production id="4778" count="1"/>
+	</item>
+
+	<!-- Kris [Back Blow] -->
+	<item id="10">
+		<ingredient id="57" count="15000000"/>
+		<production id="4779" count="1"/>
+	</item>
+
+	<!-- Art of Battle Axe [Health] -->
+	<item id="11">
+		<ingredient id="57" count="15000000"/>
+		<production id="4753" count="1"/>
+	</item>
+
+	<!-- Art of Battle Axe [Rsk. Focus] -->
+	<item id="12">
+		<ingredient id="57" count="15000000"/>
+		<production id="4754" count="1"/>
+	</item>
+
+	<!-- Art of Battle Axe [Haste] -->
+	<item id="13">
+		<ingredient id="57" count="15000000"/>
+		<production id="4755" count="1"/>
+	</item>
+
+	<!-- Sword of Valhalla [Acumen] -->
+	<item id="14">
+		<ingredient id="57" count="15000000"/>
+		<production id="7722" count="1"/>
+	</item>
+
+	<!-- Sword of Valhalla [Magic Weakness] -->
+	<item id="15">
+		<ingredient id="57" count="15000000"/>
+		<production id="7723" count="1"/>
+	</item>
+
+	<!-- Sword of Valhalla [Magic Regeneration] -->
+	<item id="16">
+		<ingredient id="57" count="15000000"/>
+		<production id="7724" count="1"/>
+	</item>
+
+	<!-- Bellion Cestus [Critical Drain] -->
+	<item id="17">
+		<ingredient id="57" count="15000000"/>
+		<production id="4804" count="1"/>
+	</item>
+
+	<!-- Bellion Cestus [Critical Poison] -->
+	<item id="18">
+		<ingredient id="57" count="15000000"/>
+		<production id="4805" count="1"/>
+	</item>
+
+	<!-- Bellion Cestus [Rsk. Haste] -->
+	<item id="19">
+		<ingredient id="57" count="15000000"/>
+		<production id="4806" count="1"/>
+	</item>
+
+	<!-- Samurai Long Sword*Samurai Long Sword -->
+	<item id="20">
+		<ingredient id="57" count="15000000"/>
+		<production id="2626" count="1"/>
+	</item>
+
+	<!-- Lance [Anger] -->
+	<item id="21">
+		<ingredient id="57" count="15000000"/>
+		<production id="4858" count="1"/>
+	</item>
+
+	<!-- Lance [Critical Stun] -->
+	<item id="22">
+		<ingredient id="57" count="15000000"/>
+		<production id="4859" count="1"/>
+	</item>
+
+	<!-- Lance [Long Blow] -->
+	<item id="23">
+		<ingredient id="57" count="15000000"/>
+		<production id="4860" count="1"/>
+	</item>
+
+	<!-- Staff of Evil Spirits [Bodily Blessing] -->
+	<item id="24">
+		<ingredient id="57" count="500000000"/>
+		<production id="4901" count="1"/>
+	</item>
+
+	<!-- Staff of Evil Spirits [Magic Focus] -->
+	<item id="25">
+		<ingredient id="57" count="500000000"/>
+		<production id="4900" count="1"/>
+	</item>
+
+	<!-- Great Sword [Health] -->
+	<item id="26">
+		<ingredient id="57" count="15000000"/>
+		<production id="4723" count="1"/>
+	</item>
+
+	<!-- Great Sword [Critical Damage] -->
+	<item id="27">
+		<ingredient id="57" count="15000000"/>
+		<production id="4724" count="1"/>
+	</item>
+
+	<!-- Great Sword [Focus] -->
+	<item id="28">
+		<ingredient id="57" count="15000000"/>
+		<production id="4725" count="1"/>
+	</item>
+
+</list>

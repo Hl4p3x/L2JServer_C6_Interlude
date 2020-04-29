@@ -1,0 +1,790 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="4000" type="EtcItem" name="Mercenary Posting Ticket (Spear/Stationary)">
+		<!-- Oren/Spear/Stationary. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="40000"/>
+	</item>
+	<item id="4001" type="EtcItem" name="Mercenary Posting Ticket (Bow/Stationary)">
+		<!-- Oren/Bow/Stationary. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="50000"/>
+	</item>
+	<item id="4002" type="EtcItem" name="Mercenary Posting Ticket (Cleric/Stationary)">
+		<!-- Oren/Cleric/Stationary. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="150000"/>
+	</item>
+	<item id="4003" type="EtcItem" name="Mercenary Posting Ticket (Wizard/Stationary)">
+		<!-- Oren/Wizard/Stationary. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="150000"/>
+	</item>
+	<item id="4004" type="EtcItem" name="Mercenary Posting Ticket (Sword/Mobile)">
+		<!-- Oren/Sword/Mobile. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="30000"/>
+	</item>
+	<item id="4005" type="EtcItem" name="Mercenary Posting Ticket (Spear/Mobile)">
+		<!-- Oren/Spear/Mobile. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="40000"/>
+	</item>
+	<item id="4006" type="EtcItem" name="Mercenary Posting Ticket (Bow/Mobile)">
+		<!-- Oren/Bow/Mobile. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="50000"/>
+	</item>
+	<item id="4007" type="EtcItem" name="Mercenary Posting Ticket (Cleric/Mobile)">
+		<!-- Oren/Cleric/Mobile. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="150000"/>
+	</item>
+	<item id="4008" type="EtcItem" name="Mercenary Posting Ticket (Wizard/Mobile)">
+		<!-- Oren/Wizard/Mobile. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="150000"/>
+	</item>
+	<item id="4009" type="EtcItem" name="Mercenary Posting Ticket (Teleporter1)">
+		<!-- Placed in Oren, at the Teleporter or inside the castle, this ticket allows teleportation to the inner castle or the guardian's location. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="100000"/>
+	</item>
+	<item id="4010" type="EtcItem" name="Mercenary Posting Ticket (Teleporter2)">
+		<!-- Placed in Oren, at the Teleporter or inside the castle, this ticket allows teleportation to the outer castle or the guardian's location. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="100000"/>
+	</item>
+	<item id="4011" type="EtcItem" name="Mercenary Posting Ticket (Teleporter3)">
+		<!-- Placed in Oren, at the Teleporter or inside the castle, this ticket allows teleportation to the inner or outer castle. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="100000"/>
+	</item>
+	<item id="4012" type="EtcItem" name="Mercenary Posting Ticket (Sword/Stationary)">
+		<!-- Aden/Sword/Stationary. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="30000"/>
+	</item>
+	<item id="4013" type="EtcItem" name="Mercenary Posting Ticket (Spear/Stationary)">
+		<!-- Aden/Spear/Stationary. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="40000"/>
+	</item>
+	<item id="4014" type="EtcItem" name="Mercenary Posting Ticket (Bow/Stationary)">
+		<!-- Aden/Bow/Stationary. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="50000"/>
+	</item>
+	<item id="4015" type="EtcItem" name="Mercenary Posting Ticket (Cleric/Stationary)">
+		<!-- Aden/Cleric/Stationary. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="150000"/>
+	</item>
+	<item id="4016" type="EtcItem" name="Mercenary Posting Ticket (Wizard/Stationary)">
+		<!-- Aden/Wizard/Stationary. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="150000"/>
+	</item>
+	<item id="4017" type="EtcItem" name="Mercenary Posting Ticket (Sword/Mobile)">
+		<!-- Aden/Sword/Mobile. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="30000"/>
+	</item>
+	<item id="4018" type="EtcItem" name="Mercenary Posting Ticket (Spear/Mobile)">
+		<!-- Aden/Spear/Mobile. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="40000"/>
+	</item>
+	<item id="4019" type="EtcItem" name="Mercenary Posting Ticket (Bow/Mobile)">
+		<!-- Aden/Bow/Mobile. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="50000"/>
+	</item>
+	<item id="4020" type="EtcItem" name="Mercenary Posting Ticket (Cleric/Mobile)">
+		<!-- Aden/Cleric/Mobile. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="150000"/>
+	</item>
+	<item id="4021" type="EtcItem" name="Mercenary Posting Ticket (Wizard/Mobile)">
+		<!-- Aden/Wizard/Mobile. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="150000"/>
+	</item>
+	<item id="4022" type="EtcItem" name="Mercenary Posting Ticket (Teleporter1)">
+		<!-- Placed in Aden, at the Teleporter or inside the castle, this ticket allows teleportation to the East or West Gate of the inner castle, the halls or the guardian's location. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="100000"/>
+	</item>
+	<item id="4023" type="EtcItem" name="Mercenary Posting Ticket (Teleporter2)">
+		<!-- Placed in Aden, at the Teleporter or inside the castle, this ticket allows teleportation to the outer castle, the East Gate of the inner castle, the halls or the guardian's location. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="100000"/>
+	</item>
+	<item id="4024" type="EtcItem" name="Mercenary Posting Ticket (Teleporter3)">
+		<!-- Placed in Aden, at the Teleporter or inside the castle, this ticket allows teleportation to the outer castle, the West Gate of the inner castle, the halls or the guardian's location. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="100000"/>
+	</item>
+	<item id="4025" type="EtcItem" name="Mercenary Posting Ticket (Teleporter4)">
+		<!-- Placed in Aden, at the Teleporter or inside the castle, this ticket allows teleportation to the outer castle, the East or West Gate of the inner castle, or the guardian's location. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="100000"/>
+	</item>
+	<item id="4026" type="EtcItem" name="Mercenary Posting Ticket (Teleporter5)">
+		<!-- Placed in Aden, at the Teleporter or inside the castle, this ticket allows teleportation to the outer castle, the East or West Gate of the inner castle, or the halls. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="100000"/>
+	</item>
+	<item id="4027" type="Weapon" name="Bouquet">
+		<set name="bodypart" val="rhand"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_dam" val="8"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="sword"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="379"/>
+		<set name="m_dam" val="6"/>
+		<for>
+			<set val="8" order="0x08" stat="pAtk"/>
+			<set val="6" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<add val="0" order="0x10" stat="accCombat"/>
+			<set val="379" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="4028" type="Weapon" name="Giant Cannon">
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="300"/>
+		<set name="soulshots" val="2"/>
+		<set name="spiritshots" val="2"/>
+		<set name="crystal_type" val="d"/>
+		<set name="p_dam" val="5"/>
+		<set name="rnd_dam" val="5"/>
+		<set name="weapon_type" val="dagger"/>
+		<set name="critical" val="12"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="433"/>
+		<set name="m_dam" val="5"/>
+		<set name="price" val="409000"/>
+		<set name="crystal_count" val="743"/>
+		<for>
+			<set val="5" order="0x08" stat="pAtk"/>
+			<set val="5" order="0x08" stat="mAtk"/>
+			<set val="12" order="0x08" stat="rCrit"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="433" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="4029" type="EtcItem" name="Red Paper">
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1"/>
+	</item>
+	<item id="4030" type="EtcItem" name="Orange Paper">
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1"/>
+	</item>
+	<item id="4031" type="EtcItem" name="Yellow Paper">
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1"/>
+	</item>
+	<item id="4032" type="EtcItem" name="Green Paper">
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1"/>
+	</item>
+	<item id="4033" type="EtcItem" name="Blue Paper">
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1"/>
+	</item>
+	<item id="4034" type="EtcItem" name="Purple Paper">
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1"/>
+	</item>
+	<item id="4035" type="EtcItem" name="White Paper">
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1"/>
+	</item>
+	<item id="4036" type="EtcItem" name="Black Paper">
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1"/>
+	</item>
+	<item id="4037" type="EtcItem" name="Coin of Luck">
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="4038" type="EtcItem" name="Food For Hatchling">
+		<!-- When the hunger gauge of a hatchling reaches 55% or below, its food will be consumed automatically. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="40"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="150"/>
+	</item>
+	<item id="4039" type="EtcItem" name="Mold Glue">
+		<!-- Ingredient for making upper garment tools. Can also be sold at ordinary shops. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="6000"/>
+	</item>
+	<item id="4040" type="EtcItem" name="Mold Lubricant">
+		<!-- Ingredient for making upper garment tools. Can also be sold at ordinary shops. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="10000"/>
+	</item>
+	<item id="4041" type="EtcItem" name="Mold Hardener">
+		<!-- Ingredient for making upper garment tools. Can also be sold at ordinary shops. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="23000"/>
+	</item>
+	<item id="4042" type="EtcItem" name="Enria">
+		<!-- Crystal representing revenge and destruction. Used for making items of B-Grade and above and can also be sold at ordinary shops. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="12000"/>
+	</item>
+	<item id="4043" type="EtcItem" name="Asofe">
+		<!-- Crystal representing life and protection. Used for making items of B-Grade and above and can also be sold at ordinary shops. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="6000"/>
+	</item>
+	<item id="4044" type="EtcItem" name="Thons">
+		<!-- Crystal representing choice and consciousness. Used for making items of B-Grade and above and can also be sold at ordinary shops. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="6000"/>
+	</item>
+	<item id="4045" type="EtcItem" name="Maestro Holder">
+		<!-- Ingredient used in making Dwarven items. Can also be sold at ordinary shops. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="411000"/>
+	</item>
+	<item id="4046" type="EtcItem" name="Maestro Anvil Lock">
+		<!-- Ingredient used in making Dwarven items. Can also be sold at ordinary shops. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="90400"/>
+	</item>
+	<item id="4047" type="EtcItem" name="Craftsman Mold">
+		<!-- Ingredient used in making Dwarven items. Can also be sold at ordinary shops. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="710000"/>
+	</item>
+	<item id="4048" type="EtcItem" name="Maestro Mold">
+		<!-- Ingredient used in making Dwarven items. Can also be sold at ordinary shops. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="154000"/>
+	</item>
+	<item id="4049" type="EtcItem" name="Adamantite Earring Gemstone">
+		<!-- Main ingredient definitely required for a Dwarf to make admantite earrings. Can also be sold at ordinary shops. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3813"/>
+	</item>
+	<item id="4050" type="EtcItem" name="Adamantite Ring Wire">
+		<!-- Main ingredient definitely required for a Dwarf to make admantite ring. Can also be sold at ordinary shops. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3228"/>
+	</item>
+	<item id="4051" type="EtcItem" name="Adamantite Necklace Chain">
+		<!-- Main ingredient definitely required for a Dwarf to make admantite necklace. Can also be sold at ordinary shops. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="5157"/>
+	</item>
+	<item id="4052" type="EtcItem" name="Earring of Black Ore Piece">
+		<!-- Main ingredient definitely required for a Dwarf to make Earrings of Black Ore. Can also be sold at ordinary shops. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="5649"/>
+	</item>
+	<item id="4053" type="EtcItem" name="Ring of Black Ore Gemstone">
+		<!-- Main ingredient definitely required for a Dwarf to make Ring of Black Ore. Can also be sold at ordinary shops. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="4666"/>
+	</item>
+	<item id="4054" type="EtcItem" name="Necklace of Black Ore Beads">
+		<!-- Main ingredient definitely required for a Dwarf to make Necklace of Black Ore. Can also be sold at ordinary shops. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="10154"/>
+	</item>
+	<item id="4055" type="EtcItem" name="Composite Shield Fragment">
+		<!-- Main ingredient definitely required for a Dwarf to make Composite Shield. Can also be sold at ordinary shops. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3120"/>
+	</item>
+	<item id="4056" type="EtcItem" name="Zubei's Breastplate Part">
+		<!-- Main ingredient definitely required for a Dwarf to make Zubei's Breastplate. Can also be sold at ordinary shops. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="11050"/>
+	</item>
+	<item id="4057" type="EtcItem" name="Zubei's Gaiter Material">
+		<!-- Main ingredient definitely required for a Dwarf to make Zubei's Gaiters. Can also be sold at ordinary shops. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="7150"/>
+	</item>
+	<item id="4058" type="EtcItem" name="Implosion Boots Part">
+		<!-- Main ingredient definitely required for a Dwarf to make Implosion Boots. Can also be sold at ordinary shops. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="4455"/>
+	</item>
+	<item id="4059" type="EtcItem" name="Boots of Silence Fabric">
+		<!-- Main ingredient definitely required for a Dwarf to make silent Boots. Can also be sold at ordinary shops. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3843"/>
+	</item>
+	<item id="4060" type="EtcItem" name="Guardian's Boots Fabric">
+		<!-- Main ingredient definitely required for a Dwarf to make guardian Boots. Can also be sold at ordinary shops. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3843"/>
+	</item>
+	<item id="4061" type="EtcItem" name="Paradia Boots Pattern">
+		<!-- Main ingredient definitely required for a Dwarf to make Paradia Boots. Can also be sold at ordinary shops. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="4455"/>
+	</item>
+	<item id="4062" type="EtcItem" name="Elemental Boots Lining">
+		<!-- Main ingredient definitely required for a Dwarf to make Elemental Boots. Can also be sold at ordinary shops. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="4455"/>
+	</item>
+	<item id="4063" type="EtcItem" name="Boots of Grace Lining">
+		<!-- Main ingredient definitely required for a Dwarf to make grace Boots. Can also be sold at ordinary shops. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="4455"/>
+	</item>
+	<item id="4064" type="EtcItem" name="Avadon Breastplate Part">
+		<!-- Main ingredient definitely required for a Dwarf to make an Avadon Breastplate. Can also be sold at ordinary shops. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="11050"/>
+	</item>
+	<item id="4065" type="EtcItem" name="Avadon Gaiters Material">
+		<!-- Main ingredient definitely required for a Dwarf to make avadon Plate Gaiters. Can also be sold at ordinary shops. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="7150"/>
+	</item>
+	<item id="4066" type="EtcItem" name="Zubei's Leather Shirt Fabric">
+		<!-- Main ingredient definitely required for a Dwarf to make Zubei's Leather Shirt. Can also be sold at ordinary shops. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="8483"/>
+	</item>
+	<item id="4067" type="EtcItem" name="Zubei's Leather Gaiter Texture">
+		<!-- Main ingredient definitely required for a Dwarf to make Zubei's Leather Gaiters. Can also be sold at ordinary shops. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="5587"/>
+	</item>
+	<item id="4068" type="EtcItem" name="Avadon Leather Armor Lining">
+		<!-- Main ingredient definitely required for a Dwarf to make Avadon Leather Armor. Can also be sold at ordinary shops. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="11042"/>
+	</item>
+	<item id="4069" type="EtcItem" name="Tunic of Zubei Fabric">
+		<!-- Main ingredient definitely required for a Dwarf to make Tunic of Zubei. Can also be sold at ordinary shops. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="8483"/>
+	</item>
+	<item id="4070" type="EtcItem" name="Stockings of Zubei Fabric">
+		<!-- Main ingredient definitely required for a Dwarf to make Stockings of Zubei. Can also be sold at ordinary shops. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="5587"/>
+	</item>
+	<item id="4071" type="EtcItem" name="Avadon Robe Fabric">
+		<!-- Main ingredient definitely required for a Dwarf to make Avadon Robe. Can also be sold at ordinary shops. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="11042"/>
+	</item>
+	<item id="4072" type="EtcItem" name="Avadon Circlet Pattern">
+		<!-- Main ingredient definitely required for a Dwarf to make Avadon Circlet. Can also be sold at ordinary shops. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="4453"/>
+	</item>
+	<item id="4073" type="EtcItem" name="Avadon Gloves Part">
+		<!-- Main ingredient definitely required for a Dwarf to make Avadon Gloves. Can also be sold at ordinary shops. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3843"/>
+	</item>
+	<item id="4074" type="EtcItem" name="Chain Gloves of Silence Design">
+		<!-- Main ingredient definitely required for a Dwarf to make Chain Gloves of Silence. Can also be sold at ordinary shops. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3843"/>
+	</item>
+	<item id="4075" type="EtcItem" name="Guardian's Gloves Design">
+		<!-- Main ingredient definitely required for a Dwarf to Guardian's Gloves. Can also be sold at ordinary shops. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3843"/>
+	</item>
+	<item id="4076" type="EtcItem" name="Gloves of Blessing Pattern">
+		<!-- Main ingredient definitely required for a Dwarf to make Gloves of Blessing. Can also be sold at ordinary shops. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3843"/>
+	</item>
+	<item id="4077" type="EtcItem" name="Doom Shield Fragment">
+		<!-- Main ingredient definitely required for a Dwarf to make Doom Shield. Can also be sold at ordinary shops. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="4446"/>
+	</item>
+	<item id="4078" type="EtcItem" name="Blue Wolf Breastplate Part">
+		<!-- Main ingredient definitely required for a Dwarf to make Blue Wolf Breastplate. Can also be sold at ordinary shops. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="13692"/>
+	</item>
+	<item id="4079" type="EtcItem" name="Boots of Blessing Design">
+		<!-- Main ingredient definitely required for a Dwarf to make Boots of Blessing. Can also be sold at ordinary shops. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3843"/>
+	</item>
+	<item id="4080" type="EtcItem" name="Blue Wolf Gaiters Material">
+		<!-- Main ingredient definitely required for a Dwarf to make Blue Wolf Gaiters. Can also be sold at ordinary shops. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="9723"/>
+	</item>
+	<item id="4081" type="EtcItem" name="Doom Plate Armor Temper">
+		<!-- Main ingredient definitely required for a Dwarf to make Doom Plate Armor. Can also be sold at ordinary shops. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="20292"/>
+	</item>
+	<item id="4082" type="EtcItem" name="Blue Wolf Leather Armor Texture">
+		<!-- Main ingredient definitely required for a Dwarf to make Blue Wolf Leather Armor. Can also be sold at ordinary shops. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="17700"/>
+	</item>
+	<item id="4083" type="EtcItem" name="Leather Armor of Doom Design">
+		<!-- Main ingredient definitely required for a Dwarf to make Leather Armor of Doom. Can also be sold at ordinary shops. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="17700"/>
+	</item>
+	<item id="4084" type="EtcItem" name="Blue Wolf Tunic Fabric">
+		<!-- Main ingredient definitely required for a Dwarf to make Blue Wolf Tunic. Can also be sold at ordinary shops. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="11508"/>
+	</item>
+	<item id="4085" type="EtcItem" name="Tunic of Doom Pattern">
+		<!-- Main ingredient definitely required for a Dwarf to make Tunic of Doom. Can also be sold at ordinary shops. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="11508"/>
+	</item>
+	<item id="4086" type="EtcItem" name="Blue Wolf Stockings Pattern">
+		<!-- Main ingredient definitely required for a Dwarf to make Blue Wolf Stockings. Can also be sold at ordinary shops. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="8523"/>
+	</item>
+	<item id="4087" type="EtcItem" name="Stockings of Doom Pattern">
+		<!-- Main ingredient definitely required for a Dwarf to make Stockings of Doom. Can also be sold at ordinary shops. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="8523"/>
+	</item>
+	<item id="4088" type="EtcItem" name="Blue Wolf Helmet Design">
+		<!-- Main ingredient definitely required for a Dwarf to make Blue Wolf Helmet. Can also be sold at ordinary shops. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="5292"/>
+	</item>
+	<item id="4089" type="EtcItem" name="Doom Helmet Pattern">
+		<!-- Main ingredient definitely required for a Dwarf to make Doom Helmet. Can also be sold at ordinary shops. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="5292"/>
+	</item>
+	<item id="4090" type="EtcItem" name="Blue Wolf Boots Design">
+		<!-- Main ingredient definitely required for a Dwarf to make Blue Wolf Boots. Can also be sold at ordinary shops. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="4455"/>
+	</item>
+	<item id="4091" type="EtcItem" name="Doom Gloves Part">
+		<!-- Main ingredient definitely required for a Dwarf to make Doom Gloves. Can also be sold at ordinary shops. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="4455"/>
+	</item>
+	<item id="4092" type="EtcItem" name="Elemental Gloves Lining">
+		<!-- Main ingredient definitely required for a Dwarf to make Elemental Gloves. Can also be sold at ordinary shops. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="4455"/>
+	</item>
+	<item id="4093" type="EtcItem" name="Gloves of Grace Lining">
+		<!-- Main ingredient definitely required for a Dwarf to make Gloves of Grace. Can also be sold at ordinary shops. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="4455"/>
+	</item>
+	<item id="4094" type="EtcItem" name="Implosion Gauntlet Fabric">
+		<!-- Main ingredient definitely required for a Dwarf to make Implosion Gauntlets. Can also be sold at ordinary shops. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="4455"/>
+	</item>
+	<item id="4095" type="EtcItem" name="Paradia Gloves Pattern">
+		<!-- Main ingredient definitely required for a Dwarf to make Paradia Gloves. Can also be sold at ordinary shops. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="4455"/>
+	</item>
+	<item id="4096" type="EtcItem" name="Blue Wolf Gloves Fabric">
+		<!-- Main ingredient definitely required for a Dwarf to make Blue Wolf Gloves. Can also be sold at ordinary shops. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="4455"/>
+	</item>
+	<item id="4097" type="EtcItem" name="Zubei's Boots Design">
+		<!-- Main ingredient definitely required for a Dwarf to make Zubei's Boots. Can also be sold at ordinary shops. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3843"/>
+	</item>
+	<item id="4098" type="EtcItem" name="Avadon Boots Design">
+		<!-- Main ingredient definitely required for a Dwarf to make Avadon Boots. Can also be sold at ordinary shops. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3843"/>
+	</item>
+	<item id="4099" type="EtcItem" name="Doom Boots Part">
+		<!-- Main ingredient definitely required for a Dwarf to make Doom Boots. Can also be sold at ordinary shops. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="4455"/>
+	</item>
+</list>

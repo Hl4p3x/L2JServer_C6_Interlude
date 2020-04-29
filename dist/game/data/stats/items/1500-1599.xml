@@ -1,0 +1,911 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="1500" type="EtcItem" name="Totem of Hestui">
+		<!-- The totem of the Hestui. Can be sold in any shop for a high price. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="10"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="11000"/>
+	</item>
+	<item id="1501" type="EtcItem" name="Maraku Werewolf Totem">
+		<!-- Maraku Wolfmen Totem. Can be sold in any shop. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="10"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1200"/>
+	</item>
+	<item id="1502" type="EtcItem" name="Grandma's Pearl">
+		<!-- An article left by the grandmother of Redbonnet. Can be sold in any shop for a high price. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="10"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="5000"/>
+	</item>
+	<item id="1503" type="EtcItem" name="Grandma's Mirror">
+		<!-- An article left by the grandmother of Redbonnet. Can be sold in any shop. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="10"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="500"/>
+	</item>
+	<item id="1504" type="EtcItem" name="Grandma's Necklace">
+		<!-- An article left by the grandmother of Redbonnet. Can be sold in any shop. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="10"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="300"/>
+	</item>
+	<item id="1505" type="EtcItem" name="Grandma's Hairpin">
+		<!-- An article left by the grandmother of Redbonnet. Can be sold in any shop. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="10"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="100"/>
+	</item>
+	<item id="1506" type="Armor" name="Necklace of Courage">
+		<!-- A necklace that is given to young Orcs who have proven their courage. -->
+		<set name="bodypart" val="neck"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="150"/>
+		<set name="crystal_type" val="none"/>
+		<set name="m_def" val="15"/>
+		<set name="price" val="66"/>
+		<for>
+			<add val="15" order="0x10" stat="mDef"/>
+		</for>
+	</item>
+	<item id="1507" type="Armor" name="Necklace of Valor">
+		<!-- A necklace that is given to young Orcs who have proven their valor. -->
+		<set name="bodypart" val="neck"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="150"/>
+		<set name="crystal_type" val="none"/>
+		<set name="m_def" val="21"/>
+		<set name="price" val="4680"/>
+		<for>
+			<add val="21" order="0x10" stat="mDef"/>
+		</for>
+	</item>
+	<item id="1508" type="Armor" name="Ring of Raccoon">
+		<!-- A ring given to apprentices of the Bronze Key Guild. -->
+		<set name="bodypart" val="rfinger,lfinger"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="150"/>
+		<set name="crystal_type" val="none"/>
+		<set name="m_def" val="11"/>
+		<set name="price" val="2340"/>
+		<for>
+			<add val="11" order="0x10" stat="mDef"/>
+		</for>
+	</item>
+	<item id="1509" type="Armor" name="Ring of Firefly">
+		<!-- A ring given to apprentices of the Black Anvil Guild. -->
+		<set name="bodypart" val="rfinger,lfinger"/>
+		<set name="armor_type" val="none"/>
+		<set name="weight" val="150"/>
+		<set name="crystal_type" val="none"/>
+		<set name="m_def" val="11"/>
+		<set name="price" val="2340"/>
+		<for>
+			<add val="11" order="0x10" stat="mDef"/>
+		</for>
+	</item>
+	<item id="1510" type="Weapon" name="Butcher's Sword">
+		<!-- A sword granted to young Orc Fighters who distinguished themselves at war. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="weight" val="1450"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_dam" val="13"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="sword"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="379"/>
+		<set name="m_dam" val="10"/>
+		<set name="price" val="25500"/>
+		<for>
+			<set val="13" order="0x08" stat="pAtk"/>
+			<set val="10" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<add val="0" order="0x10" stat="accCombat"/>
+			<set val="379" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="1511" type="Weapon" name="Silversmith Hammer">
+		<!-- A hammer silversmiths of the ancient Elmoreden used. -->
+		<set name="bodypart" val="rhand"/>
+		<set name="weight" val="1860"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_dam" val="13"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="weapon_type" val="blunt"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="379"/>
+		<set name="m_dam" val="10"/>
+		<set name="price" val="25500"/>
+		<for>
+			<set val="13" order="0x08" stat="pAtk"/>
+			<set val="10" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="379" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="1512" type="EtcItem" name="Spellbook: Confusion">
+		<!-- Spellbook needed to learn Confusion. Used by Palus Knights and Assassins. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1150"/>
+	</item>
+	<item id="1513" type="EtcItem" name="Spellbook: Charm">
+		<!-- Spellbook needed to learn Charm. Used by Elven Knights and Elven Scouts. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="800"/>
+	</item>
+	<item id="1514" type="EtcItem" name="Spellbook: Resurrection">
+		<!-- Spellbook needed to learn Resurrection. Used by Clerics, Elven Oracles, and Shillien Oracles. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="800"/>
+	</item>
+	<item id="1515" type="EtcItem" name="Spellbook: Kiss of Eva">
+		<!-- Spellbook needed to learn Kiss of Eva. Used by Clerics, Elven Oracles and Shillien Oracles. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="800"/>
+	</item>
+	<item id="1516" type="EtcItem" name="Spellbook: Corpse Life Drain">
+		<!-- Spellbook needed to learn Corpse Life Drain. Used by Human Wizards and Dark Wizards. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1800"/>
+	</item>
+	<item id="1517" type="EtcItem" name="Spellbook: Body To Mind">
+		<!-- Spellbook needed to learn Body To Mind. Used by Human Wizards and Dark Wizards. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1250"/>
+	</item>
+	<item id="1518" type="EtcItem" name="Amulet: Flame Chant">
+		<!-- Amulet required for the Flame Chant spell. Used by Orc Shamans. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1800"/>
+	</item>
+	<item id="1519" type="EtcItem" name="Amulet: Pa'agrio's Gift">
+		<!-- Amulet required for the Pa'agrio's Gift spell. Used by Orc Shamans. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1800"/>
+	</item>
+	<item id="1520" type="EtcItem" name="Amulet: Pa'agrio's Blessing">
+		<!-- Amulet required for the Pa'agrio's Blessing spell. Used by Orc Shamans. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="2450"/>
+	</item>
+	<item id="1521" type="EtcItem" name="Amulet: Chant of Fire">
+		<!-- Amulet required for the Chant of Fire spell. Used by Orc Shamans. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="800"/>
+	</item>
+	<item id="1522" type="EtcItem" name="Amulet: Chant of Battle">
+		<!-- Amulet required for the Chant of Battle spell. Used by Orc Mystics. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="750"/>
+	</item>
+	<item id="1523" type="EtcItem" name="Amulet: Chant of Shielding">
+		<!-- Amulet required for the Chant of Shielding spell. Used by Orc Shamans. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="800"/>
+	</item>
+	<item id="1524" type="EtcItem" name="Amulet: Soul Shield">
+		<!-- Amulet required for the Soul Shield spell. Used by Orc Mystics. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="100"/>
+	</item>
+	<item id="1525" type="EtcItem" name="Amulet: Life Drain">
+		<!-- Amulet required for the Life Drain spell. Used by Orc Mystics. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="100"/>
+	</item>
+	<item id="1526" type="EtcItem" name="Amulet: Fear">
+		<!-- Amulet required for the Fear spell. Used by Orc Mystics. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="400"/>
+	</item>
+	<item id="1527" type="EtcItem" name="Amulet: Venom">
+		<!-- Amulet required for the Venom spell. Used by Orc Mystics. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="100"/>
+	</item>
+	<item id="1528" type="EtcItem" name="Amulet: Seal of Chaos">
+		<!-- Amulet required for the Seal of Chaos spell. Used by Orc Shamans. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1800"/>
+	</item>
+	<item id="1529" type="EtcItem" name="Amulet: Dreaming Spirit">
+		<!-- Amulet required for the Spirit Dream spell. Used by Orc Mystics. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="100"/>
+	</item>
+	<item id="1530" type="EtcItem" name="Amulet: Seal of Slow">
+		<!-- Amulet required for the Seal of Slow spell. Used by Orc Shamans. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="2450"/>
+	</item>
+	<item id="1531" type="EtcItem" name="Amulet: Chill Flame">
+		<!-- Amulet required for the Chill Flame spell. Used by Orc Mystics. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="100"/>
+	</item>
+	<item id="1532" type="EtcItem" name="Amulet: Blaze Quake">
+		<!-- Amulet required for the Blaze Quake spell. Used by Orc Shamans. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1250"/>
+	</item>
+	<item id="1533" type="EtcItem" name="Amulet: Aura Sink">
+		<!-- Amulet required for the Aura Sink spell. Used by Orc Shamans. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1250"/>
+	</item>
+	<item id="1534" type="EtcItem" name="Amulet: Madness">
+		<!-- Amulet required for the Madness spell. Used by Orc Shamans. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="800"/>
+	</item>
+	<item id="1535" type="EtcItem" name="Amulet: Frost Flame">
+		<!-- An amulet that is needed for the Frost Flame spell. Used by Orc Shamans. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="800"/>
+	</item>
+	<item id="1536" type="EtcItem" name="Amulet: Seal of Binding">
+		<!-- Amulet required for the Seal of Binding spell. Used by Orc Shamans. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1250"/>
+	</item>
+	<item id="1537" type="EtcItem" name="Amulet: Seal of Poison">
+		<!-- Amulet required for the Seal of Poison spell. Used by Orc Shamans. -->
+		<set name="item_type" val="spellbook"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="800"/>
+	</item>
+	<item id="1538" type="EtcItem" name="Blessed Scroll of Escape">
+		<!-- A magical scroll that relocates you to the nearest village -->
+		<set name="item_type" val="scroll"/>
+		<set name="weight" val="120"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="150000"/>
+	</item>
+	<item id="1539" type="EtcItem" name="Greater Healing Potion">
+		<!-- A magical potion that quickly restores HP. Its effect lasts for 15 seconds. -->
+		<set name="item_type" val="potion"/>
+		<set name="weight" val="5"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1080"/>
+	</item>
+	<item id="1540" type="EtcItem" name="Quick Healing Potion">
+		<!-- A magical potion that quickly restores HP. -->
+		<set name="item_type" val="potion"/>
+		<set name="weight" val="180"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="10000"/>
+	</item>
+	<item id="1541" type="EtcItem" name="Honey Khandar">
+		<!-- A miraculous medicine made of the mixture of honey and khandar extract. Take this to Centurion Nakusin. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1542" type="EtcItem" name="Bear Fur Cloak">
+		<!-- A cloak made of grizzly bear's fur. Excellent for keeping warm. Take this to Centurion Nakusin. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1543" type="EtcItem" name="Bloody Axe">
+		<!-- An axe that holds the blood of wild animals. It is said to strengthen its owner's life force. Take this to Centurion Nakusin. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1544" type="EtcItem" name="Ancestor Skull">
+		<!-- A skull of an ancestor of Urutus. It is said to strengthen its owner's life force. Take this to Centurion Nakusin. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1545" type="EtcItem" name="Spider Dust">
+		<!-- A grain of powder made of dried legs of poisonous spiders. Smelling it will make you feel refreshed. Take this to Centurion Nakusin. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1546" type="EtcItem" name="Deep Sea Orb">
+		<!-- A pearl brought out of a deep sea. It is said to help predict the future. Take this to Centurion Nakusin. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1547" type="EtcItem" name="Bolter's List">
+		<!-- The list of things that Bolter wants you to bring from the village. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1548" type="EtcItem" name="Mining Boots">
+		<!-- A pair of mining boots you got from Trader Garita. Take this to Miner Bolter. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1549" type="EtcItem" name="Miner's Pick">
+		<!-- A miner's pick you got from Blacksmith Brunon. Take this to Miner Bolter. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1550" type="EtcItem" name="Boomboom Powder">
+		<!-- A sack of boomboom powder you got from Trader Shari. Take this to Miner Bolter. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1551" type="EtcItem" name="Redstone Beer">
+		<!-- Delicious beer you got from Warehouse Chief Reed. Take this to Miner Bolter. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1552" type="EtcItem" name="Bolter's Smelly Socks">
+		<!-- A pair of socks that Miner Bolter gave you. For what...? -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1553" type="EtcItem" name="Hatos's 1st Order">
+		<!-- The order to kill Baranka's messenger. After killing him, recover the letter and take it to Urutu Chief Hatos. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1554" type="EtcItem" name="Hatos's 2nd Order">
+		<!-- The order states that you must kill Baranka's messenger. After killing him, recover the letter and take it to Urutu Chief Hatos. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1555" type="EtcItem" name="Hatos's 3rd Order">
+		<!-- The order states that you must kill Baranka's messenger. After killing him, recover the letter and take it to Urutu Chief Hatos. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1556" type="EtcItem" name="Letter to Dark Elf">
+		<!-- The secret letter that Baranka is sending to Dark Elven Magister Kaland. Take the letter to Urutu Chief Hatos. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1557" type="EtcItem" name="Letter to Human">
+		<!-- The secret letter that Baranka is sending to Duke Van Halter. Take the letter to Urutu Chief Hatos. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1558" type="EtcItem" name="Letter to Elf">
+		<!-- The secret letter that Baranka is sending to Elven Master Laria. Take the letter to Urutu Chief Hatos. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1559" type="EtcItem" name="Gouph's Contract">
+		<!-- Collector Gouph drew up this contract when buying the star diamond from Trader Reep. Take this to Trader Reep. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1560" type="EtcItem" name="Reep's Contract">
+		<!-- Trader Reep drew up this contract when he requested the delivery of the star diamond. Take this to Carrier Torocco. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1561" type="EtcItem" name="Elven Wine">
+		<!-- Carrier Torocco bought this high quality wine to give it to his old friend, Maron, as a present. Take this to Miner Maron. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1562" type="EtcItem" name="Brunon's Dice">
+		<!-- These dice were specially made for gambling. Take these to Blacksmith Brunon. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1563" type="EtcItem" name="Brunon's Contract">
+		<!-- This contract says if Brunon gets the 20 stolen jewels back from goblins, he can get the star diamond back. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1564" type="EtcItem" name="Aquamarine">
+		<!-- This jewel is obtained by the goblin brigand leader. Take 10 aquamarines and 10 chrysoberyls to Blacksmith Brunon. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1565" type="EtcItem" name="Chrysoberyl">
+		<!-- This jewel is obtained by the goblin brigand leader. Take 10 aquamarines and 10 chrysoberyls to Blacksmith Brunon. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1566" type="EtcItem" name="Gem Box">
+		<!-- Blacksmith Brunon gives this gem box. Take it to Collector Gouph. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1567" type="EtcItem" name="Coal Piece">
+		<!-- This coal piece is in the gem box. Take this to Blacksmith Brunon. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1568" type="EtcItem" name="Brunon's Letter">
+		<!-- Blacksmith Brunon sends this letter to Warehouse Keeper Murdoc asking for the right box. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1569" type="EtcItem" name="Berry Tart">
+		<!-- Sweet strawberry-flavored tart. Warehouse Keeper Murdoc sends this to Warehouse Keeper Airy as a present of apology. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1570" type="EtcItem" name="Bat Diagram">
+		<!-- This diagram shows the blade bat in details. Take this and go hunt blade bats to obtain the star diamond. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1571" type="EtcItem" name="Star Diamond">
+		<!-- Everyone is looking for this diamond. Take this to the real owner. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1572" type="EtcItem" name="Starstone">
+		<!-- A mineral collected from the destroyed greystone golem. Collect 20 of these and take them to Gatekeeper Tamil. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1573" type="EtcItem" name="Starstone">
+		<!-- A mineral obtained by defeated whinstone golems. Collect twenty and take them to Gatekeeper Wirphy. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1574" type="EtcItem" name="Mirien's Review">
+		<!-- A letter Magister Mirien wrote after tasting Jonas's dish. Take this and go to Jonas. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1575" type="EtcItem" name="Mirien's Review">
+		<!-- A letter Magister Mirien wrote after tasting Jonas's dish. Take this to Jonas. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1576" type="EtcItem" name="Mirien's Review">
+		<!-- A letter Magister Mirien wrote after tasting Jonas's dish. Take this to Jonas. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1577" type="EtcItem" name="Mirien's Review">
+		<!-- A letter Magister Mirien wrote after tasting Jonas's dish. Take this to Jonas. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1578" type="EtcItem" name="Green Blood">
+		<!-- Goblin's blood. If you have enough of this item, the Kuruka ratman leader appears. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1579" type="EtcItem" name="Goblin Dwelling Map">
+		<!-- A map showing goblins' dwelling. Take this and find the goblin tribes and destroy them. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1580" type="EtcItem" name="Kuruka Ratman Tooth">
+		<!-- A tooth obtained after killing Kuruka ratman leader. Collect ten of these to take to Prefect Karukia. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1581" type="EtcItem" name="Betrayer's Report">
+		<!-- A detailed account of a betrayer who recently joined the Umbar tribe and settled on the outskirts of a mountain west of the Spider Nest. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1582" type="EtcItem" name="Betrayer's Report">
+		<!-- A detailed account of a betrayer who recently joined the Umbar tribe and settled on the outskirts of a mountain west of the Spider Nest. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1583" type="EtcItem" name="Betrayer's Report">
+		<!-- A detailed account of a betrayer who recently joined the Umbar tribe and settled on the outskirts of a mountain west of the Spider Nest. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1584" type="EtcItem" name="Betrayer's Report">
+		<!-- A detailed account of a betrayer who recently joined the Umbar tribe and settled on the outskirts of a mountain west of the Spider Nest. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1585" type="EtcItem" name="Betrayer's Report">
+		<!-- A detailed account of a betrayer who recently joined the Umbar tribe and settled on the outskirts of a mountain west of the Spider Nest. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1586" type="EtcItem" name="Betrayer's Report">
+		<!-- A detailed account of a betrayer who recently joined the Umbar tribe and settled on the outskirts of a mountain west of the Spider Nest. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1587" type="EtcItem" name="Betrayer's Report">
+		<!-- A detailed account of a betrayer who recently joined the Umbar tribe and settled on the outskirts of a mountain west of the Spider Nest. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1588" type="EtcItem" name="Betrayer's Report">
+		<!-- A detailed account of a betrayer who recently joined the Umbar tribe and settled on the outskirts of a mountain west of the Spider Nest. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1589" type="EtcItem" name="Betrayer's Report">
+		<!-- A detailed account of a betrayer who recently joined the Umbar tribe and settled on the outskirts of a mountain west of the Spider Nest. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1590" type="EtcItem" name="Betrayer's Report">
+		<!-- A detailed account of a betrayer who recently joined the Umbar tribe and settled on the outskirts of a mountain west of the Spider Nest. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1591" type="EtcItem" name="Head of Betrayer">
+		<!-- The head of a traitor orc. Collect 2 and take them to Prefect Kasman in Gludin Village. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1592" type="EtcItem" name="Mark of Raider">
+		<!-- A necklace given to an Orc who has earned the qualification to become an Orc Raider. Take this to the high prefect to change your occupation to an Orc Raider. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1593" type="EtcItem" name="Pomegranate">
+		<!-- A red pomegranate fruit given by Gantaki. Take this and go to Khavatari Rosheek. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1594" type="EtcItem" name="1st Leather Pouch">
+		<!-- A leather pouch given by Khavatari Rosheek. Take this and hunt kasha bears and collect 5 of their claws. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1595" type="EtcItem" name="2nd Leather Pouch">
+		<!-- A leather pouch given by Khavatari Rosheek. Hunt kasha blade spiders with this and collect 5 talons. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1596" type="EtcItem" name="3rd Leather Pouch">
+		<!-- A leather pouch Khavatari Rosheek gave you. Take this while hunting scarlet salamanders to obtain 5 of their scales. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1597" type="EtcItem" name="1st Leather Pouch (Full)">
+		<!-- A pouch that contains 5 kasha bear claws. Take this to Khavatari Rosheek. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1598" type="EtcItem" name="2nd Leather Pouch (Full)">
+		<!-- A pouch that contains 5 pincers of kasha blade spider talon. Take this to Khavatari Rosheek. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+	<item id="1599" type="EtcItem" name="3rd Leather Pouch (Full)">
+		<!-- A pouch that contains 5 scales from the scarlet salamander. Take this to Khavatari Rosheek. -->
+		<set name="item_type" val="quest"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="sellable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+	</item>
+</list>

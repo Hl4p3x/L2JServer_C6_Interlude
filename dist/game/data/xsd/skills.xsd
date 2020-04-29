@@ -1,0 +1,607 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="list">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element maxOccurs="unbounded" name="skill">
+					<xs:complexType mixed="true">
+						<xs:sequence>
+							<xs:choice maxOccurs="unbounded">
+								<xs:element name="table">
+									<xs:complexType>
+										<xs:simpleContent>
+											<xs:extension base="xs:string">
+												<xs:attribute name="name" type="xs:string" use="required" />
+											</xs:extension>
+										</xs:simpleContent>
+									</xs:complexType>
+								</xs:element>
+								<xs:element name="enchant1">
+									<xs:complexType>
+										<xs:attribute name="name" type="xs:string" use="required" />
+										<xs:attribute name="val" type="xs:string" use="required" />
+									</xs:complexType>
+								</xs:element>
+								<xs:element name="enchant2">
+									<xs:complexType>
+										<xs:attribute name="name" type="xs:string" use="required" />
+										<xs:attribute name="val" type="xs:string" use="required" />
+									</xs:complexType>
+								</xs:element>
+								<xs:element name="set">
+									<xs:complexType>
+										<xs:attribute name="name" type="xs:string" use="required" />
+										<xs:attribute name="val" type="xs:string" use="required" />
+									</xs:complexType>
+								</xs:element>
+								<xs:element name="cond">
+									<xs:complexType mixed="true">
+										<xs:sequence minOccurs="0">
+											<xs:element minOccurs="0" name="not">
+												<xs:complexType>
+													<xs:sequence>
+														<xs:element name="target">
+															<xs:complexType>
+																<xs:attribute name="class_id_restriction" type="xs:string" use="required" />
+															</xs:complexType>
+														</xs:element>
+													</xs:sequence>
+												</xs:complexType>
+											</xs:element>
+											<xs:element minOccurs="0" name="target">
+												<xs:complexType>
+													<xs:attribute name="race_id" type="xs:unsignedByte" use="optional" />
+													<xs:attribute name="class_id_restriction" type="xs:string" use="optional" />
+												</xs:complexType>
+											</xs:element>
+											<xs:element minOccurs="0" name="player">
+												<xs:complexType>
+													<xs:attribute name="hp" type="xs:unsignedByte" use="optional" />
+													<xs:attribute name="flying" type="xs:boolean" use="optional" />
+													<xs:attribute name="battle_force" type="xs:unsignedByte" use="optional" />
+													<xs:attribute name="mp" type="xs:unsignedByte" use="optional" />
+													<xs:attribute name="seed_various" type="xs:unsignedByte" use="optional" />
+													<xs:attribute name="seed_fire" type="xs:unsignedByte" use="optional" />
+													<xs:attribute name="seed_water" type="xs:unsignedByte" use="optional" />
+													<xs:attribute name="seed_wind" type="xs:unsignedByte" use="optional" />
+													<xs:attribute name="seed_any" type="xs:unsignedByte" use="optional" />
+													<xs:attribute name="spell_force" type="xs:unsignedByte" use="optional" />
+												</xs:complexType>
+											</xs:element>
+											<xs:element minOccurs="0" name="using">
+												<xs:complexType>
+													<xs:attribute name="kind" type="xs:string" use="required" />
+												</xs:complexType>
+											</xs:element>
+										</xs:sequence>
+										<xs:attribute name="msg" type="xs:string" use="optional" />
+										<xs:attribute name="msgId" type="xs:unsignedByte" use="optional" />
+									</xs:complexType>
+								</xs:element>
+								<xs:element name="for">
+									<xs:complexType mixed="true">
+										<xs:sequence minOccurs="0">
+											<xs:choice maxOccurs="unbounded">
+												<xs:element name="basemul">
+													<xs:complexType>
+														<xs:attribute name="order" type="xs:string" use="required" />
+														<xs:attribute name="stat" type="xs:string" use="required" />
+														<xs:attribute name="val" type="xs:string" use="required" />
+													</xs:complexType>
+												</xs:element>
+												<xs:element maxOccurs="unbounded" name="mul">
+													<xs:complexType mixed="true">
+														<xs:sequence minOccurs="0">
+															<xs:element minOccurs="0" name="target">
+																<xs:complexType>
+																	<xs:attribute name="pvp" type="xs:unsignedByte" use="required" />
+																</xs:complexType>
+															</xs:element>
+															<xs:element minOccurs="0" name="using">
+																<xs:complexType>
+																	<xs:attribute name="kind" type="xs:string" use="required" />
+																</xs:complexType>
+															</xs:element>
+															<xs:element minOccurs="0" name="and">
+																<xs:complexType>
+																	<xs:sequence>
+																		<xs:element minOccurs="0" maxOccurs="unbounded" name="player">
+																			<xs:complexType>
+																				<xs:attribute name="front" type="xs:string" use="optional" />
+																				<xs:attribute name="behind" type="xs:string" use="optional" />
+																			</xs:complexType>
+																		</xs:element>
+																		<xs:element minOccurs="0" name="using">
+																			<xs:complexType>
+																				<xs:attribute name="kind" type="xs:string" use="required" />
+																			</xs:complexType>
+																		</xs:element>
+																		<xs:element minOccurs="0" name="not">
+																			<xs:complexType>
+																				<xs:sequence>
+																					<xs:element name="using">
+																						<xs:complexType>
+																							<xs:attribute name="kind" type="xs:string" use="required" />
+																						</xs:complexType>
+																					</xs:element>
+																				</xs:sequence>
+																			</xs:complexType>
+																		</xs:element>
+																	</xs:sequence>
+																</xs:complexType>
+															</xs:element>
+														</xs:sequence>
+														<xs:attribute name="order" type="xs:string" use="required" />
+														<xs:attribute name="stat" type="xs:string" use="required" />
+														<xs:attribute name="val" type="xs:string" use="required" />
+													</xs:complexType>
+												</xs:element>
+												<xs:element maxOccurs="unbounded" name="add">
+													<xs:complexType>
+														<xs:sequence minOccurs="0">
+															<xs:element minOccurs="0" name="player">
+																<xs:complexType>
+																	<xs:attribute name="resting" type="xs:boolean" use="optional" />
+																	<xs:attribute name="running" type="xs:boolean" use="optional" />
+																	<xs:attribute name="hp" type="xs:unsignedByte" use="optional" />
+																	<xs:attribute name="behind" type="xs:string" use="optional" />
+																</xs:complexType>
+															</xs:element>
+															<xs:element minOccurs="0" name="and">
+																<xs:complexType>
+																	<xs:sequence>
+																		<xs:element minOccurs="0" maxOccurs="unbounded" name="player">
+																			<xs:complexType>
+																				<xs:attribute name="moving" type="xs:boolean" use="optional" />
+																				<xs:attribute name="running" type="xs:boolean" use="optional" />
+																				<xs:attribute name="resting" type="xs:boolean" use="optional" />
+																				<xs:attribute name="hp" type="xs:unsignedByte" use="optional" />
+																				<xs:attribute name="behind" type="xs:string" use="optional" />
+																			</xs:complexType>
+																		</xs:element>
+																		<xs:element minOccurs="0" name="using">
+																			<xs:complexType>
+																				<xs:attribute name="kind" type="xs:string" use="required" />
+																			</xs:complexType>
+																		</xs:element>
+																		<xs:element minOccurs="0" name="not">
+																			<xs:complexType>
+																				<xs:sequence>
+																					<xs:element name="using">
+																						<xs:complexType>
+																							<xs:attribute name="kind" type="xs:string" use="required" />
+																						</xs:complexType>
+																					</xs:element>
+																				</xs:sequence>
+																			</xs:complexType>
+																		</xs:element>
+																	</xs:sequence>
+																</xs:complexType>
+															</xs:element>
+															<xs:element minOccurs="0" name="using">
+																<xs:complexType>
+																	<xs:attribute name="kind" type="xs:string" use="required" />
+																</xs:complexType>
+															</xs:element>
+														</xs:sequence>
+														<xs:attribute name="order" type="xs:string" use="required" />
+														<xs:attribute name="stat" type="xs:string" use="required" />
+														<xs:attribute name="val" type="xs:string" use="required" />
+													</xs:complexType>
+												</xs:element>
+												<xs:element maxOccurs="unbounded" name="effect">
+													<xs:complexType mixed="true">
+														<xs:sequence minOccurs="0">
+															<xs:choice maxOccurs="unbounded">
+																<xs:element name="using">
+																	<xs:complexType>
+																		<xs:attribute name="kind" type="xs:string" use="required" />
+																	</xs:complexType>
+																</xs:element>
+																<xs:element maxOccurs="unbounded" name="mul">
+																	<xs:complexType>
+																		<xs:sequence minOccurs="0">
+																			<xs:element minOccurs="0" name="and">
+																				<xs:complexType>
+																					<xs:sequence>
+																						<xs:element minOccurs="0" name="player">
+																							<xs:complexType>
+																								<xs:attribute name="hp" type="xs:unsignedByte" use="optional" />
+																								<xs:attribute name="front" type="xs:string" use="optional" />
+																								<xs:attribute name="behind" type="xs:string" use="optional" />
+																								<xs:attribute name="side" type="xs:string" use="optional" />
+																							</xs:complexType>
+																						</xs:element>
+																						<xs:element minOccurs="0" name="using">
+																							<xs:complexType>
+																								<xs:attribute name="kind" type="xs:string" use="required" />
+																							</xs:complexType>
+																						</xs:element>
+																					</xs:sequence>
+																				</xs:complexType>
+																			</xs:element>
+																			<xs:element minOccurs="0" name="using">
+																				<xs:complexType>
+																					<xs:attribute name="kind" type="xs:string" use="required" />
+																				</xs:complexType>
+																			</xs:element>
+																		</xs:sequence>
+																		<xs:attribute name="order" type="xs:string" use="required" />
+																		<xs:attribute name="stat" type="xs:string" use="required" />
+																		<xs:attribute name="val" type="xs:string" use="required" />
+																	</xs:complexType>
+																</xs:element>
+																<xs:element name="target">
+																	<xs:complexType>
+																		<xs:attribute name="kind" type="xs:string" use="required" />
+																	</xs:complexType>
+																</xs:element>
+																<xs:element name="sub">
+																	<xs:complexType>
+																		<xs:sequence minOccurs="0">
+																			<xs:element name="using">
+																				<xs:complexType>
+																					<xs:attribute name="kind" type="xs:string" use="required" />
+																				</xs:complexType>
+																			</xs:element>
+																		</xs:sequence>
+																		<xs:attribute name="order" type="xs:string" use="required" />
+																		<xs:attribute name="stat" type="xs:string" use="required" />
+																		<xs:attribute name="val" type="xs:string" use="required" />
+																	</xs:complexType>
+																</xs:element>
+																<xs:element name="add">
+																	<xs:complexType>
+																		<xs:sequence minOccurs="0">
+																			<xs:element minOccurs="0" name="player">
+																				<xs:complexType>
+																					<xs:attribute name="flying" type="xs:boolean" use="required" />
+																				</xs:complexType>
+																			</xs:element>
+																			<xs:element minOccurs="0" name="cond">
+																				<xs:complexType>
+																					<xs:sequence>
+																						<xs:element name="using">
+																							<xs:complexType>
+																								<xs:attribute name="kind" type="xs:string" use="required" />
+																							</xs:complexType>
+																						</xs:element>
+																					</xs:sequence>
+																					<xs:attribute name="msg" type="xs:string" use="required" />
+																				</xs:complexType>
+																			</xs:element>
+																			<xs:element minOccurs="0" name="and">
+																				<xs:complexType>
+																					<xs:sequence>
+																						<xs:element minOccurs="0" name="player">
+																							<xs:complexType>
+																								<xs:attribute name="hp" type="xs:unsignedByte" use="required" />
+																							</xs:complexType>
+																						</xs:element>
+																						<xs:element minOccurs="0" name="using">
+																							<xs:complexType>
+																								<xs:attribute name="kind" type="xs:string" use="required" />
+																							</xs:complexType>
+																						</xs:element>
+																					</xs:sequence>
+																				</xs:complexType>
+																			</xs:element>
+																			<xs:element minOccurs="0" name="using">
+																				<xs:complexType>
+																					<xs:attribute name="kind" type="xs:string" use="required" />
+																				</xs:complexType>
+																			</xs:element>
+																		</xs:sequence>
+																		<xs:attribute name="order" type="xs:string" use="required" />
+																		<xs:attribute name="stat" type="xs:string" use="required" />
+																		<xs:attribute name="val" type="xs:string" use="required" />
+																	</xs:complexType>
+																</xs:element>
+																<xs:element name="basemul">
+																	<xs:complexType>
+																		<xs:sequence minOccurs="0">
+																			<xs:element minOccurs="0" name="player">
+																				<xs:complexType>
+																					<xs:attribute name="behind" type="xs:string" use="required" />
+																				</xs:complexType>
+																			</xs:element>
+																			<xs:element minOccurs="0" name="cond">
+																				<xs:complexType>
+																					<xs:sequence>
+																						<xs:element name="using">
+																							<xs:complexType>
+																								<xs:attribute name="kind" type="xs:string" use="required" />
+																							</xs:complexType>
+																						</xs:element>
+																					</xs:sequence>
+																					<xs:attribute name="msg" type="xs:string" use="required" />
+																				</xs:complexType>
+																			</xs:element>
+																		</xs:sequence>
+																		<xs:attribute name="order" type="xs:string" use="required" />
+																		<xs:attribute name="stat" type="xs:string" use="required" />
+																		<xs:attribute name="val" type="xs:string" use="required" />
+																	</xs:complexType>
+																</xs:element>
+																<xs:element name="set">
+																	<xs:complexType>
+																		<xs:attribute name="order" type="xs:string" use="required" />
+																		<xs:attribute name="stat" type="xs:string" use="required" />
+																		<xs:attribute name="val" type="xs:unsignedByte" use="required" />
+																	</xs:complexType>
+																</xs:element>
+																<xs:element name="div">
+																	<xs:complexType>
+																		<xs:attribute name="order" type="xs:string" use="required" />
+																		<xs:attribute name="stat" type="xs:string" use="required" />
+																		<xs:attribute name="val" type="xs:string" use="required" />
+																	</xs:complexType>
+																</xs:element>
+															</xs:choice>
+														</xs:sequence>
+														<xs:attribute name="count" type="xs:string" use="optional" />
+														<xs:attribute name="name" type="xs:string" use="required" />
+														<xs:attribute name="time" type="xs:string" use="optional" />
+														<xs:attribute name="val" type="xs:string" use="required" />
+														<xs:attribute name="stackOrder" type="xs:string" use="optional" />
+														<xs:attribute name="stackType" type="xs:string" use="optional" />
+														<xs:attribute name="noicon" type="xs:unsignedByte" use="optional" />
+														<xs:attribute name="effectPower" type="xs:string" use="optional" />
+														<xs:attribute name="effectType" type="xs:string" use="optional" />
+														<xs:attribute name="abnormal" type="xs:string" use="optional" />
+														<xs:attribute name="self" type="xs:unsignedByte" use="optional" />
+														<xs:attribute name="abnormalLvl" type="xs:unsignedByte" use="optional" />
+														<xs:attribute name="abnormalType" type="xs:string" use="optional" />
+														<xs:attribute name="abnormalTime" type="xs:unsignedByte" use="optional" />
+													</xs:complexType>
+												</xs:element>
+												<xs:element name="sub">
+													<xs:complexType>
+														<xs:sequence minOccurs="0">
+															<xs:element name="and">
+																<xs:complexType>
+																	<xs:sequence>
+																		<xs:element name="using">
+																			<xs:complexType>
+																				<xs:attribute name="kind" type="xs:string" use="required" />
+																			</xs:complexType>
+																		</xs:element>
+																	</xs:sequence>
+																</xs:complexType>
+															</xs:element>
+														</xs:sequence>
+														<xs:attribute name="order" type="xs:string" use="required" />
+														<xs:attribute name="stat" type="xs:string" use="required" />
+														<xs:attribute name="val" type="xs:string" use="required" />
+													</xs:complexType>
+												</xs:element>
+												<xs:element name="cond">
+													<xs:complexType>
+														<xs:sequence>
+															<xs:element minOccurs="0" name="using">
+																<xs:complexType>
+																	<xs:attribute name="kind" type="xs:string" use="required" />
+																</xs:complexType>
+															</xs:element>
+															<xs:element minOccurs="0" name="game">
+																<xs:complexType>
+																	<xs:attribute name="time" type="xs:string" use="required" />
+																</xs:complexType>
+															</xs:element>
+														</xs:sequence>
+													</xs:complexType>
+												</xs:element>
+												<xs:element name="using">
+													<xs:complexType>
+														<xs:attribute name="kind" type="xs:string" use="required" />
+													</xs:complexType>
+												</xs:element>
+												<xs:element name="player">
+													<xs:complexType>
+														<xs:attribute name="hp" type="xs:unsignedByte" use="required" />
+													</xs:complexType>
+												</xs:element>
+												<xs:element name="and">
+													<xs:complexType>
+														<xs:sequence>
+															<xs:element name="player">
+																<xs:complexType>
+																	<xs:attribute name="behind" type="xs:string" use="required" />
+																</xs:complexType>
+															</xs:element>
+														</xs:sequence>
+													</xs:complexType>
+												</xs:element>
+												<xs:element name="set">
+													<xs:complexType>
+														<xs:attribute name="order" type="xs:string" use="required" />
+														<xs:attribute name="stat" type="xs:string" use="required" />
+														<xs:attribute name="val" type="xs:unsignedByte" use="required" />
+													</xs:complexType>
+												</xs:element>
+											</xs:choice>
+										</xs:sequence>
+									</xs:complexType>
+								</xs:element>
+								<xs:element name="enchant1for">
+									<xs:complexType>
+										<xs:sequence>
+											<xs:element minOccurs="0" name="cond">
+												<xs:complexType>
+													<xs:sequence>
+														<xs:element name="player">
+															<xs:complexType>
+																<xs:attribute name="state" type="xs:string" use="required" />
+															</xs:complexType>
+														</xs:element>
+													</xs:sequence>
+												</xs:complexType>
+											</xs:element>
+											<xs:element minOccurs="0" maxOccurs="unbounded" name="add">
+												<xs:complexType>
+													<xs:sequence minOccurs="0">
+														<xs:element name="using">
+															<xs:complexType>
+																<xs:attribute name="kind" type="xs:string" use="required" />
+															</xs:complexType>
+														</xs:element>
+													</xs:sequence>
+													<xs:attribute name="order" type="xs:string" use="required" />
+													<xs:attribute name="stat" type="xs:string" use="required" />
+													<xs:attribute name="val" type="xs:string" use="required" />
+												</xs:complexType>
+											</xs:element>
+											<xs:element minOccurs="0" name="basemul">
+												<xs:complexType>
+													<xs:attribute name="order" type="xs:string" use="required" />
+													<xs:attribute name="stat" type="xs:string" use="required" />
+													<xs:attribute name="val" type="xs:string" use="required" />
+												</xs:complexType>
+											</xs:element>
+											<xs:element minOccurs="0" name="effect">
+												<xs:complexType>
+													<xs:sequence minOccurs="0">
+														<xs:choice maxOccurs="unbounded">
+															<xs:element name="basemul">
+																<xs:complexType>
+																	<xs:attribute name="order" type="xs:string" use="required" />
+																	<xs:attribute name="stat" type="xs:string" use="required" />
+																	<xs:attribute name="val" type="xs:decimal" use="required" />
+																</xs:complexType>
+															</xs:element>
+															<xs:element maxOccurs="unbounded" name="add">
+																<xs:complexType>
+																	<xs:sequence minOccurs="0">
+																		<xs:element name="cond">
+																			<xs:complexType>
+																				<xs:sequence>
+																					<xs:element name="using">
+																						<xs:complexType>
+																							<xs:attribute name="kind" type="xs:string" use="required" />
+																						</xs:complexType>
+																					</xs:element>
+																				</xs:sequence>
+																				<xs:attribute name="msg" type="xs:string" use="required" />
+																			</xs:complexType>
+																		</xs:element>
+																	</xs:sequence>
+																	<xs:attribute name="order" type="xs:string" use="required" />
+																	<xs:attribute name="stat" type="xs:string" use="required" />
+																	<xs:attribute name="val" type="xs:string" use="required" />
+																</xs:complexType>
+															</xs:element>
+															<xs:element maxOccurs="unbounded" name="mul">
+																<xs:complexType>
+																	<xs:sequence minOccurs="0">
+																		<xs:element minOccurs="0" name="cond">
+																			<xs:complexType>
+																				<xs:sequence>
+																					<xs:element name="using">
+																						<xs:complexType>
+																							<xs:attribute name="kind" type="xs:string" use="required" />
+																						</xs:complexType>
+																					</xs:element>
+																				</xs:sequence>
+																				<xs:attribute name="msg" type="xs:string" use="required" />
+																			</xs:complexType>
+																		</xs:element>
+																		<xs:element minOccurs="0" name="using">
+																			<xs:complexType>
+																				<xs:attribute name="kind" type="xs:string" use="required" />
+																			</xs:complexType>
+																		</xs:element>
+																	</xs:sequence>
+																	<xs:attribute name="order" type="xs:string" use="required" />
+																	<xs:attribute name="stat" type="xs:string" use="required" />
+																	<xs:attribute name="val" type="xs:string" use="required" />
+																</xs:complexType>
+															</xs:element>
+															<xs:element name="sub">
+																<xs:complexType>
+																	<xs:attribute name="order" type="xs:string" use="required" />
+																	<xs:attribute name="stat" type="xs:string" use="required" />
+																	<xs:attribute name="val" type="xs:unsignedByte" use="required" />
+																</xs:complexType>
+															</xs:element>
+														</xs:choice>
+													</xs:sequence>
+													<xs:attribute name="count" type="xs:string" use="optional" />
+													<xs:attribute name="name" type="xs:string" use="required" />
+													<xs:attribute name="time" type="xs:string" use="required" />
+													<xs:attribute name="val" type="xs:string" use="required" />
+													<xs:attribute name="stackOrder" type="xs:string" use="optional" />
+													<xs:attribute name="stackType" type="xs:string" use="optional" />
+												</xs:complexType>
+											</xs:element>
+										</xs:sequence>
+									</xs:complexType>
+								</xs:element>
+								<xs:element name="enchant2for">
+									<xs:complexType>
+										<xs:sequence>
+											<xs:element minOccurs="0" maxOccurs="unbounded" name="add">
+												<xs:complexType>
+													<xs:sequence minOccurs="0">
+														<xs:element name="using">
+															<xs:complexType>
+																<xs:attribute name="kind" type="xs:string" use="required" />
+															</xs:complexType>
+														</xs:element>
+													</xs:sequence>
+													<xs:attribute name="order" type="xs:string" use="required" />
+													<xs:attribute name="stat" type="xs:string" use="required" />
+													<xs:attribute name="val" type="xs:string" use="required" />
+												</xs:complexType>
+											</xs:element>
+											<xs:element minOccurs="0" name="effect">
+												<xs:complexType>
+													<xs:sequence minOccurs="0">
+														<xs:choice maxOccurs="unbounded">
+															<xs:element maxOccurs="unbounded" name="add">
+																<xs:complexType>
+																	<xs:attribute name="order" type="xs:string" use="required" />
+																	<xs:attribute name="stat" type="xs:string" use="required" />
+																	<xs:attribute name="val" type="xs:string" use="required" />
+																</xs:complexType>
+															</xs:element>
+															<xs:element name="mul">
+																<xs:complexType>
+																	<xs:attribute name="order" type="xs:string" use="required" />
+																	<xs:attribute name="stat" type="xs:string" use="required" />
+																	<xs:attribute name="val" type="xs:decimal" use="required" />
+																</xs:complexType>
+															</xs:element>
+															<xs:element maxOccurs="unbounded" name="sub">
+																<xs:complexType>
+																	<xs:attribute name="order" type="xs:string" use="required" />
+																	<xs:attribute name="stat" type="xs:string" use="required" />
+																	<xs:attribute name="val" type="xs:unsignedByte" use="required" />
+																</xs:complexType>
+															</xs:element>
+														</xs:choice>
+													</xs:sequence>
+													<xs:attribute name="count" type="xs:string" use="required" />
+													<xs:attribute name="name" type="xs:string" use="required" />
+													<xs:attribute name="time" type="xs:string" use="required" />
+													<xs:attribute name="val" type="xs:string" use="required" />
+													<xs:attribute name="stackOrder" type="xs:unsignedByte" use="optional" />
+													<xs:attribute name="stackType" type="xs:string" use="optional" />
+													<xs:attribute name="abnormal" type="xs:string" use="optional" />
+												</xs:complexType>
+											</xs:element>
+										</xs:sequence>
+									</xs:complexType>
+								</xs:element>
+							</xs:choice>
+						</xs:sequence>
+						<xs:attribute name="id" type="xs:unsignedShort" use="required" />
+						<xs:attribute name="levels" type="xs:unsignedByte" use="required" />
+						<xs:attribute name="name" type="xs:string" use="required" />
+						<xs:attribute name="enchantLevels1" type="xs:unsignedByte" use="optional" />
+						<xs:attribute name="enchantLevels2" type="xs:unsignedByte" use="optional" />
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

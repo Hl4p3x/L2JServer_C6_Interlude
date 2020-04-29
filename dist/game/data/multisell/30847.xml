@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?> 
+<!-- Exchange of Ferris (level 1) -->
+<list maintainEnchantment="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/multisell.xsd">
+	<!-- 5 G Wyrm + 5 G Giant -> 1 G Dragon -->
+	<item id="1">
+		<ingredient id="3486" count="5"/>
+		<ingredient id="3484" count="5"/>
+		<production id="3481" count="1"/>
+	</item>
+	<!-- 5 B Succubus + 5 B Basilisk -> 1 B Dragon -->
+	<item id="2">
+		<ingredient id="3476" count="5"/>
+		<ingredient id="3474" count="5"/>
+		<production id="3477" count="1"/>
+	</item>
+	<!-- 5 S Dryad + 5 S Undine -> 1 S Dragon -->
+	<item id="3">
+		<ingredient id="3492" count="5"/>
+		<ingredient id="3495" count="5"/>
+		<production id="3493" count="1"/>
+	</item>
+	<!-- 10 B Succubus + 10 B Basilisk -> 1 Beleth Blood -->
+	<item id="4">
+		<ingredient id="3476" count="10"/>
+		<ingredient id="3474" count="10"/>
+		<production id="3478" count="1"/>
+	</item>
+	<!-- 1 Beleth Blood + 1 S Dragon + 13 G Wyrm -> Demon Staff -->
+	<item id="5">
+		<ingredient id="3478" count="1"/>
+		<ingredient id="3493" count="1"/>
+		<ingredient id="3486" count="13"/>
+		<production id="206" count="1"/>
+	</item>
+	<!-- 1 Beleth Gold + 1 B Dragon + 1 S Dryad + 1 G Giant -> Dark Screamer -->
+	<item id="6">
+		<ingredient id="3487" count="1"/>
+		<ingredient id="3477" count="1"/>
+		<ingredient id="3492" count="1"/>
+		<ingredient id="3484" count="1"/>
+		<production id="233" count="1"/>
+	</item>
+	<!-- 1 Beleth Silver + 1 G Dragon + 1 B Succubus + 1 B Basilisk -> Widow maker -->
+	<item id="7">
+		<ingredient id="3496" count="1"/>
+		<ingredient id="3481" count="1"/>
+		<ingredient id="3476" count="1"/>
+		<ingredient id="3474" count="1"/>
+		<production id="303" count="1"/>
+	</item>
+	<!-- 1 S Dragon + 1 G Dragon + 1 B Dragon + 1 S Undine -> Sword of Limit -->
+	<item id="8">
+		<ingredient id="3493" count="1"/>
+		<ingredient id="3481" count="1"/>
+		<ingredient id="3477" count="1"/>
+		<ingredient id="3495" count="1"/>
+		<production id="132" count="1"/>
+	</item>
+	<!-- 1 Beleth Silver + Beleth Gold + 1 B Dragon -> Ecliptic Sword -->
+	<item id="9">
+		<ingredient id="3496" count="1"/>
+		<ingredient id="3487" count="1"/>
+		<ingredient id="3477" count="1"/>
+		<production id="7888" count="1"/>
+	</item>
+</list>

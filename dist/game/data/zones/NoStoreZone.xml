@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/zones.xsd">
+	<!-- CUSTOM - NO STORE ZONES -->
+	<!-- Giran - northern coridor - west -->
+	<zone type="NoStoreZone" shape="Cuboid" minZ="-3400" maxZ="-3550">
+		<node X="81446" Y="143530" />
+		<node X="81635" Y="147720" />
+	</zone>
+	<!-- Giran - northern coridor - east -->
+	<zone type="NoStoreZone" shape="Cuboid" minZ="-3350" maxZ="-3450">
+		<node X="83790" Y="143495" />
+		<node X="84000" Y="147230" />
+	</zone>
+	<!-- Giran - western coridor (up to the Dusk Priestess) -->
+	<zone type="NoStoreZone" shape="Cuboid" minZ="-3650" maxZ="-3400">
+		<node X="77080" Y="148525" />
+		<node X="81780" Y="148720" />
+	</zone>
+	<!-- Giran - southern coridor -->
+	<zone type="NoStoreZone" shape="Cuboid" minZ="-3550" maxZ="-3400">
+		<node X="81435" Y="149530" />
+		<node X="81640" Y="152920" />
+	</zone>
+	<!-- Giran - northern path -->
+	<zone type="NoStoreZone" shape="Cuboid" minZ="-3500" maxZ="-3400">
+		<node X="80930" Y="147680" />
+		<node X="82940" Y="147875" />
+	</zone>
+	<!-- Giran - western path -->
+	<zone type="NoStoreZone" shape="Cuboid" minZ="-3500" maxZ="-3400">
+		<node X="80930" Y="147680" />
+		<node X="81115" Y="149540" />
+	</zone>
+	<!-- Giran - southern path -->
+	<zone type="NoStoreZone" shape="Cuboid" minZ="-3500" maxZ="-3400">
+		<node X="80925" Y="149340" />
+		<node X="82940" Y="149535" />
+	</zone>
+	<!-- Giran - large temple area (gatekeeper and Priest of Dawn area) -->
+	<zone type="NoStoreZone" shape="Cuboid" minZ="-3500" maxZ="-3350">
+		<node X="82735" Y="147000" />
+		<node X="84320" Y="149780" />
+	</zone>
+	<!-- Giran - olympiad manager -->
+	<zone type="NoStoreZone" shape="Cuboid" minZ="-3500" maxZ="-3400">
+		<node X="81985" Y="147450" />
+		<node X="82205" Y="147710" />
+	</zone>
+	<!-- Giran - manor manager -->
+	<zone type="NoStoreZone" shape="Cuboid" minZ="-3500" maxZ="-3400">
+		<node X="81865" Y="149530" />
+		<node X="82030" Y="149680" />
+	</zone>
+	<!-- Giran - auctioneer and gabrielle -->
+	<zone type="NoStoreZone" shape="Cuboid" minZ="-3500" maxZ="-3400">
+		<node X="81205" Y="149520" />
+		<node X="81510" Y="149830" />
+	</zone>
+	<!-- Giran - path to taurin -->
+	<zone type="NoStoreZone" shape="Cuboid" minZ="-3550" maxZ="-3450">
+		<node X="81055" Y="146820" />
+		<node X="81455" Y="147000" />
+	</zone>
+	<!-- Giran - path to warehouse -->
+	<zone type="NoStoreZone" shape="Cuboid" minZ="-3550" maxZ="-3450">
+		<node X="81620" Y="146465" />
+		<node X="82035" Y="146680" />
+	</zone>
+	<!-- Giran - Taurin -->
+	<zone type="NoStoreZone" shape="Cuboid" minZ="-3550" maxZ="-3450">
+		<node X="80655" Y="146350" />
+		<node X="80855" Y="146460" />
+	</zone>
+	<!-- Giran - Collob -->
+	<zone type="NoStoreZone" shape="Cuboid" minZ="-3550" maxZ="-3450">
+		<node X="79200" Y="149455" />
+		<node X="79300" Y="149645" />
+	</zone>
+	<!-- Aden - olympiad manager square -->
+	<zone type="NoStoreZone" shape="Cuboid" minZ="-2250" maxZ="-2150">
+		<node X="146841" Y="26541" />
+		<node X="148071" Y="27425" />
+	</zone>
+	<!-- Aden - central stairs -->
+	<zone type="NoStoreZone" shape="Cuboid" minZ="-2250" maxZ="-1950">
+		<node X="147273" Y="25941" />
+		<node X="147645" Y="26538" />
+	</zone>
+	<!-- Aden - temple square -->
+	<zone type="NoStoreZone" shape="Cuboid" minZ="-2050" maxZ="-1950">
+		<node X="146233" Y="25938" />
+		<node X="148729" Y="25553" />
+	</zone>
+</list>

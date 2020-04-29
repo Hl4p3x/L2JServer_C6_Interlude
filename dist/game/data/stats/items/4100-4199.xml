@@ -1,0 +1,803 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="4100" type="EtcItem" name="Zubei's Gauntlets Part">
+		<!-- Main ingredient definitely required for a Dwarf to make Zubei's Gauntlet. Can also be sold at ordinary shops. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3843"/>
+	</item>
+	<item id="4101" type="EtcItem" name="Zubei's Shield Fragment">
+		<!-- Main ingredient definitely required for a Dwarf to make Zubei's Shield. Can also be sold at ordinary shops. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3450"/>
+	</item>
+	<item id="4102" type="EtcItem" name="Zubei's Helmet Design">
+		<!-- Main ingredient definitely required for a Dwarf to make Zubei's Helmet. Can also be sold at ordinary shops. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="4453"/>
+	</item>
+	<item id="4103" type="EtcItem" name="Pata Blade">
+		<!-- Main ingredient definitely required for a Dwarf to make Pata. Can also be sold at ordinary shops. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="32950"/>
+	</item>
+	<item id="4104" type="EtcItem" name="Great Sword Blade">
+		<!-- Main ingredient definitely required for a Dwarf to Great Sword. Can also be sold at ordinary shops. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="34950"/>
+	</item>
+	<item id="4105" type="EtcItem" name="Heavy War Axe Head">
+		<!-- Main ingredient definitely required for a Dwarf to make Heavy War Axe. Can also be sold at ordinary shops. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="34950"/>
+	</item>
+	<item id="4106" type="EtcItem" name="Sprite's Staff Head">
+		<!-- Main ingredient definitely required for a Dwarf to make a Sprite's Staff. Can also be sold at ordinary shops. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="35533"/>
+	</item>
+	<item id="4107" type="EtcItem" name="Keshanberk Blade">
+		<!-- Main ingredient definitely required for a Dwarf to make Keshanberk. Can also be sold at ordinary shops. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="35500"/>
+	</item>
+	<item id="4108" type="EtcItem" name="Sword of Valhalla Blade">
+		<!-- Main ingredient definitely required for a Dwarf to make Sword of Valhalla. Can also be sold at ordinary shops. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="35500"/>
+	</item>
+	<item id="4109" type="EtcItem" name="Kris Edge">
+		<!-- Main ingredient required by a Dwarf to make a Kris. Can also be sold at ordinary shops. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="35500"/>
+	</item>
+	<item id="4110" type="EtcItem" name="Hell Knife Edge">
+		<!-- Main ingredient definitely required for a Dwarf to make Hell Knife. Can also be sold at ordinary shops. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="35500"/>
+	</item>
+	<item id="4111" type="EtcItem" name="Arthro Nail Blade">
+		<!-- Main ingredient definitely required for a Dwarf to make Arthro Nail. Can also be sold at ordinary shops. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="34950"/>
+	</item>
+	<item id="4112" type="EtcItem" name="Dark Elven Longbow Shaft">
+		<!-- Main ingredient definitely required for a Dwarf to make a Dark Elven Longbow. Can also be sold at ordinary shops. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="35325"/>
+	</item>
+	<item id="4113" type="EtcItem" name="Great Axe Head">
+		<!-- Main ingredient definitely required for a Dwarf to Great Axe. Can also be sold at ordinary shops. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="38867"/>
+	</item>
+	<item id="4114" type="EtcItem" name="Sword of Damascus Blade">
+		<!-- Main ingredient definitely required for a Dwarf to make Sword of Damascus. Can also be sold at ordinary shops. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="45692"/>
+	</item>
+	<item id="4115" type="EtcItem" name="Lance Blade">
+		<!-- Main ingredient definitely required for a Dwarf to make a Lance. Can also be sold at ordinary shops. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="45846"/>
+	</item>
+	<item id="4116" type="EtcItem" name="Deadman's Glory Stone">
+		<!-- Main ingredient definitely required for a Dwarf to make Deadman's Glory. Can also be sold at ordinary shops. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="45769"/>
+	</item>
+	<item id="4117" type="EtcItem" name="Art of Battle Axe Blade">
+		<!-- Main ingredient definitely required for a Dwarf to make Art of Battle Axe. Can also be sold at ordinary shops. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="45769"/>
+	</item>
+	<item id="4118" type="EtcItem" name="Evil Spirit Head">
+		<!-- Main ingredient required for a Dwarf to make the Staff of Evil Spirits. May also be sold at ordinary shops. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="48308"/>
+	</item>
+	<item id="4119" type="EtcItem" name="Demon Dagger Edge">
+		<!-- Main ingredient definitely required for a Dwarf to make a Demon Dagger. Can also be sold at ordinary shops. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="45692"/>
+	</item>
+	<item id="4120" type="EtcItem" name="Bellion Cestus Edge">
+		<!-- Main ingredient definitely required for a Dwarf to make Bellion Cestus. Can also be sold at ordinary shops. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="45769"/>
+	</item>
+	<item id="4121" type="EtcItem" name="Bow of Peril Shaft">
+		<!-- Main ingredient definitely required for a Dwarf to make a Bow of Peril. Can also be sold at ordinary shops. -->
+		<set name="item_type" val="material"/>
+		<set name="weight" val="60"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="45923"/>
+	</item>
+	<item id="4122" type="EtcItem" name="Recipe: Maestro Holder">
+		<!-- For Dwarves only. The recipe for the Maestro Holder. Requires Create Item - Skill Level 6. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="4500"/>
+	</item>
+	<item id="4123" type="EtcItem" name="Recipe: Maestro Anvil Lock">
+		<!-- For Dwarves only. The recipe for the Maestro Anvil Lock. Requires Create Item - Skill Level 6. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="4500"/>
+	</item>
+	<item id="4124" type="EtcItem" name="Recipe: Craftsman Mold">
+		<!-- For Dwarves only. The recipe for a Craftsman Mold. Requires Create Item - Skill Level 6. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="4500"/>
+	</item>
+	<item id="4125" type="EtcItem" name="Recipe: Maestro Mold">
+		<!-- For Dwarves only. The recipe for the Maestro Mold. Requires Create Item - Skill Level 6. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="4500"/>
+	</item>
+	<item id="4126" type="EtcItem" name="Recipe: Adamantite Earrings">
+		<!-- For Dwarves only. The recipe for Adamantite Earrings. Requires Create Item - Skill Level 6. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="12120"/>
+	</item>
+	<item id="4127" type="EtcItem" name="Recipe: Adamantite Ring">
+		<!-- For Dwarves only. The recipe for an Adamantite Ring. Requires Create Item - Skill Level 6. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="8080"/>
+	</item>
+	<item id="4128" type="EtcItem" name="Recipe: Adamantite Necklace">
+		<!-- For Dwarves only. The recipe for an Adamantite Necklace. Requires Create Item - Skill Level 6. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="16160"/>
+	</item>
+	<item id="4129" type="EtcItem" name="Recipe: Earrings of Black Ore">
+		<!-- For Dwarves only. The recipe for Earrings of Black Ore. Requires Create Item - Skill Level 7. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="18480"/>
+	</item>
+	<item id="4130" type="EtcItem" name="Recipe: Ring of Black Ore">
+		<!-- For Dwarves only. The recipe for a Ring of Black Ore. Requires Create Item - Skill Level 7. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="12320"/>
+	</item>
+	<item id="4131" type="EtcItem" name="Recipe: Necklace of Black Ore">
+		<!-- For Dwarves only. The recipe for a Necklace of Black Ore. Requires Create Item - Skill Level 7. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="24600"/>
+	</item>
+	<item id="4132" type="EtcItem" name="Recipe: Composite Shield">
+		<!-- For Dwarves only. The recipe for a Composite Shield. Requires Create Item - Skill Level 5. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="5160"/>
+	</item>
+	<item id="4133" type="EtcItem" name="Recipe: Zubei's Breastplate">
+		<!-- For Dwarves only. The recipe for a Zubei's Breastplate. Requires Create Item - Skill Level 6. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="41600"/>
+	</item>
+	<item id="4134" type="EtcItem" name="Recipe: Zubei's Gaiters">
+		<!-- For Dwarves only. The recipe for Zubei's Gaiters. Requires Create Item - Skill Level 6. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="26000"/>
+	</item>
+	<item id="4135" type="EtcItem" name="Recipe: Implosion Boots">
+		<!-- For Dwarves only. The recipe for Boots of implosion. Requires Create Item - Skill Level 7. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="16080"/>
+	</item>
+	<item id="4136" type="EtcItem" name="Recipe: Boots of Silence">
+		<!-- For Dwarves only. The recipe for Boots of Silence. Requires Create Item - Skill Level 6. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="10380"/>
+	</item>
+	<item id="4137" type="EtcItem" name="Recipe: Guardian's Boots">
+		<!-- For Dwarves only. The recipe for the Guardian's Boots. Requires Create Item - Skill Level 6. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="10380"/>
+	</item>
+	<item id="4138" type="EtcItem" name="Recipe: Paradia Boots">
+		<!-- For Dwarves only. The recipe for Paradia Boots. Requires Create Item - Skill Level 7. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="16080"/>
+	</item>
+	<item id="4139" type="EtcItem" name="Recipe: Elemental Boots">
+		<!-- For Dwarves only. The recipe for Elemental Boots. Requires Create Item - Skill Level 7. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="16080"/>
+	</item>
+	<item id="4140" type="EtcItem" name="Recipe: Boots of Grace">
+		<!-- For Dwarves only. The recipe for Boots of Grace. Requires Create Item - Skill Level 7. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="16080"/>
+	</item>
+	<item id="4141" type="EtcItem" name="Recipe: Avadon Breastplate">
+		<!-- For Dwarves only. The recipe for an Avadon Breastplate. Requires Create Item - Skill Level 6. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="41600"/>
+	</item>
+	<item id="4142" type="EtcItem" name="Recipe: Avadon Gaiters">
+		<!-- For Dwarves only. The recipe for Avadon Gaiters. Requires Create Item - Skill Level 6. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="26000"/>
+	</item>
+	<item id="4143" type="EtcItem" name="Recipe: Zubei's Leather Shirt">
+		<!-- For Dwarves only. The recipe for a Zubei's Leather Shirt. Requires Create Item - Skill Level 6. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="31200"/>
+	</item>
+	<item id="4144" type="EtcItem" name="Recipe: Zubei's Leather Gaiters">
+		<!-- For Dwarves only. The recipe for Zubei's Leather Gaiters. Requires Create Item - Skill Level 6. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="19460"/>
+	</item>
+	<item id="4145" type="EtcItem" name="Recipe: Avadon Leather Armor">
+		<!-- For Dwarves only. The recipe for Avadon Leather Armor. Requires Create Item - Skill Level 6. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="45600"/>
+	</item>
+	<item id="4146" type="EtcItem" name="Recipe: Tunic of Zubei">
+		<!-- For Dwarves only. The recipe for a Tunic of Zubei. Requires Create Item - Skill Level 6. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="31200"/>
+	</item>
+	<item id="4147" type="EtcItem" name="Recipe: Stockings of Zubei">
+		<!-- For Dwarves only. The recipe for Stockings of Zubei. Requires Create Item - Skill Level 6. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="19460"/>
+	</item>
+	<item id="4148" type="EtcItem" name="Recipe: Avadon Robe">
+		<!-- For Dwarves only. The recipe for an Avadon Robe. Requires Create Item - Skill Level 6. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="45600"/>
+	</item>
+	<item id="4149" type="EtcItem" name="Recipe: Avadon Circlet">
+		<!-- For Dwarves only. The recipe for an Avadon Circlet. Requires Create Item - Skill Level 6. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="15560"/>
+	</item>
+	<item id="4150" type="EtcItem" name="Recipe: Avadon Gloves">
+		<!-- For Dwarves only. The recipe for the Sealed Avadon Gloves. Requires Create Item - Skill Level 6. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="10380"/>
+	</item>
+	<item id="4151" type="EtcItem" name="Recipe: Chain Gloves of Silence">
+		<!-- For Dwarves only. The recipe for Chain Gloves of Silence. Requires Create Item - Skill Level 6. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="10380"/>
+	</item>
+	<item id="4152" type="EtcItem" name="Recipe: Guardian's Gloves">
+		<!-- For Dwarves only. The recipe for the Guardian's Gloves. Requires Create Item - Skill Level 6. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="10380"/>
+	</item>
+	<item id="4153" type="EtcItem" name="Recipe: Gloves of Blessing">
+		<!-- For Dwarves only. The recipe for Gloves of Blessing. Requires Create Item - Skill Level 6. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="10380"/>
+	</item>
+	<item id="4154" type="EtcItem" name="Recipe: Doom Shield">
+		<!-- For Dwarves only. The recipe for a Doom Shield. Requires Create Item - Skill Level 7. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="16900"/>
+	</item>
+	<item id="4155" type="EtcItem" name="Recipe: Blue Wolf Breastplate">
+		<!-- For Dwarves only. The recipe for a Blue Wolf Breastplate. Requires Create Item - Skill Level 7. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="64400"/>
+	</item>
+	<item id="4156" type="EtcItem" name="Recipe: Boots of Blessing">
+		<!-- For Dwarves only. The recipe for Boots of Blessing. Requires Create Item - Skill Level 6. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="10380"/>
+	</item>
+	<item id="4157" type="EtcItem" name="Recipe: Blue Wolf Gaiters">
+		<!-- For Dwarves only. The recipe for the Blue Wolf Gaiters. Requires Create Item - Skill Level 7. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="40200"/>
+	</item>
+	<item id="4158" type="EtcItem" name="Recipe: Doom Plate Armor">
+		<!-- For Dwarves only. The recipe for a Doom Plate Armor. Requires Create Item - Skill Level 7. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="94200"/>
+	</item>
+	<item id="4159" type="EtcItem" name="Recipe: Blue Wolf Leather Armor">
+		<!-- For Dwarves only. The recipe for a Blue Wolf Leather Armor. Requires Create Item - Skill Level 7. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="70600"/>
+	</item>
+	<item id="4160" type="EtcItem" name="Recipe: Leather Armor of Doom">
+		<!-- For Dwarves only. The recipe for a Leather Armor of Doom. Requires Create Item - Skill Level 7. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="70600"/>
+	</item>
+	<item id="4161" type="EtcItem" name="Recipe: Blue Wolf Tunic">
+		<!-- For Dwarves only. The recipe for a Blue Wolf Tunic. Requires Create Item - Skill Level 7. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="48200"/>
+	</item>
+	<item id="4162" type="EtcItem" name="Recipe: Tunic of Doom">
+		<!-- For Dwarves only. The recipe for a Tunic of Doom. Requires Create Item - Skill Level 7. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="48200"/>
+	</item>
+	<item id="4163" type="EtcItem" name="Recipe: Blue Wolf Stockings">
+		<!-- For Dwarves only. The recipe for Blue Wolf Stockings. Requires Create Item - Skill Level 7. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="30200"/>
+	</item>
+	<item id="4164" type="EtcItem" name="Recipe: Stockings of Doom">
+		<!-- For Dwarves only. The recipe for Stockings of Doom. Requires Create Item - Skill Level 7. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="30200"/>
+	</item>
+	<item id="4165" type="EtcItem" name="Recipe: Blue Wolf Helmet">
+		<!-- For Dwarves only. The recipe for a Blue Wolf Helmet. Requires Create Item - Skill Level 7. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="24200"/>
+	</item>
+	<item id="4166" type="EtcItem" name="Recipe: Doom Helmet">
+		<!-- For Dwarves only. The recipe for a Doom Helmet. Requires Create Item - Skill Level 7. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="24200"/>
+	</item>
+	<item id="4167" type="EtcItem" name="Recipe: Blue Wolf Boots">
+		<!-- For Dwarves only. The recipe for a sealed Blue Wolf Boots. Requires Create Item - Skill Level 7. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="16080"/>
+	</item>
+	<item id="4168" type="EtcItem" name="Recipe: Doom Gloves">
+		<!-- For Dwarves only. The recipe for a Sealed Doom Gloves. Requires Create Item - Skill Level 7. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="16080"/>
+	</item>
+	<item id="4169" type="EtcItem" name="Recipe: Elemental Gloves">
+		<!-- For Dwarves only. The recipe for Elemental Gloves. Requires Create Item - Skill Level 7. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="16080"/>
+	</item>
+	<item id="4170" type="EtcItem" name="Recipe: Gloves of Grace">
+		<!-- For Dwarves only. The recipe for Gloves of Grace. Requires Create Item - Skill Level 7. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="16080"/>
+	</item>
+	<item id="4171" type="EtcItem" name="Recipe: Implosion Gauntlets">
+		<!-- For Dwarves only. The recipe for Implosion Gauntlets. Requires Create Item - Skill Level 7. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="16080"/>
+	</item>
+	<item id="4172" type="EtcItem" name="Recipe: Paradia Gloves">
+		<!-- For Dwarves only. The recipe for Paradia Gloves. Requires Create Item - Skill Level 7. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="16080"/>
+	</item>
+	<item id="4173" type="EtcItem" name="Recipe: Blue Wolf Gloves">
+		<!-- For Dwarves only. The recipe for Blue Wolf Gloves. Requires Create Item - Skill Level 7. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="16080"/>
+	</item>
+	<item id="4174" type="EtcItem" name="Recipe: Zubei's Boots">
+		<!-- For Dwarves only. The recipe for the Sealed Zubei's Boots. Requires Create Item - Skill Level 6. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="10380"/>
+	</item>
+	<item id="4175" type="EtcItem" name="Recipe: Avadon Boots">
+		<!-- For Dwarves only. The recipe for the Sealed Avadon Boots. Requires Create Item - Skill Level 6. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="10380"/>
+	</item>
+	<item id="4176" type="EtcItem" name="Recipe: Doom Boots">
+		<!-- For Dwarves only. The recipe for the sealed Doom Boots. Requires Create Item - Skill Level 7. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="16080"/>
+	</item>
+	<item id="4177" type="EtcItem" name="Recipe: Zubei's Gauntlets">
+		<!-- For Dwarves only. The recipe for a sealed Zubei's Gauntlets. Requires Create Item - Skill Level 6. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="10380"/>
+	</item>
+	<item id="4178" type="EtcItem" name="Recipe: Zubei's Shield (100%)">
+		<!-- For Dwarves only. The recipe for a Zubei's Shield. Requires Create Item - Skill Level 6. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="10900"/>
+	</item>
+	<item id="4179" type="EtcItem" name="Recipe: Zubei's Helmet">
+		<!-- For Dwarves only. The recipe for a Zubei's Helmet. Requires Create Item - Skill Level 6. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="15560"/>
+	</item>
+	<item id="4180" type="EtcItem" name="Recipe: Silver Arrow">
+		<!-- For Dwarves only. The recipe for a Silver Arrow. Requires Create Item - Skill Level 4. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1800"/>
+	</item>
+	<item id="4181" type="EtcItem" name="Recipe: Pata">
+		<!-- For Dwarves only. The recipe for a Pata. Requires Create Item - Skill Level 6. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="156600"/>
+	</item>
+	<item id="4182" type="EtcItem" name="Recipe: Great Sword">
+		<!-- For Dwarves only. The recipe for a Great Sword. Requires Create Item - Skill Level 6. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="173600"/>
+	</item>
+	<item id="4183" type="EtcItem" name="Recipe: Heavy War Axe">
+		<!-- For Dwarves only. The recipe for a Heavy War Axe. Requires Create Item - Skill Level 6. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="173600"/>
+	</item>
+	<item id="4184" type="EtcItem" name="Recipe: Sprite's Staff">
+		<!-- For Dwarves only. The recipe for a Sprite's Staff. Requires Create Item - Skill Level 6. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="173600"/>
+	</item>
+	<item id="4185" type="EtcItem" name="Recipe: Keshanberk">
+		<!-- For Dwarves only. The recipe for a Kshanberk. Requires Create Item - Skill Level 6. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="173600"/>
+	</item>
+	<item id="4186" type="EtcItem" name="Recipe: Sword of Valhalla">
+		<!-- For Dwarves only. The recipe for a Sword of Valhalla. Requires Create Item - Skill Level 6. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="173600"/>
+	</item>
+	<item id="4187" type="EtcItem" name="Recipe: Kris">
+		<!-- For Dwarves only. The recipe for a Kris. Requires Create Item - Skill Level 6. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="173600"/>
+	</item>
+	<item id="4188" type="EtcItem" name="Recipe: Hell Knife">
+		<!-- For Dwarves only. The recipe for a Hell Knife. Requires Create Item - Skill Level 6. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="173600"/>
+	</item>
+	<item id="4189" type="EtcItem" name="Recipe: Arthro Nail">
+		<!-- For Dwarves only. The recipe for an Arthro Nail. Requires Create Item - Skill Level 6. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="173600"/>
+	</item>
+	<item id="4190" type="EtcItem" name="Recipe: Dark Elven Long Bow">
+		<!-- For Dwarves only. The recipe for a Dark Elven Long Bow. Requires Create Item - Skill Level 6. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="173600"/>
+	</item>
+	<item id="4191" type="EtcItem" name="Recipe: Great Axe">
+		<!-- For Dwarves only. The recipe for a Great Axe. Requires Create Item - Skill Level 6. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="173600"/>
+	</item>
+	<item id="4192" type="EtcItem" name="Recipe: Sword of Damascus">
+		<!-- For Dwarves only. The recipe for a Sword of Damascus. Requires Create Item - Skill Level 7. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="262000"/>
+	</item>
+	<item id="4193" type="EtcItem" name="Recipe: Lance">
+		<!-- For Dwarves only. The recipe for a Lance. Requires Create Item - Skill Level 7. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="262000"/>
+	</item>
+	<item id="4194" type="EtcItem" name="Recipe: Deadman's Glory">
+		<!-- For Dwarves only. The recipe for the Deadman's Glory. Requires Create Item - Skill Level 7. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="262000"/>
+	</item>
+	<item id="4195" type="EtcItem" name="Recipe: Art of Battle Axe">
+		<!-- For Dwarves only. The recipe for an Art of Battle Axe. Requires Create Item - Skill Level 7. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="262000"/>
+	</item>
+	<item id="4196" type="EtcItem" name="Recipe: Staff of Evil Spirits">
+		<!-- For Dwarves only. Requires Create Item - Skill Level 7. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="262000"/>
+	</item>
+	<item id="4197" type="EtcItem" name="Recipe: Demon Dagger">
+		<!-- For Dwarves only. The recipe for a Demon Dagger. Requires Create Item - Skill Level 7. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="262000"/>
+	</item>
+	<item id="4198" type="EtcItem" name="Recipe: Bellion Cestus">
+		<!-- For Dwarves only. The recipe for a Bellion Cestus. Requires Create Item - Skill Level 7. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="262000"/>
+	</item>
+	<item id="4199" type="EtcItem" name="Recipe: Bow of Peril">
+		<!-- For Dwarves only. The recipe for a Bow of Peril. Requires Create Item - Skill Level 7. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="262000"/>
+	</item>
+</list>

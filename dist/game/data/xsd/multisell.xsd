@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="list">
+		<xs:complexType mixed="true">
+			<xs:sequence minOccurs="0">
+				<xs:element maxOccurs="unbounded" name="item">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:choice maxOccurs="unbounded">
+								<xs:element maxOccurs="unbounded" name="ingredient">
+									<xs:complexType>
+										<xs:attribute name="id" type="xs:unsignedShort" use="required" />
+										<xs:attribute name="count" type="xs:unsignedInt" use="required" />
+										<xs:attribute name="isTaxIngredient" type="xs:boolean" use="optional" />
+										<xs:attribute name="mantainIngredient" type="xs:boolean" use="optional" />
+										<xs:attribute name="enchant" type="xs:unsignedByte" use="optional" />
+									</xs:complexType>
+								</xs:element>
+								<xs:element name="production">
+									<xs:complexType>
+										<xs:attribute name="id" type="xs:unsignedShort" use="required" />
+										<xs:attribute name="count" type="xs:unsignedInt" use="required" />
+										<xs:attribute name="enchant" type="xs:unsignedByte" use="optional" />
+									</xs:complexType>
+								</xs:element>
+							</xs:choice>
+						</xs:sequence>
+						<xs:attribute name="id" type="xs:unsignedShort" use="required" />
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+			<xs:attribute name="maintainEnchantment" type="xs:boolean" use="optional" />
+			<xs:attribute name="applyTaxes" type="xs:boolean" use="optional" />
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

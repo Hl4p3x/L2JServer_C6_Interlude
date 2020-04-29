@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/zones.xsd">
+	<!-- PVP Zones -->
+	<zone type="ArenaZone" shape="Cuboid" minZ="-3596" maxZ="0"> <!-- dion_monster_pvp -->
+		<node X="11947" Y="183019" />
+		<node X="12943" Y="184010" />
+		<spawn X="12312" Y="182752" Z="-3558" />
+	</zone>
+	<zone type="ArenaZone" shape="Cuboid" minZ="-3752" maxZ="-352"> <!-- gludin_pvp -->
+		<node X="-88411" Y="141732" />
+		<node X="-87429" Y="142708" />
+		<spawn X="-86979" Y="142402" Z="-3643" />
+	</zone>
+	<zone type="ArenaZone" shape="Cuboid" minZ="-3850" maxZ="-350"> <!-- giran_pvp_battle -->
+		<node X="72493" Y="142263" />
+		<node X="73493" Y="143261" />
+		<spawn X="73890" Y="142656" Z="-3778" />
+	</zone>
+	<zone type="ArenaZone" shape="NPoly" minZ="-3498" maxZ="-3298"> <!-- coliseum_battle -->
+		<node X="150948" Y="46483" />
+		<node X="151210" Y="46186" />
+		<node X="151221" Y="45928" />
+		<node X="150737" Y="45344" />
+		<node X="148265" Y="45346" />
+		<node X="147769" Y="45942" />
+		<node X="147784" Y="46184" />
+		<node X="148047" Y="46482" />
+		<node X="148049" Y="46954" />
+		<node X="147781" Y="47256" />
+		<node X="147769" Y="47492" />
+		<node X="148263" Y="48087" />
+		<node X="150745" Y="48084" />
+		<node X="151220" Y="47493" />
+		<node X="151216" Y="47259" />
+		<node X="150947" Y="46960" />
+		<spawn X="147451" Y="46728" Z="-3410" />
+	</zone>
+</list>

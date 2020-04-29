@@ -1,0 +1,624 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="6000" type="EtcItem" name="Blueprint: Tower of Insolence, 12th Floor">
+		<!-- A blueprint drafted by the architects of the Tower of Insolence. This is the blueprint of the 12th of 13 floors. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="400"/>
+	</item>
+	<item id="6001" type="EtcItem" name="Blueprint: Tower of Insolence, 13th Floor">
+		<!-- A blueprint drafted by the architects of the Tower of Insolence. This is the blueprint of the 13th of 13 floors. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="400"/>
+	</item>
+	<item id="6002" type="EtcItem" name="Ancient Porcelain">
+		<!-- A porcelain from the era of an ancient empire found in the Tower of Insolence. It has not been evaluated by antique experts yet. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="10"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="8000"/>
+	</item>
+	<item id="6003" type="EtcItem" name="Ancient Porcelain: Excellent">
+		<!-- A porcelain from the era of an ancient empire. Judged to be of the highest grade "excellent" porcelain. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="10"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="12000"/>
+	</item>
+	<item id="6004" type="EtcItem" name="Ancient Porcelain: High Quality">
+		<!-- A porcelain from the era of an ancient empire. Judged to be of "high grade" porcelain. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="10"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="8000"/>
+	</item>
+	<item id="6005" type="EtcItem" name="Ancient Porcelain: Low Quality">
+		<!-- A porcelain from the era of an ancient empire. Judged to be of "low grade" porcelain. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="10"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="5000"/>
+	</item>
+	<item id="6006" type="EtcItem" name="Ancient Porcelain: Lowest Quality">
+		<!-- A porcelain from the era of an ancient empire. Judged to be of the "lowest grade" porcelain. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="10"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="2000"/>
+	</item>
+	<item id="6007" type="EtcItem" name="Reagent Pouch">
+		<!-- A pouch that contains an alchemic reagent. Double-click to confirm contents. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6008" type="EtcItem" name="Reagent Pouch">
+		<!-- A pouch that contains an alchemic reagent. Double-click to confirm contents. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6009" type="EtcItem" name="Reagent Pouch">
+		<!-- A pouch that contains an alchemic reagent. Double-click to confirm contents. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6010" type="EtcItem" name="Reagent Box">
+		<!-- A small box containing an alchemic reagent. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6011" type="EtcItem" name="Wyrm's Blood">
+		<!-- Used to mix alchemic reagents. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="200"/>
+	</item>
+	<item id="6012" type="EtcItem" name="Lava Stone">
+		<!-- Used to mix alchemic reagents. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="200"/>
+	</item>
+	<item id="6013" type="EtcItem" name="Moonstone Shard">
+		<!-- Used to mix alchemic reagents. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="200"/>
+	</item>
+	<item id="6014" type="EtcItem" name="Rotten Bone Piece">
+		<!-- Used to mix alchemic reagents. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="200"/>
+	</item>
+	<item id="6015" type="EtcItem" name="Demon's Blood">
+		<!-- Used to mix alchemic reagents. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="200"/>
+	</item>
+	<item id="6016" type="EtcItem" name="Infernium Ore">
+		<!-- Used to mix alchemic reagents. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="200"/>
+	</item>
+	<item id="6017" type="EtcItem" name="Blood Root">
+		<!-- Used to mix alchemic reagents. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="200"/>
+	</item>
+	<item id="6018" type="EtcItem" name="Volcanic Ash">
+		<!-- Used to mix alchemic reagents. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="100"/>
+	</item>
+	<item id="6019" type="EtcItem" name="Quicksilver">
+		<!-- Used to mix alchemic reagents. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="200"/>
+	</item>
+	<item id="6020" type="EtcItem" name="Sulfur">
+		<!-- Used to mix alchemic reagents. -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="200"/>
+	</item>
+	<item id="6021" type="EtcItem" name="Dracoplasm">
+		<!-- Low Grade Reagent -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6022" type="EtcItem" name="Magma Dust">
+		<!-- Low Grade Reagent -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6023" type="EtcItem" name="Moon Dust">
+		<!-- Low Grade Reagent -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6024" type="EtcItem" name="Necroplasm">
+		<!-- Low Grade Reagent -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6025" type="EtcItem" name="Demonplasm">
+		<!-- Low Grade Reagent -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="2500"/>
+	</item>
+	<item id="6026" type="EtcItem" name="Inferno Dust">
+		<!-- Low Grade Reagent -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6027" type="EtcItem" name="Draconic Essence">
+		<!-- High Grade Reagent -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6028" type="EtcItem" name="Fire Essence">
+		<!-- High Grade Reagent -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="2500"/>
+	</item>
+	<item id="6029" type="EtcItem" name="Lunargent">
+		<!-- High Grade Reagent -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="2500"/>
+	</item>
+	<item id="6030" type="EtcItem" name="Midnight Oil">
+		<!-- High Grade Reagent -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6031" type="EtcItem" name="Demonic Essence">
+		<!-- High Grade Reagent -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="2500"/>
+	</item>
+	<item id="6032" type="EtcItem" name="Abyss Oil">
+		<!-- High Grade Reagent -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6033" type="EtcItem" name="Hellfire Oil">
+		<!-- Highest Grade Reagent -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6034" type="EtcItem" name="Nightmare Oil">
+		<!-- Highest Grade Reagent -->
+		<set name="item_type" val="none"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="5000"/>
+	</item>
+	<item id="6035" type="EtcItem" name="Magic Haste Potion">
+		<!-- Enhances Casting Spd. Acumen Effect 2. -->
+		<set name="item_type" val="potion"/>
+		<set name="weight" val="20"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="2400"/>
+	</item>
+	<item id="6036" type="EtcItem" name="Greater Magic Haste Potion">
+		<!-- Enhances Casting Spd. Acumen Effect 3. -->
+		<set name="item_type" val="potion"/>
+		<set name="weight" val="20"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="7200"/>
+	</item>
+	<item id="6037" type="EtcItem" name="Waking Scroll">
+		<!-- If you use it on a target who is asleep, the target will wake up. -->
+		<set name="item_type" val="scroll"/>
+		<set name="weight" val="5"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="120"/>
+	</item>
+	<item id="6038" type="EtcItem" name="Greater Mercenary Posting Ticket (Sword/Stationary)">
+		<!-- Gludio/Sword/Stationary. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6039" type="EtcItem" name="Greater Mercenary Posting Ticket (Spear/Stationary)">
+		<!-- Gludio/Spear/Stationary. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6040" type="EtcItem" name="Greater Mercenary Posting Ticket (Bow/Stationary)">
+		<!-- Gludio/Bow/Stationary. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6041" type="EtcItem" name="Greater Mercenary Posting Ticket (Cleric/Stationary)">
+		<!-- Gludio/Cleric/Stationary. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6042" type="EtcItem" name="Greater Mercenary Posting Ticket (Wizard/Stationary)">
+		<!-- Gludio/Wizard/Stationary. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6043" type="EtcItem" name="Greater Mercenary Posting Ticket (Sword/Mobile)">
+		<!-- Gludio/Sword/Mobile. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6044" type="EtcItem" name="Greater Mercenary Posting Ticket (Spear/Mobile)">
+		<!-- Gludio/Spear/Mobile. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6045" type="EtcItem" name="Greater Mercenary Posting Ticket (Bow/Mobile)">
+		<!-- Gludio/Bow/Mobile. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6046" type="EtcItem" name="Greater Mercenary Posting Ticket (Cleric/Mobile)">
+		<!-- Gludio/Cleric/Mobile. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6047" type="EtcItem" name="Greater Mercenary Posting Ticket (Wizard/Mobile)">
+		<!-- Gludio/Wizard/Mobile. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6048" type="EtcItem" name="Trash - Trash">
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6049" type="EtcItem" name="Trash - Trash">
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6050" type="EtcItem" name="Trash - Trash">
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6051" type="EtcItem" name="Greater Mercenary Posting Ticket (Sword/Stationary)">
+		<!-- Dion/Sword/Stationary. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6052" type="EtcItem" name="Greater Mercenary Posting Ticket (Spear/Stationary)">
+		<!-- Dion/Spear/Stationary. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6053" type="EtcItem" name="Greater Mercenary Posting Ticket (Bow/Stationary)">
+		<!-- Dion/Bow/Stationary. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6054" type="EtcItem" name="Greater Mercenary Posting Ticket (Cleric/Stationary)">
+		<!-- Dion/Cleric/Stationary. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6055" type="EtcItem" name="Greater Mercenary Posting Ticket (Wizard/Stationary)">
+		<!-- Dion/Wizard/Stationary. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6056" type="EtcItem" name="Greater Mercenary Posting Ticket (Sword/Mobile)">
+		<!-- Dion/Sword/Mobile. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6057" type="EtcItem" name="Greater Mercenary Posting Ticket (Spear/Mobile)">
+		<!-- Dion/Spear/Mobile. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6058" type="EtcItem" name="Greater Mercenary Posting Ticket (Bow/Mobile)">
+		<!-- Dion/Bow/Mobile. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6059" type="EtcItem" name="Greater Mercenary Posting Ticket (Cleric/Mobile)">
+		<!-- Dion/Cleric/Mobile. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6060" type="EtcItem" name="Greater Mercenary Posting Ticket (Wizard/Mobile)">
+		<!-- Dion/Wizard/Mobile. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6061" type="EtcItem" name="Trash - Trash">
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6062" type="EtcItem" name="Trash - Trash">
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6063" type="EtcItem" name="Trash - Trash">
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6064" type="EtcItem" name="Greater Mercenary Posting Ticket (Sword/Stationary)">
+		<!-- Giran/Sword/Stationary. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6065" type="EtcItem" name="Greater Mercenary Posting Ticket (Spear/Stationary)">
+		<!-- Giran/Spear/Stationary. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6066" type="EtcItem" name="Greater Mercenary Posting Ticket (Bow/Stationary)">
+		<!-- Giran/Bow/Stationary. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6067" type="EtcItem" name="Greater Mercenary Posting Ticket (Cleric/Stationary)">
+		<!-- Giran/Cleric/Stationary. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6068" type="EtcItem" name="Greater Mercenary Posting Ticket (Wizard/Stationary)">
+		<!-- Giran/Wizard/Stationary. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6069" type="EtcItem" name="Greater Mercenary Posting Ticket (Sword/Mobile)">
+		<!-- Giran/Sword/Mobile. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6070" type="EtcItem" name="Greater Mercenary Posting Ticket (Spear/Mobile)">
+		<!-- Giran/Spear/Mobile. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6071" type="EtcItem" name="Greater Mercenary Posting Ticket (Bow/Mobile)">
+		<!-- Giran/Bow/Mobile. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6072" type="EtcItem" name="Greater Mercenary Posting Ticket (Cleric/Mobile)">
+		<!-- Giran/Cleric/Mobile. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6073" type="EtcItem" name="Greater Mercenary Posting Ticket (Wizard/Mobile)">
+		<!-- Giran/Wizard/Mobile. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6074" type="EtcItem" name="Trash - Trash">
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6075" type="EtcItem" name="Trash - Trash">
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6076" type="EtcItem" name="Trash - Trash">
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6077" type="EtcItem" name="Greater Mercenary Posting Ticket (Sword/Stationary)">
+		<!-- Oren/Sword/Stationary. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6078" type="EtcItem" name="Greater Mercenary Posting Ticket (Spear/Stationary)">
+		<!-- Oren/Spear/Stationary. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6079" type="EtcItem" name="Greater Mercenary Posting Ticket (Bow/Stationary)">
+		<!-- Oren/Bow/Stationary. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6080" type="EtcItem" name="Greater Mercenary Posting Ticket (Cleric/Stationary)">
+		<!-- Oren/Cleric/Stationary. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6081" type="EtcItem" name="Greater Mercenary Posting Ticket (Wizard/Stationary)">
+		<!-- Oren/Wizard/Stationary. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6082" type="EtcItem" name="Greater Mercenary Posting Ticket (Sword/Mobile)">
+		<!-- Oren/Sword/Mobile. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6083" type="EtcItem" name="Greater Mercenary Posting Ticket (Spear/Mobile)">
+		<!-- Oren/Spear/Mobile. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6084" type="EtcItem" name="Greater Mercenary Posting Ticket (Bow/Mobile)">
+		<!-- Oren/Bow/Mobile. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6085" type="EtcItem" name="Greater Mercenary Posting Ticket (Cleric/Mobile)">
+		<!-- Oren/Cleric/Mobile. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6086" type="EtcItem" name="Greater Mercenary Posting Ticket (Wizard/Mobile)">
+		<!-- Oren/Wizard/Mobile. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6087" type="EtcItem" name="Trash - Trash">
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6088" type="EtcItem" name="Trash - Trash">
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6089" type="EtcItem" name="Trash - Trash">
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6090" type="EtcItem" name="Greater Mercenary Posting Ticket (Sword/Stationary)">
+		<!-- Aden/Sword/Stationary. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6091" type="EtcItem" name="Greater Mercenary Posting Ticket (Spear/Stationary)">
+		<!-- Aden/Spear/Stationary. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6092" type="EtcItem" name="Greater Mercenary Posting Ticket (Bow/Stationary)">
+		<!-- Aden/Bow/Stationary. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6093" type="EtcItem" name="Greater Mercenary Posting Ticket (Cleric/Stationary)">
+		<!-- Aden/Cleric/Stationary. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6094" type="EtcItem" name="Greater Mercenary Posting Ticket (Wizard/Stationary)">
+		<!-- Aden/Wizard/Stationary. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6095" type="EtcItem" name="Greater Mercenary Posting Ticket (Sword/Mobile)">
+		<!-- Aden/Sword/Mobile. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6096" type="EtcItem" name="Greater Mercenary Posting Ticket (Spear/Mobile)">
+		<!-- Aden/Spear/Mobile. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6097" type="EtcItem" name="Greater Mercenary Posting Ticket (Bow/Mobile)">
+		<!-- Aden/Bow/Mobile. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6098" type="EtcItem" name="Greater Mercenary Posting Ticket (Cleric/Mobile)">
+		<!-- Aden/Cleric/Mobile. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="6099" type="EtcItem" name="Greater Mercenary Posting Ticket (Wizard/Mobile)">
+		<!-- Aden/Wizard/Mobile. The seal of strife cannot be used to place a mercenary when it is possessed by the Revolutionaries of Dusk. -->
+		<set name="item_type" val="castle_guard"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+</list>

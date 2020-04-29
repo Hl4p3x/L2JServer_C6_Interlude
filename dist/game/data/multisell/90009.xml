@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Custom GM-Shop -->
+<list maintainEnchantment="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/multisell.xsd">
+	<!-- Necklace of Black Ore -->
+	<item id="1">
+		<ingredient id="57" count="4500000"/>
+		<production id="926" count="1"/>
+		<production id="864" count="1"/>
+		<production id="864" count="1"/>
+		<production id="895" count="1"/>
+		<production id="895" count="1"/>
+	</item>
+	<!-- Adamantite Necklace -->
+	<item id="2">
+		<ingredient id="57" count="3000000"/>
+		<production id="918" count="1"/>
+		<production id="856" count="1"/>
+		<production id="856" count="1"/>
+		<production id="887" count="1"/>
+		<production id="887" count="1"/>
+	</item>
+	<!-- Necklace of Aid -->
+	<item id="3">
+		<ingredient id="57" count="3000000"/>
+		<production id="935" count="1"/>
+		<production id="873" count="1"/>
+		<production id="873" count="1"/>
+		<production id="904" count="1"/>
+		<production id="904" count="1"/>
+	</item>
+	<!-- Necklace of Mana -->
+	<item id="4">
+		<ingredient id="57" count="3000000"/>
+		<production id="921" count="1"/>
+		<production id="859" count="1"/>
+		<production id="859" count="1"/>
+		<production id="117" count="1"/>
+		<production id="117" count="1"/>
+	</item>
+	<!-- Necklace of Summoning -->
+	<item id="5">
+		<ingredient id="57" count="3000000"/>
+		<production id="927" count="1"/>
+		<production id="865" count="1"/>
+		<production id="865" count="1"/>
+		<production id="896" count="1"/>
+		<production id="896" count="1"/>
+	</item>
+</list>

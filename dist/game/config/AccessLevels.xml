@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../data/xsd/AccessLevels.xsd">
+	<!-- Access levels -->
+	<access level="100" name="Master Access" nameColor="00CCFF" useNameColor="true" titleColor="00CCFF" useTitleColor="false" isGm="true" allowPeaceAttack="true" allowFixedRes="true" allowTransaction="true" allowAltg="true" giveDamage="true" takeAggro="true" gainExp="true" canDisableGmStatus="true" />
+	<access level="90" name="Head GM" nameColor="00FFFF" useNameColor="true" titleColor="00FFFF" useTitleColor="false" isGm="true" allowPeaceAttack="true" allowFixedRes="true" allowTransaction="true" allowAltg="true" giveDamage="true" takeAggro="true" gainExp="true" canDisableGmStatus="true" />
+	<access level="80" name="Event GM" nameColor="00FFFF" useNameColor="true" titleColor="00FFFF" useTitleColor="false" isGm="true" allowPeaceAttack="true" allowFixedRes="true" allowTransaction="false" allowAltg="true" giveDamage="false" takeAggro="false" gainExp="false" canDisableGmStatus="false" />
+	<access level="70" name="Support GM" nameColor="00FFFF" useNameColor="true" titleColor="00FFFF" useTitleColor="false" isGm="true" allowPeaceAttack="false" allowFixedRes="true" allowTransaction="false" allowAltg="true" giveDamage="false" takeAggro="false" gainExp="false" canDisableGmStatus="false" />
+	<access level="60" name="General GM" nameColor="00FFFF" useNameColor="true" titleColor="00FFFF" useTitleColor="false" isGm="true" allowPeaceAttack="false" allowFixedRes="true" allowTransaction="false" allowAltg="true" giveDamage="false" takeAggro="false" gainExp="false" canDisableGmStatus="false" />
+	<access level="50" name="Test GM" nameColor="FFFFFF" useNameColor="true" titleColor="FFFFFF" useTitleColor="false" isGm="false" allowPeaceAttack="false" allowFixedRes="true" allowTransaction="false" allowAltg="true" giveDamage="false" takeAggro="false" gainExp="false" canDisableGmStatus="false" />
+	<access level="0" name="User" nameColor="FFFFFF" useNameColor="false" titleColor="ECF9A2" useTitleColor="false" isGm="false" allowPeaceAttack="false" allowFixedRes="false" allowTransaction="true" allowAltg="false" giveDamage="true" takeAggro="true" gainExp="true" canDisableGmStatus="false" />
+</list>

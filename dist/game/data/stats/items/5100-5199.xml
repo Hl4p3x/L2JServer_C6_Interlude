@@ -1,0 +1,1080 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="5100" type="EtcItem" name="Mature Desert Coda">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5101" type="EtcItem" name="Mature Lute Coda">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5102" type="EtcItem" name="Mature Twin Coda">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5103" type="EtcItem" name="Mature Dark Coda">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5104" type="EtcItem" name="Mature Shining Coda">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5105" type="EtcItem" name="Mature Chilly Cobol">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5106" type="EtcItem" name="Mature Burning Cobol">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5107" type="EtcItem" name="Mature Blue Cobol">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5108" type="EtcItem" name="Mature Red Cobol">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5109" type="EtcItem" name="Mature Golden Cobol">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5110" type="EtcItem" name="Mature Desert Cobol">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5111" type="EtcItem" name="Mature Sea Cobol">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5112" type="EtcItem" name="Mature Thorn Cobol">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5113" type="EtcItem" name="Mature Dapple Cobol">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5114" type="EtcItem" name="Mature Great Cobol">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5115" type="EtcItem" name="Mature Chilly Codran">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5116" type="EtcItem" name="Mature Burning Codran">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5117" type="EtcItem" name="Mature Blue Codran">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5118" type="EtcItem" name="Mature Red Codran">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5119" type="EtcItem" name="Mature Dapple Codran">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5120" type="EtcItem" name="Mature Desert Codran">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5121" type="EtcItem" name="Mature Sea Codran">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5122" type="EtcItem" name="Mature Twin Codran">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5123" type="EtcItem" name="Mature Thorn Codran">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5124" type="EtcItem" name="Mature Great Codran">
+		<set name="item_type" val="none"/>
+		<set name="weight" val="1"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5125" type="EtcItem" name="Harvester">
+		<!-- Used to harvest the crop from the corpse of the monster on which a seed was sown. Most successful when character and target are not more than 5 levels apart. -->
+		<set name="item_type" val="harvest"/>
+		<set name="weight" val="20"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="500"/>
+	</item>
+	<item id="5126" type="EtcItem" name="Dualsword Craft Stamp">
+		<!-- Certificate obtained from a shop or quest. Essential component for making dualswords of B-Grade and higher. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="20"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="10000"/>
+	</item>
+	<item id="5127" type="Weapon" name="Dailaon Knife">
+		<set name="bodypart" val="rhand"/>
+		<set name="weight" val="300"/>
+		<set name="soulshots" val="2"/>
+		<set name="spiritshots" val="2"/>
+		<set name="crystal_type" val="d"/>
+		<set name="p_dam" val="5"/>
+		<set name="rnd_dam" val="5"/>
+		<set name="weapon_type" val="dagger"/>
+		<set name="critical" val="12"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="433"/>
+		<set name="m_dam" val="5"/>
+		<set name="price" val="409000"/>
+		<set name="crystal_count" val="743"/>
+		<for>
+			<set val="5" order="0x08" stat="pAtk"/>
+			<set val="5" order="0x08" stat="mAtk"/>
+			<set val="12" order="0x08" stat="rCrit"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="433" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="5128" type="Weapon" name="Crokian Blade">
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="300"/>
+		<set name="soulshots" val="2"/>
+		<set name="spiritshots" val="2"/>
+		<set name="crystal_type" val="d"/>
+		<set name="p_dam" val="5"/>
+		<set name="rnd_dam" val="5"/>
+		<set name="weapon_type" val="dagger"/>
+		<set name="critical" val="12"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="433"/>
+		<set name="m_dam" val="5"/>
+		<set name="price" val="409000"/>
+		<set name="crystal_count" val="743"/>
+		<for>
+			<set val="5" order="0x08" stat="pAtk"/>
+			<set val="5" order="0x08" stat="mAtk"/>
+			<set val="12" order="0x08" stat="rCrit"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="433" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="5129" type="Weapon" name="Doll Knife">
+		<set name="bodypart" val="lrhand"/>
+		<set name="weight" val="300"/>
+		<set name="soulshots" val="2"/>
+		<set name="spiritshots" val="2"/>
+		<set name="crystal_type" val="d"/>
+		<set name="p_dam" val="200"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="dual"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="6"/>
+		<set name="price" val="409000"/>
+		<set name="crystal_count" val="743"/>
+		<for>
+			<set val="200" order="0x08" stat="pAtk"/>
+			<set val="6" order="0x08" stat="mAtk"/>
+			<set val="8" order="0x08" stat="rCrit"/>
+			<add val="0" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="5130" type="Weapon" name="Nos Sword">
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="300"/>
+		<set name="soulshots" val="2"/>
+		<set name="spiritshots" val="2"/>
+		<set name="crystal_type" val="d"/>
+		<set name="p_dam" val="5"/>
+		<set name="rnd_dam" val="5"/>
+		<set name="weapon_type" val="dagger"/>
+		<set name="critical" val="12"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="433"/>
+		<set name="m_dam" val="5"/>
+		<set name="price" val="409000"/>
+		<set name="crystal_count" val="743"/>
+		<for>
+			<set val="5" order="0x08" stat="pAtk"/>
+			<set val="5" order="0x08" stat="mAtk"/>
+			<set val="12" order="0x08" stat="rCrit"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="433" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="5131" type="Weapon" name="Parhit Staff">
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="300"/>
+		<set name="soulshots" val="2"/>
+		<set name="spiritshots" val="2"/>
+		<set name="crystal_type" val="d"/>
+		<set name="p_dam" val="5"/>
+		<set name="rnd_dam" val="5"/>
+		<set name="weapon_type" val="dagger"/>
+		<set name="critical" val="12"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="433"/>
+		<set name="m_dam" val="5"/>
+		<set name="price" val="409000"/>
+		<set name="crystal_count" val="743"/>
+		<for>
+			<set val="5" order="0x08" stat="pAtk"/>
+			<set val="5" order="0x08" stat="mAtk"/>
+			<set val="12" order="0x08" stat="rCrit"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="433" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="5132" type="Weapon" name="Giant Trident">
+		<set name="bodypart" val="rhand"/>
+		<set name="crystallizable" val="true"/>
+		<set name="weight" val="300"/>
+		<set name="soulshots" val="2"/>
+		<set name="spiritshots" val="2"/>
+		<set name="crystal_type" val="d"/>
+		<set name="p_dam" val="5"/>
+		<set name="rnd_dam" val="5"/>
+		<set name="weapon_type" val="dagger"/>
+		<set name="critical" val="12"/>
+		<set name="hit_modify" val="-3.00000"/>
+		<set name="atk_speed" val="433"/>
+		<set name="m_dam" val="5"/>
+		<set name="price" val="409000"/>
+		<set name="crystal_count" val="743"/>
+		<for>
+			<set val="5" order="0x08" stat="pAtk"/>
+			<set val="5" order="0x08" stat="mAtk"/>
+			<set val="12" order="0x08" stat="rCrit"/>
+			<add val="-3" order="0x10" stat="accCombat"/>
+			<set val="433" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="5133" type="Weapon" name="Chrono Unitus">
+		<!-- Chronicle II Souvenir!!! -->
+		<set name="bodypart" val="lrhand"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_dam" val="1"/>
+		<set name="rnd_dam" val="5"/>
+		<set name="weapon_type" val="dualfist"/>
+		<set name="critical" val="4"/>
+		<set name="hit_modify" val="4.00000"/>
+		<set name="atk_speed" val="325"/>
+		<set name="m_dam" val="1"/>
+		<set name="dropable" val="false"/>
+		<for>
+			<set val="1" order="0x08" stat="pAtk"/>
+			<set val="1" order="0x08" stat="mAtk"/>
+			<set val="4" order="0x08" stat="rCrit"/>
+			<add val="4" order="0x10" stat="accCombat"/>
+			<set val="325" order="0x08" stat="pAtkSpd"/>
+			<enchant val="0" order="0x0C" stat="pAtk"/>
+			<enchant val="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</item>
+	<item id="5134" type="EtcItem" name="Compressed Package of Soulshots: No Grade">
+		<!-- 300 compressed soulshots. No Grade. -->
+		<set name="item_type" val="shot"/>
+		<set name="weight" val="600"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="2300"/>
+	</item>
+	<item id="5135" type="EtcItem" name="Compressed Package of Soulshots: D-grade">
+		<!-- 300 compressed soulshots. D-grade. -->
+		<set name="item_type" val="shot"/>
+		<set name="weight" val="450"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="3300"/>
+	</item>
+	<item id="5136" type="EtcItem" name="Compressed Package of Soulshots: C-grade">
+		<!-- 300 compressed soulshots. C-grade. -->
+		<set name="item_type" val="shot"/>
+		<set name="weight" val="450"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="4950"/>
+	</item>
+	<item id="5137" type="EtcItem" name="Compressed Package of Soulshots: B-grade">
+		<!-- 300 compressed soulshots. B-grade. -->
+		<set name="item_type" val="shot"/>
+		<set name="weight" val="300"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="16500"/>
+	</item>
+	<item id="5138" type="EtcItem" name="Compressed Package of Soulshots: A-grade">
+		<!-- 300 compressed soulshots. A-grade. -->
+		<set name="item_type" val="shot"/>
+		<set name="weight" val="300"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="26400"/>
+	</item>
+	<item id="5139" type="EtcItem" name="Compressed Package of Soulshots: S-grade">
+		<!-- 300 compressed soulshots. S-grade. -->
+		<set name="item_type" val="shot"/>
+		<set name="weight" val="300"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="33000"/>
+	</item>
+	<item id="5140" type="EtcItem" name="Compressed Package of Spiritshots: No Grade">
+		<!-- 300 compressed spiritshots. No Grade. -->
+		<set name="item_type" val="shot"/>
+		<set name="weight" val="750"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="4950"/>
+	</item>
+	<item id="5141" type="EtcItem" name="Compressed Package of Spiritshots: D-grade">
+		<!-- 300 compressed spiritshots. D-grade. -->
+		<set name="item_type" val="shot"/>
+		<set name="weight" val="750"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="5940"/>
+	</item>
+	<item id="5142" type="EtcItem" name="Compressed Package of Spiritshots: C-grade">
+		<!-- 300 compressed spiritshots. C-grade. -->
+		<set name="item_type" val="shot"/>
+		<set name="weight" val="450"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="11550"/>
+	</item>
+	<item id="5143" type="EtcItem" name="Compressed Package of Spiritshots: B-grade">
+		<!-- 300 compressed spiritshots. B-grade. -->
+		<set name="item_type" val="shot"/>
+		<set name="weight" val="450"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="33000"/>
+	</item>
+	<item id="5144" type="EtcItem" name="Compressed Package of Spiritshots: A-grade">
+		<!-- 300 compressed spiritshots. A-grade. -->
+		<set name="item_type" val="shot"/>
+		<set name="weight" val="300"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="39600"/>
+	</item>
+	<item id="5145" type="EtcItem" name="Compressed Package of Spiritshots: S-grade">
+		<!-- 300 compressed spiritshots. S-grade. -->
+		<set name="item_type" val="shot"/>
+		<set name="weight" val="300"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="49500"/>
+	</item>
+	<item id="5146" type="EtcItem" name="Compressed Package of Blessed Spiritshots: No Grade">
+		<!-- 300 compressed blessed spiritshots. No Grade. -->
+		<set name="item_type" val="shot"/>
+		<set name="weight" val="750"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="11550"/>
+	</item>
+	<item id="5147" type="EtcItem" name="Compressed Package of Blessed Spiritshots: D-grade">
+		<!-- 300 compressed blessed spiritshots. D-grade. -->
+		<set name="item_type" val="shot"/>
+		<set name="weight" val="750"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="14850"/>
+	</item>
+	<item id="5148" type="EtcItem" name="Compressed Package of Blessed Spiritshots: C-grade">
+		<!-- 300 compressed blessed spiritshots. C-grade. -->
+		<set name="item_type" val="shot"/>
+		<set name="weight" val="450"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="29700"/>
+	</item>
+	<item id="5149" type="EtcItem" name="Compressed Package of Blessed Spiritshots: B-grade">
+		<!-- 300 compressed blessed spiritshots. B-grade. -->
+		<set name="item_type" val="shot"/>
+		<set name="weight" val="450"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="80850"/>
+	</item>
+	<item id="5150" type="EtcItem" name="Compressed Package of Blessed Spiritshots: A-grade">
+		<!-- 300 compressed blessed spiritshots. A-grade. -->
+		<set name="item_type" val="shot"/>
+		<set name="weight" val="300"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="95700"/>
+	</item>
+	<item id="5151" type="EtcItem" name="Compressed Package of Blessed Spiritshots: S-grade">
+		<!-- 300 compressed blessed spiritshots. S-grade. -->
+		<set name="item_type" val="shot"/>
+		<set name="weight" val="300"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="115500"/>
+	</item>
+	<item id="5152" type="EtcItem" name="Magic Compressor">
+		<!-- A magic tool needed to compress soulshots, spiritshots etc. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="10"/>
+		<set name="consume_type" val="normal"/>
+		<set name="crystal_type" val="none"/>
+	</item>
+	<item id="5153" type="EtcItem" name="Recipe: Soulshot (D) Compressed Package (100%)">
+		<!-- For Dwarves only. The recipe for the Compressed Package of Soulshots: Grade D. Requires Create Item - Skill Level 2. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="5000"/>
+	</item>
+	<item id="5154" type="EtcItem" name="Recipe: Soulshot (C) Compressed Package (100%)">
+		<!-- For Dwarves only. The recipe for the Compressed Package of Soulshots: Grade C. Requires Create Item - Skill Level 4. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="25000"/>
+	</item>
+	<item id="5155" type="EtcItem" name="Recipe: Soulshot (B) Compressed Package (100%)">
+		<!-- For Dwarves only. The recipe for the Compressed Package of Soulshots: Grade B. Requires Create Item - Skill Level 6. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="100000"/>
+	</item>
+	<item id="5156" type="EtcItem" name="Recipe: Soulshot (A) Compressed Package (100%)">
+		<!-- For Dwarves only. The recipe for the Compressed Package of Soulshots: Grade A. Requires Create Item - Skill Level 7. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="150000"/>
+	</item>
+	<item id="5157" type="EtcItem" name="Recipe: Soulshot (S) Compressed Package (100%)">
+		<!-- For Dwarves only. The recipe for the Compressed Package of Soulshots: Grade S. Requires Create Item - Skill Level 8. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="250000"/>
+	</item>
+	<item id="5158" type="EtcItem" name="Recipe: Spiritshot (D) Compressed Package (100%)">
+		<!-- For Dwarves only. The recipe for the Compressed Package of Spiritshots: Grade D. Requires Create Item - Skill Level 2. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="5000"/>
+	</item>
+	<item id="5159" type="EtcItem" name="Recipe: Spiritshot (C) Compressed Package (100%)">
+		<!-- For Dwarves only. The recipe for the Compressed Package of Spiritshots: Grade C. Requires Create Item - Skill Level 4. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="25000"/>
+	</item>
+	<item id="5160" type="EtcItem" name="Recipe: Spiritshot (B) Compressed Package (100%)">
+		<!-- For Dwarves only. The recipe for the Compressed Package of Spiritshots: Grade B. Requires Create Item - Skill Level 6. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="100000"/>
+	</item>
+	<item id="5161" type="EtcItem" name="Recipe: Spiritshot (A) Compressed Package (100%)">
+		<!-- For Dwarves only. The recipe for the Compressed Package of Spiritshots: Grade A. Requires Create Item - Skill Level 7. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="150000"/>
+	</item>
+	<item id="5162" type="EtcItem" name="Recipe: Spiritshot (S) Compressed Package (100%)">
+		<!-- For Dwarves only. The recipe for the Compressed Package of Spiritshots: Grade S. Requires Create Item - Skill Level 8. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="250000"/>
+	</item>
+	<item id="5163" type="EtcItem" name="Recipe: Blessed Spiritshot (D) Compressed Package (100%)">
+		<!-- For Dwarves only. The recipe for the Compressed Package of Blessed Spiritshots: Grade D. Requires Create Item - Skill Level 2. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="30000"/>
+	</item>
+	<item id="5164" type="EtcItem" name="Recipe: Blessed Spiritshot (C) Compressed Package (100%)">
+		<!-- For Dwarves only. The recipe for the Compressed Package of Blessed Spiritshots: Grade C. Requires Create Item - Skill Level 4. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="60000"/>
+	</item>
+	<item id="5165" type="EtcItem" name="Recipe: Blessed Spiritshot (B) Compressed Package (100%)">
+		<!-- For Dwarves only. The recipe for the Compressed Package of Blessed Spiritshots: Grade B. Requires Create Item - Skill Level 6. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="100000"/>
+	</item>
+	<item id="5166" type="EtcItem" name="Recipe: Blessed Spiritshot (A) Compressed Package (100%)">
+		<!-- For Dwarves only. The recipe for the Compressed Package of Blessed Spiritshots: Grade A. Requires Create Item - Skill Level 7. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="180000"/>
+	</item>
+	<item id="5167" type="EtcItem" name="Recipe: Blessed Spiritshot (S) Compressed Package (100%)">
+		<!-- For Dwarves only. The recipe for the Compressed Package of Blessed Spiritshots: Grade S. Requires Create Item - Skill Level 2. The success rate is 100%. -->
+		<set name="item_type" val="recipe"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="290000"/>
+	</item>
+	<item id="5168" type="EtcItem" name="Food for Strider">
+		<!-- When the hunger gauge of a strider reaches 55% or below, its food will be consumed automatically. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="40"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="200"/>
+	</item>
+	<item id="5169" type="EtcItem" name="Deluxe Food for Strider">
+		<!-- When the hunger gauge of a strider reaches 55% or below, its food will be consumed automatically. Food consumption efficiency improves while riding a strider. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="30"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="300"/>
+	</item>
+	<item id="5170" type="Armor" name="Mithril Panzer Coat">
+		<!-- Can be worn by double-clicking. Exclusively used by a strider. -->
+		<set name="bodypart" val="strider"/>
+		<set name="armor_type" val="pet"/>
+		<set name="weight" val="160"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_def" val="41"/>
+		<set name="m_def" val="41"/>
+		<set name="price" val="1600000"/>
+		<for>
+			<add val="41" order="0x10" stat="pDef"/>
+			<add val="41" order="0x10" stat="mDef"/>
+		</for>
+	</item>
+	<item id="5171" type="Armor" name="Brigadine Panzer Coat">
+		<!-- Can be worn by double-clicking. Exclusively used by a strider. -->
+		<set name="bodypart" val="strider"/>
+		<set name="armor_type" val="pet"/>
+		<set name="weight" val="160"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_def" val="44"/>
+		<set name="m_def" val="44"/>
+		<set name="price" val="2300000"/>
+		<for>
+			<add val="44" order="0x10" stat="pDef"/>
+			<add val="44" order="0x10" stat="mDef"/>
+		</for>
+	</item>
+	<item id="5172" type="Armor" name="Draconic Panzer Coat">
+		<!-- Can be worn by double-clicking. Exclusively used by a strider. -->
+		<set name="bodypart" val="strider"/>
+		<set name="armor_type" val="pet"/>
+		<set name="weight" val="160"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_def" val="46"/>
+		<set name="m_def" val="46"/>
+		<set name="price" val="3400000"/>
+		<for>
+			<add val="46" order="0x10" stat="pDef"/>
+			<add val="46" order="0x10" stat="mDef"/>
+		</for>
+	</item>
+	<item id="5173" type="Armor" name="Blood Panzer Coat">
+		<!-- Can be worn by double-clicking. Exclusively used by a strider. -->
+		<set name="bodypart" val="strider"/>
+		<set name="armor_type" val="pet"/>
+		<set name="weight" val="160"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_def" val="49"/>
+		<set name="m_def" val="49"/>
+		<set name="price" val="4900000"/>
+		<for>
+			<add val="49" order="0x10" stat="pDef"/>
+			<add val="49" order="0x10" stat="mDef"/>
+		</for>
+	</item>
+	<item id="5174" type="Armor" name="Ophidian Panzer Coat">
+		<!-- Can be worn by double-clicking. Exclusively used by a strider. -->
+		<set name="bodypart" val="strider"/>
+		<set name="armor_type" val="pet"/>
+		<set name="weight" val="160"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_def" val="52"/>
+		<set name="m_def" val="52"/>
+		<set name="price" val="7300000"/>
+		<for>
+			<add val="52" order="0x10" stat="pDef"/>
+			<add val="52" order="0x10" stat="mDef"/>
+		</for>
+	</item>
+	<item id="5175" type="Armor" name="Inferno Panzer Coat">
+		<!-- Can be worn by double-clicking. Exclusively used by a strider. -->
+		<set name="bodypart" val="strider"/>
+		<set name="armor_type" val="pet"/>
+		<set name="weight" val="160"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_def" val="54"/>
+		<set name="m_def" val="54"/>
+		<set name="price" val="10000000"/>
+		<for>
+			<add val="54" order="0x10" stat="pDef"/>
+			<add val="54" order="0x10" stat="mDef"/>
+		</for>
+	</item>
+	<item id="5176" type="Weapon" name="Serpentine Spike">
+		<!-- Can be worn by double-clicking. Exclusively used by a strider. -->
+		<set name="bodypart" val="strider"/>
+		<set name="weight" val="100"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_dam" val="17"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="pet"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="277"/>
+		<set name="m_dam" val="21"/>
+		<set name="price" val="1600000"/>
+		<for>
+			<add val="17" order="0x10" stat="pAtk"/>
+			<add val="21" order="0x10" stat="mAtk"/>
+			<set val="80" order="0x08" stat="rCrit"/>
+			<set val="304" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="5177" type="Weapon" name="Drake Horn">
+		<!-- Can be worn by double-clicking. Exclusively used by a strider. -->
+		<set name="bodypart" val="strider"/>
+		<set name="weight" val="100"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_dam" val="19"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="pet"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="277"/>
+		<set name="m_dam" val="24"/>
+		<set name="price" val="2300000"/>
+		<for>
+			<add val="19" order="0x10" stat="pAtk"/>
+			<add val="24" order="0x10" stat="mAtk"/>
+			<set val="80" order="0x08" stat="rCrit"/>
+			<set val="304" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="5178" type="Weapon" name="Assult Alicorn">
+		<!-- Can be worn by double-clicking. Exclusively used by a strider. -->
+		<set name="bodypart" val="strider"/>
+		<set name="weight" val="100"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_dam" val="21"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="pet"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="277"/>
+		<set name="m_dam" val="27"/>
+		<set name="price" val="3400000"/>
+		<for>
+			<add val="21" order="0x10" stat="pAtk"/>
+			<add val="27" order="0x10" stat="mAtk"/>
+			<set val="80" order="0x08" stat="rCrit"/>
+			<set val="304" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="5179" type="Weapon" name="Draconic Slicer">
+		<!-- Can be worn by double-clicking. Exclusively used by a strider. -->
+		<set name="bodypart" val="strider"/>
+		<set name="weight" val="100"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_dam" val="23"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="pet"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="277"/>
+		<set name="m_dam" val="30"/>
+		<set name="price" val="4900000"/>
+		<for>
+			<add val="23" order="0x10" stat="pAtk"/>
+			<add val="30" order="0x10" stat="mAtk"/>
+			<set val="80" order="0x08" stat="rCrit"/>
+			<set val="304" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="5180" type="Weapon" name="Ohpdian Lance">
+		<!-- Can be worn by double-clicking. Exclusively used by a strider. -->
+		<set name="bodypart" val="strider"/>
+		<set name="weight" val="100"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_dam" val="25"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="pet"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="277"/>
+		<set name="m_dam" val="34"/>
+		<set name="price" val="7300000"/>
+		<for>
+			<add val="25" order="0x10" stat="pAtk"/>
+			<add val="34" order="0x10" stat="mAtk"/>
+			<set val="80" order="0x08" stat="rCrit"/>
+			<set val="304" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="5181" type="Weapon" name="Diamond Drill">
+		<!-- Can be worn by double-clicking. Exclusively used by a strider. -->
+		<set name="bodypart" val="strider"/>
+		<set name="weight" val="100"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_dam" val="27"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="pet"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="277"/>
+		<set name="m_dam" val="37"/>
+		<set name="price" val="10000000"/>
+		<for>
+			<add val="27" order="0x10" stat="pAtk"/>
+			<add val="37" order="0x10" stat="mAtk"/>
+			<set val="80" order="0x08" stat="rCrit"/>
+			<set val="304" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="5182" type="Armor" name="Hatchling's Gorgon Coat">
+		<!-- Can be worn by double-clicking. Exclusively used by a hatchling. -->
+		<set name="bodypart" val="hatchling"/>
+		<set name="armor_type" val="pet"/>
+		<set name="weight" val="160"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_def" val="44"/>
+		<set name="m_def" val="44"/>
+		<set name="price" val="2300000"/>
+		<for>
+			<add val="44" order="0x10" stat="pDef"/>
+			<add val="44" order="0x10" stat="mDef"/>
+		</for>
+	</item>
+	<item id="5183" type="Armor" name="Hatchling's Ophidian Plate">
+		<!-- Can be worn by double-clicking. Exclusively used by a hatchling. -->
+		<set name="bodypart" val="hatchling"/>
+		<set name="armor_type" val="pet"/>
+		<set name="weight" val="160"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_def" val="46"/>
+		<set name="m_def" val="46"/>
+		<set name="price" val="3400000"/>
+		<for>
+			<add val="46" order="0x10" stat="pDef"/>
+			<add val="46" order="0x10" stat="mDef"/>
+		</for>
+	</item>
+	<item id="5184" type="Armor" name="Hatchling's Crimson Plate">
+		<!-- Can be worn by double-clicking. Exclusively used by a hatchling. -->
+		<set name="bodypart" val="hatchling"/>
+		<set name="armor_type" val="pet"/>
+		<set name="weight" val="160"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_def" val="49"/>
+		<set name="m_def" val="49"/>
+		<set name="price" val="4900000"/>
+		<for>
+			<add val="49" order="0x10" stat="pDef"/>
+			<add val="49" order="0x10" stat="mDef"/>
+		</for>
+	</item>
+	<item id="5185" type="Armor" name="Hatchling's Draconic Plate">
+		<!-- Can be worn by double-clicking. Exclusively used by a hatchling. -->
+		<set name="bodypart" val="hatchling"/>
+		<set name="armor_type" val="pet"/>
+		<set name="weight" val="160"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_def" val="52"/>
+		<set name="m_def" val="52"/>
+		<set name="price" val="7300000"/>
+		<for>
+			<add val="52" order="0x10" stat="pDef"/>
+			<add val="52" order="0x10" stat="mDef"/>
+		</for>
+	</item>
+	<item id="5186" type="Armor" name="Hatchling's Inferno Plate">
+		<!-- Can be worn by double-clicking. Exclusively used by a hatchling. -->
+		<set name="bodypart" val="hatchling"/>
+		<set name="armor_type" val="pet"/>
+		<set name="weight" val="160"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_def" val="54"/>
+		<set name="m_def" val="54"/>
+		<set name="price" val="10000000"/>
+		<for>
+			<add val="54" order="0x10" stat="pDef"/>
+			<add val="54" order="0x10" stat="mDef"/>
+		</for>
+	</item>
+	<item id="5187" type="Weapon" name="Serpentine Grinder">
+		<!-- Can be worn by double-clicking. Exclusively used by a hatchling. -->
+		<set name="bodypart" val="hatchling"/>
+		<set name="weight" val="100"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_dam" val="19"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="pet"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="277"/>
+		<set name="m_dam" val="24"/>
+		<set name="price" val="2300000"/>
+		<for>
+			<add val="19" order="0x10" stat="pAtk"/>
+			<add val="24" order="0x10" stat="mAtk"/>
+			<set val="80" order="0x08" stat="rCrit"/>
+			<set val="304" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="5188" type="Weapon" name="Fang of Dahak">
+		<!-- Can be worn by double-clicking. Exclusively used by a hatchling. -->
+		<set name="bodypart" val="hatchling"/>
+		<set name="weight" val="100"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_dam" val="21"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="pet"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="277"/>
+		<set name="m_dam" val="27"/>
+		<set name="price" val="3400000"/>
+		<for>
+			<add val="21" order="0x10" stat="pAtk"/>
+			<add val="27" order="0x10" stat="mAtk"/>
+			<set val="80" order="0x08" stat="rCrit"/>
+			<set val="304" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="5189" type="Weapon" name="Crimson Blood Fang">
+		<!-- Can be worn by double-clicking. Exclusively used by a hatchling. -->
+		<set name="bodypart" val="hatchling"/>
+		<set name="weight" val="100"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_dam" val="23"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="pet"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="277"/>
+		<set name="m_dam" val="30"/>
+		<set name="price" val="4900000"/>
+		<for>
+			<add val="23" order="0x10" stat="pAtk"/>
+			<add val="30" order="0x10" stat="mAtk"/>
+			<set val="80" order="0x08" stat="rCrit"/>
+			<set val="304" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="5190" type="Weapon" name="Draconic Chopper">
+		<!-- Can be worn by double-clicking. Exclusively used by a hatchling. -->
+		<set name="bodypart" val="hatchling"/>
+		<set name="weight" val="100"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_dam" val="25"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="pet"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="277"/>
+		<set name="m_dam" val="34"/>
+		<set name="price" val="7300000"/>
+		<for>
+			<add val="25" order="0x10" stat="pAtk"/>
+			<add val="34" order="0x10" stat="mAtk"/>
+			<set val="80" order="0x08" stat="rCrit"/>
+			<set val="304" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="5191" type="Weapon" name="Diabolic Grinder">
+		<!-- Can be worn by double-clicking. Exclusively used by a hatchling. -->
+		<set name="bodypart" val="hatchling"/>
+		<set name="weight" val="100"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="crystal_type" val="none"/>
+		<set name="p_dam" val="27"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="weapon_type" val="pet"/>
+		<set name="critical" val="8"/>
+		<set name="atk_speed" val="277"/>
+		<set name="m_dam" val="37"/>
+		<set name="price" val="10000000"/>
+		<for>
+			<add val="27" order="0x10" stat="pAtk"/>
+			<add val="37" order="0x10" stat="mAtk"/>
+			<set val="80" order="0x08" stat="rCrit"/>
+			<set val="304" order="0x08" stat="pAtkSpd"/>
+		</for>
+	</item>
+	<item id="5192" type="EtcItem" name="Rope of Magic: D-Grade">
+		<!-- A rope that has magical power. It is made by weaving strips of lizard leather together. Using this rope to tie an item will reduce its weight so that it will be easier to carry. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="100"/>
+	</item>
+	<item id="5193" type="EtcItem" name="Rope of Magic: C-Grade">
+		<!-- A rope that has magical power. It is made by weaving strips of lizard leather together. Using this rope to tie an item will reduce its weight so that it will be easier to carry. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="150"/>
+	</item>
+	<item id="5194" type="EtcItem" name="Rope of Magic: B-Grade">
+		<!-- A rope that has magical power. It is made by weaving strips of lizard leather together. Using this rope to tie an item will reduce its weight so that it will be easier to carry. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="250"/>
+	</item>
+	<item id="5195" type="EtcItem" name="Rope of Magic: A-Grade">
+		<!-- A rope that has magical power. It is made by weaving strips of lizard leather together. Using this rope to tie an item will reduce its weight so that it will be easier to carry. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="400"/>
+	</item>
+	<item id="5196" type="EtcItem" name="Rope of Magic: S Grade">
+		<!-- A rope that has magical power. It is made by weaving strips of lizard leather together. Using this rope to tie an item will reduce its weight so that it will be easier to carry. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="2"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1500"/>
+	</item>
+	<item id="5197" type="EtcItem" name="Chest Key - Grade 8">
+		<!-- Opens a level 1 treasure chest with a success rate of 60%. When opening a higher level treasure chest, the success rate will decrease. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="10"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1200"/>
+	</item>
+	<item id="5198" type="EtcItem" name="Chest Key - Grade 7">
+		<!-- Opens a level 10 treasure chest with a success rate of 60%. When opening a higher level treasure chest, the success rate will decrease. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="10"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1200"/>
+	</item>
+	<item id="5199" type="EtcItem" name="Chest Key - Grade 6">
+		<!-- Opens a level 20 treasure chest with a success rate of 60%. When opening a higher level treasure chest, the success rate will decrease. -->
+		<set name="item_type" val="none"/>
+		<set name="weight" val="10"/>
+		<set name="consume_type" val="stackable"/>
+		<set name="crystal_type" val="none"/>
+		<set name="price" val="1200"/>
+	</item>
+</list>
