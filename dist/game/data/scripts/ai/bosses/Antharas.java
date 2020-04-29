@@ -58,9 +58,6 @@ public class Antharas extends Quest
 	
 	// Config
 	private static final int FWA_ACTIVITYTIMEOFANTHARAS = 120;
-	// private static final int FWA_APPTIMEOFANTHARAS = 1800000;
-	// private static final int FWA_INACTIVITYTIME = 900000;
-	// private static final boolean FWA_OLDANTHARAS = true; // use antharas interlude with minions
 	protected static final boolean FWA_OLDANTHARAS = Config.ANTHARAS_OLD; // use antharas interlude with minions
 	private static final boolean FWA_MOVEATRANDOM = true;
 	private static final boolean FWA_DOSERVEREARTHQUAKE = true;

@@ -725,6 +725,7 @@ public abstract class Creature extends WorldObject implements ISkillsHolder
 		int x = loc.getX();
 		int y = loc.getY();
 		int z = loc.getZ();
+		
 		if ((this instanceof PlayerInstance) && DimensionalRiftManager.getInstance().checkIfInRiftZone(getX(), getY(), getZ(), true)) // true -> ignore waiting room :)
 		{
 			final PlayerInstance player = (PlayerInstance) this;
@@ -739,6 +740,7 @@ public abstract class Creature extends WorldObject implements ISkillsHolder
 			y = newCoords[1];
 			z = newCoords[2];
 		}
+		
 		teleToLocation(x, y, z, allowRandomOffset);
 	}
 	

@@ -110,8 +110,6 @@ public class MonsterInstance extends Attackable
 	@Override
 	public void onSpawn()
 	{
-		super.onSpawn();
-		
 		if (getTemplate().getMinionData() != null)
 		{
 			try
@@ -141,6 +139,8 @@ public class MonsterInstance extends Attackable
 				}
 			}
 		}
+		
+		super.onSpawn();
 	}
 	
 	/**

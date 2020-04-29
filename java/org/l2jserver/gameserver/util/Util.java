@@ -25,6 +25,7 @@ import java.util.Map;
 import java.util.stream.Collectors;
 
 import org.l2jserver.commons.concurrent.ThreadPool;
+import org.l2jserver.gameserver.geoengine.GeoEngine;
 import org.l2jserver.gameserver.model.WorldObject;
 import org.l2jserver.gameserver.model.actor.Creature;
 import org.l2jserver.gameserver.model.actor.instance.NpcInstance;
@@ -576,5 +577,39 @@ public class Util
 	public static <K, V extends Comparable<? super V>> Map<K, V> sortByValue(Map<K, V> map)
 	{
 		return map.entrySet().stream().sorted(Map.Entry.comparingByValue()).collect(Collectors.toMap(Map.Entry::getKey, Map.Entry::getValue, (e1, e2) -> e1, LinkedHashMap::new));
+	}
+	
+	/**
+	 * @param range
+	 * @param npc
+	 * @param invisible
+	 * @return
+	 */
+	public static int getPlayersCountInRadius(int range, Creature npc, boolean invisible)
+	{
+		int count = 0;
+		for (WorldObject player : npc.getKnownList().getKnownObjects().values())
+		{
+			if (((Creature) player).isDead())
+			{
+				continue;
+			}
+			
+			if (!invisible && !((Creature) player).isVisible())
+			{
+				continue;
+			}
+			
+			if (!(GeoEngine.getInstance().canSeeTarget(npc, player)))
+			{
+				continue;
+			}
+			
+			if (Util.checkIfInRange(range, npc, player, true))
+			{
+				count++;
+			}
+		}
+		return count;
 	}
 }
