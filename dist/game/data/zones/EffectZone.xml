@@ -1813,17 +1813,6 @@
 		<node X="48683" Y="220992" />
 		<node X="47828" Y="220980" />
 	</zone>
-	<zone type="EffectZone" shape="NPoly" minZ="-4815" maxZ="-315"> <!-- Zaken Curse Zone -->
-		<stat name="skillIdLvl" val="4515-1;" />
-		<stat name="chance" val="100" />
-		<!-- stat name="initialDelay" val="2000" / -->
-		<stat name="reuse" val="6000" />
-		<stat name="affectedLvlMin" val="70" />
-		<node X="50797" Y="213515" />
-		<node X="57617" Y="213510" />
-		<node X="57669" Y="221683" />
-		<node X="50773" Y="221632" />
-	</zone>
 	<zone type="EffectZone" shape="NPoly" minZ="-3359" maxZ="-2959"> <!-- fire_pot_god_hp_regen1 -->
 		<stat name="skillIdLvl" val="4698-7;" /> <!-- s_area_hp_regeneration7 -->
 		<stat name="chance" val="70" />
