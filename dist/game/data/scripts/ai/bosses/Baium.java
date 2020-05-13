@@ -1,5 +1,5 @@
 /*
- * This file is part of the L2JServer project.
+ * This file is part of the L2J Mobius project.
  * 
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
@@ -16,6 +16,7 @@
  */
 package ai.bosses;
 
+import static org.l2jserver.gameserver.ai.CtrlIntention.AI_INTENTION_FOLLOW;
 import static org.l2jserver.gameserver.ai.CtrlIntention.AI_INTENTION_IDLE;
 
 import java.util.ArrayList;
@@ -27,10 +28,10 @@ import java.util.logging.Logger;
 import org.l2jserver.Config;
 import org.l2jserver.commons.concurrent.ThreadPool;
 import org.l2jserver.commons.util.Rnd;
-import org.l2jserver.gameserver.ai.CtrlIntention;
 import org.l2jserver.gameserver.datatables.SkillTable;
 import org.l2jserver.gameserver.geoengine.GeoEngine;
 import org.l2jserver.gameserver.instancemanager.GrandBossManager;
+import org.l2jserver.gameserver.model.Effect;
 import org.l2jserver.gameserver.model.Skill;
 import org.l2jserver.gameserver.model.StatSet;
 import org.l2jserver.gameserver.model.WorldObject;
@@ -45,6 +46,7 @@ import org.l2jserver.gameserver.model.quest.Quest;
 import org.l2jserver.gameserver.model.quest.QuestTimer;
 import org.l2jserver.gameserver.model.zone.type.BossZone;
 import org.l2jserver.gameserver.network.serverpackets.Earthquake;
+import org.l2jserver.gameserver.network.serverpackets.MoveToPawn;
 import org.l2jserver.gameserver.network.serverpackets.PlaySound;
 import org.l2jserver.gameserver.network.serverpackets.SocialAction;
 import org.l2jserver.gameserver.util.Util;
@@ -64,6 +66,7 @@ public class Baium extends Quest
 	protected static final Logger LOGGER = Logger.getLogger(Baium.class.getName());
 	
 	private Creature _target;
+	private Skill _skill;
 	private static final int STONE_BAIUM = 29025;
 	private static final int ANGELIC_VORTEX = 31862;
 	private static final int LIVE_BAIUM = 29020;
@@ -139,7 +142,6 @@ public class Baium extends Quest
 			final int heading = info.getInt("heading");
 			final int hp = info.getInt("currentHP");
 			final int mp = info.getInt("currentMP");
-			
 			final GrandBossInstance baium = (GrandBossInstance) addSpawn(LIVE_BAIUM, loc_x, loc_y, loc_z, heading, false, 0);
 			if (Config.ANNOUNCE_TO_ALL_SPAWN_RB)
 			{
@@ -215,6 +217,9 @@ public class Baium extends Quest
 					try
 					{
 						baium.setInvul(false);
+						// baium.setImobilised(false);
+						// for (NpcInstance minion : _Minions)
+						// minion.setShowSummonAnimation(false);
 						baium.getAttackByList().addAll(_zone.getCharactersInside());
 					}
 					catch (Exception e)
@@ -248,8 +253,7 @@ public class Baium extends Quest
 				if ((_lastAttackVsBaiumTime + (Config.BAIUM_SLEEP * 1000)) < System.currentTimeMillis())
 				{
 					npc.deleteMe(); // despawn the live-baium
-					
-					for (NpcInstance minion : _minions) // Unspawn angels
+					for (NpcInstance minion : _minions)
 					{
 						if (minion != null)
 						{
@@ -258,20 +262,19 @@ public class Baium extends Quest
 						}
 					}
 					_minions.clear();
-					
 					addSpawn(STONE_BAIUM, 116033, 17447, 10104, 40188, false, 0); // spawn stone-baium
 					GrandBossManager.getInstance().setBossStatus(LIVE_BAIUM, ASLEEP); // mark that Baium is not awake any more
 					_zone.oustAllPlayers();
 					cancelQuestTimer("baium_despawn", npc, null);
 				}
-				else if (((_lastAttackVsBaiumTime + 300000) < System.currentTimeMillis()) && ((npc.getCurrentHp() / npc.getMaxHp()) < 0.75))
+				else if (((_lastAttackVsBaiumTime + 300000) < System.currentTimeMillis()) && (npc.getCurrentHp() < ((npc.getMaxHp() * 3) / 4.0)))
 				{
 					npc.setTarget(npc);
 					npc.doCast(SkillTable.getInstance().getInfo(4135, 1));
-				}
-				else if (!_zone.isInsideZone(npc))
-				{
-					npc.teleToLocation(116033, 17447, 10104, false);
+					if (GrandBossManager.getInstance().getBossStatus(LIVE_BAIUM) != AWAKE)
+					{
+						cancelQuestTimer("baium_despawn", npc, null);
+					}
 				}
 			}
 		}
@@ -283,16 +286,13 @@ public class Baium extends Quest
 	{
 		final int npcId = npc.getNpcId();
 		String htmltext = "";
-		
 		if (_zone == null)
 		{
 			_zone = GrandBossManager.getInstance().getZone(113100, 14500, 10077);
-			
-			// If the zone is still null, it means the area is disabled / missing in DP.
-			if (_zone == null)
-			{
-				return "<html><body>Angelic Vortex:<br>You may not enter while admin disabled this zone.</body></html>";
-			}
+		}
+		if (_zone == null)
+		{
+			return "<html><body>Angelic Vortex:<br>You may not enter while admin disabled this zone</body></html>";
 		}
 		
 		final Integer status = GrandBossManager.getInstance().getBossStatus(LIVE_BAIUM);
@@ -304,7 +304,6 @@ public class Baium extends Quest
 				// 30 minutes pass with no attacks made against Baium.
 				GrandBossManager.getInstance().setBossStatus(LIVE_BAIUM, AWAKE);
 				npc.deleteMe();
-				
 				final GrandBossInstance baium = (GrandBossInstance) addSpawn(LIVE_BAIUM, npc);
 				GrandBossManager.getInstance().addBoss(baium);
 				ThreadPool.schedule(() ->
@@ -384,11 +383,22 @@ public class Baium extends Quest
 		{
 			if (attacker.getMountType() == 1)
 			{
-				Skill skill = SkillTable.getInstance().getInfo(4258, 1);
-				if (attacker.getFirstEffect(skill) == null)
+				int sk4258 = 0;
+				final Effect[] effects = attacker.getAllEffects();
+				if ((effects != null) && (effects.length != 0))
+				{
+					for (Effect e : effects)
+					{
+						if (e.getSkill().getId() == 4258)
+						{
+							sk4258 = 1;
+						}
+					}
+				}
+				if (sk4258 == 0)
 				{
 					npc.setTarget(attacker);
-					npc.doCast(skill);
+					npc.doCast(SkillTable.getInstance().getInfo(4258, 1));
 				}
 			}
 			// update a variable with the last action against baium
@@ -485,175 +495,135 @@ public class Baium extends Quest
 			return;
 		}
 		
-		// Pickup a target if no or dead victim. If Baium was hitting an angel, 15% luck he reconsiders his target. 10% luck he decides to reconsiders his target.
-		if ((_target == null) || _target.isDead() || !(npc.getKnownList().knowsObject(_target)) || ((_target instanceof MonsterInstance) && (Rnd.get(100) < 15)) || (Rnd.get(10) == 0))
+		if ((_target == null) || _target.isDead() || !(_zone.isInsideZone(_target)))
 		{
 			_target = getRandomTarget(npc);
+			if (_target != null)
+			{
+				_skill = SkillTable.getInstance().getInfo(getRandomSkill(npc), 1);
+			}
 		}
 		
-		// If result is null, return directly.
-		if (_target == null)
+		final Creature target = _target;
+		Skill skill = _skill;
+		if (skill == null)
 		{
+			skill = SkillTable.getInstance().getInfo(getRandomSkill(npc), 1);
+		}
+		if ((target == null) || target.isDead() || !(_zone.isInsideZone(target)))
+		{
+			// npc.setCastingNow(false);
 			return;
 		}
 		
-		if (Rnd.get(100) < 30)
+		if (Util.checkIfInRange(skill.getCastRange(), npc, target, true))
 		{
-			final Skill skill = SkillTable.getInstance().getInfo(getRandomSkill(npc), 1);
-			// Adapt the skill range, because Baium is fat.
-			if (Util.checkIfInRange(skill.getCastRange() + npc.getCollisionRadius(), npc, _target, true))
+			npc.getAI().setIntention(AI_INTENTION_IDLE);
+			npc.setTarget(target);
+			// npc.setCastingNow(true);
+			if (getDist(skill.getCastRange()) > 0)
 			{
-				npc.getAI().setIntention(CtrlIntention.AI_INTENTION_IDLE);
-				npc.setTarget(skill.getId() == 4135 ? npc : _target);
+				npc.broadcastPacket(new MoveToPawn(npc, target, getDist(skill.getCastRange())));
+			}
+			try
+			{
+				wait(1000);
+				npc.stopMove(null);
 				npc.doCast(skill);
 			}
-			else
+			catch (Exception e)
 			{
-				npc.getAI().setIntention(CtrlIntention.AI_INTENTION_FOLLOW, _target, null);
+				LOGGER.warning(e.getMessage());
 			}
 		}
 		else
 		{
-			if (Util.checkIfInRange(40 + npc.getCollisionRadius(), npc, _target, true))
-			{
-				npc.getAI().setIntention(CtrlIntention.AI_INTENTION_ATTACK, _target);
-			}
-			else
-			{
-				npc.getAI().setIntention(CtrlIntention.AI_INTENTION_FOLLOW, _target, null);
-			}
+			npc.getAI().setIntention(AI_INTENTION_FOLLOW, target, null);
+			// npc.setCastingNow(false);
 		}
 	}
 	
 	public int getRandomSkill(NpcInstance npc)
 	{
-		// Baium's selfheal. It happens exceptionaly.
-		if ((npc.getCurrentHp() / npc.getMaxHp()) < 0.1)
+		int skill;
+		if (npc.getCurrentHp() > ((npc.getMaxHp() * 3) / 4.0))
 		{
-			if (Rnd.get(10000) == 777)
+			if (Rnd.get(100) < 10)
 			{
-				return 4135;
+				skill = 4128;
 			}
-		}
-		
-		int skill = 4127; // Default attack if nothing is possible.
-		final int chance = Rnd.get(100); // Remember, it's 0 to 99, not 1 to 100.
-		
-		// If Baium feels surrounded or see 2+ angels, he unleashes his wrath upon heads :).
-		if ((Util.getPlayersCountInRadius(600, npc, false) >= 20) || (getSurroundingAngelsNumber(npc) >= 2))
-		{
+			else if (Rnd.get(100) < 10)
 			{
-				if (chance < 25)
-				{
-					skill = 4130;
-				}
-				else if ((chance >= 25) && (chance < 50))
-				{
-					skill = 4131;
-				}
-				else if ((chance >= 50) && (chance < 75))
-				{
-					skill = 4128;
-				}
-				else if ((chance >= 75) && (chance < 100))
-				{
-					skill = 4129;
-				}
-			}
-		}
-		else
-		{
-			if ((npc.getCurrentHp() / npc.getMaxHp()) > 0.75)
-			{
-				if (chance < 10)
-				{
-					skill = 4128;
-				}
-				else if ((chance >= 10) && (chance < 20))
-				{
-					skill = 4129;
-				}
-			}
-			else if ((npc.getCurrentHp() / npc.getMaxHp()) > 0.5)
-			{
-				if (chance < 10)
-				{
-					skill = 4131;
-				}
-				else if ((chance >= 10) && (chance < 20))
-				{
-					skill = 4128;
-				}
-				else if ((chance >= 20) && (chance < 30))
-				{
-					skill = 4129;
-				}
-			}
-			else if ((npc.getCurrentHp() / npc.getMaxHp()) > 0.25)
-			{
-				if (chance < 10)
-				{
-					skill = 4130;
-				}
-				else if ((chance >= 10) && (chance < 20))
-				{
-					skill = 4131;
-				}
-				else if ((chance >= 20) && (chance < 30))
-				{
-					skill = 4128;
-				}
-				else if ((chance >= 30) && (chance < 40))
-				{
-					skill = 4129;
-				}
+				skill = 4129;
 			}
 			else
 			{
-				if (chance < 10)
-				{
-					skill = 4130;
-				}
-				else if ((chance >= 10) && (chance < 20))
-				{
-					skill = 4131;
-				}
-				else if ((chance >= 20) && (chance < 30))
-				{
-					skill = 4128;
-				}
-				else if ((chance >= 30) && (chance < 40))
-				{
-					skill = 4129;
-				}
+				skill = 4127;
 			}
+		}
+		else if (npc.getCurrentHp() > ((npc.getMaxHp() * 2) / 4.0))
+		{
+			if (Rnd.get(100) < 10)
+			{
+				skill = 4131;
+			}
+			else if (Rnd.get(100) < 10)
+			{
+				skill = 4128;
+			}
+			else if (Rnd.get(100) < 10)
+			{
+				skill = 4129;
+			}
+			else
+			{
+				skill = 4127;
+			}
+		}
+		else if (npc.getCurrentHp() > ((npc.getMaxHp() * 1) / 4.0))
+		{
+			if (Rnd.get(100) < 10)
+			{
+				skill = 4130;
+			}
+			else if (Rnd.get(100) < 10)
+			{
+				skill = 4131;
+			}
+			else if (Rnd.get(100) < 10)
+			{
+				skill = 4128;
+			}
+			else if (Rnd.get(100) < 10)
+			{
+				skill = 4129;
+			}
+			else
+			{
+				skill = 4127;
+			}
+		}
+		else if (Rnd.get(100) < 10)
+		{
+			skill = 4130;
+		}
+		else if (Rnd.get(100) < 10)
+		{
+			skill = 4131;
+		}
+		else if (Rnd.get(100) < 10)
+		{
+			skill = 4128;
+		}
+		else if (Rnd.get(100) < 10)
+		{
+			skill = 4129;
+		}
+		else
+		{
+			skill = 4127;
 		}
 		return skill;
-	}
-	
-	/**
-	 * That method checks if angels are near.
-	 * @param npc : baium.
-	 * @return the number of angels surrounding the target.
-	 */
-	private int getSurroundingAngelsNumber(NpcInstance npc)
-	{
-		int count = 0;
-		
-		for (WorldObject obj : npc.getKnownList().getKnownObjects().values())
-		{
-			if (obj instanceof MonsterInstance)
-			{
-				if (((NpcInstance) obj).getNpcId() == ARCHANGEL)
-				{
-					if (Util.checkIfInRange(600, npc, obj, true))
-					{
-						count++;
-					}
-				}
-			}
-		}
-		return count;
 	}
 	
 	@Override
